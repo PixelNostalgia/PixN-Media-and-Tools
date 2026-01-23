@@ -1,3 +1,3 @@
-# PixN-Media
+# Team Pixel Nostalgia - Media and Tools
 
-Team Pixel Nostalgia - Retro Media
+Team Pixel Nostalgia - Retro Media, tool and scripts etc...
