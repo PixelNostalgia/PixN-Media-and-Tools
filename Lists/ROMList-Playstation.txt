@@ -243,7 +243,6 @@ Calamity 2: People and Traditions
 Calamity 3: Around the World
 California Surfing
 California Watersports
-Capcom Generations
 Capcom vs. SNK Pro
 Car & Driver Presents: Grand Tour Racing '98
 Card Games
@@ -1796,4 +1795,4 @@ Zero Divide 2
 Zoboomafoo: Leapin' Lemurs
 Zoop: America's Largest Killer of Time!
 ====================
-Total Games: 1795
+Total Games: 1794
