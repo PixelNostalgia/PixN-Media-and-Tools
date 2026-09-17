@@ -1,0 +1,8 @@
+﻿System: My Vision
+====================
+Gomoku Narabe Renju (Japan)
+Hanafuda (Japan)
+Mahjong (Japan)
+Tsume Shougi (Japan)
+====================
+Total Games: 4

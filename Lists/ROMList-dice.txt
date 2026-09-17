@@ -1,0 +1,25 @@
+﻿System: dice
+====================
+Anti-Aircraft
+Attack
+Breakout
+Cleansweep
+Crash 'n Score
+Crossfire
+Gotcha
+Hi-Way
+Indy 4
+Jetfighter
+Pin Pong
+Pong
+Pong Doubles
+Quadrapong
+Rebound
+Shark JAWS
+Space Race
+Steeple Chase
+Stuntcycle
+TV Basketball
+Wipe Out
+====================
+Total Games: 21

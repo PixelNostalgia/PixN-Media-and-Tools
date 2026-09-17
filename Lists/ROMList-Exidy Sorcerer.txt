@@ -1,0 +1,54 @@
+﻿System: Exidy Sorcerer
+====================
+Breakout
+Checkers
+Chess
+Chomp
+Cross-Up
+Cybernetic Pool
+Defender
+Dodgem
+Fastgammon
+Flight Simulator
+Galaxian
+Galaxians
+Grotnik Wars
+Horse Race
+Interceptor
+Kadath
+Kilopede
+Labyrinth
+Lazer Fire
+Lunar Entry Module
+Martian Invaders
+Mission Impossible
+Munch
+Mystery Fun House
+Nuclear Reaction
+Orb of Halucidon
+Pie Lob
+Pyramid of Doom
+Qubic
+Racetrack
+Reversi
+Snake
+Sorcerer Invaders
+Spider
+Star Wars
+Stomper
+Submarine Hunt
+Super Asteroids
+Super Star Trek
+Tank Trap
+The Count
+The Sorcerers Fruit Machine
+Voodoo Castle
+Yahtzee
+Astro Attacker
+Arrows and Alley
+Amazing Maze
+Airmail Pilot
+Adventureland
+Blackjack
+====================
+Total Games: 50

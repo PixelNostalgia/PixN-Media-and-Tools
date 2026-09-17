@@ -1,0 +1,71 @@
+﻿System: ZX-81
+====================
+3D Defender (NGS)
+3D Grand Prix
+3D Monster Maze (NGS)
+3D Monster Maze
+Air Attack (19xx) (-)
+Alien (19xx) (-)
+Als Alfred Hitchcock's Birds (19xx) (nl)
+Asteroid Belt (1983) (Fontana Publishing)
+Asteroids (1984) (Mike Pike)
+Astral Convoy (1982) (Vortex Software)
+Avenger (1982) (Abacus Programs)
+Avoider 1 (19xx) (-) [m]
+Booster (19xx) (Cosmic Cockerel)
+Bowling
+Chess King
+Chess Queen (Arctic)
+Chess
+City Bomb Run (19xx) (-)
+City Patrol (1982) (Macronics Systems)
+Crazy Kong (1983) (Ch. Zwerschke)
+Defence Force (19xx) (Greg Jarvis)
+Digger (19xx) (-) [16K]
+Dodgem (19xx) (Logical Computers)
+Flatman (1983) (J. Dave Rogers)
+Flight Simulation
+Flipperkast (19xx) (-) (nl)
+Forty Niner (19xx) (Cosmic Cockerel)
+Frogger (1981) (Cornsoft)
+Frogger (19xx) (-)
+Fungaloids
+Galactic Invasion (19xx) (-) (de)
+Galaxians (1982) (Tony Beckwith)
+Galaxy Invaders (19xx) (-)
+The Gauntlet (1982) (Colourmatic Computing)
+Glooper (19xx) (Quicksilva)
+Gloops (1982) (Tony Beckwith)
+Go-Ball (19xx) (F. Hunold)
+Graffity
+Gunfight (19xx) (JMS)
+Guzzlers (19xx) (Database Software)
+Hi-Res Invaders (1987) (SMC)
+Hopper (19xx) (PSS)
+Hunt the Wumpus (19xx) (-) [m]
+Intruder (19xx) (-)
+Invaders (19xx) (-)
+Invasion Force (1982) (Artic Computing)
+Krazy Kong (19xx) (PSS)
+Little Invaders (19xx) (-)
+Lunar Rescue (19xx) (-)
+Mad Miner (19xx) (-)
+Magic Mountain (1982) (Phipps Associates)
+Mazogs (Softsync)
+Meteor Storm
+Missile Command (1983) (Ch. Zwerschke) (de)
+Muncher 2 (1983) (Robert Turner)
+Munchy (1982) (A. Laird)
+Namtir Raiders
+Night Gunner (1982) (Digital Integration)
+Pacman (19xx) (-)
+Q Bert! (19xx) (Simon Software)
+Defenda
+Qs Invaders
+Red Ants
+Rocket Man (19xx) (Cosmic Cockerel)
+Sabotage (1982) (Don Priestley)
+Snakebite (1982) (Frank Sierowski)
+3D Defender
+====================
+Total Games: 67

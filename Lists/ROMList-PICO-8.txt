@@ -1,0 +1,1033 @@
+﻿System: PICO-8
+====================
+A Very Warm Fire
+A William Christmas
+About 1600mm
+Acceler-8
+Ace Hiragana
+Across The River
+Advanced Micro Platformer - Starter Kit (v1.1)
+Aeroplane Adventure
+Airport
+Alex Kidd in Pico World
+Alfredo's Stupendous Surprise
+Alien Fish Invasion
+Alien Harvest
+Allocation
+Alpha Strike Deluxe
+Alpine Alpaca
+Alpine Ascent
+ALTU - Tarb's Quest [Demo][Hack]
+Amazeball Dudes
+Anchors & Miners
+Another World - Survival
+Anteform
+Anx - Social Anxiety Simulator
+Anywhere for you
+Ape Clerk v1.2
+Apex Point
+Apodynia
+Apparitional Abode
+Apprentice Quest
+Armadillo
+Armor Pico (v1.1)
+Arrows in Chains
+ARRR Cade!
+Astro Invader
+Astrosmash
+Attack of Buddha
+Aurora Railway
+Awake [Hack] (v1.1)
+Backfire Man
+Badaboom
+Bald Boi - Dungeon Of The Slimes
+Banana Chase
+Bandits
+Basement
+BashBash
+Bathos
+Battle Mage School
+Battlebone
+Beamrunner
+Bean Counters
+Bear Arms - The Revenge of the Wild Gunner
+Bearrl
+Beatwise Trigger
+Bepisman
+Bepo the Moth
+Bermeja
+Bicycle Race
+Bists
+Bit Defender
+Black Coco
+Blasphemy!
+Blind Date - Fishy Business
+Block Rush
+Blocks of War
+Bob of Thunder
+Bob's Action Racing
+Bomber's Run
+BOMBTANK2
+Boomby!
+Boomshine
+Boulder Run
+BOUNCE dot P8
+Bowser's Farm [Hack]
+Brave Pixel
+Bravo!
+Brawl
+Break Path
+BREAKDOWN
+Breakolf
+Brexit - The Game
+Brianna's Birthday
+Bricked!
+Bring Your Wedge
+Brokenhearted v1.2.1
+Brutal Pico Race
+Bubble Battle
+Bug Defense
+BulbaRogue
+Bumble Bots Re-Pair
+Bunyan's Rage
+Burger Queem
+Burgertime Demake (v1.2)
+Buried Moon
+Burning Rose
+Business Trip
+Butlerian Jihad
+Bygone Recreational Area Simulation
+Byte Sabor
+Cab Ride (v1.2)
+Cake Monsters
+Caligo [Hack]
+campfire
+CandyColt Classic
+Canoe & Spear
+Canyon Market Liquor Store - The Game
+Captain Kim's Night Shift
+Captain Neat-O in the Time Nexus
+Cardinal Gun Prospector
+Cardinal Ramship Pirate
+CARDOOM
+Cards with Personalities (v1.5)
+Cargobot
+Castlebots
+Catchin' Pico Waves
+CatHack
+Celeste - A Red Mountain [Hack]
+Celeste - Hard Mode [Hack]
+Celeste - Use the Berry [Hack]
+Celeste 1.5 [Hack]
+Celeste 1.75 [Hack]
+Celeste 2 - Lani's Joyride [Hack]
+Celeste 2 Flip [Hack]
+Celeste 2 minus 1 [Hack]
+Celeste Break the Targets [Hack]
+Celeste B-side (fishtank_) [Hack]
+Celeste B-side (Rav81blaziken) [Hack]
+Celeste But EZ [Hack]
+Celeste C Side [Hack]
+Celeste Classic 2
+Celeste Classic Ft. Mars [Hack]
+Celeste Dark World [Hack]
+Celeste Downhill [Hack]
+Celeste Flip! [Hack]
+Celeste IMPOSSIBLE [Hack v2]
+Celeste Procgen [Hack]
+Celeste Randomizer [Hack]
+Celeste X [Hack]
+Chalice of the Gods
+CharEdit (Yet Another One-Off Character Editor)
+Charge!
+Charon
+Chaser of Dawn
+Chasm of Screams
+Chibi Challenge
+Chicken Cutter Turbo
+Chick'n'Doggo (v1.1)
+Chiki's Chefs
+Christmas Present Panic
+Christmas Sneks 1
+City-8
+ClausQuest (v.1.4)
+Claw Grabber
+Cliffside [Hack]
+Cliffside 2 [Hack]
+Close to the Edge
+CMBFood
+CoCo and GoGo
+codemonkeys
+Coffee Bug
+Colony on a tiny planet
+Colorpick
+Colorways
+Come on, Animals!
+Compas Racer
+Complicity Inc.
+Confused Captain [Hack](v1.3.4)
+Connect Four +
+Connectorz
+Control the Body
+Corrupted Space
+Corruption race
+Cosmo Boing!
+Cotris
+CrafDefense
+Crazy Position
+Crazy Rabbit Afternoon
+Crazy Rally (rev.6)
+Crazy Samurai Musashi
+Creed Fighter
+Crillion
+Crocolike
+Cryptograms!
+CS-Cleaner
+CUBE
+Curse of Kildren
+Curse of the Lich King
+Cursed Flail
+Cursed Sword
+Cyclo 8
+DanceJab
+DarceyQuest
+Dark Celeste [Hack]
+Dark Echo
+Darn Tootin'
+Datamaku
+D-DAY
+Death in Celeste Breaks The Target [Hack]
+Debris - A Shmup Short Story
+Deep Drill
+DEEPER v1.0
+DeFacto
+Defender (v1.5)
+delia mute in grave grotto
+Denis' Bricks
+Denis Kogne
+Densha de PICO-8
+Descent [Hack]
+Desert Drift
+Desert Drive
+Desert Lead 3D
+DespiteBike
+Devil's Kitchen
+Dice Emblem
+Dice Mice
+Die anywhere Else
+DIGIDIG
+Disc Relay
+Dispatch
+Disregard Life Acquire Currency
+DodGet
+Dogrotto
+Dogue
+Domain Conflict
+Dominopolis
+Donsol v1.9
+Don't shit your pants
+dot jump
+Down Below
+Dragondell
+Dragondot 3 (v1.0)
+Dreadnaught
+Dreameste [Hack]
+Drift King - Brink Edition
+Drogue
+Drop - Fall With Style
+Dropzone
+Drowsy Paul
+Drumset
+Drumsterfire
+Drunkeste [Hack]
+Duck Duck on the Loose
+Duckpond 2 [Hack]
+Duckpond+ [Hack]
+Dungeo
+Dungeon of Numenas 2
+Dungeon of Numenas
+Dungeon Penetrator
+Dungeon v1.0
+Dungeon Witches (Minimal Version)
+DUNGEON!
+Duo-League
+E10 - Death Road
+EDM Blastoff
+Egghunt
+Eleni Foot Bag
+Elias Grey
+Elite Velocity
+eMonstery
+Endless Archery
+Endless Plants vs Zombies
+Endless Sky
+Endless Train
+Energy not included
+Ennui
+Ennuigi
+Escacs Battle Royale Rogue Chess
+Escape from the Squirrel Park
+Escape the Dungeon (v1.0)
+Eskargool
+Eternal Danmaku Uchusen Challenge
+Europico 88
+Everred [Hack]
+Every Extend Extra
+Ex-A-Sketch
+Exploding Golf, with Lovable Piggies
+Explore Dragon
+Fairchild Channel F Emulator
+Falleste [Hack]
+Fantasy Tactics - LOWREZJAM version
+Farland [Hack]
+Faux Spectrum
+Featherstone Ruins (v1.0)
+Fen Friends
+Fervour
+Fezier
+Fighter Street II
+Find Gold!
+Finding Cookie
+Fingals [Hack]
+Fire & Blade
+Fishy Friends!
+Flanet
+Flappy Ducky
+Fleb - The Great Lettuce Heist
+Flight of The Raven
+Flip The Page
+FlipIt
+Floomy
+Flowerhead
+Flyball
+Flying Sharks
+Football Dungeon (v0.91)
+Forever Lost In The Never Ending Museum Of Still Life
+Foreverred [Hack]
+Forgotten Hill Pico
+Forsaken City [Hack]
+Found It
+Foxcatsquirrel
+Foxum
+Fractured Rogue
+Fred the Harbor Seal
+Friendly Fire
+Frog Home
+Frog King
+Froggy Knight - Lost in the Forest
+Frostpunk Pico [Controller] (v1.0)
+Frostpunk Pico [Mouse] (v1.2)
+Fruit RSI
+Fruit Thieves
+Fuji [Hack]
+Full Moon Sweet
+Funklost [Hack]
+FUZ
+Galaxy Castle II - Dungeons of Nimbus
+Game and Timer vermin
+Garden Invasion v0.3
+Gatoro
+Get in Santa's Pants 2
+Get in Santa's Pants(v 1.3)
+GET OUT of this Dungeon (v1.1)
+Ghost House
+Ghost Punch
+Ghost Ship
+Gifts On Venus
+Global Warming
+Go 2 Hell
+Go West RPG
+Goblin Hunter DJ
+Goblins' Gold
+GodMode is enough
+Golden Goblet
+Golf Sunday
+Got-Ya!
+Grave Digger
+Gravity Well
+Grid Folks
+Gridrunner
+Gunther O'Brian's Pitching Simulator
+HackxMatch
+Hallow3n
+Happy Bee Time
+Happy Challah Days!
+Happy Larry and the Vampire Bat
+Harold's Bad Day
+Hazel May Saves The Halloween Monster Soiree
+He Get Up
+Heliopause
+Helium
+Helleste [Hack]
+Herbarium
+HexenStorm
+Hide or Risk v1.1
+High Climb
+Hobobot
+Holiday Jumper
+Holiday Party [Hack]
+Home
+Honks of the Southern Isles
+Hooked on Amstrad Chiptunes - Vol. 1
+Horde
+Horror Jelpi
+Howling Void
+Hug Arena
+Hunchback
+Hungry Bobs
+Hutton Minimal v2.0
+Hybris
+Hydra
+Hypercolor Paint
+I Demand Coffee
+I misplaced the key somewhere
+Iceberg2 - Wrath of Don
+Ice-Man
+Im a trader (v1.3)
+Imi's Dungeon
+Infestation
+Infinite Simon
+Ingeste [Hack] (v1.0)
+Inscryption [Fr]
+Inspiration
+Interspace II
+Interspace
+Into The Darkness
+Invader Overload (v1.7.2)
+Invaders 2000
+Inward Expansion
+Isohopes - an 8 bit nuclear reactor sim
+Isola
+Jack of Spades
+Jazzy Jeff
+JBA - Oversequel
+Jelpi [alternate palette Hack]
+Jelpi Hard Mode [Hack]
+Jeremy Mondo's Semi-Pro Racquetball
+Jerry Blue Jeans
+Jetpic-08
+Jonk Eeye's Poker
+Josiah and The Singin' Woods
+Joya no Kane - The Rhythm Game
+Juel and dangeon
+Juggle Panic
+Jump king 8
+Jumpit-8
+JumpMine
+Just another Snake
+Just Hit The Ball
+Just Push the Button
+Justice Pizza
+K.N.M.S.
+Kage Zamurai
+Kaiju Fight 3000
+Ka-Ka-Kaboom!
+Karate - Single Bout
+Katamari Christmassy
+Kelin's Delivery - Rain (v1.2.1)
+Keturi
+Kick Wizards
+KING - A bullet-hell RPG
+Kings Orders
+Kingslayers
+Kitten Hunt
+Klonos
+Knight of the Dead
+Kobold Adventure Mahjong
+Kung Fu demake
+Kyros Mansion
+La Sal [Hack]
+Lands Of Yocta
+Lazarus the Lizard
+Lektrik Sportz Game
+LEL [Hack]
+Lemonade Stand
+Lemonhunter
+Lest [Hack]
+Liberator
+Light Climber
+Lights Out
+Lil King
+Lil' Satan's Cake Quest (v1.01)
+line cook
+Little Nose Fight (v1.1.1)
+Little Space Rangers (v1.3)
+Loca Conda
+LOCKEY - Zana's Tale
+Lode 8
+Lode Runner Classic
+Lode Runner
+Lone Sector
+Loose Gravel
+Lost Crown
+Loto the Avatar
+Low Knight Visual Mod [Hack]
+Low Mem Sky
+Lowrez Defense
+LOWREZ dungeon
+Luck be a Landlord demake v0.1
+Luigeste [Hack]
+LynxKite - The Interview
+Magic Jewelry - The Tale of 1000 Gems (v1.3)
+Mandatory Fun Experience
+Mapuzzle
+Marballs 2 - Purie [Hack]
+Marballs
+Mareste [Hack]
+Mario with Pipes [Hack]
+Mars [Hack]
+Martial Cards
+Mass 360 (v1.3)
+Mastermind
+Masters of the Universe
+Maude [Hack]
+Mausoleum Quest
+Max
+Maximum Ball
+Mazeborn
+Mea's Castle (v1.10)
+Mech Force Inferno
+Medusa VN
+memsplore
+Merry Christmas
+Messages
+Micro Golf
+Micro RTS
+Midnight Butter
+Midnight Launderette
+Mildew's Haunted House
+Mildew's Manor
+Mine Keeper
+Mine Walker
+Minerunner
+Minesweeper
+Mini Ex Machina
+Mini Mortal Kombat
+Mini Pool
+Minima
+Miromina (v1.11)
+Missile Command
+Mistigri [2p Improvement Hack]
+Momentum [Hack]
+monclo v1.1
+Monk Wars
+Monster Eye (v1.1)
+monster mash
+Monster Mix and Match Jam Gallery Cart
+Monster Trainer v1.0.0
+Moon Miner
+Moon Ward
+Moonrace
+Moonsoul
+Morse Course
+Mortal Cards
+Motorbike (v1.1)
+Mot's 8-Ball Pool
+Mot's Animation System
+Mot's Grand Prix Track Editor
+Mot's Grand Prix
+Mountains of Demise II (v1.3)
+Mr. Monkey's Boomerang Bonanza!
+Murder, Death, Chill
+Music Game (v1.2)
+Mutopiya
+My Pet Virus
+Myrrh'S Edge
+Myrtle Takes The City
+NAIR
+Nano4x - Supremacy v1.0.0
+Nanoman
+Naturalchimie Classic
+Navader
+Nebula Fighter v1.0.9
+Nemo's Snake
+NEO [Celeste Classic 2 Hack]
+Nest 2 (v1.1)
+Nightride
+Niji-Famicart
+Nine Songs in Pico-8
+NinjaJump
+Ninjoe's Trials
+Nitronauta
+Noeleste [Hack]
+Nordic Journey to mundo del juguete
+Nostalgia [Hack]
+Not Enough
+Notice Me
+Notita (v1.3)
+Noutaja Tulee
+Nudge Nudge
+Nuklear Klone
+NULL
+Nurikabe
+Obeylings
+Officide
+Old Site [Hack]
+Omega Enforcer X
+One Button Duel
+Only The Roomba Remains
+Orbital (v0.9)
+Orbiter Suite
+Orbitrary
+Orul
+Overcast and Light Rain v1.3b
+Ozelotl
+Pacifist8
+Pac-Man 3D
+Pain
+Paintz
+Palette-Maker
+Pandemia
+Paperboy Droid
+Party Mountain [Hack]
+PAT Shooter
+Pearpicker
+Peg Solitaire (v1.3)
+Pelogen
+Penguin with a Pumpgun
+Pentomino
+Perisher [Hack]
+Pew Pew
+Phantasos
+PiCAD
+Pico Castle (v1.5)
+Pico City (v1.0.1)
+Pico Cyberbank
+Pico de Pon
+Pico Dictator
+Pico Driller
+Pico Empires
+Pico Factory
+Pico Frogger
+Pico Karts
+Pico Lake
+Pico Monsters
+Pico Night Punkin' - FNF Demake
+Pico Night Punkin' Jo560hs Mod Collection [Hack]
+Pico Off Road
+Pico Pico Hippo
+Pico Pico MicroMix
+Pico Pirates!
+Pico Racer
+Pico Skate IV
+Pico Snail! - Dream Castle
+PICO Space (v1.1)
+Pico Tanks
+Pico Tennis
+Pico Tetris
+Pico Tower
+Pico World Race
+Pico Zombie Garden
+Pico-2048
+Pico-8 Tunes Vol. 1
+Pico-8 Tunes Vol. 2
+Pico-8 Word Processor
+Pico-808
+Picoball
+PIC-o-BEAT v1.2
+Picocraft
+Picodius
+Pico-Ghostist
+Picogolf
+PIC-Oh Mummy!
+PICOhaven
+Picoh-Mummy!
+PICOHOT
+Picokaiju
+PicoKart
+Picolarium
+piColossal Adventure
+PicoMage
+Picomen
+Pic-O-Park
+Picophobia
+PicoPico Grand Prix
+Picopolis (jeb)
+Picopolis (kimwijsbeek)
+PicoPutt
+Picoquest (v1.2.5)
+PicoRacer-2048
+Pico-Raiders (v1.0.1)
+Pico-RAY
+PicOrbit
+PicoRisk
+PicoRocket
+Pico's Big Adventure
+Picos Farm
+Picosnood
+PicoSpaceWar
+Pico-Sprint (v1.02)
+Picotafl
+PicoTown (v1.2)
+Pico-Tron
+PicoVox
+PICOWARE
+PicoWars
+Picozone - 17-games-in-1
+PICrOss-8
+Pie Game
+Pig Dig Deep v0.5
+Pikoban
+Pinballvania!
+Pipe Dream
+Piste Off
+Pitfall (v1.0)
+PITRI
+Pix-a-sketch
+Planet Wreckers
+Plant Escape
+Platformer Base
+PlusWave
+Pod3x3
+Pointsketch
+Pongatory!
+Pongeon
+Pop Goes the Chicken
+Porklike [Color Mod Hack]
+Porklike
+Poseidios
+Powder!
+Prince
+Prism Towers
+Procban
+Professor Blobbins and the Music of Love
+P-Tapper
+Pulse Hook
+Pushamo
+Puzzle Cave - Raiders Of The Lost Potato
+Qent's Quest - Savior of Kerth
+Quest for the Book of Truth
+R.I.P. Curl
+RabuRabu Monster
+Rain Culture
+Rainier [Hack] (v1.7)
+Ramps
+Rare Monster Truck
+Ratchet Relay
+Reckless Redecoration
+Red-Black - Two Horror Short Stories
+remains
+Repo Runner
+Restless [Demo Hack]
+Retro Brothers
+Return to Celeste Mountain [Hack] (v1.0)
+Rey's Scavenger Run
+Risk it all for booty
+Ritz Odyssey
+Road Rex
+Road Storm
+Rob the Rich
+Rock 'n' Roll Helicopter of Death
+Rocket Rivals
+RocketDude
+Rocket's Red Glare
+RogueRis - Trials of Dungeonfall
+RogueRis Coop
+Rolly
+Rouge
+Roundelie Adventure 2 [Hack]
+RPGs Done Quick
+Rule The Kingdom (v1.0.1)
+Run, Flap, and Flip
+Rymdhulken
+Sally Neptune vs The Monocronies
+Sanki
+Santa Showdown
+Santa's Skydive
+Sarah and the Lonely Key
+Save Yourself
+Savior - Mission Jupiter
+Scramble
+Scrap Boy [Jam Version]
+Scrap Boy [New Version]
+Scrap Kings Remake [Hack] (v1.0)
+Scrolleste [Hack]
+Scrolleste Without Lava [Hack]
+Seance
+SeaQuest
+Secret Santa
+Seeking The Beast II
+Seinfeld Simulator (v1.0)
+Selena [Hack]
+Selene's Slumber
+Shadows of Dunwich
+Shards of Destiny
+Shelled Shinobi
+Shimarin to Seicross
+Shinkansen
+Ship and Gravity
+Shuffle Scuffle
+Shyventure
+Sicris
+Siege of Darkwood
+Sieur Lacassagne dungeon
+Signed by '89
+Simple Shooter Vol2
+SimpleTsuri
+Single Jump
+Sixlets II
+Sk8Border - Lay That Wall To Waste!
+Skelethrone
+Ski or Die
+Skid Row Joe
+Skiddy
+Skip-Bo
+Skulldude (v1.01)
+Skulldude [Color Mod Hack]
+Skyline
+SlamBall
+Slammer Slime
+Slider Puzzle
+Slider
+Slime Factory
+Slimeblast
+SlipWays (v1.1.2)
+Slowboarder2
+Smearena
+Snek mod [Hack]
+Snow Business!
+Snow!
+Snowballer
+Snowfight
+Snowman Creator
+Snowman
+Solais
+Solid Rogue
+Solitaire by Myshaak
+Solo on Gamepad
+Space Cave HD
+Space Crawler (v1.2.7)
+Space Invaders Remake
+Space Pirate
+Space Route 92
+Space Shooter (scottyelich)
+Space Tavern Poker
+Space Trader
+Space-a-tron
+Spaceball
+Spaceman 8 (v1.2)
+Spacetank 9000
+Sparkleste [Hack]
+SPF - Sun Protection Force
+Sphere Juggler
+Sphero
+Spider-Bat - Horticultural Hero
+Spinvilization
+Spirit Solstice
+Spiritboard
+Spook or Sugar!
+Spookleste [Hack] (v1.1)
+Spoopy! The 10 Haunted Treasures of Halloween
+Sprite Animator v1.6
+Spriteshow
+Squibidi
+Squid! Escape! Fight!
+Stack King
+Stack-O-Presents
+Star Anise Chronicles
+Star Beast
+Star Beasts (v1.3)
+Star Picker-Upper
+Star Trek - Killer Q'egh
+Star Trek
+StarBase
+Stargunner
+Stargust
+Status Line (v1.2)
+Stellar Sweep
+Steps Color Mod [Hack]
+Stick (v1.01)
+Still a Magical Girl
+Stomp!
+Store Galore
+Stories at the dawn
+Stranded on Saturn
+Strider 8bit
+Strongest Super Punch Warriors - Universe
+Strung Out in Heaven's High
+Stuck in the Sewers
+Sub-Uber-Marine (v1.0)
+Succer
+Sugar-High Daun (v1.2)
+Summit Shake!
+Sungjin Kim the Surfing King
+Super Breakout
+Super Cold
+Super Disc Box
+Super Hot Pellet Muncher 2000
+Super Kill Each Other
+Super Loot Bros
+Super Lunch-Out 2 Turbo
+Super Mario Bros. (v0.2)
+Super Mario Machine Gun
+Super Mario World Bros.
+Super Snow Shoveler
+Super Tankaggedon
+Surfin' Challenge
+Survival Dash
+Swatel Barf's Shufflepuck
+SWEEZEchess (v1.7)
+Swordfish
+Tactical Amish 64
+Talis - Return of the Demon Lord
+Talos Descent
+TankZilla
+Tapioca 2
+Telco
+Tents and Trees
+Terra - A Terraria Demake (v1.4)
+Terra Australis [Hack]
+Tetrachess
+Tetraton
+Tetrico
+The Aggressive Botany League
+The Burger Massacre
+The Career of Peter
+The Cat's Meow
+The Chamber Scrolls
+The Climbing of Asiic
+The Demon Within (final v1.0)
+The Destiny of Bob Ross
+The Floor Is Shaking, Also There Is Lava
+The Game
+The Green Legion
+The Invincible Run-Gun-Bot (v1.01)
+The Lair
+The Last Taxi
+The Legend of Nothing
+The Lich King
+The Lich Ruin
+The Lost Beans
+The Lost Night (v1.4)
+The Lost Night v1.4
+The NYPD Shaman
+The Opera of Erich Zann
+The Potion makin CAT
+The Remains of El Dorado
+The Sorcerer VS. The Skybugs
+The Story of Zeldo
+The Tiny Train Driver
+The Tower of Archeos
+The Wizard Pig
+They Started It
+Thopter Escape
+Thyef
+Tie Hunt
+Tiki-Gabou
+Tile Flip
+Timmy's Return - The Grappling Hook
+Tiny Coliseum
+Tiny Golf Puzzles
+Tiny Parkour
+Tiny Sim
+TinyRogue for Thumby (v1.0)
+Titan Ceremony
+Titanic
+To a Starling
+ToaStling [Hack]
+Toboggoban
+Toe Mahawk
+Toki Pona Tool
+Tomy Tron
+Topris
+Tori
+Totally Accurate Holiday Bowling
+Touhou Unmei no Hoshi
+Tower Climber
+Tower Noire [Roguelike Version]
+Tower Noire
+Town Simulator
+Toxic Invaders
+Toy Box Jam Launcher
+Toy Box Pipe
+Toyrogue (v1.05)
+Tracking Dog
+Trails
+Train
+TRAPPED (v1.4)
+Traveling across Europe
+Treasure Hunt Submarine
+Tria Insomnia
+Trial of the Sorcerer
+Trollmeister
+Tube Runner
+Tundraine
+Tunes of Rage
+Twin Strike
+Two Minutes To Sunset
+U.F.OhNo!
+UFO Blocks
+UFO Santa Candy Blaster
+UFO Swamp Odyssey
+Ultra Stone Sky
+Uncontrollableste [Hack]
+Underwatch
+Underworld Siege
+Unless... [Hack] (v1.3)
+Unrogue
+Unsafe on 10-31 [Hack]
+Unsatisfactory (v1.3.1)
+Upward
+Usada Fall
+U-turn
+Valley Run
+Verticaleste [Hack v2.4]
+Villager
+Vingals [Hack]
+Violence
+Virtuous Vanquisher of Evil
+Virulent
+Virush
+Visco
+Volcana [Hack]
+Wake of the Ninja
+Wander the Cosmos
+Warehouse Panic
+Waterside
+Wave Race Legend
+Wavy Navy
+We Missed You!
+Web Pilot
+Whiny Slime
+Wild Wild Yard
+Willo
+Winter Golf
+Winterwood
+Witch n' Wiz
+Wizard duels
+Wizardish
+Wobblepaint
+Wolf Tower
+Wolfenstein 3D
+Wonder Boy
+WoolCat 3D
+Wormhole
+Xenophobia
+X-Wing Pico Squadron (v2.0)
+X-Wing vs. Tie Fighter - Attack on the Deathstar
+Yarn
+Yo, Rainbow!
+Yolo Solo
+Yoshi Celeste 2 [Hack]
+Zamboni Mayhem (v1.0)
+Zamboni Mayhem
+Zarchy engine (v2.0)
+Zelda Battler
+Zen-Garden Mowerman
+A Quiet Place
+4 Giga Boss Fights
+3D Picoh Mummy
+A Dream's Command (v2.2)
+688i Pico Killer
+456 Tahini
+8-Bit Ultimate Frisbee
+A Doukutsu Demake
+A Messenger's Tale
+8Bit Emperor
+1x2 [Hack]
+9Hole
+16 Greens
+A Hat on Time
+Adelie [Hack]
+====================
+Total Games: 1029

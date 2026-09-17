@@ -1,0 +1,11 @@
+﻿System: Exelvision EXL100
+====================
+Capitaine Menkar
+Guppy
+Pindo
+Quizzy
+Tennis
+Virus
+Wizord
+====================
+Total Games: 7

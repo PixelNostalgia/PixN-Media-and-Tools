@@ -1,0 +1,7 @@
+﻿System: Baldurs Gate Engine
+====================
+Baldur's Gate
+Baldur's Gate II
+Icewind Dale
+====================
+Total Games: 3

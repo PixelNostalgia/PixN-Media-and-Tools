@@ -1,0 +1,25 @@
+﻿System: Philips VG5000
+====================
+Backgammon
+Bris de Glace
+Citadelle
+Divertissement
+Football
+Glouton - Munchkin
+Helicoptere - Helicopter Rescue
+Jeu de Tarot
+L'abeille
+Carotte Malicieuse, La - Reperage et Deplacement Sur un Plan Quadrille
+Moto Infernale, La
+Fou Volant, Le - Air Battle
+Monstre, Le - Space Monster
+Microjeux - Cocktail de Jeux
+Mission Omega
+Monkey Academy
+Simulateur de Vol
+Staroc
+Tortues - Turtles
+US Rallye
+Viking
+====================
+Total Games: 21

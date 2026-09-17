@@ -1,0 +1,17 @@
+﻿System: APF M-1000
+====================
+Backgammon
+Baseball
+Blackjack
+Boxing
+Brickdown / Shooting Gallery
+Casino 1 : Slots / Roulette / Keno
+Catena
+Hangman / Tic-Tac-Toe / Doodle
+Pinball
+Rocket Patrol
+Space Destroyers
+UFO / Sea Monsters / Break It Down / Rebuild / Shoot
+Bowling
+====================
+Total Games: 13

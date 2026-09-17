@@ -1,0 +1,188 @@
+﻿System: Amiga 1200
+====================
+1869
+Aladdin v1.80420
+Alfred Chicken
+AlienBreed2 v1.40044
+AlienBreed3D v1.30624
+AlienBreed3D2 v1.10280
+AlienBreedTowerAssault v1.32331
+AllNewWorldOfLemmings v1.00625
+ArcadePool v3.00298
+ArcadeSnooker v1.1 AGA
+Banshee v3.30633
+BlackViper v1.1 AGA
+Blade v1.01801
+Blobz v1.0 AGA
+BloodNet v2.11667
+BodyBlows v2.11322
+BodyBlowsGalactic v2.2a0440
+BreakOutRevolution v1.0 AGA
+Breathless v1.10178
+Breathless v1.168060 0178
+BrutalFootball v1.211837
+BubbleAndSqueak v2.1-B0210
+Burnout v1.0 AGA
+Burntime v1.22213
+CapitalPunishment v1.21758
+CenterCourt v1.02765
+CenterCourt2 v1.1 AGA
+ChaosEngine v2.11324
+ChaosEngine2 v2.60173
+Civilization v1.11633
+Clockwiser v1.11900
+Clue v1.1 AGA
+Coala v2.00242
+Colonization v1.10452
+CyberPunks 2 (AGA)
+DangerousStreets v1.31020
+DeathMask v1.21326
+Deconstruction v1.2 AGA
+DeluxeGalaga v1.3 AGA
+DeluxePacMan v1.0 AGA
+Dennis v1.5.2 AGA
+Dennis v1.5.2DesktopDynamite
+Detroit v1.0 AGA
+DGeneration v2.30457
+Diggers v1.01172
+DonkTheSamuraiDuck v1.20647
+DragonTiles v1.0 AGA
+DreamWeb v1.11815
+Exile v1.10885
+FantasticDizzy v2.2 AGA
+FantasyFlyer v1.0 AGA
+FatmanTheCapedConsumer v1.10480
+Fears v3.41288
+Fears v3.4Censored
+FightinSpirit v1.2 AGA
+FirstSamurai v2.1 A1200Version NONAGA
+FootballGlory v1.10122
+Giana Sisters SE (AGA)
+Gloom v1.40124
+Guardian v2.00835
+GunbeeF99 v1.1 AGA
+Gunship2000 v3.10371
+Heimdall2 v1.61166
+HighSeasTrader v1.02108
+Humans3 v1.12382
+ImpossibleMission2025 v2.0-B1833
+Ishar v1.4 AGA
+Ishar2 v1.40787
+Ishar3 v1.52245
+JamesPond2 v2.01354
+JamesPond3 v2.10688
+Jetstrike v1.1 AGA
+JungleStrike v1.12581
+JurassicPark v2.00836
+KickOff3 v1.011854
+KickOff3EuropeanChallenge v1.01896
+LeadingLapMPV v1.0 AGA
+LeadingLapMPV v1.0CUAmiga
+Legends v1.21346
+LionKing v1.00527
+LordsOfTheRealm v1.0 AGA
+LordsOfTheRealm v1.0Fast
+Maria Renards Revenge (AGA) (Beta & Unreleased)
+MarvinsMarvellousAdventure v1.011152
+MaxRally v1.3 AGA
+MegaBall v1.03 AGA
+Minskies v2.1 AGA
+Morph v1.01070
+MortonStrikesBack v1.0 AGA
+MutantLeagueHockey v1.0 AGA
+NaughtyOnes v1.11715
+NigelMansellsWorldChampionship v1.30138
+Og v1.0 AGA
+OnTheBallLeagueEdition v2.02110
+OnTheBallWorldCupEdition v1.02595
+Oscar v2.31095
+Overkill v1.10707
+PGAEuropeanTour v1.12435
+PierreLeChefIsOutToLunch v2.30548
+PinballBrainDamage v1.0 AGA
+Pinball Fantasies
+PinballFantasies v3.2Chip 0047
+PinballIllusions v2.30710
+PinballMania v2.10896
+PinballPrelude v1.22327
+PlayerManager2Extra v1.01 AGA
+PremierManager3 v1.02021
+PrimalRage v1.1 AGA
+Pulsator
+PuttySquad v1.3 AGA
+PuttySquadDemo v1.0 AGA
+QuikTheThunderRabbit v1.3 AGA
+RallyChampionships v1.1 AGA
+Reshoot (AGA)
+Reshoot R (AGA)
+Reunion v1.2 AGA
+RiseOfTheRobots v1.31763
+Roadkill v2.2-B1108
+RobinsonsRequiem v1.21866
+Roketz v1.1 AGA
+Rygar
+Rygar v2.1Chip
+SabreTeam v1.21158
+ScubaDiver v1.0 AGA
+SecondSamurai v1.3a1624
+Seek&Destroy v1.10252
+ShadowFighter v1.00203
+ShaqFu v1.11761
+SimLife v1.00889
+SimonTheSorcerer v1.50898
+SkeletonKrew v3.00725
+Skidmarks v1.20204
+SlamTilt v3.61151
+SlamTilt v3.62MB 1151
+Sleepwalker v1.20577
+Sleepwalker v1.2ComicRelief 1880
+SoccerKid v2.11150
+SoccerSuperstars v1.0 AGA
+SperisLegacy v2.01337
+Spirilon v1.0 AGA
+StarCrusader v1.02349
+StarTrek25thAnniversary v1.01466
+StripPot v1.1 AGA
+Subwar2050 v1.30146
+SuperLoopz v1.0 AGA
+SuperStardust v1.20175
+SuperStreetFighter2 v1.1 AGA
+SuperStreetFighter2DX v1.1 AGA
+SuperStreetFighter2Turbo v1.10735
+SurfNinjas v1.11291
+TFX v1.0 AGA
+The Dream of Rowan (AGA)
+ThemePark v3.00153
+ThomasTheTankEnginePinball v1.22629
+TinToyAdventure v1.3-B AGA
+TopGear2 v1.21858
+Tornado v1.1 AGA
+TotalCarnage v1.11926
+TowerOfSouls v1.12212
+Transarctica v1.4 AGA
+Trolls v1.20996
+TubeWarriors v1.0 AGA
+TubularWorlds v1.0 AGA
+Turbo Sprint (AGA)
+Turrican 2 (AGA) (Beta & Unreleased)
+UFOEnemyUnknown v1.10157
+Virocop v1.51920
+VirtualKarting v1.21059
+VirtualKarting2 v1.1 AGA
+Watchtower v1.21071
+WembleyInternationalSoccer v1.011704
+Wheels On Fire
+Whizz v1.20803
+Wiz (AGA)
+WormsDirectorsCut v1.30605
+WormsDirectorsCut v1.312MB 0605
+XP8 v2.1 AGA
+XTremeRacing&DataDisks v1.10164&1807
+XTremeRacing v1.10164
+ZombieApocalypse2 v1.1 AGA
+Zool v2.01675
+Zool2 v1.00415
+BrianTheLion v2.00843
+CharlieJCool v1.2 AGA
+====================
+Total Games: 184

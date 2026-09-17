@@ -1,0 +1,10 @@
+﻿System: Alice 32
+====================
+Micro Games - Horse Race
+Micro Games - Lunar Lander
+Micro Games - Egg Catch
+Micro Games - Breakout
+Micro Games - Pong
+Galaxion
+====================
+Total Games: 6

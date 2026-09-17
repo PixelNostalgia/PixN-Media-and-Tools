@@ -1,0 +1,94 @@
+﻿System: WASM-4
+====================
+Simple Space Invaders game, A
+Blaster!
+Bubblewrap
+Card-Crawl
+Crazy Factory
+Dashy Dango
+disk-0 MADNESS
+Dodgeball
+Don't Smash Into Obstacles
+Endless Runner
+Escape Guldur
+Explore the Grotto
+First Flight
+Floppy Fish
+Fool's Paradise
+Future Avoid
+GALDR
+Game of Life: Zig Edition
+Game of Life
+Glowfish Chess
+HAMMER JOE
+Hills in the Moonlight
+Its Corn
+Journey to Entorus
+Lake Shooter
+Lime Volleyball
+Lingword
+Lumber Night
+Match3
+Maze
+Meteoroids
+Micro Quest
+MIKU-15
+Mind Palace
+Minesweeper
+Minicraft
+Ninja vs Knights
+One Slime Army
+Pltfarmer
+Pong
+Presents to the Metal
+Projectron
+Punch'Em Up
+Puyo
+Racer
+Rolly Dango
+Samurai Revenge
+Shieldshooter
+Simple Rocket
+Skip Ahead
+Smash Sugar Parallelepipeds
+Snake
+Sokoban
+Space Delivery
+Space Kommand
+Spunky
+StarPilot W
+Strikeforce
+Sumovement
+Tail Gunner
+TappyLoop
+Tau Flight Simulator
+Legend of GEML, The : Awakening
+Romans Are Coming, The
+Tic Tac Toe
+TO THE CORE
+Totally not sumo
+Touhou Spirits
+Trials of the dark sea
+WASM Cities
+Wasm Wars
+wasm4nia
+Wasmanoid
+Watris
+Win 4 Fighter
+Wired
+WLOKU
+Wormhole
+Wumpus Hunt
+You Will Return
+Znake
+Zoop Zoop Bee Adventures 7
+ZxZ
+2048
+Antcopter
+Archery
+Assemblio
+Asteroids 3000
+Big Space Iron
+Bit Bowl
+====================
+Total Games: 90

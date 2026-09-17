@@ -1,0 +1,102 @@
+﻿System: TRS-80 Color Computer
+====================
+Appliance and Light Controller
+Arkanoid (1987)(Tandy)[26-3043]
+Art Gallery
+Atom (1983)(Tandy)[26-3149]
+Color Backgammon (1980)(Tandy)[26-3059]
+Color Baseball (1980)(Tandy)[26-3095]
+Bingo Math
+Bridge Tutor I (1983)(Tandy)[26-3158]
+Castle Guard (1982)(Tandy)[26-3079]
+Canyon Climber (1982)(Tandy)[26-3089]
+Checker King (1980)(Tandy)[26-3055]
+Roman Checkers (1981)(Tandy)[26-3071]
+Clowns & Balloons (1982)(Tandy)[26-3087]
+Color File II
+Color FORTH v1.1
+Color LOGO
+Color Robot Battle
+Crosswords
+Color Cubes (1981)(Tandy)[26-3075]
+Cyrus Chess (1982)(Tandy)[26-3064]
+Dungeons of Daggorath (1983)(Tandy)[26-3093]
+Doubleback (1982)(Tandy)[26-3091]
+Demolition Derby (1984)(Tandy)[26-3044]
+Demon Attack (1984)(Tandy)[26-3099]
+Diagnostics v2.0
+Dino Wars (1980)(Tandy)[26-3057]
+Deluxe RS-232 Program Pak
+Don-pan (1984)(Tandy)[26-3097]
+Doodle Bug
+Downland v1.1 (1984)(Tandy)[26-3046]
+Dragonfire (1982)(Tandy)[26-3098]
+EDTASM+ v1.0
+Facemaker (1984)(Tandy)[26-3166]
+Color Computer Disk BASIC for FD502
+Personal Finance II
+Football (1980)(Tandy)[26-3053]
+Fraction Fever
+Galatic Attack (1982)(Tandy)[26-3066]
+GFL Championship Football II (1988)(Tandy)[26-3172]
+Gin Champion (198x)(Tandy)[26-3083]
+Gomoku-Renju (1983)(Tandy)[26-3069]
+Graphics Pak
+Handyman
+JDOS v1.23
+Kids on Keys
+Kindercomp
+Math Tutor
+Mega-Bug (1982)(Tandy)[26-3076]
+Microbes (1981)(Tandy)[26-3085]
+Chess (1980)(Tandy)[a][26-3050]
+Micro Painter (1981)(Tandy)[26-3077]
+Mind-Roll (1989)(Tandy)[26-3100]
+Color Computer Modem Pak
+Monster Maze (1982)(Tandy)[26-3081]
+Music
+Project Nebula (1981)(Tandy)[26-3063]
+Slay the Nereis (1982)(Tandy)[26-3086]
+Orchestra-90 v1.01
+Panic Button (1985)(Tandy)[26-3147]
+Pinball (1980)(Tandy)[26-3052]
+Polaris (1981)(Tandy)[26-3065]
+Poltergeist (1982)(Tandy)[26-3073]
+Popcorn (1982)(Tandy)[u][26-3090]
+Predator
+Quasar Commander (1980)(Tandy)[26-3051]
+Rad Warrior (1989)(Tandy)[26-3162]
+Rampage (1989)(Activision)[26-3174]
+Reactoid (1983)(Tandy)[26-3092]
+Robocop (1988)(Tandy)[26-3164]
+Color Scripsit II
+SDS80C Editor Assembler
+Shanghai (1987)(Activision)[a][26-3084]
+Shooting Gallery (1982)(Tandy)[26-3088]
+Silpheed (CoCo 3 Version)
+Skiing (1980)(Tandy)[26-3058]
+Soko-Ban (1988)(Tandy)[26-3161]
+Space Assault (1981)(Tandy)[26-3060]
+Spidercide (1983)(Tandy)[26-3049]
+Spectaculator (1981)(Tandy)[26-3104]
+Audio Spectrum Analyzer
+Super Bustout (1981)(Tandy)[26-3056]
+Springster (1987)(Tandy)[26-3078]
+Star Blaze (1983)(Tandy)[26-3094]
+Stellar Life Line (1983)(Tandy)[26-3047]
+Super Pitfall (1988)(Tandy)[26-3171]
+Super LOGO
+Temple of ROM (1982)(Tandy)[26-3045]
+Tennis (1982)(Tandy)
+Tetris (1987)(Tandy)[26-3163]
+Castle of Tharoggad (1988)(Tandy)[26-3159]
+Thexder (1988)(Tandy)[26-3072]
+TypeMate
+Typing Tutor
+Videotex v1.2
+Wildcatting (1981)(Tandy)[26-3067]
+A Mazing World of Malcom Mortar (1987)(Tandy)[26-3160]
+Androne (1983)(Tandy)[26-3096]
+7 Card Stud
+====================
+Total Games: 98

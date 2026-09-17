@@ -1,0 +1,45 @@
+﻿System: Galaksija
+====================
+Snake 2
+Super-Sah
+SvemirskiTrgovac
+Svetleci Bicikli Plus
+Tenis 3
+Tenis
+Tetris
+Wall
+Wonderer 2
+Wonderer
+Zamak
+Zid
+Ziul
+Zvezdice
+Zvjezdane Staze
+Igra Diskova
+Mastermind
+Blade Alley
+Manic Miner
+Memorija
+Mastermajnd
+Snake
+Four
+Formula 1
+Night Pilot
+Comets
+Galakticki Rat
+Jumping Jack
+Maze
+Rain Drops
+Egemond
+Bombarder
+Pamtilice
+Poker
+Scater
+Slalom 2
+Light Cycles 2
+Biljar
+Light Cycles
+Hungry Horace
+Asteroidi
+====================
+Total Games: 41

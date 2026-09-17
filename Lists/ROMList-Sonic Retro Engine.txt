@@ -1,0 +1,10 @@
+﻿System: Sonic Retro Engine
+====================
+Sonic 1
+Sonic 2
+Sonic CD
+Sonic 2
+Sonic CD
+Sonic 1
+====================
+Total Games: 6

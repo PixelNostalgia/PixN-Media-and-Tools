@@ -1,0 +1,30 @@
+﻿System: rawthrills_batocera
+====================
+Batman
+Dirty Drivin'
+Disney Pixar Cars
+Fast And Furious Supercars
+Frogger
+H2Overdrive
+MotoGP
+Nicktoons Nitro
+Super Bikes 2
+Super Bikes 3
+The Fast and the Furious
+The Fast And The Furious Drift
+The Fast and the Furious: Super Bikes
+TMNT Arcade: Wrath of the Mutants
+Winter X-Games SnoCross
+Winter X-Games Snowboarder
+Cruis'n Blast
+Injustice Arcade
+Aliens Armageddon (multiguns)
+Target Terror Gold (multiguns)
+Terminator Salvation (multiguns)
+Nerf Arcade (multiguns)
+GhostBusters (multiguns)
+Big Buck Hunter Pro (multiguns)
+Super Alpine Racer
+Guitar Hero Arcade
+====================
+Total Games: 26

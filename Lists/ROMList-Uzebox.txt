@@ -1,0 +1,78 @@
+﻿System: Uzebox
+====================
+2048
+Alter Ego
+Arkanoid
+Atomix
+B.C. Dash
+Babylon Tower
+Block Boy
+Bomber
+Boulderdash
+Buddha
+Bugz
+Candle Burner
+Chess4uzebox
+ChuckieEgg
+Columns
+Corrida Nebososa
+Daleks
+DonkeyKong
+DrMario
+Fifteen Puzzle
+Final Blood
+Fireman Rescue
+Frog Feast
+Frogger
+Game of Life
+Ghosty Ghost
+Gorillas
+Happy Easter
+Holey Moley
+Iros
+Joyrider
+Lander
+Laser Puzzle II
+Laser Puzzle
+Lode Runner
+Maze
+MegaSokoban
+Megatris
+Melli's Retro land
+Memory
+Ninja Beatdown
+Pac-Man (lite)
+Pengo
+Pentago
+Pipes
+Pong
+Reels of fortune
+Roguze
+Ruby Crush
+Simon
+Snake
+Snakes
+Sokoban World
+Solitaire
+Space Age
+Space Invaders
+Stormforce
+SubMarine
+TankFu
+Tetris
+Tron
+Uze Feud
+Uze Kickers
+Uze Snakes
+Uze Wars
+Uzebox Tactics
+Uzepede
+Uzesweeper
+Vector Game
+Video Poker
+Whack-A-Mole
+XOR
+Zombienator
+65536In1
+====================
+Total Games: 74

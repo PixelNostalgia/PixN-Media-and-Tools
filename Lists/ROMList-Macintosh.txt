@@ -1,0 +1,10 @@
+﻿System: Macintosh
+====================
+Beyond Dark Castle
+Cannon Fodder
+Crystal Quest
+Glider
+Lode Runner
+Rogue
+====================
+Total Games: 6

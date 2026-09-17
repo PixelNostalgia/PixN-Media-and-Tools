@@ -1,0 +1,705 @@
+﻿System: vpinball_batocera
+====================
+301 Bullseye (Grand Products 1986)
+4 Queens (Bally 1970)
+4 Square (Gottlieb 1971)
+A Charlie Brown Christmas (Original 2023)
+Aaron Spelling (Data East 1992)
+ABBA (Original 2020)
+Big House
+Asterix the Twelve Tasks
+Harlem Globetrotters on Tour (Bally 1979)
+Class of 1812
+Gladiators
+Escape From The Lost World
+Blaze The Monster Machines (Original 2021)
+Bounty Hunter (Gottlieb 1985)
+Fathom
+Guardians of the Galaxy Trilogy (Original 2023)
+Evel Knievel
+Blackout
+CAPTAINSPAULDINGv1.4
+Flash Gordon
+Cybernaut
+Genie
+Castlevania Symphony Of The Night (Original 2022)
+FORGE (Original 2023)
+Devil Riders
+BMX (Bally 1983)
+Jolly Park
+Freefall (Stern 1981)
+Bon Jovi pup (Original 2024)
+Eight Ball Champ (Bally 1985)
+Devil's Dare
+Dirty Harry
+Fireball II
+Gork (Taito do Brasil 1982)
+Faces (Sonic 1976)
+Daft Punk Interstella 5555
+Animal Crossing Pinball (Original 2021)
+Cue Ball Wizard
+Jack Sparrow (Original 2023)
+ELF Pinball XL
+High Roller Casino
+Egg Head (Gottlieb 1961)
+Indiana Jones
+Earthshaker
+Crash Bandicoot Pinball (Original 2018)
+Cerberus (Playmatic 1983)
+Breaking Bad PupPack Version
+Great Houdini (Original 2022)
+CSI
+Cheetah
+Gridiron (Gottleib 1977)
+City Slicker
+Hawkman (Taito do Brasil - 1983)
+Daft Punk
+Hang Glider (Bally 1976)
+Fireball Classic
+Airborne
+Big Trouble 1.8 DOF for puppack
+Genesis
+Comet (Williams 1985)
+Gilligan's Island
+Breakshot
+Children Of The Corn (TBA 2019)
+Wolfenstein 3-D (Original 2015)
+Beetlejuice (Original 2023)
+Batman (Data East 1991)
+High Speed (Williams 1986)
+Gollum Lord of the Rings (Original 2023)
+Dolly Parton (Bally 1979)
+Dragon Ball Super Saiyan Edition
+Mary Shelley's Frankenstein
+Dracula
+Dark Princess (Original 2020)
+Frontier
+Demolition Man
+Black Belt
+Batman (Data East 1991) B&W
+Excalibur (Gottlieb 1988)_Bigus(MOD)3.0
+Faeton (Juegos Populares 1985)
+Dragon's Lair (Original 2023)
+Black Pyramid
+Hoops
+Hi-Diver (Gottlieb 1959)
+Atlantis
+Beachboys
+Funhouse
+Charlie's Angels (Gottlieb 1979)
+Bram Stoker's Dracula
+Barracora
+Bueno el Feo y el Malo
+Deadly Weapon
+Big Guns
+Big Buck Hunter Pro
+Cyclone
+Cosmic Princess (Stern 1979)
+Breaking Bad
+Hearts Gain (Inder 1971)
+Bumper Pool (1969)
+Big Game (Stern 1980) v600
+BloodSport
+Blade Runner 2049 (Original 2021)
+Flip Flop (Bally 1976)
+Dragonfist (Stern 1981)
+Defender
+Captain Fantastic (Bally 1975)
+Banzai Run
+Dune
+Who Dunnit
+Die Hard Trilogy (VPW 2023)
+Evil Dead 2 (TBA 2019)
+Futurama (Original 2024)
+Hokus Pokus (Bally 1976)
+Top Gun (Original 2019)
+Future Spa
+Canasta 86
+Buffy The Vampire Slayer
+Capersville
+Amazon Hunt (Gottlieb 1983)
+CARtoons RC (Nailed 2021)
+Flash
+Batman Forever
+Death Proof (Original 2021)
+Canada Dry (Gottlieb 1976)
+Dr. Dude and His Excellent Ray
+Bally Game Show
+Big Bang Bar
+Back To The Future: Trilogy
+Harry Potter (Original 2020)
+James Bond (Gottlieb 1980) 007
+Camping Trip (Original 2025)
+Black Knight
+Four Seasons (Gottlieb 1968)
+Bobby Orr's Power Play
+Arena
+Alien Star (Gottlieb 1984)
+Ali (Stern 1980)
+Embryon
+Iron Maiden (Stern 1982)
+Dava's Everquest II - Pinball tribute v1.1
+Chance (Playmatic 1978)
+Flight 2000
+Counterforce (Gottlieb 1980)
+Dungeons and Dragons (Bally 1987)
+Gigi (Gottlieb 1963)
+Childs Play (Original 2018)
+HALO (Original 2021)
+Eight Ball Deluxe
+Earth Wind Fire (Zaccaria 1981)
+Diablo Pinball
+Batman '66 (Original 2018)
+Iron Maiden Virtual Time (Original 2020)_nFozzy
+Hot Hand
+Doom Eternal (Original 2022)
+Baywatch
+Dragon (Gottlieb 1978)
+Grand Lizard (Williams 1986)
+Big Hurt (Gottlieb 1995)
+Gargamel Park
+Far Cry 3 Blood Dragon (TBA 2018)
+Conan
+Barb Wire
+America's Most Haunted
+Bob Marley Mod
+Diamond Lady
+Gorgar
+Jungle Lord
+Golden Cue (Sega 1998)
+Daredevil and The Defenders
+Haunted House
+Centaur
+Dante's Inferno
+Creepshow
+Freddy A Nightmare On Elm Street
+Harley Quinn (HauntFreaks 2017)
+Check Mate (Recel - 1975)
+Death Race 2000 V2
+Hardbody (Bally 1987)
+Count-Down
+Baseball (Gottlieb 1970)
+Catacomb
+Black Knight 2000
+Hellraiser 1.2 (Original 2022)
+Captain NEMO Dives Again (Quetzal Pinball 2015)
+Criterium 75 (Recel 1975)
+Dragon Ball Z Budokai (Original 2023)
+Black Jack
+Family Guy
+Hearts And Spades (Gottlieb 1969)
+Fire!
+Grease (Original 2023)
+Farfalla
+F-14 Tomcat
+High Hand (Gottlieb 1973)
+Elektra
+Cosmic (Taito do Brasil - 1980) v600
+Hellboy Pinball (Original)
+Disney Descendants (Original 2020)
+Aladdin's Castle (Bally 1976)
+Firepower
+Cactus Jack's
+Car Hop (Gottlieb 1991)
+Aqualand (Juegos Populares 1986)
+Blue Note (Gottlieb 1979)
+Hannibal Lecter (Original 2022)
+Apache! (Playmatic 1975)
+Big Brave (Gottlieb 1974)
+Algar (Williams 1980)
+Halloween MM Edition (Original 2023)
+Bone Busters
+Hollywood Heat (Gottlieb 1986)
+Friday the 13th (Original 2021)
+Darkest Dungeon (Original 2023)
+Hot Shots (Gottlieb 1989)
+Eight Ball (Bally 1977)
+Dr. Jekyll and Mr. Hyde (Original 2022)
+Carnaval no Rio (LTD do Brasil 1977)
+Torpedo Alley
+Cuphead Pro Perdition Edition (Original 2020)
+Gold Ball (Bally 1983)
+Cleopatra
+Goin' Nuts (Gottlieb 1983)
+Horrorburg
+Buck Rogers
+Al's Garage Band Goes On A World Tour
+GORILLAZ (Original)
+Infectious Grooves (Original 2021)
+4x4 (Atari 1983)
+JohnWick 1.3 (BABA YAGA Pinball Edition) Original 2023
+Jokerz!
+Joker Poker
+Johnny Mnemonic
+Ice Fever (Gottlieb 1985) VPW 1.1
+Attack From Mars
+Guns N' Roses (Data East 1994)
+Jumanji (Original)
+Jungle Princess (Gottlieb 1977)
+Jurassic Park The Lost World (Sega 1997)
+Killer Instinct (Original)
+Killer Klowns (Original 2023)
+KING Donkey Kong (Original 2023)
+King Kong (Data East 1990)
+King Of The Hill (Original)
+King Rock (Gottlieb 1972)
+Kings Of Steel
+Kingpin (Capcom 1996)
+Lady Luck (Bally) (Bally 1986)
+Knight Rider (Original)
+Laser War
+Led Zeppelin
+Laser Cue
+Laser Ball
+Lethal Weapon 3
+Lightning
+Lost World (Bally 1979)
+Last Action Hero
+Magic
+Mago de Oz
+Mario Andretti (Gottlieb 1995) (10.7) 2.01
+Abra Ca Dabra
+Mars God Of War
+Maverick
+Medieval Castle (VR ROOM) MEGA
+Medusa
+Michael Jordan (Data East 1992)2.0.4
+Meteor
+Mini Cycle (Gottlieb 1970)
+Monday Night Football
+Monkey Island (Original)
+MotÃ¶rhead
+Mortal Kombat II
+Miraculous
+Ace Of Speed
+Monster Bash
+U2 Tribute (Original 2025)
+The Sopranos (Stern 2005)
+The Walking Dead: Limited Edition (Stern 2014)
+The Simpsons Pinball Party (Stern 2003)
+The Simpsons (Data East 1990)
+The Goonies Never Say Die Pinball (Original)
+Agents 777
+Andromeda (Game Plan 1985)
+Bad Girls Tooned-Up (Gottlieb 1988)
+Black Knight - Sword Of Rage
+Batman 66 LE Stern Tribute
+Mata-Hari
+Guns N' Roses - Limited Edition
+Michael
+Ghostbusters Slimer
+Freddys Nightmares V1.2
+Deadpool
+Jaws 50Th Anniversary (Original)
+Metallica: Master of Puppets
+Foo Fighters
+Mustang
+Mr. & Mrs. Pac-Man Pinball (Bally 1982)
+Mystic (Bally 1980)
+Mystical Ninja Goemon (Original)
+Mousin' Around!
+The Getaway High Speed 2 (Williams 1992)
+The Exorcist (Original 2023)PUP version
+The Beatles
+Terrifier Sensative Stomach (Original)
+The Who's Tommy Pinball Wizard (Data East 1994)
+The X Files
+The Shadow (Bally 1994)
+WWF Royal Rumble
+X's & O's (Bally 1984)
+Wrath of Olympus (Original 2022)
+World Poker Tour (Stern 2006)
+Wipe Out
+Willy's Wonderland Pup Adventure
+WildWest_1.0.3b
+Willy Wonka Pro
+Wild Fyre (Stern 1978)
+Wayne's World
+Xenon (Bally 1980)
+Whirlwind
+Wheel Of Fortune
+Vortex
+Voltan Escapes Cosmic Doom (Bally 1979)
+Warlok (Williams 1982)
+Volkan Steel and Metal (Original)
+Water World
+Volcano
+Wacky Races (Original 2022)
+Viper Night Drivin'
+Vikings (Original 2022)
+Viking
+U2 360 Tour (Original 2025)
+Unreal Tournament 99 Capture the Flag
+Vampirella (Original 2024)
+Victory
+Vector
+TX-Sector
+Twisted Metal (Clairvius 2024)
+Twister
+Truck Stop
+Turrican (TBA 2018)
+Tron: Legacy
+Triple Strike (Williams 1975)
+Tri Zone (Williams 1979)
+Trident (Stern 1979)
+Transporter the Rescue
+Transformers Pro
+Trailer Park Boys - Pinballers
+Twilight Zone
+TombRaider v1.01 (Original Tombg 2025)
+Tom and Jerry
+Timon and Pumbaa Jungle Pinball (Original)
+Time Machine (Data East) (Data East 1988)
+The Rolling Stones (Stern 2011)
+Time Fantasy (Williams 1983)
+Tiger (Gottlieb 1975)
+Time Line
+Thunderbirds (Original)
+Thunder Man (AppleTime 1987)
+Thunderbirds 60th Anniversary Limited Edition
+Time Warp
+The Matrix (Original)
+The Machine: Bride of Pinâ€¢Bot (Williams 1991)
+The Mandalorian
+The Lord of the Rings (Stern 2003)
+The Phantom Of The Opera (Data East 1990)
+The Last Dragon (Original)
+The Incredible Hulk (Gottlieb 1979)
+Teed Off
+The Dark Crystal (Original 2020)
+The Fly (2023)
+Taxi
+Team One (Gottlieb 1977)
+Tales From The Crypt
+Tales of the Arabian Nights
+Heavy Metal Meltdown (Bally 1987)
+Nightmare Before Christmas (2024)
+Nascar
+NBA Fastbreak
+Mystery Castle
+New Wave (Bell Games 1985)
+Night Rider
+Night Moves
+Nineball
+Nitro Ground Shaker
+No Good Gofers
+Nugent (Stern 1978)
+Operation Thunder
+Papa Smurf
+World Challenge Soccer (Premier 1994)
+Whoa Nellie! Big Juicy Melons (Stern 2015)
+Verne's World (Spinball 1996)
+Vegas (Gottlieb 1990)
+Godzilla Premium Edition 70th Anniversary B&W
+Beetlejuice Beetlejuice 2026 1.0
+Paragon
+The Clash
+Dirty Dancing (Iceman 2022)
+Pharaoh
+300 (Gottlieb 1975)
+Phoenix
+Pinball (Stern 1977)
+Pinball Pool
+Pink Floyd
+Pirate Gold
+Pirates Life (Original)
+Pirates Of The Caribbean
+Pink Panther
+Playboy 35th Anniversary (Data East 1989)
+Playboy (Stern 2002)
+Pokemon Pinball
+PokemonDungeonv3-FleepNfozzy
+Pole Position (Sonic 1987)
+Police Force
+Popeye Saves the Earth
+Punchout (Original)
+Q*Bert's Quest
+Queen The Game Hits 1 (Original 2021)
+Queen The Game Hits 2 (Original 2021)
+Quicksilver
+Pro Pool (Gottlieb 1973)
+Predator (Gottlieb 1986)
+Ready Player One
+Rawhide (Stern 1977)
+Rescue 911
+Ripleys Believe It Or Not
+Riverboat Gambler
+Robo-War (Premier 1988)
+Robocop
+Robot (Zaccaria 1985)
+Roller Disco
+Roller Coaster Tycoon
+Ramones BW (Original 2024)
+Rack 'Em Up! (Gottlieb 1983)
+Radical
+Rollergames
+Scarface (Original)
+Safe Cracker
+Scared Stiff
+Scooby Doo
+Batman Dark Knight (Stern 2008)
+Scorpion
+Secret Agent (Original 2024) v1.0
+Seawitch
+Secret Service
+Serious Sam Pinball
+Serious Sam Pinball 2 (Original)
+Shaq Attaq
+Sheriff (Gottlieb 1971)
+Shovel Knight (Original)
+Shrek
+Pink Floyd w PupPack
+Punk Park (Original)
+Silverball Mania
+Sinbad
+The Six Million Dollar Man
+Snow Derby (Gottlieb 1970)
+Skateball
+Solar Fire
+Solar Ride
+Sorcerer (Williams 1985)
+Space Cadet
+Space Cadet Galaxy Edition
+Space Gambler (playmatic 1978)
+Space Invaders
+Space Jam
+Space Race (Recel 1977)
+Sharpshooter
+South Park
+Space Station
+Special Force (Bally 1986)
+Spectrum (Bally 1981)
+Spider-Man
+Spirit
+SpongeBob's Bikini Bottom Pinball
+Split Second
+Spy Hunter
+Star Action (Williams 1973)
+Star Gazer
+Star Light (Williams 1984)
+Star God (Zaccaria 1980)
+Star Race (Gottlieb 1980)
+Swords Of Fury
+Swamp Thing - Bayou Edition (Original)
+Surf'n Safari
+Total Nuclear Annihilation (Spooky 2017)
+Party Zone
+Supersonic
+Super-Flite (Williams 1974)
+Super Orbit (Gottlieb 1983)
+Super Mario Bros.
+Super Mario Bros. Mushroom World
+Strikes And Spares
+Superman
+Super Spin (Gottlieb 1977)
+Street Fighter 2
+Stingray
+Stellar Wars
+Stargate
+Star Wars The Bad Batch
+Star Wars Episode 1
+Star Wars Redux (BorGlieb 2019)
+Star Trek LE (Stern 2013)
+Stars
+Star Trek
+Attack of the Killer Tomatoes (PUP Version) (Iceman 2023)
+Odin Deluxe (Sonic 1985)
+Playboy (Bally 1978)
+Mission Impossible Limited Edition (Original 2022)
+Megadeth (original)v.1.4
+Bud and Terence (Original 2024) v1.6
+Olympus (Juegos Populares 1986)
+Wolf Man (Peyper 1987)
+John Rambo Original 2024
+Pistol Poker (Alvin G. and Company 1993)_V1.3
+Need for Speed (TBA 2018)
+Kung Fu Hustle V1.2
+Old Coney Island (Game Plan 1979)
+Monte Carlo (Premier 1987)
+Krull (Gottlieb 1983)
+RockyLegends
+Oktoberfest Jolly Park Oly (Original 2024)
+The Rolling Stones (Bally 1979)
+Lap by Lap (Inder 1986)
+Panthera (Gottlieb 1980) v600
+Olympics (Chicago Coin 1975)
+Odisea Paris-Dakar (Peyper 1987)
+Pulp Fiction
+Oba Oba (Taito do Brasil - 1979)
+Rocky (Gottlieb 1982)
+Phil Collins
+World Cup (Williams 1978)
+Wuthering Waves (2026)  v1.02
+Magic Pinball v1.0 (Original 2025)
+Primordial Quarry
+Mad Race (Playmatic 1985)
+The Pabst Can Crusher (Stern 2016)
+Pool Sharks (Midway 1990) v600
+Polar Explorer (Taito 1983) v600
+Killers Hall of Fame (2023) V1.2
+World Of Warcraft Monopoly (Original 2015)
+Royal-Flush-Deluxe (Gottlieb 1983)
+Lights Camera Action (Gottlieb 1989)
+The Godfather 50th Anniversary (Original 2024)
+World JOKER Tour (Stern 2006)
+Jurassic Park Tribute 30th LE (Stern 2023)
+Target Alpha (Gottlieb 1976)
+Star Trek 25th Anniversary (Data East 1991)
+Adventures of Rocky & Bullwinkle And Friends
+Austin Powers (Stern 2013) VPW
+Aquaman
+The Amazing Spideman
+Attack and Revenge from Mars
+Aerosmith (Original 2019)
+Alien Poker
+The Avengers Pro (Stern 2012)
+Back To The Future
+Bad Girls (Gottlieb 1988)
+Black Hole
+Bristol Hills (Gottlieb 1970)
+Buckaroo (Gottlieb 1965)
+Bushido (Inder 1993)
+Beavis and Butt-head Pinballed (Original 2024)
+Beach Bums (Original 2018)
+BarbWire Tooned-up
+Bugs Bunny's Birthday Ball
+Beat the Clock (Bally 1985)
+Black Rose
+Blood Machines 2.0
+Blizzard Of Ozz (Original)
+Apollo 13
+Card Whiz (Gottlieb 1976)
+Cactus Canyon
+Casino (Williams 1958)
+Close Encounters of the Third Kind (Gottlieb 1978)
+Cirqus Voltaire
+Checkpoint
+Cheech & Chong - Road-Trip'pin (Bally 2021)
+Circus
+Godzilla Pro Edition 2021
+Domino (Gottlieb 1968)
+Fast and furious (Original 2022)
+Dark Chaos (apophis 2025) 2.0
+Congo
+Halloween 1978-1981
+Creature From The Black Lagoon BW Edition
+Corsario (Inder 1989) GoldChicoo v1.1 DT-FS-VR-MR Ext2k Conversion
+Far Out (Gottlieb 1974)
+Dimension (Gottlieb 1971)
+Elvis
+Goldeneye
+The Flintstones
+Flipper Pool (Gottlieb 1965)
+The Fog (Gottlieb 1979)
+Elvira And The Party Monsters
+Cosmic Gunfight
+Galaxy
+Gremlins (Original 2022)
+Game of Thrones - Limited Edition
+Creature from the Black Lagoon (Bally 1992) VPW v1.2
+Diner
+Goldorak (Original 2022)
+From Dusk Till Dawn (Original 2022)
+Corvette
+Elvira Blood Red Kiss Pup Edition
+GameOfDog1.0.2
+Full Metal Jacket (Original 2023)
+Fast Draw (Gottlieb 1975)
+Django (Original 2022)
+Doctor Who
+Freedom (Bally 1976)
+ESTOPA
+Hook
+Judge Dredd
+Guardians of the Galaxy Pro (Stern 2017)
+Harley Davidson (Sega 1999) v1.12
+Junk Yard
+Harley Davidson
+Hurricane
+Indiana Jones The Pinball Adventure
+Indiana Jones The Last Movie (Original 2023)
+Iron Man Vault Edition (Stern 2010)
+James Bond (Stern 2022) LE
+Hit The Deck (Gottlieb 1978)
+Jurassic Park
+James Bond (Stern 2023) 60th Anniversary LE
+Independence Day
+The King of Rock and Roll  (Original 2022)
+Time Lord (Original)
+Theatre Of Magic
+Wizard of Oz (Original 2018) YBR LE
+NFL
+Kiss
+Pinbot
+Medieval Madness
+Spirit of 76 (Gottlieb 1975)
+League Champ (Williams 1996)V1.1
+The Legend of Zelda (Original)
+Lost In Space (SEGA 1998) DrJones Comic-book Edition
+Sharkey's Shootout
+NFL (Stern 2001) Seahawks Superbowl Edition v1.0
+Lost in Space (Sega 1998)
+Minions
+Lunelle (Taito do Brasil - 1982)
+The Champion Pub
+Red & Ted's Road Show
+Monopoly
+Queen - Show Must Go On (Original 2022)
+New York (Gottlieb 1976)
+The Games (Gottlieb 1984)
+White Water
+Kill Bill (Origina 2022)
+Aliens (Original 2005)
+24 (Stern 2009)
+Bad Cats
+Aerosmith (Stern 2017)
+Aladdin (Original 2026) Tombg
+Avatar
+The Addams Family (Bally 1992)
+Superman and The Justice League (Original 2024)
+FirePower II (Williams 1983)
+No Fear (Williams 1995)
+Strange Science
+Judas Priest (Original 2019)
+Stranger Things 4 Premium V3.1
+Mass Effect 1.0.6
+Iron Maiden (Stern 2022) VPW 1.0.12
+Flipper Football (Capcom 1996)
+Grand Prix  (Stern 2005)
+Space Shuttle
+Star Wars Trilogy
+Jack Bot
+Watchmen (Original)
+AC/DC LUCI Premium (Stern 2013)
+Indianapolis 500
+4 Aces (Williams 1970)
+Godzilla
+Starship Troopers
+Strikes N' Spares
+KISS (Stern 2015)_Bigus(MOD)2.0
+Terminator 3: Rise of the Machines
+Star Trek The Next Generation
+Star Wars
+X-Men LE (Stern 2012) VPW
+Fish Tales
+Linkin Park (Original 2024)
+Star Wars Bounty Hunter (Original)
+Teenage Mutant Ninja Turtles (Stern-Data East mash-up)
+Jive Time (Williams 1970)
+Terminator 2: Judgment Day
+Mad Max (Original 2021)
+Sonic The Hedgehog (Brendan Bailey 2005) VPX MOD 1.33
+NBA
+250cc (Inder 1992)
+Teenage Mutant Ninja Turtles (Data East 1991)
+Wimbledon (Electromatic 1978)
+Pinball Magic
+Zip-A-Doo (Bally 1970)
+World Cup Soccer (Bally 1994)
+IT - Pinball Madness
+Extremoduro Pinball (Original 2021)
+Metallica Premium Monsters (Stern 2013) VPW 2.0.2
+Men in black Trilogy
+CyberRace
+====================
+Total Games: 701

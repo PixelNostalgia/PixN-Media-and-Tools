@@ -1,0 +1,48 @@
+﻿System: gzdoom_batocera
+====================
+Adventures of Square
+Alien Vendetta
+Aliens: Eradication
+Ashes 2063: Afterglow
+Ashes 2063
+BlooM
+Brutal Doom 64
+Brutal Doom
+Brutal Wolfenstein 3D
+Castlevania: Simon's Destiny
+CountryCide
+Doom (voxels)
+Doom + Sigil
+Doom II: The Master Levels
+Doom II: No Rest for the Living
+Doom 2: Plutonia Experiment
+Doom 2: TNT Evilution
+Doom II
+Eviternity
+Golden Souls 2
+Golden Souls
+Hands of Necromancy
+Hedon Bloodrite
+Heretic: Shadow of Serpent Riders
+Hexen: Beyond Heretic
+Hexen: Deathkings of the Dark Citadel
+Hideous Destructor
+Legend of Doom
+MyHouse.WAD
+Pirate Doom
+Brutal Doom. Project Brutality
+REKKR: Sunken Land
+Re-Powerslave
+Shrine II
+Shrine
+Solace Dreams
+Space Cats Saga
+Splatterhouse 3D
+Strife: Quest for Sigil
+Supplice
+Total Chaos
+Vomitoreum
+Wolfenstein: Blade of Agony
+Action Doom II: Urban Brawl
+====================
+Total Games: 44

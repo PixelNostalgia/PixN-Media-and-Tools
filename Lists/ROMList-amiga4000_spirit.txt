@@ -1,0 +1,8 @@
+﻿System: amiga4000_spirit
+====================
+Curse of Monkey Island, The (AGA) [ScummVM]
+T-Zer0 CD (AGA)
+Day Of The Tentacle (AGA) [ScummVM]
+Beneath A Steel Sky (AGA) (MT32)
+====================
+Total Games: 4

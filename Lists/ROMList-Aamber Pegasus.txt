@@ -1,0 +1,7 @@
+﻿System: Aamber Pegasus
+====================
+Tank Version 1.2
+Invaders from Space Version 1.0
+Galaxy Wars & Hangman
+====================
+Total Games: 3

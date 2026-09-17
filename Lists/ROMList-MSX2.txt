@@ -1,0 +1,59 @@
+﻿System: MSX2
+====================
+1942
+[DIRES] - giger . loop -
+AcroJet
+American Soccer
+Arctic
+Arkanoid II - Revenge of Doh
+Arsene Lupin the 3rd: The Golden Legend of Babylon
+Bubble Bobble
+Darwin 4078
+Dragon Buster
+Dragon King
+Druid
+Dynamite Bowl
+F-15 Strike Eagle
+Family Billiards
+Family Boxing
+Family Stadium Pro Baseball
+Fantasy Zone II - The Tears of Opa-Opa
+Fire Ball
+Girly Block
+Hardball
+Heroes Of The Lance
+Hole In One Special
+Ikari
+Ishtar no Fukkatsu
+Jackie Chan in 'Project A' 2
+Kontora
+Koronis Rift
+Lupin the 3rd : Cagliostro no Shiro
+Mad Rider
+Mirai
+Mr. Ninja - Ashura's Chapter
+Ogre
+Out Run
+Pac-Mania
+Pennant Race 1
+Predator
+Professional Baseball Fan Tele Network Stadium
+Rastan Saga
+Replicart
+Return of Jelda
+Rick and Mick's Big Adventure
+Scramble Formation
+Space Manbow
+Star Virgin
+Strategic Mars
+Super Lode Runner
+Super Rambo Special
+Super Runner
+Super Triton
+Tetris V2
+The Cockpit
+The Eidolon
+The Mon Mon Monster
+Xevious - Fardraut Saga
+====================
+Total Games: 55

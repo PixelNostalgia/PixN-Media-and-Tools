@@ -1,0 +1,8 @@
+﻿System: Love System
+====================
+Blockdash
+Chess Board
+Jumpy Guys Adventure
+Rem Psycho
+====================
+Total Games: 4

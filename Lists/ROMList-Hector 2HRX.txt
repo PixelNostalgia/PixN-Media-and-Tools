@@ -1,0 +1,24 @@
+﻿System: Hector 2HRX
+====================
+Asteroides
+Base Spatiale
+Chatbyrinthe
+Combat
+Cow-Boys
+Crazy8
+Encerclement
+Envahisseurs
+Flipper
+Formule1
+Galaxius
+Goofy Golf
+Grenouille
+Jeu De La Vie
+Knockdown
+La Caverne Des Lutins
+Le Baroudeur
+Le Glouton
+Piranhas
+Sous-Marin
+====================
+Total Games: 20

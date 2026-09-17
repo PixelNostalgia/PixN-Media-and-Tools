@@ -1,0 +1,44 @@
+﻿System: Dreamcast VMU
+====================
+5-Pin Bowling Game
+Adventure VMU
+Alien Fighter
+Alien Shooter
+Basketball
+Bounce
+Dream Racer
+Fat Rain
+Freak Skater 2
+Glucky Laby
+Guess the Square
+Jim Light
+Jim's Bowling
+Kill Hyman 3
+Lightsaber Battle!
+Magic 8 Ball
+Metal Gear Stealth
+Minesweeper
+Muddy Say's
+Paper Attack
+Puzzle
+Rainbow Six
+Revenge
+Shell Game, The
+Simon
+Sniper
+Star Wars
+Supercross VMU
+Swampy
+Tetris
+Time Crisis
+Time Shooter
+Tokyo Mini Racer
+Until Death
+VMU Boxing
+VMU Fighter
+VMU Football
+VMU Mini Pac-Man
+VMU Racer
+VMU Vision
+====================
+Total Games: 40

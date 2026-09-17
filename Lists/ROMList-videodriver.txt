@@ -1,0 +1,10 @@
+﻿System: videodriver
+====================
+California Chase
+Family Driver 01: Halahara Touring
+Family Driver 03: I am a Patrolman
+Police Pursuit
+Road Racer
+Family Driver 02: Seaside Drive
+====================
+Total Games: 6

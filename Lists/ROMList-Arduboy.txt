@@ -1,0 +1,52 @@
+﻿System: Arduboy
+====================
+ArduGods
+Circuit Dude
+Cooties Attack!
+Dice of Fate
+Lagunita
+LongCat
+MallARD Hunt
+Midnight Wild
+Mini Rogue
+Shadow Runner
+Shattered Lands - Towers of Perdition
+Starduino Classic
+The Crawl
+Tackle Box
+1nvader
+Kong
+Ardusweeper
+Fire Panic
+Turtle Bridge
+Pipes
+Ardynia
+Arduventure - Trail of the Blade
+BiriBiriBeat
+CastleBoy
+PiCross
+Dark and Under
+Catacombs of the Damned
+Hangman
+Oil Panic
+The Social Distance Game
+Micro City
+Arduminer
+Monpals
+Not Just a Hat Rack
+Sudoku - NBP
+Flappy Birdie
+Ardu-Man
+Star Honor
+Ardu-EZ Button
+The Bounce
+Ninja Fuzzgrawth
+Rick and Morty Game
+Omega Horizon
+Blackjack
+Tiny Sokoban
+Tower of Pain
+Flappy Ball
+Micro Tank
+====================
+Total Games: 48

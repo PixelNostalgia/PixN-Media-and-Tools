@@ -1,0 +1,11 @@
+﻿System: Super Vision 8000
+====================
+Beam Galaxian
+Gun Professional
+Missile Vader
+Othello
+Pac Pac Bird
+Space Fire
+Submarine
+====================
+Total Games: 7

@@ -1,0 +1,21 @@
+﻿System: Elektronika IM (LCD games)
+====================
+Asteroid attack (IM-53)
+Autoslalom (IM-23)
+Biathlon (IM-19)
+Circus (IM-01)
+Hockey (IM-10)
+Space Bridge (IM-09)
+Space flight (IM-50)
+Cat-fisher (IM-19)
+Quack-a-doodle-doo (IM-33)
+Sea attack (IM-51)
+Night thieves (IM-49)
+Well, Just You Wait! (IM-02)
+Hunting (IM-16)
+Space Explorers (IM-13)
+Secrets of the Ocean (IM-03)
+The Cheerful Cook (IM-04)
+Jolly footballers (IM-22)
+====================
+Total Games: 17
