@@ -1,28 +1,29 @@
 ﻿System: Videopac+ G7400
 ====================
-Billiard Americain
-Chez Maxime
-Clay Pigeon
-Cosmic Conflict
-Demon Attack
-Exojet +
-Flipper
-Freedom Fighters
-Helicopter Rescue
-Killer Bees
+The Blobbers
+Depth Charge + Marksman
+Frogger
+Interpol
+Kinder im Verkehr 1
 Loony Balloon
-Moto-Crash +
-Neutron Star
+Martian Threat
+Morse
+Musician
 Nightmare
-Norseman
-Pickaxe Pete
-Race / Spin-Out / Cryptogram
-Satellite Attack
-Stone Sling
-Syracuse
-Bowling! / Basketball!
-Terrahawks
-Trans American Rally
-Le TrÃ©sor Englouti +
+Play Tag
+Popeye
+Qbert
+Red Baron
+Robot City
+Secret of the Pharaohs
+Shark Hunter
+Spider-Man
+Super Bee
+Super Cobra
+Labyrinth Game, A + Supermind
+Catch the Ball + Noughts and Crosses
+Chinese Logic
+The Mousing Cat
+4 in 1 Row
 ====================
-Total Games: 24
+Total Games: 25

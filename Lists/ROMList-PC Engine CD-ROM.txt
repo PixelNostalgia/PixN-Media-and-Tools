@@ -29,8 +29,8 @@ Bishoujo Senshi Sailor Moon
 Bishoujo Senshi Sailor Moon Collection
 Black Hole Assault
 Blood Gear
-Bomberman '94 Taikenban
 Bomberman - Panic Bomber
+Bomberman '94 Taikenban
 Bonanza Bros.
 Brandish
 Browning
@@ -61,9 +61,9 @@ Cyber City Oedo 808 - Kemono No Alignment
 Daisenpuu Custom
 Daisenryaku II - Campaign Version
 Davis Cup Tennis, The
-De-Ja
 Dead Of The Brain 1 & 2
 Death Bringer - The Knight Of Darkness
+De-Ja
 Dekoboko Densetsu - Hashiru Wagamanmaa
 Dennou Tenshi - Digital Ange
 Digital Comic - Patlabor - Chapter Of Griffon
@@ -83,22 +83,22 @@ Duo Comic: Bakuretsu Hunter
 Efera And Jiliora - The Emblem From Darkness
 Eikan Wa Kimi Ni - Koukou Yakyuu Zenkoku Taikai
 Eiyuu Sangokushi
-Emerald Dragon (Japan) (Rev 1) [T-En by Stargood Translations v1.0]
+Emerald Dragon
 F1 Circus Special - Pole To Win
 F1 Team Simulation - Project F
 Faceball
 Faerie Dust Story - Meikyuu No Elfeene
 Far East of Eden: Tengai Makyou: Fuun Kabuki-den
 Farjius No Jakoutei - Neo Metal Fantasy
-FaussetÃ© Amour
+Fausseté Amour
 Fiend Hunter
 Flash Hiders
 Formation Soccer 95 Della Serie A
 Fray in Magical Adventure CD : Xak Gaiden
 Fushigi No Umi No Nadia - The Secret Of Blue Water
 Gain Ground SX
-Galaxy FrÃ¤ulein Yuna
-Galaxy FrÃ¤ulein Yuna II: Eternal Princess
+Galaxy Fräulein Yuna
+Galaxy Fräulein Yuna II: Eternal Princess
 Galaxy Keiji Gayvan
 Gambler Jiko Chuushinha - Gekitou 36 Janshi
 Gambler Jiko Chuushinha - Mahjong Puzzle Collection
@@ -118,9 +118,9 @@ Gulclight TDF 2
 Hatsukoi Monogatari
 Hawk F-123
 Hellfire S - The Another Story
-Hi-Leg Fantasy
 High Grenadier
 Hihou Densetsu - Chris No Bouken
+Hi-Leg Fantasy
 Himitsu No Hanazono
 Horror Story
 Hu Pga Tour - Powergolf 2 - Golfer
@@ -152,18 +152,18 @@ Kisou Louga
 Kisou Louga II - The Ends Of Shangrila
 Ko Seiki Beast Sanjuushi - Gaia Fukkatsu Kanketsu-hen
 Kuusou Kagaku Sekai Gulliver Boy
-L-Dis
 Lady Phantom
 Langrisser - Hikari No Matsuei
 Laplace No Ma
 Laser Soft Visual Collection Volume I - Cosmic Fantasy Visual Shuu
 Laser Soft Visual Collection Volume II - Cosmic Fantasy Visual Shuu
 Last Armageddon
+L-Dis
 Legend of Xanadu - Kaze no Densetsu Xanadu II
 Legend of Xanadu, The: Kaze no Densetsu Xanadu
 Legion
 Lemmings
-LindaÂ³
+Linda³
 Lodoss Tou Senki - Record Of Lodoss War
 Lodoss Tou Senki II - Record Of Lodoss War
 Lord Of Wars
@@ -203,9 +203,9 @@ Nemurenu Yoru No Chiisana Ohanashi
 Neo Nectaris
 NEXZR
 Nishimura Kyoutarou - Hokutosei No Onna
-No-Ri-Ko
 Nobunaga No Yabou - Bushou Fuuunroku
 Nobunaga No Yabou - Zenkokuban
+No-Ri-Ko
 Pachio-kun - Maboroshi No Densetsu
 Pachio-kun - Warau Uchuu
 Pachiokun 3 : Pachi-Slot & Pachinko
@@ -235,7 +235,6 @@ Quiz Marugoto The World
 Quiz Marugoto The World 2 - Time Machine Ni Onegai!
 Quiz No Hoshi - Star Of Quiz
 Quiz Tonosama No Yabou
-R-type Complete CD
 Rainbow Islands
 Ranma 1/2
 Ranma 1/2 : Datou Ganso Musabetsu Kakutou-ryuu!
@@ -246,6 +245,7 @@ Renny Blaster
 Road Spirits
 Rockman / Megaman
 Rom Rom Stadium
+R-type Complete CD
 Ruin - Kami No Isan
 Ryuuko No Ken
 Sangokushi - Eiketsu Tenka Ni Nozomu
@@ -326,11 +326,11 @@ Travel Eple
 Travellers! Densetsu o Buttobase
 TV Show, The
 Uchuu Senkan Yamato
-UltraBox 2-gÅ
-UltraBox 3-gÅ
-UltraBox 4-gÅ
-UltraBox 5-gÅ
-UltraBox 6-gÅ
+UltraBox 2-gō
+UltraBox 3-gō
+UltraBox 4-gō
+UltraBox 5-gō
+UltraBox 6-gō
 UltraBox Soukan-gou
 Urusei Yatsura - Stay With You
 Valis IV

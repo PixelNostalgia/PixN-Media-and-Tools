@@ -5,7 +5,7 @@
 101-in-1 Party Megamix
 101-in-1 Sports Party Megamix
 2010 FIFA World Cup South Africa
-428: FÅ«sa Sareta Shibuya de
+428: Fūsa Sareta Shibuya de
 A Boy and His Blob
 ABBA: You Can Dance
 ABC Wipeout: The Game
@@ -70,7 +70,7 @@ Arthur and the Revenge of Maltazard
 Artlist Collection: The Dog Island
 Ashes Cricket 2009
 Astro Boy: The Video Game
-AstÃ©rix at the Olympic Games
+Astérix at the Olympic Games
 Atrevete a Sonar
 Attack of the Movies 3-D
 ATV: Quad Kings
@@ -124,12 +124,12 @@ Ben 10: Omniverse
 Ben 10: Omniverse 2
 Ben 10: Protector of Earth
 Ben 10: Ultimate Alien: Cosmic Destruction
-Benjamin BlÃ¼mchen: TÃ¶rÃ¶Ã¶Ã¶ im Zoo
+Benjamin Blümchen: Törööö im Zoo
 Bermuda Triangle: Saving the Coral
 Beyblade: Metal Fusion: Battle Fortress
-Bibi & Tina: Das groÃŸe Reiterfest
-Bibi Blocksberg: Das groÃŸe Hexenbesen-Rennen
-Bibi Blocksberg: Das GroÃŸe Hexenbesen-Rennen 2
+Bibi & Tina: Das große Reiterfest
+Bibi Blocksberg: Das große Hexenbesen-Rennen
+Bibi Blocksberg: Das Große Hexenbesen-Rennen 2
 Bienvenue chez les Ch'tis
 Big Beach Sports
 Big Beach Sports 2
@@ -587,7 +587,7 @@ How to Train Your Dragon
 How to Train Your Dragon 2
 Hugo: Magic in the Troll Woods
 Hula Wii: Hula de Hajimeru: Bi to Kenkou!
-Hula Wii: Motto Jouzu no Fura o Odorouâ€¼
+Hula Wii: Motto Jouzu no Fura o Odorou‼
 Hunting Challenge
 Hyper Fighters
 Hysteria Hospital: Emergency Ward
@@ -764,12 +764,12 @@ Let's Sing 2018 : - Mit Deutschen Hits
 Let's Sing 2019: Hits Francais et Internationaux
 Let's Sing 2019: Mit Deutschen Hits
 Let's Sing 5 - Version Espanola
-Let's Sing 6: VersiÃ³n EspaÃ±ola
-Let's Sing 7: VersiÃ³n EspaÃ±ola
-Let's Sing 8: VersiÃ³n EspaÃ±ola
+Let's Sing 6: Versión Española
+Let's Sing 7: Versión Española
+Let's Sing 8: Versión Española
 Let's Sing @ Radio Italia
 Let's Tap
-Letâ€™s Sing 2016: Hits FranÃ§ais
+Let’s Sing 2016: Hits Français
 Line Rider 2: Unbound
 Link's Crossbow Training
 Little King's Story
@@ -784,7 +784,7 @@ Los 40 Principales: Karaoke Party Vol. 2
 Lost in Blue: Shipwrecked
 Lost in Shadow
 Love is... in Bloom: The Flower Shop Garden
-Lucha Libre AAA: HÃ©roes Del Ring
+Lucha Libre AAA: Héroes Del Ring
 Luxor 3
 Luxor: Pharaoh's Challenge
 M&M's Adventure
@@ -1075,9 +1075,9 @@ Pizza Delivery Boy
 Planet 51: The Game
 Playmobil: Circus
 Pocoyo Racing
-PokÃ©mon Battle Revolution
-PokÃ©Park 2: Wonders Beyond
-PokÃ©Park Wii: Pikachu's Adventure
+Pokémon Battle Revolution
+PokéPark 2: Wonders Beyond
+PokéPark Wii: Pikachu's Adventure
 Pony Friends 2
 Pool Hall Pro
 Pool Party
@@ -1112,8 +1112,8 @@ Puzzle Quest: Challenge of the Warlords
 Puzzle Series Vol. 1: Sudoku
 Puzzle Series Vol. 2: Illustlogic + Colorful Logic
 Puzzler Collection
-PÃ©kin Express: La Route des Dragons
-PÃ©tanque Pro
+Pékin Express: La Route des Dragons
+Pétanque Pro
 Questions pour un Champion: Le Jeu Officiel
 Quiz Party
 Rabbids Go Home
@@ -1506,8 +1506,8 @@ TV Show King Party
 TV Total Events
 Twin Strike: Operation Thunder
 Twinkle Queen
-TÃ©lÃ© 7 Jeux : Mots CroisÃ©s
-TÃ©lÃ© 7 Jeux: Mots FlÃ©chÃ©s
+Télé 7 Jeux : Mots Croisés
+Télé 7 Jeux: Mots Fléchés
 U-Sing
 U-Sing 2
 U-Sing 2 : Australian Edition
@@ -1635,6 +1635,6 @@ Zumba Fitness Core
 Zumba Fitness: Join the Party
 Zumba Fitness: World Party
 Zumba Kids
-ÅŒkami
+Ōkami
 ====================
 Total Games: 1636

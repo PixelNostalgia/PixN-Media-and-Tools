@@ -1,15 +1,15 @@
 ﻿System: Super A-Can
 ====================
-Boom Zoo
-Formosa Duel
-Gambling Lord
-Journey to the Laugh
-Magical Pool
-Monopoly - Adventure in Africa
-Sango Fighter
-Speedy Dragon
-Super Light Saga: Dragon Force
-Super Taiwanese Baseball League
-The Son of Evil
+Journey to the Laugh (Taiwan)
+Monopoly - Adventure in Africa (Taiwan)
+Sango Fighter (Taiwan)
+Speedy Dragon (Taiwan)
+Super Dragon Force (Taiwan)
+Super Taiwanese Baseball League (Taiwan)
+The Son of Evil (Taiwan)
+Gambling Lord (Taiwan)
+Formosa Duel (Taiwan)
+Magical Pool (Taiwan)
+Boom Zoo (Taiwan)
 ====================
 Total Games: 11

@@ -55,7 +55,7 @@ AirForce Delta Strike
 Akira Psycho Ball
 Alan Hansen's Sports Challenge
 Alarm for Cobra 11 Vol. 2: Hot Pursuit
-Alarm fÃ¼r Cobra 11
+Alarm für Cobra 11
 Alex Ferguson's Player Manager 2001
 Alfa Romeo Racing Italiano
 Alias
@@ -125,8 +125,8 @@ Assault Suits Valken
 Asterix & Obelix - Kick Buttix
 Astro Boy
 Astro Boy - The Video Game
-AstÃ©rix & ObÃ©lix XXL 2: Mission: Las Vegum
-AstÃ©rix at the Olympic Games
+Astérix & Obélix XXL 2: Mission: Las Vegum
+Astérix at the Olympic Games
 Atari Anthology
 Atelier Iris - Eternal Mana
 Atelier Iris 2 - The Azoth of Destiny
@@ -1998,14 +1998,14 @@ SingStar: Pop
 SingStar: Pop Vol. 2
 SingStar: Queen
 SingStar: Rocks!
-SingStar: AprÃ¨s-Ski Party
+SingStar: Après-Ski Party
 SingStar: Boy Bands vs Girl Bands
 SingStar: Chart Hits
 SingStar: Chartbreaker
-SingStar: ClÃ¡sicos
+SingStar: Clásicos
 SingStar: Deutsch Rock-Pop
 SingStar: Deutsch Rock-Pop Vol. 2
-SingStar: Die grÃ¶ÃŸten SolokÃ¼nstler
+SingStar: Die größten Solokünstler
 SingStar: Die Toten Hosen
 SingStar: Fussballhits
 SingStar: Hottest Hits
@@ -2193,8 +2193,8 @@ Suzuki Super-Bikes II - Riding Challenge
 Suzuki TT Superbikes - Real Road Racing
 Suzuki TT Superbikes - Real Road Racing Championship
 SVC Chaos: SNK vs. Capcom
-Sven-GÃ¶ran Eriksson's World Challenge
-Sven-GÃ¶ran Eriksson's World Manager
+Sven-Göran Eriksson's World Challenge
+Sven-Göran Eriksson's World Manager
 Swashbucklers - Blue vs. Grey
 SWAT - Global Strike Team
 SWAT Siege
@@ -2578,7 +2578,7 @@ Zone of the Enders
 Zone of the Enders - The 2nd Runner
 Zoo Puzzle
 ZooCube
-Â¡Que pasa Neng! El Videojuego
+¡Que pasa Neng! El Videojuego
 SingStar: Apres-Ski Party 2
 SingStar
 SingStar: Afrikaanse Treffers
@@ -2630,7 +2630,7 @@ SingStar: Italian Party 2
 SingStar: Pop 2009
 SingStar: Kent
 SingStar: Portugal Hits
-SingStar: La Edad de Oro del Pop EspaÃ±ol
+SingStar: La Edad de Oro del Pop Español
 SingStar: Polskie Hity
 SingStar: Made in Germany
 SingStar: ESKA - Hity na Czasie

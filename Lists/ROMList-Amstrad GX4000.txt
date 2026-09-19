@@ -389,7 +389,7 @@ Krakout
 Kristal
 Kung Fu Master
 Kwik Snax Dizzy
-La AbadÃ­a del Crimen
+La Abadía del Crimen
 La Aventura Espacial
 La Espada Sagrada
 La Guerra De Gamber
@@ -401,8 +401,8 @@ Leaderboard
 Leaderboard Tournament
 Lemmings
 Les Aventures Du Ka: 20 000 Avant J.C.
-Les Aventures du Ka: Le CrÃ©puscule du Naja
-Les Aventures du Ka: Le MalÃ©fice Des Atlantes
+Les Aventures du Ka: Le Crépuscule du Naja
+Les Aventures du Ka: Le Maléfice Des Atlantes
 Les Aventures du Ka: Le Talisman d'Osiris
 Les Aventures du Ka: Menace sur l'Arctique
 Les Aventures du Ka: Traitement Bzzz
@@ -774,7 +774,7 @@ Trivial Pursuit A New Beginning
 Trivial Pursuit Baby Boomer Edition
 Trivial Pursuit Genus Edition
 Trivial Pursuit Young Players Edition
-Trivial Pursuit: La RÃ©volution FranÃ§aise
+Trivial Pursuit: La Révolution Française
 Tuareg
 Turbo Bike
 Turbo Chopper Simulator

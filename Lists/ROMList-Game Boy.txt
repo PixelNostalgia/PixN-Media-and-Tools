@@ -1,622 +1,569 @@
 ﻿System: Game Boy
 ====================
-10-Pin Bowling
-2021: Moon Escape
-4-in-1 Fun Pak
-4-in-1 Funpak: Volume II
-A-mazing Tater
-The Addams Family
-The Addams Family: Pugsley's Scavenger Hunt
-Adulting!
-Adventure Island
-Adventure Island II: Aliens in Paradise
-Adventures of Lolo
-The Adventures of Rocky and Bullwinkle and Friends
-The Adventures of Star Saver
-Aerostar
-We're Back! A Dinosaur's Story
-Disney's Aladdin
-Alfred Chicken
-Alien 3
-Alien Olympics
-Alien vs Predator: The Last of His Clan
-All-Star Baseball 99
-Alleyway
-Altered Space: A 3-D Alien Adventure
-Amazing Penguin
-The Amazing Spider-Man
-Animaniacs
-Arcade Classic No. 1: Asteroids / Missile Command
-Arcade Classic No. 2: Centipede & Millipede
-Arcade Classic No. 3: Galaga / Galaxian
-Arcade Classic No. 4: Defender / Joust
-Arcade Classics: Super Breakout / Battlezone
-AstÃ©rix & ObÃ©lix
-AstÃ©rix
-Asteroids
-Atomic Punk
-Attack of the Killer Tomatoes
-Avenging Spirit
-We're Back! A Dinosaur's Story
-Baby's Day Out
-Balloon Kid
-We're Back! A Dinosaur's Story
-Barbie: Game Girl
-Bart Simpson's Escape from Camp Deadly
-Baseball
-Bases Loaded
-Batman: Return of the Joker
-Batman: The Animated Series
-Batman: The Video Game
-Batman Forever
-Battle Arena Toshinden
-Battle Bull
-The Battle of Olympus
-Battle Unit Zeoth
-Battleship
-Battletoads
-Battletoads in Ragnarok's World
-Battletoads / Double Dragon
-Beavis and Butt-Head
-Beethoven
-Beetlejuice
-Best of the Best: Championship Karate
-Bill & Ted's Excellent Game Boy Adventure
-Bill Elliott's NASCAR Fast Tracks
-Bionic Battler
-Bionic Commando
-Black Bass: Lure Fishing
-Black Castle
-Blade Warrior
-Blades of Steel
-Blaster Master Boy
-The Blues Brothers
-The Blues Brothers: Jukebox Adventure
-Bo Jackson: Two Games in One
-Bobby's World
-Boggle Plus
-Bomb Jack
-Bomberman GB
-Bonk's Adventure
-Bonk's Revenge
-Boomer's Adventure in ASMIK World
-Boulder Dash
-Boxxle
-Boxxle II
-BrainBender
-Brain Drain
-Bram Stoker's Dracula
-BreakThru!
-Bubble Bobble
-Bubble Bobble Part 2
-Bubble Ghost
-Bubsy II
-The Bugs Bunny Crazy Castle 2
-The Bugs Bunny Crazy Castle
-Burai Fighter Deluxe
-BurgerTime Deluxe
-Bust-A-Move 2: Arcade Edition
-Bust-A-Move 3 DX
-Buster Bros.
-Caesars Palace
-Captain America and the Avengers
-Casino FunPak
-Casper
-Castelian
-Castle Quest
-Castlevania: The Adventure
-Castlevania II: Belmont's Revenge
-Castlevania Legends
-Catrap
-Centipede
-Championship Pool
-Chase H.Q.
-The Chessmaster
-Choplifter II: Rescue Survive
-Choplifter III
-Chuck Rock
-Cliffhanger
-College Slam
-Contra: The Alien Wars
-Cool Ball
-Cool Hand
-Cool Spot
-Cool World
-CosmoTank
-Crystal Quest
-Cutthroat Island
-Cyraid
-Daedalian Opus
-Daffy Duck
-Darkman
-Disney's Darkwing Duck
-David Crane's The Rescue of Princess Blobette Starring A Boy and his Blob
-Days of Thunder
-Dead Heat Scramble
-Death Track
-Dennis the Menace
-Desert Strike: Return to the Gulf
-Dexterity
-Diablo
-Dick Tracy
-Dig Dug
-Donkey Kong
-Donkey Kong Land 2
-Donkey Kong Land 2
-Donkey Kong Land III
-Double Dragon
-Double Dragon 3: The Arcade Game
-Double Dragon II
-Double Dribble: 5 on 5
-Dr. Franken
-Dr. Franken II
-Dr. Mario
-Dragon's Lair: The Legend
-Dragonborne
-DragonHeart
-Dropzone
-DuckTales
-DuckTales 2
-Atomic Punk
-Earthworm Jim
-Eddie's Puzzle Time
-Elevator Action
-Elite Soccer
-Exodus: Journey to the Promised Land
-Extra Bases
-F-1 Race
-F-15 Strike Eagle
-F1 Pole Position
-Faceball 2000
-Fastest Lap
-Felix the Cat
-Ferrari Grand Prix Challenge
-The Fidgetts
-FIFA: Road to World Cup 98
-FIFA International Soccer
-FIFA Soccer 96
-FIFA Soccer 97
-Fighting Simulator 2-in-1: Flying Warriors
-Final Fantasy Adventure
-Final Fantasy Legend II
-Final Fantasy Legend III
-The Final Fantasy Legend
-Fire Fighter
-Fish Dude
-Fist of the North Star: 10 Big Brawls for the King of the Universe!
-The Flash
-The Flintstones
-The Flintstones: King Rock Treasure Island
-Flipull
-Football International
-Foreman For Real
-Fortified Zone
-Frank Thomas Big Hurt Baseball
-Franky, Joe & Dirk: On the Tiles
-Frogger
-G-ZERO (World) (v2.6) (Aftermarket) (Unl)
-Game & Watch Gallery
-Game Boy Gallery: 5 Games in 1
-The Game of Harmony
-Garfield Labyrinth
-Gargoyle's Quest
-Gauntlet II
-Gear Works
-George Foreman's KO Boxing
-The Getaway: High Speed II
-Ghostbusters II
-Go! Go! Tank
-Goal!
-Godzilla
-Golf
-Gradius: The Interstellar Assault
-Great Greed
-Gremlins 2: The New Batch
-Gunman Clive
-Hal Wrestling
-Hammerin' Harry
-Harvest Moon GB
-Hatris
-Heavyweight Championship Boxing
-Heiankyo Alien
-Hercules
-Hermano
-High Stakes Gambling
-Hit the Ice
-Home Alone
-Home Alone 2: Lost in New York
-Hook
-Hudson Hawk
-Hugo (Europe) (SGB Enhanced)
-Hugo 2
-The Humans
-Disney's The Hunchback of Notre Dame: 5 Foolishly Fun Topsy Turvy Games
-The Hunt for Red October
-Double Dribble: 5 on 5
-Hyper Lode Runner
-In Your Face
-The Incredible Crash Dummies
-Indiana Jones and the Last Crusade
-Un Indien Dans La Ville
-International Superstar Soccer
-Iron Man / X-O Manowar in Heavy Metal
-Ishido: The Way of Stones
-Jack Nicklaus Golf
-James Bond 007
-Jeep Jamboree: Off-Road Adventure
-Jelly Boy
-Jeopardy!
-Jeopardy! Platinum Edition
-Jeopardy! Sports Edition
-Jeopardy! Teen Tournament
-The Jetsons: Robot Panic
-Jimmy Connors Tennis
-Joe & Mac
-John Madden Football
-Jordan vs Bird: One on One
-Joshua & the Battle of Jericho
-Judge Dredd
-Jumpy
-The Jungle Book
-Jungle Strike: The Sequel to Desert Strike
-Jurassic Park
-Jurassic Park Part 2: The Chaos Continues
-Ken Griffey Jr. Presents Major League Baseball
-Kid Dracula
-Kid Icarus: Of Myths and Monsters
-Killer Instinct
-The King of Fighters '95
-The King of Fighters: Heat of Battle
-Kingdom Crusade
-Kirby's Block Ball
-Kirby's Dream Land
-Kirby's Dream Land 2
-Kirby's Pinball Land
-Kirby's Star Stacker
-Klax (Mindscape)
-Klustar
-Knight Quest
-Krusty's Fun House
-Kudzu
-Kung' Fu Master
-Kwirk
-Lamborghini American Challenge
-Last Action Hero
-The Lawnmower Man
-Lazlos' Leap
-Legend of the River King GB
-The Legend of Zelda: Link's Awakening
-Lemmings
-Lemmings 2: The Tribes
-Lethal Weapon
-Lingo
-The Lion King
-Disney's The Little Mermaid
-Lock n' Chase
-Looney Tunes
-Taz-Mania
-LoopZ
-The Lost World: Jurassic Park
-Lucky Luke
-Lucle
-Madden 95
-Madden 96
-Madden 97
-Magnetic Soccer
-Malibu Beach Volleyball
-Marble Madness
-Mario's Picross
-Maru's Mission
-Matthias Sammer Soccer
-Maui Mallard in Cold Shadow
-Die Maus
-Max
-Spot: The Cool Adventure
-Mega Man: Dr. Wily's Revenge
-Mega Man II
-Mega Man III
-Mega Man IV
-Mega Man V
-Megalit
-Mercenary Force
-Metal Masters
-Metroid II: Return of Samus
-Mick & Mack as the Global Gladiators
-The Bugs Bunny Crazy Castle 2
-Mickey Mouse: Magic Wands!
-Mickey's Dangerous Chase
-Mickey's Ultimate Challenge
-Micro Machines
-Micro Machines 2: Turbo Tournament
-Mighty Morphin Power Rangers
-Mighty Morphin Power Rangers: The Movie
-Milon's Secret Castle
-Miner 2049er
-Missile Command
-Mole Mania
-Monopoly
-Monster Max
-Monster Truck Wars
-Montezuma's Return!
-Monty on the Run
-Mortal Kombat
-Mortal Kombat 3
-Mortal Kombat II
-Motocross Maniacs
-Mouse Trap Hotel
-Mr. Chin's Gourmet Paradise
-Mr. Do!
-Mr. Nutz
-Ms. Pac-Man
-Muhammad Ali Heavyweight Boxing
-Mulan
-My Dinner with AndrÃ©
-Mysterium
-Mystical Ninja Starring Goemon
-Nail 'n Scale
-Navy Seals
-NBA All-Star Challenge
-NBA All-Star Challenge 2
-NBA Jam
-NBA Jam: Tournament Edition
-NBA Live 96
-Nemesis
-The New Chessmaster
-NFL Football
-NFL Quarterback Club
-NFL Quarterback Club '96
-NFL Quarterback Club II
-NHL 96
-NHL Hockey 95
-Nick Faldo Championship Golf
-Nigel Mansell's World Championship Racing
-Ninja Boy
-Ninja Boy 2
-Ninja Gaiden Shadow
-Ninja Taro
-Nintendo World Cup
-NIV Bible & the 20 Lost Levels of Joshua
-Nobunaga's Ambition: Game Boy Version
-Oddworld Adventures
-Olympic Summer Games
-Operation C
-Othello
-Otto's Ottifanten: Baby Bruno's Nightmare
-Out of Gas
-Pac-Attack
-Pac-in-Time
-Pac-Man
-The Pagemaster
-Palamedes
-Panel Action Bingo
-Paperboy
-Paperboy 2
-Parasol Stars: Rainbow Islands II
-Parodius
-Penguin Wars
-PGA European Tour
-PGA Tour 96
-Turn and Burn: The F-14 Dogfight Simulator
-Pierre le Chef is... Out to Lunch
-Revenge of the 'Gator
-Pinball Deluxe
-Pinball Dreams
-Pinball Fantasies
-Pinball Mania
-Pinocchio
-Pipe Dream
-Pit-Fighter
-Play Action Football
-Pocahontas
-Pocket Bomberman
-PokÃ©mon Blue Version
-PokÃ©mon Red Version
-PokÃ©mon Yellow Version
-Pop'n TwinBee
-Popeye 2
-Populous
-Power Mission
-Power Racer
-Prehistorik Man
-Primal Rage
-Prince of Persia
-Operation C
-Contra: The Alien Wars
-Prophecy: The Viking Child
-The Punisher: The Ultimate Payback
-Pyramids of Ra
-Q Billion
-Q*bert for Game Boy
-Qix
-Quarth
-R-Type
-R-Type II
-Race Days
-Race Drivin'
-Radar Mission
-Raging Fighter
-Rampart
-Rap Quest
-The Real Ghostbusters
-The Ren & Stimpy Show: Space Cadet Adventures
-The Ren & Stimpy Show: Veediots!
-Reservoir Rat
-Retroid
-Riddick Bowe Boxing
-Ring Rage
-Road Rash
-Robin Hood: Prince of Thieves
-RoboCop
-RoboCop 2
-RoboCop versus The Terminator
-RodLand
-Roger Clemens' MVP Baseball
-Rolan's Curse
-Rolan's Curse 2
-The Rugrats Movie
-Sam Mallard: The Case of the Missing Swan
-Samurai Shodown
-Sarakon
-Sea Battle
-seaQuest DSV
-Sensible Soccer: European Champions
-Serpent
-Shanghai
-Shaq Fu
-Side Pocket
-The Simpsons: Bart & the Beanstalk
-The Simpsons: Bart vs. the Juggernauts
-The Simpsons: Itchy & Scratchy in Miniature Golf Madness
-Skate or Die: Bad 'N Rad
-Skate Or Die: Tour de Thrash
-Small Soldiers
-The Smurfs' Nightmare
-The Smurfs Travel The World
-The Smurfs
-Sneaky Snakes
-Snoopy's Magic Show
-Snow Brothers
-Soccer Mania
-SolarStriker
-Solitaire FunPak
-Solomon's Club
-Sonic 6
-Space Invaders
-Spanky's Quest
-Speedball 2
-Speedy Gonzales
-Spider-Man and the X-Men in Arcade's Revenge
-Spider-Man 2
-The Amazing Spider-Man 3: Invasion of the Spider-Slayers
-Spiritual Warfare
-Spirou
-Splitz
-Sports Illustrated: Championship Football & Baseball
-Sports Illustrated: Golf Classic
-Sports Illustrated for Kids: The Ultimate Triple Dare
-Spot: The Cool Adventure
-Spot: The Video Game!
-Spud's Adventure
-Spy vs Spy: Operation Boobytrap
-Square Deal: The Game of Two-Dimensional Poker
-Star Trek: 25th Anniversary
-Star Trek: The Next Generation
-Star Trek Generations: Beyond the Nexus
-Star Wars
-Star Wars: The Empire Strikes Back
-Stargate
-StarHawk
-Stop That Roach!
-Street Fighter II
-Street Racer
-Sumo Fighter
-Sunsoft Grand Prix
-Super Battletank
-Super Black Bass
-Super Breakout
-Super Chase H.Q.
-Super Hunchback
-Super James Pond
-Super Kick Off
-Super Mario Land
-Super Mario Land 2: 6 Golden Coins
-Super Mario 4
-Super Off Road
-Super R.C. Pro-AM
-Super Scrabble
-Super Star Wars: Return of the Jedi
-Superman
-Swamp Thing
-The Sword of Hope II
-The Sword of Hope
-T2: The Arcade Game
-Tail 'Gator
-TaleSpin
-Tamagotchi
-Tarzan: Lord of the Jungle
-Tasmania Story
-Taz-Mania 2
-Taz-Mania 2
-Tecmo Bowl
-Teenage Mutant Ninja Turtles: Fall of the Foot Clan
-Teenage Mutant Ninja Turtles II: Back from the Sewers
-Teenage Mutant Ninja Turtles III: Radical Rescue
-Tennis
-T2: Terminator 2: Judgment Day
-Tesserae
-Tetris
-Tetris 2
-Tetris Attack
-Tetris Blast
-Tetris Plus
-Tintin: Prisoners of the Sun
-Tintin in Tibet
-Tiny Toon Adventures: Babs' Big Break
-Tiny Toon Adventures: Wacky Sports
-Tiny Toon Adventures 2: Montana's Movie Madness
-Tip Off
-Titus the Fox
-Tom & Jerry
-Tom and Jerry: Frantic Antics!
-Top Gun: Guts & Glory
-Top Rank Tennis
-Torpedo Range
-Total Carnage
-Toxic Crusaders
-Toy Story
-Track & Field
-Track Meet
-Traumatarium
-Traumatarium: Penitent
-Trax
-Trip World
-True Lies
-Tumble Pop
-Turn and Burn: The F-14 Dogfight Simulator
-Turok: Battle of the Bionosaurs
-Turrican
-Ultima: Runes of Virtue
-Ultima: Runes of Virtue II
-Ultra Golf
-Universal Soldier
-Urban Strike: The Sequel to Jungle Strike
-V-Rally: Championship Edition
-Vegas Stakes
-Wario Blast featuring Bomberman!
-Wario Land: Super Mario Land 3
-Wario Land II
-Waterworld
-Wave Race
-Wayne's World
-WCW: World Championship Wrestling: The Main Event
-We're Back! A Dinosaur's Story
-Wheel of Fortune
-Who Framed Roger Rabbit
-WildSnake
-Winter Olympic Games: Lillehammer '94
-Wizard of Wor (World) (Aftermarket) (Unl)
-Wizards & Warriors X: Fortress of Fear
-Wordtris
-Word Zap
-World Beach Volley: 1992 GB Cup
-World Bowling
-World Circuit Series
-World Cup 98
-World Cup USA '94
-World Heroes 2 Jet
-Worms
-WWF King of the Ring
-WWF Raw
-WWF Superstars
-WWF Superstars 2
-WWF War Zone
-Xenon 2
-Yogi Bear's Gold Rush
-Yoshi
-Yoshi's Cookie
-Zeldaâ€™s Adventure
-Zen: Intergalactic Ninja
-Zool: Ninja of the 'Nth' Dimension
-Zoop
+4-in-1 Fun Pak (USA, Europe)
+4-in-1 Fun Pak Volume II (USA, Europe)
+Addams Family, The - Pugsley's Scavenger Hunt (USA, Europe)
+Addams Family, The (USA)
+Adventure Island II - Aliens in Paradise (USA, Europe)
+Adventures of Lolo (Europe)
+Adventures of Rocky and Bullwinkle and Friends, The (USA)
+Adventures of Star Saver, The (USA, Europe)
+Aladdin (USA)
+Alfred Chicken (USA)
+Alien 3 (USA, Europe)
+Alien Olympics (Europe)
+Alien vs Predator - The Last of His Clan (USA)
+Alleyway (World)
+All-Star Baseball 99 (USA)
+Altered Space - A 3-D Alien Adventure (USA)
+Amazing Penguin (USA, Europe)
+Amazing Spider-Man, The (USA, Europe)
+A-mazing Tater (USA)
+Animaniacs (USA)
+Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe)
+Arcade Classic No. 2 - Centipede & Millipede (USA, Europe)
+Arcade Classic No. 3 - Galaga & Galaxian (USA)
+Arcade Classic No. 4 - Defender & Joust (USA, Europe)
+Arcade Classics - Battlezone & Super Breakout (USA, Europe)
+Asterix & Obelix (Europe)
+Asterix (Europe)
+Asteroids (USA, Europe)
+Atomic Punk (USA)
+Attack of the Killer Tomatoes (USA, Europe)
+Avenging Spirit (USA, Europe)
+Balloon Kid (USA, Europe)
+Barbie - Game Girl (USA, Europe)
+Bart Simpson's Escape from Camp Deadly (USA, Europe)
+Baseball (World)
+Bases Loaded (USA)
+Batman - Return of the Joker (USA, Europe)
+Batman - The Animated Series (USA, Europe)
+Batman - The Video Game (World)
+Batman Forever (USA, Europe)
+Battle Arena Toshinden (USA)
+Battle Bull (USA)
+Battle of Olympus, The (Europe)
+Battle Unit Zeoth (USA, Europe)
+Battleship (USA, Europe)
+Battletoads (USA, Europe)
+Battletoads in Ragnarok's World (USA)
+Battletoads-Double Dragon (USA)
+Beavis and Butt-Head (USA, Europe)
+Beethoven - The Ultimate Canine Caper (Europe)
+Beetlejuice (USA)
+Best of the Best - Championship Karate (USA)
+Bill & Ted's Excellent Game Boy Adventure (USA, Europe)
+Bill Elliott's NASCAR Fast Tracks (USA)
+Bionic Battler (USA)
+Bionic Commando (USA)
+Black Bass - Lure Fishing (USA)
+Blades of Steel (USA)
+Blaster Master Boy (USA)
+Blues Brothers, The - Jukebox Adventure (Europe)
+Blues Brothers, The (USA, Europe)
+Bo Jackson - Two Games in One (USA)
+Boggle Plus (USA)
+Bomb Jack (Europe)
+Bomberman GB (USA, Europe)
+Bonk's Adventure (USA)
+Bonk's Revenge (USA)
+Boomer's Adventure in ASMIK World (USA)
+Boulder Dash (Europe)
+Boxxle (USA, Europe) (Rev A)
+Boxxle II (USA)
+Brain Bender (USA)
+Brain Drain (USA)
+Bram Stoker's Dracula (USA, Europe)
+BreakThru! (USA)
+Bubble Bobble (USA, Europe)
+Bubble Bobble Part 2 (USA, Europe)
+Bubble Ghost (USA, Europe)
+Bubsy II (USA)
+Bugs Bunny Crazy Castle 2, The (USA)
+Bugs Bunny Crazy Castle, The (USA, Europe)
+Burai Fighter Deluxe (USA, Europe)
+BurgerTime Deluxe (World)
+Bust-A-Move 2 - Arcade Edition (USA, Europe)
+Bust-A-Move 3 DX (Europe)
+Buster Bros. (USA)
+Caesars Palace (USA) (Rev A)
+Captain America and the Avengers (USA)
+Casino FunPak (USA, Europe)
+Casper (USA)
+Castelian (USA)
+Castle Quest (Europe)
+Castlevania Adventure, The (USA)
+Castlevania II - Belmont's Revenge (USA, Europe)
+Castlevania Legends (USA, Europe)
+Catrap (USA)
+Centipede (USA, Europe)
+Championship Pool (USA)
+Chase H.Q. (USA, Europe)
+Chessmaster, The (USA) (Rev A)
+Choplifter II - Rescue & Survive (USA)
+Choplifter III (Europe)
+Chuck Rock (USA, Europe)
+Cliffhanger (USA, Europe)
+College Slam (USA)
+Contra - The Alien Wars (USA)
+Cool Ball (USA)
+Cool Hand (Europe)
+Cool Spot (USA)
+Cool World (USA, Europe)
+Cosmo Tank (USA)
+Crystal Quest (USA)
+CutThroat Island (USA, Europe)
+Cyraid (USA)
+Daedalian Opus (USA)
+Daffy Duck (USA)
+Darkman (USA)
+Darkwing Duck (USA)
+David Crane's The Rescue of Princess Blobette (USA)
+Days of Thunder (USA, Europe)
+Dead Heat Scramble (USA)
+Dennis the Menace (USA)
+Desert Strike - Return to the Gulf (USA)
+Dexterity (USA, Europe)
+Dick Tracy (USA)
+Dig Dug (USA)
+Donkey Kong (World) (Rev A)
+Donkey Kong Land (USA, Europe)
+Donkey Kong Land 2 (USA, Europe)
+Donkey Kong Land III (USA, Europe) (Rev A)
+Double Dragon (USA, Europe)
+Double Dragon 3 (USA, Europe)
+Double Dragon II (USA, Europe)
+Double Dribble - 5 on 5 (USA)
+Dr. Franken (USA)
+Dr. Franken II (USA, Europe)
+Dr. Mario (World) (Rev A)
+DragonHeart (USA, Europe)
+Dragon's Lair - The Legend (USA)
+Dropzone (Europe)
+DuckTales (USA)
+DuckTales 2 (USA)
+Earthworm Jim (USA)
+Elevator Action (USA, Europe)
+Elite Soccer (USA)
+Extra Bases! (USA)
+F1 Pole Position (USA, Europe)
+F-1 Race (World) (Rev A)
+F-15 Strike Eagle (USA, Europe)
+Faceball 2000 (USA)
+Fastest Lap (Japan, USA)
+Felix the Cat (USA, Europe)
+Ferrari Grand Prix Challenge (USA, Europe)
+Fidgetts, The (USA, Europe)
+FIFA International Soccer (USA, Europe)
+FIFA Road to the World Cup '98 (Europe)
+FIFA Soccer '96 (USA, Europe)
+FIFA Soccer '97 (USA, Europe)
+Fighting Simulator 2 in 1 (USA, Europe)
+Final Fantasy Adventure (USA)
+Final Fantasy Legend II (USA)
+Final Fantasy Legend III (USA)
+Final Fantasy Legend, The (USA)
+Fire Fighter (Europe)
+Fish Dude (USA)
+Fist of the North Star (USA)
+Flash, The (USA, Europe)
+Flintstones, The - King Rock Treasure Island (USA, Europe)
+Flintstones, The (USA, Europe)
+Flipull (USA)
+Foreman for Real (USA, Europe)
+Fortified Zone (USA, Europe)
+Frank Thomas Big Hurt Baseball (USA, Europe)
+Franky, Joe & Dirk... On the Tiles (Europe)
+Game & Watch Gallery (USA) (Rev A)
+Game Boy Gallery (Europe)
+Game of Harmony, The (USA)
+Gargoyle's Quest (USA, Europe)
+Gauntlet II (USA, Europe)
+Gear Works (USA, Europe)
+George Foreman's KO Boxing (USA, Europe)
+Getaway, The (USA)
+Ghostbusters II (USA, Europe)
+Go! Go! Tank (USA)
+Goal! (USA)
+Godzilla (USA, Europe)
+Golf (World)
+Gradius - The Interstellar Assault (USA)
+Great Greed (USA)
+Gremlins 2 - The New Batch (World)
+HAL Wrestling (USA)
+Hammerin' Harry - Ghost Building Company (Europe)
+Harvest Moon GB (USA)
+Hatris (Japan, USA)
+Heavyweight Championship Boxing (USA)
+Heiankyo Alien (USA)
+Hercules (USA, Europe)
+High Stakes Gambling (USA)
+Hit the Ice (USA, Europe)
+Home Alone (USA, Europe)
+Home Alone 2 - Lost In New York (USA, Europe)
+Hook (USA)
+Hudson Hawk (USA)
+Humans, The (USA)
+Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe)
+Hunt for Red October, The (USA, Europe)
+Hyper Lode Runner (World) (Rev A)
+In Your Face (USA)
+Incredible Crash Dummies, The (USA, Europe)
+Indiana Jones and the Last Crusade (USA, Europe)
+International Superstar Soccer (USA, Europe)
+Ironman X-O Manowar in Heavy Metal (USA, Europe)
+Ishido - The Way of Stones (USA)
+Jack Nicklaus Golf (USA, Europe)
+James Bond 007 (USA, Europe)
+Jeep Jamboree (USA)
+Jelly Boy (Europe)
+Jeopardy! - Platinum Edition (USA)
+Jeopardy! - Sports Edition (USA)
+Jeopardy! - Teen Tournament (USA)
+Jeopardy! (USA)
+Jetsons, The - Robot Panic (USA, Europe)
+Jimmy Connors Tennis (USA, Europe)
+Joe & Mac (USA)
+Jordan vs Bird - One on One (USA, Europe)
+Judge Dredd (USA, Europe)
+Jungle Book, The (USA, Europe)
+Jungle Strike (USA, Europe)
+Jurassic Park (USA)
+Jurassic Park Part 2 - The Chaos Continues (USA, Europe)
+Ken Griffey Jr. presents Major League Baseball (USA, Europe)
+Kid Dracula (USA, Europe)
+Kid Icarus - Of Myths and Monsters (USA, Europe)
+Killer Instinct (USA, Europe)
+King of Fighters '95, The (USA)
+King of Fighters, The - Heat of Battle (Europe)
+Kingdom Crusade (USA)
+Kirby's Block Ball (USA, Europe)
+Kirby's Dream Land (USA, Europe)
+Kirby's Dream Land 2 (USA, Europe)
+Kirby's Pinball Land (USA, Europe)
+Kirby's Star Stacker (USA, Europe)
+Klax (USA)
+Knight Quest (USA)
+Krusty's Fun House (USA, Europe)
+Kung-Fu Master (USA, Europe)
+Kwirk - He's A-maze-ing! (USA, Europe)
+Lamborghini American Challenge (USA, Europe)
+Last Action Hero (USA, Europe)
+Lawnmower Man, The (Europe)
+Lazlos' Leap (USA)
+Legend of the River King GB (USA)
+Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B)
+Lemmings (USA)
+Lemmings 2 - The Tribes (Europe)
+Lethal Weapon (USA)
+Lingo (Europe)
+Lion King, The (USA)
+Little Mermaid, The (USA)
+Lock'n Chase (World)
+Looney Tunes (USA, Europe)
+Loopz (World)
+Lost World, The - Jurassic Park (USA, Europe)
+Lucky Luke (Europe)
+Lucle (Japan, Europe)
+Madden '95 (USA, Europe)
+Madden '96 (USA, Europe)
+Madden '97 (USA)
+Magnetic Soccer (Europe)
+Malibu Beach Volleyball (USA)
+Marble Madness (USA, Europe)
+Mario's Picross (USA, Europe)
+Maru's Mission (USA)
+Maui Mallard (USA)
+Maus, Die (Europe)
+Max (Europe)
+Mega Man - Dr. Wily's Revenge (USA)
+Mega Man II (USA)
+Mega Man III (USA)
+Mega Man IV (USA)
+Mega Man V (USA)
+Megalit (USA, Europe)
+Mercenary Force (USA, Europe)
+Metal Masters (USA)
+Metroid II - Return of Samus (World)
+Mickey Mouse - Magic Wand (USA, Europe)
+Mickey's Chase (USA)
+Mickey's Ultimate Challenge (USA, Europe)
+Micro Machines (USA, Europe)
+Micro Machines 2 - Turbo Tournament (Europe)
+Mighty Morphin Power Rangers - The Movie (USA, Europe)
+Mighty Morphin Power Rangers (USA, Europe)
+Milon's Secret Castle (USA, Europe)
+Miner 2049er (USA)
+Missile Command (USA, Europe)
+Mole Mania (USA, Europe)
+Monopoly (USA)
+Monster Max (Europe)
+Monster Truck Wars (USA, Europe)
+Montezuma's Return! (Europe)
+Mortal Kombat (USA, Europe)
+Mortal Kombat 3 (USA)
+Mortal Kombat I & II (USA, Europe)
+Mortal Kombat II (USA, Europe)
+Motocross Maniacs (USA)
+Mouse Trap Hotel (USA)
+Mr. Chin's Gourmet Paradise (USA)
+Mr. Do! (USA)
+Mr. Nutz (Europe)
+Ms. Pac-Man (USA)
+Muhammad Ali's Boxing (USA, Europe)
+Mulan (USA, Europe)
+Mysterium (USA)
+Mystical Ninja Starring Goemon (USA)
+Nail'n Scale (USA, Europe)
+Navy Seals (USA, Europe)
+NBA All Star Challenge (USA, Europe)
+NBA All Star Challenge 2 (USA, Europe)
+NBA Jam - Tournament Edition (USA, Europe)
+NBA Jam (USA, Europe)
+NBA Live 96 (USA, Europe)
+Nemesis (USA)
+New Chessmaster, The (USA, Europe)
+NFL Football (USA)
+NFL Quarterback Club (USA, Europe)
+NFL Quarterback Club 2 (USA, Europe)
+NFL Quarterback Club '96 (USA, Europe)
+NHL '96 (USA, Europe)
+NHL Hockey '95 (USA, Europe)
+Nigel Mansell's World Championship (USA)
+Ninja Boy (USA, Europe)
+Ninja Boy 2 (USA, Europe)
+Ninja Gaiden Shadow (USA)
+Ninja Taro (USA)
+Nintendo World Cup (USA, Europe)
+Nobunaga's Ambition (USA)
+Oddworld Adventures (USA, Europe)
+Olympic Summer Games (USA, Europe)
+Operation C (USA)
+Othello (Europe)
+Otto's Ottifanten - Baby Bruno's Nightmare (Europe)
+Out of Gas (USA)
+Pac-Attack (USA)
+Pac-In-Time (USA)
+Pac-Man (USA)
+Pagemaster, The (USA)
+Palamedes (Europe)
+Panel Action Bingo (USA)
+Paperboy (USA, Europe)
+Paperboy 2 (USA, Europe)
+Parasol Stars (Europe)
+Parodius (Europe)
+Penguin Wars (USA)
+PGA European Tour (USA, Europe)
+PGA Tour '96 (USA, Europe)
+Phantom Air Mission (Europe)
+Pierre Le Chef is.. Out to Lunch (Europe)
+Pinball - Revenge of the 'Gator (USA, Europe)
+Pinball Deluxe (Europe)
+Pinball Dreams (USA, Europe)
+Pinball Fantasies (USA, Europe)
+Pinball Mania (Europe)
+Pinocchio (USA)
+Pipe Dream (USA)
+Pit Fighter (USA, Europe)
+Play Action Football (USA)
+Pocahontas (USA, Europe)
+Pocket Bomberman (Europe)
+Pokemon - Blue Version (USA, Europe)
+Pokemon - Red Version (USA, Europe)
+Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe)
+Popeye 2 (USA)
+Pop'n TwinBee (Europe)
+Populous (Europe)
+Power Mission (USA)
+Power Racer (USA, Europe)
+Prehistorik Man (USA, Europe)
+Primal Rage (USA, Europe)
+Prince of Persia (USA)
+Prophecy - The Viking Child (USA)
+Punisher, The - The Ultimate Payback (USA)
+Pyramids of Ra (USA)
+Q Billion (USA)
+Q-bert for Game Boy (USA, Europe)
+Qix (World)
+Quarth (USA, Europe)
+Race Days (USA)
+Race Drivin' (USA, Europe)
+Radar Mission (USA, Europe)
+Raging Fighter (USA, Europe)
+Rampart (USA, Europe)
+Real Ghostbusters, The (USA)
+Ren & Stimpy Show, The - Space Cadet Adventures (USA)
+Ren & Stimpy Show, The - Veediots! (USA, Europe)
+Reservoir Rat (Europe)
+Riddick Bowe Boxing (USA)
+Ring Rage (USA)
+Road Rash (USA, Europe)
+Robin Hood - Prince of Thieves (USA)
+RoboCop (USA, Europe) (Rev A)
+RoboCop 2 (USA)
+RoboCop vs. The Terminator (USA)
+Rod Land (Europe)
+Roger Clemens' MVP Baseball (USA)
+Rolan's Curse (USA)
+Rolan's Curse II (USA)
+R-Type (USA, Europe)
+R-Type II (Europe)
+Rugrats Movie, The (USA)
+Samurai Shodown (USA, Europe)
+Sea Battle (Europe)
+SeaQuest DSV (USA, Europe)
+Sensible Soccer - European Champions (Europe)
+Serpent (USA)
+Shanghai (USA)
+Shaq Fu (USA)
+Side Pocket (World)
+Simpsons Itchy & Scratchy, The - Miniature Golf Madness (USA, Europe)
+Simpsons, The - Bart & the Beanstalk (USA, Europe)
+Simpsons, The - Bart vs. the Juggernauts (USA, Europe)
+Skate or Die - Bad 'N Rad (USA)
+Skate or Die - Tour de Thrash (USA)
+Small Soldiers (USA, Europe)
+Smurfs Nightmare, The (Europe)
+Smurfs Travel the World, The (Europe)
+Smurfs, The (USA, Europe) (Rev A)
+Sneaky Snakes (USA, Europe)
+Snoopy - Magic Show (USA, Europe)
+Snow Brothers (USA)
+Soccer Mania (Japan, USA)
+SolarStriker (World)
+Solitaire FunPak (USA, Europe)
+Solomon's Club (USA)
+Space Invaders (USA)
+Spanky's Quest (USA)
+Speedball 2 - Brutal Deluxe (USA, Europe)
+Speedy Gonzales (USA, Europe)
+Spider-Man 2 (USA, Europe)
+Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe)
+Spider-Man-X-Men (USA, Europe)
+Spirou (Europe)
+Splitz (Europe)
+Sports Illustrated - Football & Baseball (USA)
+Sports Illustrated - Golf Classic (USA)
+Sports Illustrated for Kids - The Ultimate Triple Dare! (USA)
+Spot - The Cool Adventure (USA)
+Spot (USA)
+Spud's Adventure (USA)
+Spy vs Spy - Operation Boobytrap (USA)
+Square Deal - The Game of Two-Dimensional Poker (USA)
+Star Hawk (Europe)
+Star Trek - 25th Anniversary (USA, Europe)
+Star Trek - The Next Generation (USA, Europe)
+Star Trek Generations - Beyond the Nexus (USA)
+Star Wars - The Empire Strikes Back (USA)
+Star Wars (USA, Europe) (Rev A)
+Stargate (USA, Europe)
+Stop That Roach! (USA)
+Street Fighter II (USA, Europe) (Rev A)
+Street Racer (USA, Europe)
+Sumo Fighter (USA)
+Sunsoft Grand Prix (Europe)
+Super Battletank - War in the Gulf (USA)
+Super Black Bass (USA)
+Super Chase H.Q. (USA, Europe)
+Super Hunchback (USA)
+Super James Pond (Europe)
+Super Kick Off (Europe)
+Super Mario Land (World) (Rev A)
+Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B)
+Super Off Road (USA)
+Super R.C. Pro-Am (USA, Europe)
+Super Scrabble (USA)
+Super Star Wars - Return of the Jedi (USA, Europe)
+Superman (USA, Europe)
+Swamp Thing (USA, Europe)
+Sword of Hope II, The (USA)
+Sword of Hope, The (USA)
+T2 - The Arcade Game (USA, Europe)
+Tail 'Gator (USA, Europe)
+TaleSpin (USA)
+Tamagotchi (USA, Europe)
+Tarzan (USA, Europe)
+Tasmania Story (USA)
+Taz-Mania (USA, Europe)
+Taz-Mania 2 (USA)
+Tecmo Bowl (USA)
+Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)
+Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)
+Teenage Mutant Ninja Turtles III - Radical Rescue (USA)
+Tennis (World)
+Terminator 2 - Judgment Day (USA, Europe)
+Tesserae (USA)
+Tetris (World) (Rev A)
+Tetris 2 (USA, Europe)
+Tetris Attack (USA, Europe) (Rev A)
+Tetris Blast (USA, Europe)
+Tetris Plus (USA, Europe)
+Tintin - Prisoners of the Sun (Europe)
+Tintin in Tibet (Europe)
+Tiny Toon Adventures - Babs' Big Break (USA, Europe)
+Tiny Toon Adventures - Montana's Movie Madness (USA, Europe)
+Tiny Toon Adventures - Wacky Sports (USA)
+Tip Off (Europe)
+Titus the Fox to Marrakech and Back (USA, Europe)
+Tom & Jerry (USA, Europe)
+Tom and Jerry - Frantic Antics! (USA, Europe)
+Top Gun - Guts & Glory (USA, Europe)
+Top Rank Tennis (USA)
+Torpedo Range (USA)
+Total Carnage (USA, Europe)
+Toxic Crusaders (USA)
+Toy Story (USA) (Rev A)
+Track & Field (USA, Europe)
+Track Meet (USA, Europe)
+Trax (USA, Europe)
+Trip World (Europe)
+True Lies (USA, Europe)
+Tumble Pop (USA, Europe)
+Turn and Burn (USA)
+Turok - Battle of the Bionosaurs (USA, Europe)
+Turrican (USA, Europe)
+Ultima - Runes of Virtue (USA)
+Ultima - Runes of Virtue II (USA)
+Ultra Golf (USA)
+Universal Soldier (USA, Europe)
+Urban Strike (USA, Europe)
+Vegas Stakes (USA, Europe)
+V-Rally - Championship Edition (Europe)
+Wario Blast Featuring Bomberman! (USA, Europe)
+Wario Land - Super Mario Land 3 (World)
+Wario Land II (USA, Europe)
+Water World (Europe)
+Wave Race (USA, Europe)
+Wayne's World (USA)
+WCW Main Event (USA, Europe)
+We're Back! - A Dinosaur's Story (USA, Europe)
+Wheel of Fortune (USA)
+Who Framed Roger Rabbit (USA)
+Wild Snake (USA)
+Wizards & Warriors Chapter X - The Fortress of Fear (USA, Europe)
+Wordtris (USA)
+WordZap (USA)
+World Beach Volley - 1992 GB Cup (Europe)
+World Bowling (USA)
+World Circuit Series (USA)
+World Cup 98 (USA, Europe)
+World Cup USA '94 (Europe)
+World Heroes 2 Jet (USA, Europe)
+Worms (Europe)
+WWF King of the Ring (USA, Europe)
+WWF Raw (USA, Europe)
+WWF Superstars (USA, Europe)
+WWF Superstars 2 (USA, Europe)
+WWF War Zone (USA, Europe)
+Xenon 2 - Megablast (USA, Europe)
+XVII Olympic Winter Games, The - Lillehammer 1994 (USA)
+Yogi Bear in Yogi Bear's Goldrush (USA)
+Yoshi (USA)
+Yoshi's Cookie (USA, Europe)
+Zen - Intergalactic Ninja (USA)
+Zool (USA)
+Zoop (USA, Europe)
+Adventure Island (USA, Europe)
+Aerostar (USA, Europe)
 ====================
-Total Games: 618
+Total Games: 565

@@ -1,169 +1,102 @@
 ﻿System: Atari 5200
 ====================
-A.E.
-Activision Decathlon, The
-Adventure II
-Aerial
-Alien Swarm
-Antiair
-Archon
-Ascend
-Asteroids
-Astro Chase
-Astro-Grover
-Ballblazer
-Barroom Baseball
-Battlezone
-Beamrider
-Beef Drop
-BerZerk
-Black Belt
-Blaster
-Blow Sub
-Blue Print
-Bounty Bob Strikes Back!
-Buck Rogers : Planet of Zoom
-Buried Bucks
-Captain Beeble
-Capture the Flag
-Castle Blast
-Castle Crisis
-Caverns Of Mars
-Centipede
-Chess
-Chicken
-Choplifter!
-Claim Jumper
-Congo Bongo
-Countermeasure
-Cracky
-Cross Bomber
-Cross Chase
-Cross Horde
-Cross Shoot
-Cross Shuriken
-Cross Snake
-Cross Stinger
-Cross Trex
-Cross Verbix
-Crystal Castles
-Curse Of The Lost Miner
-Defender
-Dig Dug
-Donkey Kong
-Donkey Kong Jr
-Dreadnaught Factor 2, The
-Dreadnaught Factor, The
-E.T. Phone Home!
-Final Legacy
-Flappy Bird
-Forbidden Forest - Slinky
-Fort Apocalypse
-Freecell Xe
-Frisky Tom
-Frogger
-Frogger II : Threeedeep!
-Galactic Chase
-Galaxian
-Gateway To Apshai
-Gorf
-Gremlins
-Gyruss
-H.E.R.O. - Helicopter Emergency Rescue Operation
-Hopman
-Intellidiscs
-Irata's Quest: Doomed Isle
-James Bond 007
-Journey to the Planets
-Joust
-Jr. Pac-Man
-Jungle Hunt
-K-Razy Shoot-Out
-Kaboom!
-Kangaroo
-Keystone Kapers
-Kid Grid
-Koffi : Yellow Kopter
-Laser Gates
-Last Starfighter, The
-Looney Tunes Hotel
-M.U.L.E.
-Magical Fairy Force
-Mario Bros.
-Mazy
-Meebzork
-MegaMania
-Meteorites
-Microgammon SB
-Millipede
-Miner 2049er
-Miniature Golf
-Missile Command
-Montezuma's Revenge
-Moon Patrol
-Mountain King
-Mr. Do!'s Castle
-Ms. Pac-Man
-Necromancer
-Osotos
-Pac-Man
-Pengo
-Pitfall II : Lost Caverns
-Pitfall!
-Pole Position
-Popeye
-Q*bert
-QIX
-Quest for Quintana Roo
-Rally Speedway
-Ratcatcher
-RealSports Baseball
-RealSports Basketball
-RealSports Curling
-RealSports Football
-RealSports Soccer
-RealSports Tennis
-Rescue on Fractalus!
-River Racer
-River Raid
-Road Runner
-Robotron : 2084
-Rolltris
-Runner Bear
-Satan's Hollow
-Scramble
-Shamus: Case II
-Sinistar
-Space Dungeon
-Space Invaders
-Space Shuttle : A Journey Into Space
-Spitfire
-Sport Goofy
-Spy Hunter
-Star Raiders
-Star Trek : Strategic Operations Simulator
-Star Wars : Return of the Jedi, Death Star Battle
-Star Wars : The Arcade Game
-Stargate
-Super Breakout
-Super Cobra
-Super Pac-Man
-Tapper
-Tempest
-Time Runner
-Track and Field
-Up'n Down
-Vanguard
-Vexed
-Wee Ninja
-Wizard of Wor
-Xagon
-Xari Arena
-Xevious
-Yar's Strike
-Yellow Submarine
-Zaxxon
-Zenji
-Zone Ranger
+Beamrider (USA)
+BerZerk (USA)
+Blue Print (USA)
+Bounty Bob Strikes Back! (USA)
+Buck Rogers - Planet of Zoom (USA)
+Carol Shaw's River Raid (USA)
+Castle Blast (USA) (Unl)
+Castle Crisis (USA) (Unl)
+Centipede (USA)
+Congo Bongo (USA)
+Countermeasure (USA)
+David Crane's Pitfall II - Lost Caverns (USA)
+Defender (USA)
+Dig Dug (USA)
+Dreadnaught Factor, The (USA)
+Frogger (USA)
+Frogger II - Threeedeep! (USA)
+Galaxian (USA)
+Gremlins (USA)
+Gyruss (USA)
+H.E.R.O. (USA)
+James Bond 007 (USA)
+Joust (USA)
+Jungle Hunt (USA)
+Kaboom! (USA)
+Kangaroo (USA)
+Koffi - Yellow Kopter (USA) (Unl)
+K-Razy Shoot-Out (USA)
+Mario Bros. (USA)
+MegaMania (USA)
+Meteorites (USA)
+Miner 2049er Starring Bounty Bob (USA)
+Missile Command (USA)
+Montezuma's Revenge featuring Panama Joe (USA)
+Moon Patrol (USA)
+Mountain King (USA)
+Ms. Pac-Man (USA)
+Pac-Man (USA)
+Pengo (USA)
+Pitfall! (USA)
+Pole Position (USA)
+Popeye (USA)
+Q-bert (USA)
+Qix (USA)
+Quest for Quintana Roo (USA)
+RealSports Soccer (USA)
+RealSports Tennis (USA)
+Rescue on Fractalus! (USA)
+Robotron 2084 (USA)
+Space Dungeon (USA)
+Space Invaders (USA)
+Space Shuttle - A Journey Into Space (USA)
+Star Raiders (USA)
+Star Trek - Strategic Operations Simulator (USA)
+Star Wars - Return of the Jedi - Death Star Battle (USA)
+Star Wars - The Arcade Game (USA)
+Super Breakout (USA)
+Super Cobra (USA)
+Vanguard (USA)
+Wizard of Wor (USA)
+Zaxxon (USA)
+Zenji (USA)
+Zone Ranger (USA)
+RealSports Football (USA)
+RealSports Baseball (USA)
+Gorf (USA)
+Mr. Do!'s Castle (USA)
+Keystone Kapers (USA)
+Choplifter! (USA)
+Ballblazer (USA)
+Activision Decathlon, The (USA)
+Battlezone (USA) (Proto)
+RealSports Basketball (USA)
+Track and Field (USA) (Proto)
+Sport Goofy (USA) (Proto)
+Looney Tunes Hotel (USA) (Proto)
+Asteroids (USA) (Proto)
+Microgammon SB (USA) (Proto)
+Road Runner (USA) (Proto)
+Final Legacy (USA) (Proto)
+Miniature Golf (USA) (Proto)
+A.E. (USA) (Proto)
+Millipede (USA) (Proto)
+Xevious (USA) (Proto)
+Astro Chase (USA)
+Jr. Pac-Man (USA) (Proto)
+Black Belt (USA) (Proto)
+Xari Arena (USA) (Proto)
+Meebzork (USA) (Proto)
+Stargate (USA) (Proto)
+Super Pac-Man (USA) (Proto)
+Frisky Tom (USA) (Proto)
+Blaster (USA) (Proto)
+Spitfire (USA) (Proto)
+Tempest (USA) (Proto)
+Last Starfighter, The (USA) (Proto)
+Barroom Baseball (USA) (Proto)
+Adventure II (USA) (Unl)
 ====================
-Total Games: 165
+Total Games: 98

@@ -1,5 +1,0 @@
-﻿System: arcadepc_retrobat
-====================
-Family Guy Bowling Arcade
-====================
-Total Games: 1

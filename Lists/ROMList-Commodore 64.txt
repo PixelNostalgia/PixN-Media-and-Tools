@@ -915,7 +915,7 @@ Cyclons
 Cylu
 Cyrus
 Cyrus II: The Grand Master
-CÃ¦sar the Cat
+Cæsar the Cat
 D-Bug
 Daffy Duck
 Daily Double Horse Racing
@@ -1136,7 +1136,7 @@ Duotris
 Dylan Dog: the Full Moon Nights
 Dynamic Duo
 Dynamite Dan
-Dynamite DÃ¼x
+Dynamite Düx
 Dynamix
 Dynamoid
 Dynasty Wars
@@ -1761,7 +1761,7 @@ Hyper Viper
 Hyperbowl
 Hyperrace
 Hysteria
-HÃ¤gar
+Hägar
 I Play: 3D Soccer
 I Play: 3D Tennis
 I Play: Football Champ
@@ -2327,7 +2327,7 @@ MicroLeague Football : The Coach's Challenge
 MicroLeague Wrestling
 Microprose Soccer (Multidesk64)
 Midnight Resistance
-Miecze Valdgira II: WÅ‚adca GÃ³r
+Miecze Valdgira II: Władca Gór
 Mig Alley Ace
 MIG-29 Soviet Fighter
 Might and Magic Book Two: Gates to Another World
@@ -3042,7 +3042,7 @@ Rocky & Co
 Rocky Horror Show, The (CRL)
 RodLand
 Rodman
-RodMÃ¤n Jr
+RodMän Jr
 Rogue
 Rogue Burger One
 Rogue Trooper
@@ -3229,7 +3229,7 @@ Short Circuit
 Shotgun
 Show Director
 Showdown
-ShÅgun
+Shōgun
 Side Arms Hyper Dyne
 Sidewalk
 Sidewinder II
@@ -3275,7 +3275,7 @@ Skyfox
 Skyfox II: The Cygnus Conflict
 Skyjet
 Skyline Attack
-SkÃ¦rmtrolden Hugo
+Skærmtrolden Hugo
 Slaine
 Slalom (CBM)
 Slam-Dunk

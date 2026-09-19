@@ -36,8 +36,8 @@ Banjo-Kazooie
 Banjo-Tooie
 Bassmasters 2000
 Batman Beyond : Return of the Joker
-BattleTanx
 BattleTanx : Global Assault
+BattleTanx
 Battlezone : Rise of the Black Dogs
 Beetle Adventure Racing!
 Big Mountain 2000
@@ -45,19 +45,19 @@ Bio F.R.E.A.K.S.
 Blast Corps
 Blues Brothers 2000
 Body Harvest
-Bomberman 64
 Bomberman 64 : The Second Attack!
+Bomberman 64
 Bomberman Hero
 Bottom of the 9th
 Brunswick Circuit Pro Bowling
 Buck Bumble
 A Bug's Life
-Bust-A-Move '99
 Bust-A-Move 2 : Arcade Edition
+Bust-A-Move '99
 California Speed
 Carmageddon 64
-Castlevania
 Castlevania : Legacy of Darkness
+Castlevania
 Centre Court Tennis
 Chameleon Twist
 Chameleon Twist 2
@@ -88,11 +88,10 @@ ECW Hardcore Revolution
 Excitebike 64
 Extreme-G
 Extreme-G 2
-F-1 World Grand Prix
-F-1 World Grand Prix II
-F-Zero X
 F1 Pole Position 64
 F1 Racing Championship
+F-1 World Grand Prix
+F-1 World Grand Prix II
 FIFA: Road to World Cup 98
 FIFA 99
 FIFA Soccer 64
@@ -103,6 +102,7 @@ Flying Dragon
 Forsaken 64
 Fox Sports College Hoops '99
 Frogger 2
+F-Zero X
 Gauntlet Legends
 Gex 3 : Deep Cover Gecko
 Gex 64 : Enter the Gecko
@@ -120,12 +120,12 @@ Hot Wheels : Turbo Racing
 Hybrid Heaven
 Hydro Thunder
 Iggy's Reckin' Balls
-In-Fisherman: Bass Hunter 64
 Indiana Jones and the Infernal Machine
 Indy Racing 2000
-International Superstar Soccer 98
+In-Fisherman: Bass Hunter 64
 International Superstar Soccer 2000
 International Superstar Soccer 64
+International Superstar Soccer 98
 International Track & Field 2000
 Jeopardy!
 Jeremy McGrath Supercross 2000
@@ -138,8 +138,8 @@ Knife Edge - Nose Gunner
 Knockout Kings 2000
 Kobe Bryant in NBA Courtside
 The Legend of Zelda : Majora's Mask
-The Legend of Zelda : Ocarina of Time
 The Legend of Zelda: Ocarina of Time Master Quest
+The Legend of Zelda : Ocarina of Time
 LEGO Racers
 Lode Runner 3-D
 Mace : The Dark Age
@@ -180,17 +180,17 @@ NASCAR 2000
 NASCAR 99
 NBA Courtside 2 featuring Kobe Bryant
 NBA Hangtime
+NBA In The Zone 2000
 NBA In The Zone '98
 NBA In The Zone '99
-NBA In The Zone 2000
 NBA Jam 2000
 NBA Jam 99
 NBA Live 2000
 NBA Live 99
 NBA Showtime : NBA on NBC
 The New Tetris
-NFL Blitz
 NFL Blitz : Special Edition
+NFL Blitz
 NFL Blitz 2000
 NFL Blitz 2001
 NFL QB Club 2001
@@ -212,10 +212,10 @@ Penny Racers
 Perfect Dark
 PGA European Tour
 Pilotwings 64
-PokÃ©mon Puzzle League
-PokÃ©mon Snap
-PokÃ©mon Stadium
-PokÃ©mon Stadium 2
+Pokémon Puzzle League
+Pokémon Snap
+Pokémon Stadium
+Pokémon Stadium 2
 Polaris SnoCross
 Saban's Power Rangers : Lightspeed Rescue
 The Powerpuff Girls : Chemical X-Traction
@@ -230,10 +230,10 @@ Rampage 2 : Universal Tour
 Rat Attack!
 Rayman 2 : The Great Escape
 Razor Freestyle Scooter
-Re-Volt
-Ready 2 Rumble Boxing
 Ready 2 Rumble Boxing : Round 2
+Ready 2 Rumble Boxing
 Resident Evil 2
+Re-Volt
 Road Rash 64
 Roadsters
 Robotech : Crystal Dreams
@@ -253,8 +253,8 @@ Shadow Man
 Shadowgate 64 : Trials of the Four Towers
 Snowboard Kids
 Snowboard Kids 2
-South Park
 South Park : Chef's Luv Shack
+South Park
 South Park Rally
 Space Invaders
 Space Station Silicon Valley
@@ -295,16 +295,16 @@ Turok : Rage Wars
 Turok 2 : Seeds Of Evil
 Turok 3 : Shadow of Oblivion
 Twisted Edge : Extreme Snowboarding
-V-Rally Edition '99
-Vigilante 8
 Vigilante 8 : 2nd Offense
+Vigilante 8
 Virtual Chess 64
 Virtual Pool 64
+V-Rally Edition '99
 Waialae Country Club : True Golf Classics
 War Gods
 Wave Race 64
-Wayne Gretzky's 3D Hockey '98
 Wayne Gretzky's 3D Hockey
+Wayne Gretzky's 3D Hockey '98
 WCW Backstage Assault
 WCW Mayhem
 WCW Nitro

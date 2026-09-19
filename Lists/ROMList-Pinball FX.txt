@@ -1,9 +1,9 @@
 ﻿System: Pinball FX
 ====================
+Charlie Brown Christmas Pinball, A
+Samurai’s Vengeance, A
 Adventure Land
 Attack from Mars
-Charlie Brown Christmas Pinball, A
-Samuraiâ€™s Vengeance, A
 Back to the Future
 Battlestar Galactica Pinball
 Biolab
@@ -68,7 +68,7 @@ My Little Pony
 No Good Gofers
 Pacific Rim Pinball
 Pasha
-Peanutsâ€™ Snoopy Pinball
+Peanuts’ Snoopy Pinball
 Pinball Noir
 Red and Ted's Road Show
 Rome
@@ -77,7 +77,7 @@ Secrets of the Deep
 Sky Pirates Treasures of the Clouds
 Son of Zeus
 Sorcerer's Lair
-South Park Buttersâ€™ Very Own Pinball Game
+South Park Butters’ Very Own Pinball Game
 South Park Super Sweet Pinball
 Space Station
 Star Wars Han Solo
@@ -85,7 +85,6 @@ Star Trek Deep Space Nine
 Star Trek Discovery
 Star Trek Kelvin Timeline
 Star Trek The Next Generation
-Star Wars Ahch-To Island
 Star Wars Battle of Mimban
 Star Wars Boba Fett
 Star Wars Calrissian Chronicles
@@ -93,8 +92,8 @@ Star Wars Classic Collectibles
 Star Wars Darth Vader
 Star Wars Droids
 Star Wars Episode IV A New Hope
-Star Wars Episode VI Return of the Jedi
 Star Wars Episode V The Empire Strikes Back
+Star Wars Episode VI Return of the Jedi
 Star Wars Masters of the Force
 Star Wars Might of the First Order
 Star Wars Rebels
@@ -108,16 +107,14 @@ Star Wars The Mandalorian
 Super League Football
 Swords of Fury
 Tales of the Arabian Nights
-Terraforming Mars Pinball
-Theatre of Magic
 Addams Family, The
 Champion Pub, The
 Getaway High Speed II, The
-Machine Bride of Pin-Bot, The
 Party Zone, The
+Theatre of Magic
 Trolls
 Twilight Zone
-Verneâ€™s Mysterious Island
+Verne’s Mysterious Island
 Whirlwind
 White Water
 Wild West Rampage
@@ -125,5 +122,8 @@ World Cup Soccer
 World War Z Pinball
 Wrath of the Elder Gods
 Xena: Warrior Princess Pinball
+Star Wars Ahch-To Island
+Terraforming Mars Pinball
+Machine Bride of Pin-Bot, The
 ====================
 Total Games: 125

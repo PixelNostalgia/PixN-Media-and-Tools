@@ -89,9 +89,9 @@ CANDY
 Capture
 CASH IT
 Cash Win Game
-ZZZ(notgame):â€œCat and Mouseâ€ toy
+ZZZ(notgame):“Cat and Mouse” toy
 Catch Them All
-Catchâ€™in and slidâ€™in
+Catch’in and slid’in
 CAVE
 Cell collision
 ZZZ(notgame):Char Designer 1.4
@@ -103,7 +103,7 @@ Chicken Blaster
 Chicken Scratch (DESTROYS ROM)
 CHIP8 Emulator
 Christmas Card - Seasons Greetings!!
-Circle MoirÃ©
+Circle Moiré
 Cirulli-2048 game
 Clapping Music
 ZZZ(notgame):Clash of the Emojies toy
@@ -139,15 +139,15 @@ ZZZ(notgame):Disk
 ZZZ(notgame):Disk Reader
 Dive into the depths
 Dog Fight game
-Donâ€™t fall 2
+Don’t fall 2
 DONT FALL 3 ...
-Donâ€™t fall
+Don’t fall
 Basically, you run from a little yellow death monster
-â€œDON'T TOUCH THE RED ONE'Sâ€ game
+“DON'T TOUCH THE RED ONE'S” game
 Doodle IDK
 Doredesuka game
 Doughboy Horror
-â€œDream thiefâ€ concept art
+“Dream thief” concept art
 Drug Wars
 Drugwars TI83 Port 1.0
 Dual Stick Control
@@ -198,7 +198,7 @@ Freecell
 FreeSkate
 FROG BOG
 Fruit Blender game
-FungÃ­ war
+Fungí war
 Funky Rythm Mixer
 ZZZ(notgame):Funkyjammer Soundpad toy
 Game of Life 1.2
@@ -225,7 +225,7 @@ Gut Runner
 Hamurabi
 Hand Ball (Tennis Remix)
 Happy Cats
-â€œHaven't you heardâ€ game
+“Haven't you heard” game
 Hello!
 hexapawn
 Hive Assault
@@ -350,7 +350,7 @@ Natac Island
 Nature Quest
 Newsprint
 Night
-Not Sid Meierâ€™s Break out Hack
+Not Sid Meier’s Break out Hack
 ZZZ(notgame):Notepad 2000
 Forbronwts
 NUM SUM .... aka Sleepy Solitaire game
@@ -360,7 +360,7 @@ Car Tag game
 NX Forth
 NX Galaxy )( (shooter game)
 Paddle ball game
-ZZZ(notgame):â€œNX light beamsâ€ toy
+ZZZ(notgame):“NX light beams” toy
 Rubiks Race game
 Starfall game
 Nyan Cat - Lightspeed
@@ -407,9 +407,9 @@ Pong Recharged
 PongLaPong
 POP!  POP!  POP!
 ZZZ(notgame):POP! toy
-â€”Portal NX Challenge!!â€”
+—Portal NX Challenge!!—
 ZZZ(notgame):Funny Face (toy)
-PranXterâ€™s Puzzle Challenge
+PranXter’s Puzzle Challenge
 Pro_putt GOLF (game engine)
 P.S.D. Brickout Game
 PsYcHeDeLiC ( warning )
@@ -445,7 +445,7 @@ Remjin Spyky Thyngy
 API for Remjin Spyky Thyngy
 CubikZirconium 1.1
 Runner
-Saigoni PokÃ©mon  game
+Saigoni Pokémon  game
 Satisfaction 2.0
 Say What puzzle game
 Scavenger Hunt Game
@@ -489,7 +489,7 @@ SpiroConfetti
 Spring ball
 Spring Illusion by PranXter
 Sprint !
-Square MoirÃ©
+Square Moiré
 Square Murder
 Squiggles
 SSBNX
@@ -553,7 +553,7 @@ The worst game never made
 The worst prank
 The Last Hope Text Adventure
 Theramin
-â€œ Thin Blue Lineâ€ game
+“ Thin Blue Line” game
 Thunderation game
 Thunderation game
 Tic Toc

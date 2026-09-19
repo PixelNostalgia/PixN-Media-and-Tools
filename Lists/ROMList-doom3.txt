@@ -2,7 +2,5 @@
 ====================
 DOOM 3: Resurrection of Evil
 Doom 3
-DOOM 3: Resurrection of Evil
-Doom 3
 ====================
-Total Games: 4
+Total Games: 2

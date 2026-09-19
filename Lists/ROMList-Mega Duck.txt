@@ -1,19 +1,9 @@
 ﻿System: Mega Duck
 ====================
-2nd SPACE
-Ant Soldiers
-Arctic Zone
-Armour Force
-Beast Fighter
-Black Forest Tale
-Bomb Disposer
 The Brick Wall
-Captain Knick Knack
-Duck Adventures
+Commin 5 In 1
 Magic Maze
 Magical Tower
-Four in One
-Five in One
 Pile Wonder
 Puppet Knight
 Railway
@@ -24,6 +14,14 @@ Trap And Turn
 Vex
 Worm Visitor
 Zipball
-Waternet
+Ant Soldiers
+Captain Knick Knack
+Black Forest Tale
+Bomb Disposer
+Armour Force
+Beast Fighter
+Arctic Zone
+Mega Duck 4 In 1 Game
+2nd SPACE
 ====================
-Total Games: 25
+Total Games: 23

@@ -24,13 +24,12 @@ Hydro Thunder
 Bounty Hunter
 Offroad Thunder
 DCOP (mulitguns)
-Wild West Shootout (multiguns)
+Wild West Shootout (mulitguns)
 Mars Sortie (multiguns)
 Bug Busters (multiguns)
 Friction (multiguns)
 Akuma Mortis Immortal (multiplayers)
 Frenzy Express
 Mad Bullets
-Ballistics
 ====================
-Total Games: 32
+Total Games: 31

@@ -1,5 +1,0 @@
-﻿System: Windows 95
-====================
-Bomberman
-====================
-Total Games: 1

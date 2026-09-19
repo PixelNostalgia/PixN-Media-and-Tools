@@ -1,126 +1,126 @@
 ﻿System: Zaccaria Pinball
 ====================
-Aerobatics
 Aerobatics Retro
 Aliens
 Beast Master
-Blackbelt
 Blackbelt 2018
-Blackbelt Retro
-Caveman
-Cine Star
+Blackbelt
 Cine Star Deluxe
-Circus
+Cine Star
 Circus 2017
 Circus Retro
-Clown
+Circus
 Clown 2019
 Clown Retro
-Combat
+Clown
 Combat 2017
 Combat Deluxe
 Combat Retro
-Devil Riders
+Combat
 Devil Riders 2019
 Devil Riders Retro
-Earth Wind Fire
 Earth Wind Fire 2017
 Earth Wind Fire Retro
-Farfalla
-Farfalla 2017
-Farfalla Deluxe
+Earth Wind Fire
 Farfalla Retro
-Firefighter
-Fire Mountain
+Farfalla
 Fire Mountain 2019
 Fire Mountain Retro
-Future World
+Fire Mountain
+Firefighter
 Future World 2018
+Future World
 Granada
 Hippie
-Hot Wheels
 Hot Wheels 2017
 Hot Wheels Retro
-House of Diamonds
+Hot Wheels
 House of Diamonds 2017
 House of Diamonds Deluxe
 House of Diamonds Retro
-Locomotion
+House of Diamonds
 Locomotion 2018
 Locomotion Retro
+Locomotion
 Lucky Fruit
-Magic Castle
 Magic Castle 2017
 Magic Castle Retro
-Mexico '86
+Magic Castle
 Mexico '86 Retro
+Mexico '86
 Moon Flight
-Mystic Star
 Mystic Star Retro
-Nautilus
+Mystic Star
 Nautilus 2018
 Nautilus Retro
-Pinball Champ
-Pinball Champ '82
+Nautilus
 Pinball Champ 2018
+Pinball Champ '82
 Pinball Champ Retro
-Pool Champion
+Pinball Champ
 Pool Champion 2018
 Pool Champion Deluxe
+Pool Champion
 POSTAL Redux Deluxe
 POSTAL Redux Remake
 POSTAL Redux Retro
 POSTAL Redux SS
-Red Show
 Red Show Deluxe
-Robot
+Red Show
 Robot 2018
 Robot Deluxe
 Robot Retro
-Shooting the Rapids
+Robot
 Shooting the Rapids 2016
 Shooting the Rapids Retro
-Soccer Kings
+Shooting the Rapids
 Soccer Kings Retro
-Space Shuttle
+Soccer Kings
 Space Shuttle 2016
 Space Shuttle Deluxe
 Space Shuttle Retro
+Space Shuttle
 Speed King
-Spooky
 Spooky 2017
 Spooky Deluxe
 Spooky Retro
-Star's Phoenix
-Star's Phoenix 2018
-Star God
+Spooky
 Star God 2019
 Star God Retro
-Strike
+Star God
+Star's Phoenix 2018
+Star's Phoenix
 Strike Deluxe
-Supersonic
+Strike
 Supersonic Retro
+Supersonic
 Mummy, The
-Time Machine
 Time Machine 2019
 Time Machine Retro
+Time Machine
 Top Hand
-Tropical
 Tropical 2019
-Universe
+Tropical
 Universe Deluxe
 Universe Retro
+Universe
 Voyager
-Winter Sports
 Winter Sports 2018
+Winter Sports
 Wizard
-Wood's Queen
 Wood's Queen 2019
-Zankor
+Wood's Queen
 Zankor 2017
-Zankor Deluxe
 Zankor Retro
-Zombie
+Zankor
 Zombie Invasion
+Zombie
+Zankor Deluxe
+Aerobatics
+Farfalla 2017
+Farfalla Deluxe
+Devil Riders
+Caveman
+Blackbelt Retro
 ====================
 Total Games: 122

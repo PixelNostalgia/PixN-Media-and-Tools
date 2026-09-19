@@ -9,15 +9,11 @@
 AeroWings
 AeroWings 2 - Airstrike
 AirForce Delta
-Alice Dreams Tournament
-Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (v1.5) (Digital) (Aftermarket) (Unl)
+Alice's Moms Rescue
 Alien Front Online
 Alone in the Dark - The New Nightmare
-Andro Dunos II (World) (Aftermarket) (Unl)
 Aqua GT
-Arcade Racing Legends - Road Trip Edition (World) (Aftermarket) (Unl)
 Armada
-ARMED7 (World) (Aftermarket) (Unl)
 Army Men - Sarge's Heroes
 Atari Anniversary Edition
 Bang! Gunship Elite
@@ -53,10 +49,10 @@ Death Crimson OX
 Deep Fighter
 Demolition Racer - No Exit
 Dino Crisis
-Disney's Dinosaur
-Disney's Donald Duck - Quack Attack
 Disney-Pixar Buzz Lightyear of Star Command
 Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!
+Disney's Dinosaur
+Disney's Donald Duck - Quack Attack
 Dragon Riders - Chronicles of Pern
 Dragons Blood
 Drill
@@ -83,7 +79,6 @@ F1 World Grand Prix
 F1 World Grand Prix II for Dreamcast
 F355 Challenge - Passione Rossa
 Fast Striker
-Feet of Fury (USA) (Unl)
 Feet of Fury - Mobile Tactical Dancing Action
 Fighting Force 2
 Fighting Vipers 2
@@ -97,7 +92,6 @@ Fur Fighters
 Gauntlet Legends
 Geist Force (Prototype)
 Ghost Blade
-Gigantic Army (World) (Astro Port Collector) (Aftermarket) (Unl)
 GigaWing
 GigaWing 2
 GK - Giant Killers
@@ -164,7 +158,6 @@ NBA Showtime - NBA on NBC
 NCAA College Football 2K2 - Road to the Rose Bowl
 Neo XYX
 Next Tetris, The
-Next Tetris, The - On-Line Edition (USA)
 NFL 2K
 NFL 2K1
 NFL 2K2
@@ -189,7 +182,6 @@ Power Stone 2
 Prince of Persia - Arabian Nights
 Pro Pinball Trilogy
 Project Justice - Rival Schools 2
-Propeller Arena (USA) (Proto)
 Propeller Arena: Aviation Battle Championship
 Psychic Force 2012
 Q-bert
@@ -197,7 +189,6 @@ Quake III - Arena
 Racing Simulation 2: Monaco Grand Prix
 Railroad Tycoon II
 Rayman 2 - The Great Escape
-Re-Volt
 Ready 2 Rumble Boxing
 Ready 2 Rumble Boxing - Round 2
 Record of Lodoss War
@@ -207,12 +198,11 @@ Resident Evil - Code - Veronica (Spain)
 Resident Evil - Code - Veronica X
 Resident Evil 2
 Resident Evil 3 - Nemesis
+Re-Volt
 Rez
 Ring, The - Terror's Realm
 Rippin' Riders
 Roadsters
-Rocketron (World) (Aftermarket) (Unl)
-Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl)
 Samba de Amigo
 San Francisco Rush 2049
 Seaman
@@ -226,7 +216,6 @@ Sega Smash Pack - Volume 1
 Sega Worldwide Soccer 2000
 Sega Worldwide Soccer 2000 - Euro Edition
 Seventh Cross Evolution
-Shadow Gangs (World) (Aftermarket) (Unl)
 Shadow Man
 Shenmue
 Shenmue II
@@ -263,7 +252,6 @@ Striker Pro 2000
 Stunt GP
 Stupid Invaders
 Sturmwind
-Super Charged Robot Vulkaiser (World) (En,Ja) (Aftermarket) (Unl)
 Super Magnetic Neo
 Super Runabout - San Francisco Edition
 Surf Rocket Racers
@@ -278,7 +266,6 @@ Test Drive 6
 Test Drive Cycles (Prototype)
 Test Drive Le Mans
 Test Drive V-Rally
-Textorcist, The - The Story of Ray Bibbia (World) (Aftermarket) (Unl)
 The Flintstones in Viva Rock Vegas (Prototype)
 The King of Fighters : Evolution
 The King of Fighters: Dream Match 1999
@@ -302,7 +289,6 @@ UEFA Striker
 Ultimate Fighting Championship
 Unreal Tournament
 Urban Chaos
-V-Rally 2 - Expert Edition
 Vanishing Point
 Vigilante 8 - 2nd Offense
 Virtua Athlete 2K
@@ -310,7 +296,8 @@ Virtua Fighter 3tb
 Virtua Striker 2 Ver. 2000.1
 Virtua Tennis - Sega Professional Tennis
 Virtua Tennis 2 - Sega Professional Tennis
-VÃ¶lgarr The Viking
+Völgarr The Viking
+V-Rally 2 - Expert Edition
 Wacky Races
 Walt Disney World Quest - Magical Racing Tour
 Wetrix+
@@ -318,17 +305,13 @@ Who Wants to Be a Millionaire
 Who Wants to Beat Up a Millionaire
 Wild Metal
 Witching Hour (Europe)
-Wolflame (World) (Aftermarket) (Unl)
 World Series Baseball 2K1
 World Series Baseball 2K2
 Worms Armageddon
 Worms World Party
 WWF Attitude
 WWF Royal Rumble
-Xenocider (World) (Digital) (Aftermarket) (Unl)
 Xtreme Sports
-Yeah Yeah Beebiss II (Unknown) (Aftermarket) (Unl) [b]
 Zombie Revenge
-Intrepid Izzy
 ====================
-Total Games: 330
+Total Games: 313

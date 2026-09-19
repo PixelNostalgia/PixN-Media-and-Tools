@@ -7,18 +7,18 @@ beatmania for WonderSwan
 Buffers Evolution
 Cardcaptor Sakura: Sakura to Fushigi na Clow Card
 Chaos Gear: Michibi Kareshi Mono
-Cho Aniki: Otoko no Tamafuda
 Chocobo no Fushigi na Dungeon for WonderSwan
+Cho Aniki: Otoko no Tamafuda
 Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou
 Clock Tower for WonderSwan
 Crazy Climber
 D's Garage 21 Koubo Game: Tane wo Maku Tori
 Densha de Go!
 Densha de Go! 2
+Digital Monster Ver. WonderSwan
 Digimon Adventure 02: Tag Tamers
 Digimon Adventure: Anode Tamer
 Digimon Adventure: Cathode Tamer
-Digital Monster Ver. WonderSwan
 Digital Partner
 Dokodemo Hamster
 Engacho! for WonderSwan
@@ -36,9 +36,9 @@ Hanafuda Shiyouyo
 Harobots
 Hunter X Hunter: Ishi o Tsugu Mono
 Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen
-Kaze no Klonoa: Moonlight Museum
 Keiba Yosou Shien Soft: Yosou Shin Karon
 KISS Yori... Seaside Serenade
+Kaze no Klonoa: Moonlight Museum
 Kosodate Quiz: Dokodemo My Angel
 Kyousouba Ikusei Simulation: Keiba
 Langrisser Millennium WS: The Last Century
@@ -68,13 +68,13 @@ Pro Mahjong Kiwame for WonderSwan
 Puyo Puyo Tsuu
 Puzzle Bobble
 Rainbow Islands: Putty's Party
-Ring âˆž
+Ring ∞
 Robot Works
 Rockman & Forte: Mirai Kara no Chousensha
 Sangokushi for WonderSwan
 Sangokushi II for WonderSwan
-SD Gundam G Generation: Gather Beat
 SD Gundam: Emotional Jam
+SD Gundam G Generation: Gather Beat
 SD Gundam: Gashapon Senki Episode 1
 Senkaiden: TV Animation Senkaiden Houshin Engi Yori
 Sennou Millennium
@@ -98,16 +98,16 @@ Terrors
 Tetsujin 28 Gou
 Time Bokan Series: Bokan Densetsu: Buta mo Odaterya Doronboo
 Tokyo Majin Gakuen: Fuju Houroku
-Trump Collection 2: Bottom Up Teki Sekaiisshuu no Tabi
 Trump Collection: Bottom Up Teki Trump Seikatsu
+Trump Collection 2: Bottom Up Teki Sekaiisshuu no Tabi
 Turntablist: DJ Battle
 Umizuri ni Ikou!
 Uzumaki: Denshi Kaiki Hen
 Uzumaki: Noroi Simulation
 Vaitz Blade
-Wonder Stadium
+Wuz↑b? Produce: Street Dancer
 Wonder Stadium '99
+Wonder Stadium
 WonderSwan Handy Sonar
-Wuzâ†‘b? Produce: Street Dancer
 ====================
 Total Games: 109

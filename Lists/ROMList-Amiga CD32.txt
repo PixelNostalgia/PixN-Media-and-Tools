@@ -2,6 +2,7 @@
 ====================
 Big Red Adventure, The
 Black Viper
+Bubble Heroes
 Cedric And The Lost Sceptre
 Code Name Hell Squad
 Eat The Whistle
@@ -9,6 +10,7 @@ Fightin' Spirit
 Peter Spinaze's Final Odyssey: Theseus Verses the Minotaur
 Foundation
 Gamers' Delight
+Genetic Species
 Inherit the Earth Quest for the Orb
 Kang Fu
 Mag!!!
@@ -31,6 +33,7 @@ Theme Park
 Trapped
 Trapped 2
 Turbo Racer 3D
+T-Zero
 Ultimate Super Skidmarks
 Ultra Violent Worlds
 Wasted Dreams
@@ -125,7 +128,7 @@ Globdule
 Gloom Ultimate
 Gods
 Golden Axe
-The Great Giana Sisters
+Great Giana Sisters, The
 Harem Challenge
 Harlequin
 Heart of China
@@ -148,7 +151,7 @@ Kingdoms of Steam
 Kiwi's Tale, The
 Krogharr: The Beerserker
 Leading Lap MPV
-The Legend of Kyrandia - Book One
+Legend of Kyrandia, The - Book One
 Lemmings 2 - The Tribes
 Lion King, The
 Lionheart
@@ -170,7 +173,7 @@ Monsters of Terror
 Moonstone
 More! Lemmings
 Motor Massacre
-MotÃ¶rhead
+Motörhead
 Mr. Nutz: Hoppin' Mad
 Mutant League Hockey
 Nebulus
@@ -241,7 +244,7 @@ Sqrxz 2
 Sqrxz
 Super Street Fighter II: The New Challengers
 Star Dust Wars
-The Star Wars Trilogy
+Star Wars Trilogy, The
 Super Star Wars Holiday Special
 Step Five
 Stunt Car Racer
@@ -296,7 +299,7 @@ Yoomp!
 Young Defender
 Zerosphere
 Gloom Zombie Massacre
-The Grolier Electronic Encyclopedia
+Grolier Electronic Encyclopedia, The
 Guinness Disc of Records, The : Second Edition
 Insight: Dinosaurs
 Insight: Technology
@@ -422,7 +425,7 @@ Sleepwalker
 Soccer Kid
 Soccer Superstars
 Speedball 2
-The Speris Legacy
+Speris Legacy, The
 Sports Football
 Star Crusader
 Striker
@@ -456,10 +459,5 @@ Word Construction Set
 Worms
 Zool - Ninja of the Nth Dimension
 Zool 2
-Genetic Species
-Xenon 2 - Megablast
-T-Zero
-Land of Genesis
-Bubble Heroes
 ====================
-Total Games: 461
+Total Games: 459

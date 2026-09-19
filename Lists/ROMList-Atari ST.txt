@@ -62,7 +62,7 @@ All Aboard
 Alpha Waves
 Alphamax
 Alpine Games
-AltaÃ¯r
+Altaïr
 Altered Beast
 Alternate Reality: The City
 Amazeing
@@ -115,7 +115,7 @@ Asteroids (Sinister Development)
 Asteroids Deluxe
 Astro 2000
 Astro Marine Corps
-AstÃ©rix: Operation Getafix
+Astérix: Operation Getafix
 Atari Grand Prix
 Atari Planetarium
 Atari Slalom
@@ -417,7 +417,7 @@ Crime Does Not Pay
 Crime Wave
 Crimson Crown
 Critical Mass
-CroisiÃ¨re pour un cadavre (French)
+Croisière pour un cadavre (French)
 Crossbow - The Legend of William Tell
 Crossland
 Crown
@@ -550,10 +550,10 @@ Dungeon Master: Chaos Strikes Back: Expansion Set #1
 Dweabys Quest
 Dynablaster
 Dynabusters+ (Germany) (Unl)
-Dynamite DÃ¼x
+Dynamite Düx
 Dynasty Wars
 Dyter-07
-DÃ©but
+Début
 E-Motion
 E.S.S: European Space Simulator
 Eagle's Rider
@@ -961,7 +961,7 @@ Krypton Egg
 Kult
 Kwik Snax
 La Mascotte
-La quÃªte de l'oiseau du temps
+La quête de l'oiseau du temps
 Lancaster
 Lancelot
 Lands of Havoc
@@ -1140,7 +1140,7 @@ Moonwalker
 Mortville Manor
 MOT
 Motorbike Madness
-MotÃ¶rhead
+Motörhead
 Mouse Trap
 Mouth Trap
 Mr Do! Run Run
@@ -1748,7 +1748,7 @@ The Deep
 The Duel: Test Drive II
 The Famous Five: Five on a Treasure Island
 The Final Conflict
-The Games '92: EspaÃ±a
+The Games '92: España
 The Games: Summer Edition
 The Godfather
 The Gold of the Aztecs

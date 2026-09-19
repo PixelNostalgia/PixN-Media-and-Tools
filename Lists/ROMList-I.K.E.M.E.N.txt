@@ -1,41 +1,6 @@
 ﻿System: I.K.E.M.E.N
 ====================
-King of Fighters Shinnin GO
-Famicom Fighters
-Mighty Street Fighter SF2 NES Remix
-Street Fighter 1 by Pilgrim
-King of Fighters 2000, The
-Hokuto No Ken by LST
-King of Fighters Ultimate Match 2021, The
-Marvel vs. Capcom Extended
-The King of Fighters 95
 King of Fighters Shining Go
-Capcom VS SNK HD Black Edition
-Dragon Ball Z Ikemen Butouden
-Street Fighter 2 X Grand Master Challenger Season 2
-Fatal Fury Special
-Marvel Super-Heroes War of the Gems
-Super Street Fighter II The New Challengers
-Street Fighter vs. Fatal Fury Ikemen-Go World Heroes Update
-Exceed Fighting System
-Street Fighter vs. Fatal Fury
-Famicom-Fighters
-Street Fighter 2 X Grand Master Challenger
-Retro Super Battle
-Street Fighter 6
-King of Fighters Wing, The
-Sango Fighter The Fate of The HAN Dynasty
-Snk vs. Capcom Ex
-Super World Warriors Turbo
-Street Fighter Alpha Zero
-Capcom vs SnK2 vs POTS
-The King of Fighters Battle of Titans
-Street Fighter All-Stars - Anniversary Edition
-Waku Waku Galaxy
-World Heroes Perfect Jet
-The Queen of Fighters
-The King of Fighters XI
-Saint Seiya - Ultimate Cosmo 3.0+
-SEGA vs CAPCOM - The Next Level (2026-08-07)
+Famicom Fighters
 ====================
-Total Games: 37
+Total Games: 2

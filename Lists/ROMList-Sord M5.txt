@@ -1,10 +1,10 @@
 ﻿System: Sord M5
 ====================
+Pooyan
 Apploon
 Bosconian
 Dig Dug
 Dragon Attack
-Dream Shopper
 Eskimon
 Fruit Search
 Funny Mouse
@@ -12,11 +12,10 @@ Galax
 Guttang Guttong
 Heavy Boxing
 Moon Patrol
-Pooyan
 Power Pac
 Real Tennis
-Step Up
 Super Cobra
+Step Up
 Tank Battalion
 Up Up Balloon
 Warp Warp
@@ -24,4 +23,4 @@ Wonder Hole
 Wordmaze
 Zac Banic
 ====================
-Total Games: 23
+Total Games: 22

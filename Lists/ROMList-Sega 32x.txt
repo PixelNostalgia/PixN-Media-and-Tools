@@ -1,18 +1,12 @@
 ﻿System: Sega 32x
 ====================
-After Burner Complete
-The Amazing Spider-Man : Web of Fire
 BC Racers
-Blackthorne
-Brutal Unleashed : Above the Claw
-Knuckles' Chaotix
 ClayFighter 2: Judgment Clay
 Cosmic Carnage
 DarXide
 Doom
 Doom: Resurrection
 FIFA Soccer '96
-Golden Axe 32x Edition
 Golf Magazine presents 36 Great Holes starring Fred Couples
 Kolibri
 Metal Head
@@ -20,8 +14,6 @@ Mortal Kombat II
 Motocross Championship
 NBA Jam : Tournament Edition
 NFL Quarterback Club
-Motherbase
-Pinocchio
 Pitfall : The Mayan Adventure
 Primal Rage
 RBI Baseball '95
@@ -32,15 +24,23 @@ Space Harrier
 Spot Goes to Hollywood
 Star Trek, Starfleet Academy : Starship Bridge Simulator
 Star Wars Arcade
-T-Mek
 Tempo
+T-Mek
 Toughman Contest
 Virtua Fighter
 Virtua Hamster
-Virtua Racing Deluxe
 World Series Baseball Starring Deion Sanders
 WWF Raw
 WWF WrestleMania : The Arcade Game
 X-Men
+Virtua Racing Deluxe
+The Amazing Spider-Man : Web of Fire
+Brutal Unleashed : Above the Claw
+Knuckles' Chaotix
+Motherbase
+Pinocchio
+After Burner Complete
+Blackthorne
+Golden Axe 32x Edition
 ====================
 Total Games: 42

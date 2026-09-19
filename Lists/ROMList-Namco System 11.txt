@@ -1,13 +1,13 @@
 ﻿System: Namco System 11
 ====================
-Dancing Eyes
-Dunk Mania
 Pocket Racer
-Prime Goal EX
-Soul Edge Ver. II
+Xevious 3D/G
 Starsweep
+Dunk Mania
 Tekken
 Tekken 2
-Xevious 3D/G
+Dancing Eyes
+Prime Goal EX
+Soul Edge Ver. II
 ====================
 Total Games: 9

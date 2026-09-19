@@ -3,26 +3,50 @@
 Cosmo's Cosmic Adventure 1
 Cosmo's Cosmic Adventure 2
 Cosmo's Cosmic Adventure 3
-Commander Keen 1 : Marooned on Mars
+Cosmo's Cosmic Adventure 1
+Cosmo's Cosmic Adventure 2
+Cosmo's Cosmic Adventure 3
 Keen - The Perilous Pursuit
 Commander Keen_10 : Mirror Menace
 Commander Keen 2 : The Earth Explodes
 Commander Keen 3 : Keen Must Die!
-Commander Keen 4 : Secret of the Oracle
-Keen - Buried in Oblivion
-Keen - Short Circuit Oracle
 Keen - The Eight Accumulators
 Keen 4 : Ultimate Edition
+Commander Keen 4 : Secret of the Oracle
 Commander Keen 5 : The Armageddon Machine
 Commander Keen 6 : Aliens Ate My Babysitter!
 Commander Keen 7 : The Keys of Krodacia
 Commander Keen 8 : Dead in the Desert
 Commander Keen 9 : Battle of the Brains
-Commander Keen 3.5 : Keen Dreams
 Keen 3.5 - Keen Dreams Plus
+Commander Keen 3.5 : Keen Dreams
 Silcar 1: Nightmare Before Teatime
 Silcar 2: Flee from Fleet
 Silcar 3: The Evil that Meets the Eye
 Silcar 4: The Civilization Inside
+Keen - The Perilous Pursuit
+Commander Keen 1 : Marooned on Mars
+Commander Keen_10 : Mirror Menace
+Commander Keen 2 : The Earth Explodes
+Commander Keen 3 : Keen Must Die!
+Keen - Buried in Oblivion
+Keen - Short Circuit Oracle
+Keen - The Eight Accumulators
+Keen 4 : Ultimate Edition
+Commander Keen 4 : Secret of the Oracle
+Commander Keen 5 : The Armageddon Machine
+Commander Keen 6 : Aliens Ate My Babysitter!
+Commander Keen 7 : The Keys of Krodacia
+Commander Keen 8 : Dead in the Desert
+Commander Keen 9 : Battle of the Brains
+Keen 3.5 - Keen Dreams Plus
+Commander Keen 3.5 : Keen Dreams
+Silcar 1: Nightmare Before Teatime
+Silcar 2: Flee from Fleet
+Silcar 3: The Evil that Meets the Eye
+Silcar 4: The Civilization Inside
+Keen - Short Circuit Oracle
+Keen - Buried in Oblivion
+Commander Keen 1 : Marooned on Mars
 ====================
-Total Games: 24
+Total Games: 48

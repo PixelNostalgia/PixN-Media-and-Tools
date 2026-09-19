@@ -1,18 +1,6 @@
 ﻿System: Super Famicom
 ====================
-Radical Dreamers - Nusume Nai Houseki
 '96 Zenkoku Koukou Soccer Senshuken
-Nekotako - Princess From the Moon
-Derby Stallion 96
-Itoi Shigesato no Bass Tsuri No. 1
-Joushou Mahjong Tenpai
-Ongaku Tsukuru Kanadeeru
-RPG Tsukuru 2
-Same Game
-SD Gundam G Next
-Sound Novel Tsukuru
-Super Big 2 - Hei Tao 2
-Taiwan 16 Mahjong II: Horoscope Girls Edition
 3x3 Eyes : Juuma Houkan
 3x3 Eyes : Seima Kourinden
 4 Nin Shogi
@@ -21,8 +9,8 @@ Accele Brid
 Ace o Nerae!
 Acrobat Mission
 Action Pachio
-ActRaiser 2
 Actraiser
+ActRaiser 2
 AIII S.V. : A Ressha de Ikou 3, Super Version
 Akagawa Jirou: Majotachi no Nemuri
 Akazukin Chacha
@@ -32,14 +20,15 @@ Albert Odyssey 2 : Jashin no Taidou
 Alcahest
 Alice no Paint Adventure
 Aliens vs. Predator
-Sugoi Hebereke
 Amazing Spider-Man, The : Lethal Foes
+America Oudan Ultra Quiz
 American Battle Dome
 Ancient Magic: Bazoe! Mahou Sekai
 Angelique
 Aoki Densetsu Shoot!
 Appleseed : Prometheus no Shintaku
 Arabian Nights: Sabaku no Seirei-o
+Araiguma Rascal: Raccoon Rascal
 Arcus Spirits
 Aretha
 Aretha II : Ariel No Fushigi Na Tabi
@@ -65,8 +54,8 @@ Battle Master: Kyuukyoku no Senshi-Tachi
 Battle Pinball
 Battle Racers
 Battle Robot Retsuden
-Battle Soccer : Field no Hasha
 Battle Soccer 2
+Battle Soccer : Field no Hasha
 Battle Submarine
 Battle Tycoon : Flash Hiders SFX
 Battle Zeque Den
@@ -91,8 +80,8 @@ Block Kuzushi
 Blue Crystal Rod, The
 Bomber Man B-Daman
 Bounty Sword
-Brandish 2 : Expert
 Brandish 2 - The Planet Buster
+Brandish 2 : Expert
 Burai : Hachigyoku no Yuushi Densetsu
 Bushi Seiryuuden : Futari no Yuusha
 Captain Tsubasa III : Koutei no Chousen
@@ -103,12 +92,11 @@ Caravan Shooting Collection
 Casper
 CB Chara Wars : Ushinawareta Gag
 Chaos Seed : Fuusui Kairouki
-Jikkyou Oshaberi Parodius
 Chibi Maruko-chan : Harikiri 365-nichi no Maki
 Chibi Maruko-chan : Mezase! Minami no Island!!
 Chinhai
 Chou Aniki: Bakuretsu Rantou Hen
-Super Genjin 2
+Chou-Mahou Tairiku Wozz
 Choujikuu Yousai Macross : Scrambled Valkyrie
 Chrono Trigger
 Classic Road
@@ -125,8 +113,8 @@ Coron Land
 Cosmo Gang : The Puzzle
 Cosmo Gang : The Video
 Cosmo Police Galivan II : Arrow of Justice
-Crayon Shin-chan : Arashi o Yobu Enji
 Crayon Shin-chan 2 : Daimaou no Gyakushuu
+Crayon Shin-chan : Arashi o Yobu Enji
 Crystal Beans from Dungeon Explorer
 Cu-On-Pa SFC
 Cyber Knight
@@ -135,9 +123,9 @@ Cyborg 009
 Dai-3-ji Super Robot Taisen
 Dai-4-ji Super Robot Taisen
 Daibakushou Jinsei Gekijou
+Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen
 Daibakushou Jinsei Gekijou : Dokidoki Seishun Hen
 Daibakushou Jinsei Gekijou : Ooedo Nikki
-Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen
 Daikaijuu Monogatari
 Daikaijuu Monogatari II
 Daisenryaku Expert
@@ -151,14 +139,16 @@ Deae Tonosama : Appare Ichiban
 Dear Boys
 Death Brade
 Dekitate High School
-Kishin Douji Zenki: Rettou Raiden
 Densetsu no Ogre Battle - The March of the Black Queen
-Derby Jockey : Kishu Ou e no Michi
+Der Langrisser
 Derby Jockey 2
+Derby Jockey : Kishu Ou e no Michi
+Derby Stallion 96
 Derby Stallion 98
 Derby Stallion II
 Derby Stallion III
 Dharma Doujou
+Dimension-Force
 Do-Re-Mi Fantasy : Milon no Dokidoki Daibouken
 Dokapon 3-2-1 : Arashi o Yobu Yuujou
 Dokapon Gaiden : Honoo no Audition
@@ -166,10 +156,10 @@ Dolucky no A.League Soccer
 Dolucky no Kusayakiu
 Dolucky no Puzzle Tour '94
 Donald Duck no Mahou no Boushi
-Doraemon : Nobita to Yousei no Kuni
 Doraemon 2 : Nobita no Toys Land Daibouken
 Doraemon 3 : Nobita to Toki no Hougyoku
 Doraemon 4 : Nobita to Tsuki no Oukoku
+Doraemon : Nobita to Yousei no Kuni
 Dossun! Ganseki Battle
 Doukyuusei 2
 Down the World : Mervil's Ambition
@@ -177,9 +167,9 @@ Downtown : Nekketsu Baseball Monogatari, Yakyuu de Shoubu da! Kunio-kun
 Dr. Mario
 Dragon Ball Z : Hyper Dimension
 Dragon Ball Z : Super Butouden
-Dragon Ball Z: Super Gokuu Den - Kakusei Hen
 Dragon Ball Z : Super Gokuu Den, Totsugeki Hen
 Dragon Ball Z : Super Saiya Densetsu
+Dragon Ball Z: Super Gokuu Den - Kakusei Hen
 Dragon Knight 4
 Dragon Quest I.II
 Dragon Quest III : Soshite Densetsu e...
@@ -189,6 +179,7 @@ Dragon Slayer - Eiyuu Densetsu
 Dragon Slayer : Eiyuu Densetsu II
 Dragon's Earth
 Dream Basketball : Dunk & Hoop
+Dream Maze : Kigurumi Daibouken
 Drift King Shutokou Battle '94 : Tsuchiya Keiichi & Bandou Masaaki
 Drift King Shutokou Battle 2 : Tsuchiya Keiichi & Bandou Masaaki
 Dual Orb : Seirei Tama Densetsu
@@ -232,9 +223,9 @@ Fishing Koushien
 Flying Hero : Bugyuru no Daibouken
 Fortune Quest : Dice o Korogase
 From TV Animation Slam Dunk - Dream Team - Shuueisha Limited
+From TV Animation Slam Dunk 2 : IH Yosen Kanzen Ban!!
 From TV Animation Slam Dunk : SD Heat Up!!
 From TV Animation Slam Dunk : Yonkyou Gekitotsu!!
-From TV Animation Slam Dunk 2 : IH Yosen Kanzen Ban!!
 Front Mission
 Front Mission Series : Gun Hazard
 Funaki Masakatsu Hybrid Wrestler : Tougi Denshou
@@ -266,6 +257,7 @@ Gekitotsu Dangan Jidousha Kessen : Battle Mobile
 Gekitou Burning Pro-Wrestling
 Genjuu Ryodan
 Genocide 2
+Gerry Anderson's Thunderbirds : Kokusai Kyuujotai Shutsudou Seyo!!
 Get in the Hole
 Getsumen no Anubis
 Ghost Chaser Densei
@@ -304,7 +296,6 @@ Hat Trick Hero 2
 Hatayama Hatch no Pro Yakyuu News! : Jitsumei Ban
 Hayazashi Nidan Morita Shougi
 Hayazashi Nidan Morita Shougi 2
-Tokimeki Memorial: Densetsu no Ki no Shita de
 Hebereke no Oishii Puzzle wa Irimasenka
 Heian Fuuunden, The
 Heisei Gunjin Shougi
@@ -339,28 +330,30 @@ Honkaku Mahjong : Tetsuman II
 Honkaku Shougi : Fuuunji Ryuuou
 Honkakuha Igo : Gosei
 Honke Hanafuda
-Honke Sankyo Fever : Jikki Simulation
 Honke Sankyo Fever 2 : Jikki Simulation
 Honke Sankyo Fever 3 : Jikki Simulation
+Honke Sankyo Fever : Jikki Simulation
 Honoo no Toukyuuji : Dodge Danpei
-Hourai Gakuen no Bouken! : Tenkousei Scramble
 Houkago in Beppin Jogakuin
+Hourai Gakuen no Bouken! : Tenkousei Scramble
 Human Baseball
 Human Grand Prix III : F1 Triple Battle
 Human Grand Prix IV : F1 Dream Battle
 Hyper Iria
 Idea no Hi
 Igo Club
+Ihatovo Monogatari
 Illvanian no Shiro
 Inazuma Serve da! Super Beach Volley
 Ippatsu Gyakuten: Keiba - Keirin - Kyoutei
 Iron Commando : Koutetsu no Senshi
 Isozuri : Ritou Hen
 Itadaki Street 2 : Neon Sign wa Barairo ni
+Itoi Shigesato no Bass Tsuri No. 1
 Itou Hatasu Rokudan no Shougi Doujou
+J-League Excite Stage '96
 J.League '96 Dream Stadium
 J.League Excite Stage '95
-J-League Excite Stage '96
 J.League Soccer Prime Goal
 J.League Soccer Prime Goal 2
 J.League Super Soccer '95 : Jikkyou Stadium
@@ -370,13 +363,14 @@ Janyuuki : Gokuu Randa
 JB The Super Bass
 Jelly Boy 2
 Jerry Boy
+Jikkyou Oshaberi Parodius
 Jikkyou Power Pro Wrestling '96 : Max Voltage
 Jikkyou Powerful Pro Yakyuu '94
 Jikkyou Powerful Pro Yakyuu '96 : Kaimaku Ban
-Jikkyou Powerful Pro Yakyuu : Basic Ban '98
 Jikkyou Powerful Pro Yakyuu 2
 Jikkyou Powerful Pro Yakyuu 3
 Jikkyou Powerful Pro Yakyuu 3 : '97 Haru
+Jikkyou Powerful Pro Yakyuu : Basic Ban '98
 Jissen Kyoutei
 Jissen Pachi-Slot Hisshouhou! Twin
 Jissen Pachi-Slot Hisshouhou! Twin Vol. 2
@@ -387,6 +381,7 @@ Jissen! Pachi-Slot Hisshouhou! 2
 Jissen! Pachi-Slot Hisshouhou! Classic
 Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu
 JoJo no Kimyou na Bouken
+Joushou Mahjong Tenpai
 Jumpin' Derby
 Jungle no Ouja Tar-chan : Sekaimanyuu Daikakutou no Maki
 Jungle Wars 2 : Kodai Mahou Atimos no Nazo
@@ -397,6 +392,7 @@ Kabuki Rocks
 Kachiuma Yosou Soft : Baken Renkinjutsu
 Kachou Shima Kousaku
 Kaite Tsukutte Asoberu: Dezaemon
+Kaizou Choujin Shubibinman Zero
 Kakinoki Shougi
 Kamaitachi no Yoru
 Kamen Rider
@@ -417,7 +413,6 @@ Kidou Senshi Gundam : Cross Dimension 0079
 Kidou Senshi Gundam F91 : Formula Senki 0122
 Kidou Senshi V Gundam
 Kidou Senshi Z Gundam : Away to the Newtype
-Kishin Kourinden Oni
 Kikou Keisatsu Metal Jack
 Kikuni Masahiko no Jantoushi Doraou
 Kikuni Masahiko no Jantoushi Doraou 2
@@ -426,14 +421,15 @@ King of Rally, The
 Kingyo Chuuihou! : Tobidase! Game Gakuen
 Kinnikuman : Dirty Challenger
 Kirby no Kirakira Kids
-Dimension-Force
 Kishin Douji Zenki : Denei Raibu
 Kishin Douji Zenki : Tenchi Meidou
+Kishin Douji Zenki: Rettou Raiden
+Kishin Kourinden Oni
 Kiteretsu Daihyakka : Choujikuu Sugoroku
 Konpeki no Kantai
-Kouryuu no Mimi
 Kouryaku Casino Bar
 Kouryuu Densetsu Villgust : Kieta Shoujo
+Kouryuu no Mimi
 Koushien 2
 Koushien 3
 Koushien 4
@@ -444,10 +440,9 @@ Koutetsu no Kishi 3 : Gekitotsu Europe Sensen
 Kunio no Oden
 Kunio-kun no Dodge Ball Da yo : Zenin Shuugou!
 Kuusou Kagaku Sekai Gulliver Boy
-Kyuuyaku Megami Tensei: Megami Tensei I Â· II
+Kyuuyaku Megami Tensei: Megami Tensei I · II
 La Wares
 Lady Stalker : Kako kara no Chousen
-Der Langrisser
 Laplace no Ma
 Last Battle, The
 Last Bible III
@@ -462,6 +457,7 @@ Little Magic
 Little Master: Niji Iro no Maseki
 Live A Live
 Lode Runner Twin : Justy to Liberty no Daibouken
+Lodoss Tou Senki
 Logos Panic Goaisatsu
 Lord Monarch (Japan)
 Love Quest
@@ -470,7 +466,6 @@ Madou Monogatari : Hanamaru Daiyouchienji
 Maerchen Adventure Cotton 100%
 Magical Drop
 Magical Drop 2
-Chou-Mahou Tairiku Wozz
 Magical Pop'n
 Magical Taruruuto-kun : Magic Adventure
 Magna Braban : Henreki no Yuusha
@@ -504,8 +499,8 @@ Melfand Stories
 Metal Max 2
 Metal Max Returns
 Metal Slader Glory: Director's Cut
-Mickey to Donald : Magical Adventure 3
 Mickey no Tokyo Disneyland Daibouken
+Mickey to Donald : Magical Adventure 3
 Might and Magic - Book II
 Milandra
 Mini Yonku Let's & Go!! : Power WGP 2
@@ -537,6 +532,7 @@ Naruhodo! The World
 Natsuki Crisis Battle
 Naxat Super Pinball : Jaki Crush
 Nekketsu Tairiku Burning Heroes
+Nekotako - Princess From the Moon
 Neugier : Umi to Kaze no Kodou
 New 3D Golf Simulation : Harukanaru Augusta
 New Yatterman : Nandai Kandai Yajirobee
@@ -547,20 +543,21 @@ Nintama Rantarou
 Nintama Rantarou 2
 Nintama Rantarou 3
 Nintama Rantarou Special
-Nishijin Pachinko Monogatari 2
 Nishijin Pachinko 3
 Nishijin Pachinko Monogatari
+Nishijin Pachinko Monogatari 2
+Nobunaga Kouki
 Nobunaga no Yabou : Haouden
 Nobunaga no Yabou : Tenshouki
 Nomark Baku Haitou : Shijou Saikyou no Janshi-tachi
 Nontan to Issho : Kurukuru Puzzle
 Numbers Paradise
-Ou-chan no Oekaki Logic
 Oda Nobunaga : Haou no Gundan
 Oekaki Logic
 Oekaki Logic 2
 Okamoto Ayako to Match Play Golf : Ko Olina Golf Club in Hawaii
 Olivia's Mystery
+Ongaku Tsukuru Kanadeeru
 Onizuka Katsuya Super Virtual Boxing : Shin Kentou Ou Densetsu
 Oonita Atsushi FMW
 Oozumou Spirits
@@ -569,6 +566,7 @@ Ossu!! Karate-bu
 Othello World
 Otoboke Ninja Colosseum
 Otogirisou
+Ou-chan no Oekaki Logic
 Pachi-Slot Gambler
 Pachi-Slot Kanzen Kouryaku : Universal Shindai Nyuuka Volume 1
 Pachi-Slot Kenkyuu
@@ -579,8 +577,8 @@ Pachi-Slot Monogatari : Universal Special
 Pachinko Challenger
 Pachinko Fan : Shouri Sengen
 Pachinko Maruhi Hisshouhou
-Pachinko Monogatari : Pachi-Slot mo Aru deyo!!
 Pachinko Monogatari 2 : Nagoya Shachihoko no Teiou
+Pachinko Monogatari : Pachi-Slot mo Aru deyo!!
 Pachinko Ren-chan Tengoku : Super CR Special
 Pachinko Tetsujin : Nanaban Shoubu
 Pachinko Wars
@@ -590,13 +588,13 @@ Pachio-kun Special 2
 Pachio-kun Special 3
 Panel de Pon
 Panic in Nakayoshi World
-Parlor! Mini : Pachinko Jikki Simulation Game
 Parlor! Mini 2 : Pachinko Jikki Simulation Game
 Parlor! Mini 3 : Pachinko Jikki Simulation Game
 Parlor! Mini 4 : Pachinko Jikki Simulation Game
 Parlor! Mini 5 : Pachinko Jikki Simulation Game
 Parlor! Mini 6 : Pachinko Jikki Simulation Game
 Parlor! Mini 7 : Pachinko Jikki Simulation Game
+Parlor! Mini : Pachinko Jikki Simulation Game
 Parlor! Parlor!
 Parlor! Parlor! 2
 Parlor! Parlor! 3
@@ -631,12 +629,11 @@ Pro Yakyuu Star
 Psycho Dream
 Puzzle Nintama Rantarou : Ninjutsu Gakuen Puzzle Taikai no Dan
 Puzzle'n Desu!
-Araiguma Rascal: Raccoon Rascal
+Radical Dreamers - Nusume Nai Houseki
 Ranma 1/2 : Akanekodan Teki Hihou
 Ranma 1/2 : Bakuretsu Rantou Hen
 Ranma 1/2 : Chougi Ranbu Hen
 Ranma 1/2 : Ougi Jaanken
-Lodoss Tou Senki
 Rejoice : Aretha Oukoku no Kanata
 Rendering Ranger R2
 Res Arcana : Diana Ray, Uranai no Meikyuu
@@ -652,6 +649,7 @@ Rokudenashi Blues : Taiketsu! Tokyo Shitennou
 Romancing Sa-Ga
 Romancing Sa-Ga 2
 Romancing Sa-Ga 3
+RPG Tsukuru 2
 RPG Tsukuru: Super Dante
 Rudra no Hihou
 Ruin Arm
@@ -664,6 +662,7 @@ Saibara Rieko no Mahjong Hourouki
 Saikousoku Shikou Shougi Mahjong
 Saikyou : Takada Nobuhiko
 Sakurai Shouichi no Jankiryuu Mahjong Hisshouhou
+Same Game
 Samsara Naga 2
 Sangokushi Eiketsuden
 Sangokushi Seishi : Tenbu Spirits
@@ -673,12 +672,13 @@ Sanrio World Smash Ball!
 Sanspo Fishing : Keiryuu Ou
 SD F-1 Grand Prix
 SD Gundam : Power Formation Puzzle
-SD Gundam Gaiden : Knight Gundam Monogatari, Ooinaru Isan
+SD Gundam G Next
 SD Gundam Gaiden 2 : Entaku no Kishi
+SD Gundam Gaiden : Knight Gundam Monogatari, Ooinaru Isan
 SD Gundam GX
 SD Hiryuu no Ken
-SD Kidou Senshi Gundam : V Sakusen Shidou
 SD Kidou Senshi Gundam 2
+SD Kidou Senshi Gundam : V Sakusen Shidou
 SD The Great Battle : Aratanaru Chousen
 Seifuku Densetsu Pretty Fighter
 Seijuu Maden Beasts & Blades
@@ -706,7 +706,6 @@ Shin Nihon Pro Wrestling Kounin : '94 Battlefield in Tokyo Dome
 Shin Nihon Pro Wrestling Kounin : '95 Tokyo Dome Battle 7
 Shin SD Sengokuden : Daishougun Retsuden
 Shin Shougi Club
-Nobunaga Kouki
 Shinri Game 2 : Magical Trip, The
 Shinri Game 3, The
 Shinri Game : Akuma no Kokoroji, The
@@ -714,14 +713,13 @@ Shinseiki Odysselya
 Shinseiki Odysselya II
 Shinzui Taikyoku Igo : Go Sennin
 Shiroi Ring e : Twinkle Little Star
-Kaizou Choujin Shubibinman Zero
 Shodai Nekketsu Kouha Kunio-kun
 Shodan Morita Shougi
 Shodani Nintei : Shodan Pro Mahjong
-Shougi Club
-Shougi Fuurinkazan
 Shogi Saikyou
 Shogi Saikyou II: Jissen Taikyoku Hen
+Shougi Club
+Shougi Fuurinkazan
 Shougi Zanmai
 Shounen Ashibe : Goma-chan no Yuuenchi Daibouken
 Shounen Ninja Sasuke
@@ -741,6 +739,7 @@ Sougou Kakutougi : Astral Bout 2, The Total Fighters
 Sougou Kakutougi Rings : Astral Bout 3
 Soukou Kihei Votoms : The Battling Road
 Soul & Sword
+Sound Novel Tsukuru
 Spark World
 Spriggan Powered
 Sprinter Monogatari : Mezase!! Ikkakusenkin
@@ -749,7 +748,7 @@ Stable Star : Kyuusha Monogatari
 Star Ocean
 Stardust Suplex
 Stealth
-Ihatovo Monogatari
+Sugoi Hebereke
 Sugoro Quest++ : Dicenics
 Sugoroku Ginga Senki
 Supapoon
@@ -758,12 +757,13 @@ Super Air Diver 2
 Super Aleste
 Super Back to the Future Part II
 Super Baken Ou '95
+Super Big 2 - Hei Tao 2
 Super Bikkuriman
 Super Birdie Rush
 Super Black Bass 3
-Super Bomber Man : Panic Bomber W
 Super Bomber Man 4
 Super Bomber Man 5
+Super Bomber Man : Panic Bomber W
 Super Bombliss
 Super Casino 2
 Super Castles
@@ -789,8 +789,8 @@ Super Famista 4
 Super Famista 5
 Super Final Match Tennis
 Super Fire Pro Wrestling
-Super Fire Pro Wrestling : Queen's Special
 Super Fire Pro Wrestling 2
+Super Fire Pro Wrestling : Queen's Special
 Super Fire Pro Wrestling III - Easy Type
 Super Fire Pro Wrestling III : Final Bout
 Super Fire Pro Wrestling Special
@@ -804,6 +804,7 @@ Super Formation Soccer 95 della Serie A
 Super Formation Soccer 96 : World Club Edition
 Super Formation Soccer II
 Super Gachapon World : SD Gundam X
+Super Genjin 2
 Super Gomoku Narabe : Renju
 Super Gomoku Shougi : Jouseki Kenkyuu Hen
 Super Gussun Oyoyo
@@ -862,9 +863,9 @@ Super Robot Taisen EX
 Super Robot Taisen Gaiden: Masou Kishin: The Lord of Elemental
 Super Rugby
 Super Sangokushi
-Super Shougi
 Super Shogi 2
 Super Shogi 3 : Kitaihei
+Super Shougi
 Super Soukoban
 Super Tekkyuu Fight!
 Super Tetris 2 + Bombliss
@@ -880,8 +881,8 @@ Super Wagyan Land
 Super Wagyan Land 2
 Super Wrestle Angels
 Super Yakyuudou
-Super Zugan : Hakotenjou kara no Shoutaijou
 Super Zugan 2 : Tsukanpo Fighter
+Super Zugan : Hakotenjou kara no Shoutaijou
 Super!! Pachinko
 Sutobasu Yarou Show: 3 On 3 Basketball
 Sutte Hakkun
@@ -895,6 +896,7 @@ Taekwon-Do
 Taikou Risshiden
 Taikyoku Igo : Goliath
 Taikyoku Igo : Idaten
+Taiwan 16 Mahjong II: Horoscope Girls Edition
 Take Yutaka GI Memory
 Takeda Nobuhiro no Super League Soccer
 Takemiya Masaki Kudan no Igo Taishou
@@ -911,7 +913,7 @@ Tetsuwan Atom
 Thoroughbred Breeder
 Thoroughbred Breeder II
 Thoroughbred Breeder III
-Gerry Anderson's Thunderbirds : Kokusai Kyuujotai Shutsudou Seyo!!
+Tokimeki Memorial: Densetsu no Ki no Shita de
 Tokoro's Mahjong
 Top Management II
 Toride
@@ -919,7 +921,6 @@ Torneko no Daibouken : Fushigi no Dungeon
 Tottemo! Lucky Man : Lucky Cookie Roulette de Totsugekii
 Touge Densetsu : Saisoku Battle
 Tower Dream
-America Oudan Ultra Quiz
 Traverse : Starlight & Prairie
 Treasure Hunter G
 Trinea
@@ -969,21 +970,20 @@ Xak : The Art of Visual Stage
 Yadamon : Wonderland Dreams
 Yakouchuu
 Yam Yam
+Yokai Buster: Ruka no Daibouken
 Yokoyama Mitsuteru Sangokushi
 Yokoyama Mitsuteru Sangokushi 2
 Yokoyama Mitsuteru Sangokushi Bangi : Sugoroku Eiyuu-ki
 Yokozuna Monogatari
 Yoshi No Cookie - Kuruppon Oven De Cookie
 Youchien Senki Madara
-Yokai Buster: Ruka no Daibouken
 Ys IV : Mask of the Sun
-Ys V: Expert
 Ys V : Ushinawareta Suna no Miyako Kefin
+Ys V: Expert
 Yu Yu Hakusho
-Yu Yu Hakusho : Tokubetsu Hen
 Yu Yu Hakusho 2 : Kakutou no Shou
+Yu Yu Hakusho : Tokubetsu Hen
 Yu Yu Hakusho Final : Makai Saikyou Retsuden
-Dream Maze : Kigurumi Daibouken
 Yumemaboroshi no Gotoku
 Yuujin Janjuu Gakuen
 Yuujin Janjuu Gakuen 2
@@ -995,9 +995,9 @@ Zan III Spirits
 Zelda no Densetsu - Kamigami no Triforce
 Zen-Nihon GT Senshuken
 Zen-Nihon Pro Wres
-Zen-Nihon Pro Wrestling: Fight da Pon!
 Zen-Nihon Pro Wres 2 : 3-4 Budoukan
 Zen-Nihon Pro Wres' : Sekai Saikyou Tag
+Zen-Nihon Pro Wrestling: Fight da Pon!
 Zenkoku Juudan Ultra Shinri Game
 Zenkoku Koukou Soccer
 Zenkoku Koukou Soccer 2

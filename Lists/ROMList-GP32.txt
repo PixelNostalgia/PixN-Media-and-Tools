@@ -1,37 +1,24 @@
 ﻿System: GP32
 ====================
-Astonishia Story R (Korea)
-Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)
-Dooly Soccer 2002 (Korea)
-Dungeon & Guarder - Dragon Gore (Europe)
-Dyhard - With Infinite Stairs (Europe)
-Dynamate v2.0 (2003-03-25)(Flavor)(FW)
-Funny Soccer 2002 (2002)(Gamepark)
-GlooP Deluxe (2003)(Aeon Flame)(EU)
-GP Fight (Korea)
-Hany Party Game (Korea)
-Her Knights - All for the Princess (Europe)
-Holeman Battle Race 2002 (2002)(MoongKle)(KR)
-Kimchiman GP32 (Korea)
-Little Girl Mill of a Gingko, The (Korea)
-Little Wizard (Europe)
-OneShot Voca (Korea)
-Pinball Dreams (2002)(Gamepark)(EU)
-Princess Maker 2 (Korea)
-Rally Pop (Korea)
-Raphael (Korea)
-SmashGP v0.4c (2005-08-11)(mATkEUpON)(FR)(FW)
-Story of Bug Eyed Monster (2003)(Gamepark)(KR)
-Super Plusha (2002)(Gamepark)(EU)
-Tales of Windy Land (2003)(AIM Technology)(KR)
-Tanggle's Magic Square (Korea)
-Tears - Another Story (2003)(Team D.T.R.)(KR)
-Therapy (Korea)
-Tomak - Save the Earth, Again (Europe) (v2.0)
-Topy Topy Gogo (2003)(Gamepark)(EU)
-W.B.W. - Wanna Be Wizard! (Korea)
-Winter Is (2003)(Gamepark)(KR)
-Wizard Slayer (Korea)
-Woody & Kunta - Treasure Island (Europe)
+Blue Angelo - Angels From The Shrine
+Dungeon & Guarder - Dragon Gore
+Dyhard - With Infinite Stairs
+Gp Fight
+Hany Party Game
+Her Knights - All For The Princess
+Kimchiman Gp32
+Little Wizard
+The Little Girl Mill of a Gingko
+Princess Maker 2
+Rally Pop
+Raphael
+Tanggle's Magic Square
+Therapy
+Tomak - Save The Earth, Again
+Treasure Island
+W.b.w. - Wanna Be Wizard!
+Wizard Slayer
+Dooly Soccer 2002
+Astonishia Story R
 ====================
-Total Games: 33
+Total Games: 20

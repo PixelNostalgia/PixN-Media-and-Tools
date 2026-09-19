@@ -1,149 +1,40 @@
 ﻿System: PC-8800 Series
 ====================
-177
-1942
-A.E.
-Acrojet
-Albatross
-Alley Cat
-Alphos
-American Truck
-The Ancient Art of War
-Archon: The Light and the Dark
-Arctic: Active Rail Playing Game
-Arkanoid
-Ashe
-Aztec
-Babylon
-Backgammon
-Balloon Fight
-Batten Tanuki no Daibouken
-The Black Onyx
-Bomb Jack
-Boulder Dash
-Bruce Lee
-Castle Excellent
-Chack'n Pop
-Champion ProWres Special
-Championship Lode Runner
-Choplifter!
-The Cockpit
-Columns
-Cosmic Soldier 2: Psychic War
-Courageous Perseus
-Cruise Chaser Blassty
-D'
-Daidassou
-Daikoukai Jidai
-Daisenryaku 88
-David's Midnight Magic
 The Demon Crystal
-Dig Dug
-Digital Devil Story: Megami Tensei
-Dios
-Donkey Kong 3: Dai Gyakushuu
-Dragon & Princess
-Dragon Buster
-Dragon Slayer
-Dynamite Bowl
-EGGY
-The Eidolon
-Elevator Action
-Elthlead
-Excitebike
-F-15 Strike Eagle
-Fantasian
-Final Zone Wolf
-Fire Hawk: Thexder: The Second Contact
-Flappy
-Flicky
-Flight Simulator with Torpedo Attack
-Formation Z
-Front Line
-Fruit Panic
-Galaxian
-Gemstone Warrior
-The Goonies
+Final Crisis
 Gradius
-Grobda
-Gumball
 Gyrodine
-Hang-On
-Hercules
-Heroes of the Lance
 Herzog
-Highrise
-Hole in One
+Hydlide 2
 Hydlide
-Hydlide 3: The Space Memories
-Hydlide II: Shine of Darkness
-Ice Climber
-Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
-Klax
-Knither: Demon Crystal II
-Legend
-Little Computer People
-Lot Lot
-Lyrane
-Mabel's Mansion
-Makaimura
+King Flappy
+Luxsor
 Mappy
-Mario Bros. Special
-Mashou Denki: La Valeur
-Mirai
-Missile Command
-Mr. Robot and His Robot Factory
-Mugen Senshi Valis
-Mugen Senshi Valis II
-Night Life
-Ninja-kun: Majou no Bouken
-Ogre
-Pachicom
-Pac-Man
-Penguin-Kun Wars
-Punch Ball Mario Bros.
-Replicart
-A Ressha de Ikou
-The Return of Ishtar
-Roadwar 2000
-Robo Wres 2001
-Rogue
-Rollerball
-Romancia
-The Scheme
-Senjou no Ookami
-Silpheed
-Skyfox
-Soko-Ban
-Solitaire Royale
-Sorcerian
-Space Cruiser
+Mario Bros Special
+Miner 2049er
+Missile Panic
+Punch Ball Mario
+Scottie
 Space Harrier
-Spy vs Spy
-Star Cruiser
-Star Trader
-Summer Games
-Super Mario Bros. Special
 Super Pitfall
-Swashbuckler
-Tetris
-Thexder
+Super Sonic Shooter
+Scheme, The
 Thunder Force
-Topple Zip
 Tritorn
-Vaxol
-Volguard
-WerDragon
 Wibarm
-Winter Games
-Woody Poco
-World Golf
-Xanadu: Dragon Slayer II
-Xevious
-XZR II
-XZR: Hakai no Guuzou
-Ys II: Ancient Ys: Vanished The Final Chapter
-Ys III: Wanderers from Ys
-YS: Ancient Ys Vanished
+Alphos
+1942
+Bomb Jack
+Chack'n Pop
+Castle Excellent
+Excite Bike
+Bruce Lee
+Cannon Ball
+Boulder Dash
+Arkanoid
+Apploon
+Bug Attack
+Dragon Slayer
+Makaimura
 ====================
-Total Games: 145
+Total Games: 36

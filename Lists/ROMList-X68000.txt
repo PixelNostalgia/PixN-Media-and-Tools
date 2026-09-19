@@ -1,1292 +1,1271 @@
 ﻿System: X68000
 ====================
-15 Puzzle
-177
-1941 Strategy
-2069 Ad
-3 Danhenkei Meka Fuzzy
-3 Meekaa
-37 Degrees C Kai No Bouken
-38 Man Kilo No Kokuu
-A Ressha De Ikou II
-A Ressha De Ikou III
-A-Jax
-A-jine
-A-kusha
-Abunai Tengoku Densetsu
-Access Heat
-Active Shoot
-Advanced Ruumik Quiz
-Advanced Ruumik Quiz 2
-Adventure Land
-Adventure Land 2
-After Burner 2
-Ah! Ohime-sama!
-Aikoku Pro Uso-68K
-Air Combat Ii
-Air Combat II Yuugekiou II
-Air Hork
-Air Management
-Akazukin Cha Cha Cha
-Akazukin Cha Cha no Chotto dake yo - Otameshi Plus Alpha
-Akazukin Monogatari
-Akiko
-Akumajou  Dracula
-Akumajou Dracula
-Alfarne
-Algarna
-Alice No Yakata
-Alice No Yakata 2
-Alien Syndrome
-Alien Tennis Chikyuu No Kiki
-Alshark
-Amamori Pro Uso-68K
-Ambivalenz
-Ame Game 0.90
-American Heroes BF 92 Extra Version
-Andromeda Seiun
-Angel 3
-Angel Dive
-Animahjong V3
-Animahjong V3
-Anmira Daihinmin
-Anzu Fly!
-Aoki Ookami To Shiroki Meshika Genchou Hishi
-Aoki Ookami To Shiroki Meshika Genghis Khan
-Aquales
-Arcus II Silent Symphany
-Arcus Odyssey
-Arcus Pro 68k
-Are You Happy Shiawase
-Argos No Senshi
-Arianshuu
-Arkanoid Revenge Of Doh
-Armored Trooper Votoms Dead Ash
-Arsia No Ki
-Artemis
-Arururu
-Asteroid Queen
-Asteroids
-Asuka 120 Percent Burning Fest
-Asuka 120%
-Atomic Robo-Kid
-Atomic Runner Chelnov
-Ayachan Suupurekkusu II
-B-Point
-B-System
-Baba Fighter II
-Babel
-Babel No Tou
-Bad Road
-Bakamedesu
-Bakudan Yuugi
-Bakudanma
-Bakuretsu Kukeidan
-Balloon Fight
-Baraduke
-Barcelona Fighter 92
-Barcelona Fighter 92 Bangaihen Sekaiichi Ha Ore Da
-Bari Bari Attack 3 Erice
-Baruusa No Fukushuu
-Baseball Knuckles '94, The
-Battle Chess
-Battle City
-Battle Game
-Battle Mania'
-Battle Unit
-Battle Unit II
-Battletech
-Beast Injuu No Yakata
-Bell's Avenue
-Binbin Mahjongg Peach Angel
-Birdy World
-Bishoujo Noriko
-Bishoujo Senshi Lady Fighter
-Bishoujo Senshi Moon Fighter
-Bishoujo Senshi Sailor V
-Bishoujo Senshi Sailor V
-Bishoujo Senshi Sailor V Final
-Bishoujo Senshi Sailormoon Kessen Dark Kingdom
-Bishoujo Senshi Sailormoon Moon Tiara Question
-Bishoujo Senshi Super Moon Fighter
-Bishoujo Senshi Super Moon Fighter X
-Bishoujo Shashinkan Moving School
-Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 1
-Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 2
-Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 3
-Biyoyon Car Game
-Black Jack 68K II Animation Version
-Blanka In Shura No Kuni
-Bleed Out Sakuretsu
-Blind Spot
-Blitzkrieg Toubu Sensen 1941-45
-Block Stocker
-Blockout Modoki
-Blodia
-Blue Waver Special
-Blue Wings 2 Blue Knights
-Bodhidharma Mark 2
-Bomber Man
-Bon 2
-Bonanza Bros
-Bonnou 2
-Bonnou 2
-Bonnou Muyou
-Bonnou Yobikou
-Bonnou Yobikou 3
-Bosconian
-Bottoro 2
-Boyon Boyon
-Boyoyon
-Bradion
-Branmarker
-Break Down
-Breed
-Bretonne Lais
-Bretonne Lais Scenario Data
-Bretonne Lais Scenario Shuu 1 Kaname
-Bretonne Lais Scenario Shuu 2 Kaname
-Bubble Bobble
-Buster
-Butarian
-Butasan
-Butasan Quest
-Byakuya Monogatari
-C Ryokukensa V3
-C-ONZ
-Cal
-Cal 2
-Cameltry
-Can Can Bunny
-Can Can Bunny Extra
-Can Can Bunny Premiere
-Can Can Bunny Superior
-Captain Color
-Carat
-Caroll
-Casablanca Ni Ai Wo Satsujinsha Ha Jikuu Wo Koete
-Castles
-Cat's Part-1
-Caterpi
-Cave Crowds
-Cave Crowds
-Celcion 68000
-Celia
-Cha Cha Cha - Red Riding Hood
-Chacha Fighter V
-Chaos Angels
-Chaos Strikes Back
-Chase H.q.
-Chijou Ikusa
-Chikyuugi
-Chinmoku No Kantai
-Chotto H Na Daihinmin
-Chotto Local Rule Na Mine Sweeper Hun De Oshimai!!
-Chou Bakudan Otoko Densetsu
-Choubangai Seifuku Zukan + (System House Oh!)[HD]
-Choujin
-Chourensha68k
-Chuka Taisen
-Cinderella Perudue
-Circus Circus
-Clay Shooting
-Clear Lap
-Cockpit
-Code Name Sailor Q
-Code-Zero
-Collector D Bangaihen
-Columns
-Columns
-Columns
-Command X Ray
-Continental
-Cosmic Psycho
-Cosmo Gang The Puzzle
-Cotton Fantastic Night Dreams
-Cranked Arrow
-Crazy Climber I & II
-Crescent
-Crescent Moon Girl
-Cross Fire EX
-Crystal Tower
-Cuarto
-Cube Gradius 3 Cube Simulation
-Cueb Runner
-Curious Site (Demo 2)
-Cy-lips
-Cyber Core
-Cyber Field
-Cyber RPG Pemo Pemo Pro-68K
-Cyberblock Metal Orange EX
-Cybermission
-Cynthia
-D-Return
-D.P.S.
-Dai Fugou Gakuen
-Daikon Oroshi Pro Uso-68K
-Daikoukai Jidai
-Daimakaimura
-Daisenryaku II Campaign Version
-Daisenryaku II Unit Editor
-Daisenryaku III '90
-Dalk
-Damage Fight II+
-Dancing Express
-Danger Area
-Dariball
-Darius
-Darius Dokomade Tatakaemasuka
-Darius Extra Version
-Dark Castle
-Darwin's Dilemma
-Dash
-Dastard!! Ankoku No Hakai Kami
-Datenshi Kyouko Part I
-Datsugoku Game
-DC Card
-De Ja
-De.Ja II
-Dead of the Brain
-Deadly Edge
-Death Brade
-Death Bringer
-Death Fighter
-Deep Scan
-Deep Scan
-Deflektor
-Deg-On
-Delta Arm
-Demon Slayer
-Demon Slayer 2
-Demon Slayer 3
-Dennou Gakuen
-Desperado
-Detana! Twin Bee
-Devil Chain
-Diamond Explorer
-Diamond Explorer II
-Die Bahnwelt
-Dig Dug
-Dig Dug 1 And 2
-Dino Land
-Dion
-Dios
-Disco Scroll
-Dive On
-Dog Fight!
-Doki Doki Amanachan
-Doki Doki Card League
-Dome
-Dor
-Dor 3
-Dor Part 2
-Dor Special Edition '93
-Dor Special Edition Sakigake
-Dori Dor Qizu
-Dorix
-Double Eagle
-Double Target
-Douke Shisatsujin Jiken
-Doukyuusei
-Downtown Nekketsu Monogatari
-Dr. A San Kyoudai Series Tomomichan No Dobon
-Dr. Orima
-Dr. Stop
-Dracula Hakushaku
-Dragon
-Dragon Buster
-Dragon City X Shitei
-Dragon Cross
-Dragon Eyes
-Dragon Knight
-Dragon Knight 2
-Dragon Knight 3
-Dragon Knight 4
-Dragon Province
-Dragon Quest
-Dragon Slayer - Eiyuu Densetsu
-Dragon Slayer - Eiyuu Densetsu
-Dragon Spirit
-Dragon Strike
-Dragon Wars
-Drakkhen
-Dream Program System Sg
-Dream Program System Sg Set 2
-Dream Program System Sg Set 3
-Drinky & Smokey
-Duel Fighter
-Duel Fighter 2
-Dungeon Master
-Dungeon Seekers
-Dynamic Fomesion Soccer
-Dynamite Duke
-EEL Edit Elements v2.00A
-EFF Erotic Fantasy Fable
-Eikan Ha Kimi Ni Koukou Yakyuu Zenkokutaikai
-Elf No Shoujou CG Puzzle
-Elle
-Elrin Da! Magazine Vol. 2 Quiz Uchuu Tai Sakusen
-Emerald Densetsu
-Emerald Dragon
-Endan Genpei Souranki - Irohanihoheto
-Entfuhrer
-Erion Quest
-Etoile Princesse
-Europe Sensen
-Exceed
-Exciting Hour Jusse Oozumou
-eXOn
-Exterlien
-Ezoris
-F-1 Fastest Lap
-F-15 Strike Eagle 2
-Fairyland Story
-Fairytale Kaizoku Han
-Famass
-Fancy Qix
-Fantasy Shooting
-Fantasy Zone
-Far Side Moon Chikyuu Boueidan 2
-Farewell Disk
-Fevrie
-Final Fight
-Fire
-Firia
-First Blow
-First Crisis Ma Jin No Toubou
-First Main Dish Pasta
-First Mission
-First Mission II Final Mission
-First Queen II
-Flame Wing
-Flaming Dart
-Flappy 2 Blue Star Fukkatsu No Hi
-Flip Flop
-Flipull
-Fly
-Fly Shooters
-Flying Shark
-Formula X
-Formula X Tokubetsu Han
-Formula X Yosen Han
-Fortress Attack
-Forty-One
-Four'll Fall
-Foxy 2
-Frapull
-Frisky Tom
-Frog
-Frogger
-Fruits Fields
-FSS Fantasy Saga System
-Full Throttle
-Fushigi Densetsu
-Fushigi No Kabe
-Fushigi No Umi No Nadia
-Future Wars - Toki no Boukensha
-FZ Senki Axis
-G.R. Gravity Responce
-Ga-War Games
-Gaia Fighter
-Gaiarm
-Gakuen Bomber
-Gakuen Toshi Z
-Gal Mind 2
-Galaga '88
-Galaga 88
-Galaxian
-Galaxian 2
-Galaxian 3
-Galaxian X68K
-Galaxy Wars
-Galseed
-Galseed 2
-Game.x
-Gamma Planet
-Ganbare! Paichan
-Gardis Light
-Garou Densetsu
-Garou Densetsu 2
-Garou Densetsu Special
-Gaudi - Barcelona no Kaze
-Gedou Densetsu
-Gedou Retsuden
-Gekkan 5 Gou
-Gemdrop
-Gemini Wing
-Genocide
-Genocide 2
-Genpei Toumaden
-Geograph Seal
-Get Ready
-Getsumen Nanchakuriku Game
-Giga Fight 68K
-Ginga Eiyuu Densetsu
-Ginga Eiyuu Densetsu II
-Ginga Eiyuu Densetsu II DX+
-Ginga Eiyuu Densetsu Power Up & Scenario Shuu
-Girls Paradise
-Giza! XIX
-Glacier
-Go Kichikun
-Goddess Blazon Ex
-Goddess' Blazon
-Gokiburi Game
-Gorakuin
-Gradius
-Gradius
-Gradius 2 Gofer
-Gradius Arcade
-Gradius II Gofer No Yabou
-Gram Cats 2
-Granada
-Granada_Midi
-Grandi Florum Mischeif of Iveris
-Grobda
-Grobda Modoki
-Ground Master
-Group X
-Guardian
-Guardians
-Guerriere Lyeward
-Gunship
-Gyaos
-Hacchake Ayatosan II Ikenai Holiday
-Hacchake Ayayosan Pro-68K
-Haita Tsuun Dash
-Hakobune Ni Notte
-Half Mind
-Hana Yori Dango
-Hanafuda Hourouki
-Hanafuda Koi Koi
-Hanafuda Tengoku
-Hanaikoku Pro Uso-68K
-Hare Nochi Oosawagi
-Haruka Naru Augusta
-Haruka Naru Eight Lakes
-Hatenkou
-Heart of Saphilamun
-Heavy Nova
-Heiankyou Alien
-Heiankyou Alien
-Hellhound
-Helmet
-Hero Hero Disk 1
-Hero Hero Disk 4 Indojin No Yabou
-Hero Hero Disk 6
-Hero Hero Disk 8
-Hetzer
-Hextris
-Hey! Say! Education Committee
-Hi Mega Sister
-Higesori Pro Uso-68K
-High & Low
-High Position
-Himitsu No Hanazono
-Hiroshi
-Hiroshi II
-Hishou Same
-Hissatsu Yuusha Tsuitoshi
-History of Elthlead
-Hitomi Zaka
-Hori Hori Ume Ume
-Horror of Cridewell
-Hoshi No Suna Monogatari
-Hoshi No Suna Monogatari 2
-Hot Jump
-Hotel Wars
-Houma Hunter Lime 1
-Houma Hunter Lime 11
-Houma Hunter Lime 2
-Houma Hunter Lime 3
-Houma Hunter Lime 6
-Houseki Tsukai Jewel Master
-Hover Craft 68K
-How Many Robot
-Hydlide
-Hydlide 3 The Space Memories Special Version
-Hydlide II Shine of Darkness
-Iinoyama No Oishii
-Ika Blade
-Ikkaku Toushi Cecil
-Illumina
-Illumination Laser
-Image
-Image Fight
-Imazoman
-Imitation Ha Ai Senai
-Imperial Force
-Inindou Datou Nobunaga
-Integral Arm
-Intro Pro 68K v2.10+
-Ishido - The Way of Stones
-Ishin No Arashi
-J.B. Harold Manhattan Requiem Kiss of Murder
-J.B. Harold Murder Club DX
-J.B. Harold Series 2 Manhattan Requiem
-Jack Nicklaus' Golf
-Jack Nicklaus' Golf Tsuika Course 1
-Jack Nicklaus' Golf Tsuika Course 2
-Jaleck Expert-68K
-Jammes
-Jan Jaka Jan
-Jan Ken Club
-Jane
-Jangou 1
-Jangou 2 Kyouchinouban
-Janshin Quest
-Japan 2136 Nihon Gokei
-Jastis
-Jeena No Taibouken
-Jesus 2
-Jissen Billiards
-Joker
-Joker II
-Joshua
-Jotei Senki 1 Queen Edition
-Jotei Senki 2 Legend of Heroines
-Jotei Senki 3 The Queen of Fighters
-Jotei Senki 4 Heroines Forever
-Jumping Simon
-Junker Pro-68K
-Kachoufuugetsu Gaiden
-Kaerimichi Ha Kiken Ga Ippai
-Kaisen Game Daa!
-Kaizoku
-Kankyou Soft Shuu
-Karei Naru Jinsei Minasan No Okage Desu
-Karou Dansetsu Honban
-Karou Densetsu
-Karou Densetsu
-Karou Densetsu Honban
-Karou Densetsu Special
-Kateikyoushi Adventure
-Kateikyoushi Adventure 2
-Kawaharazaki Ie No Ichizoku
-Kawai Sou Monogatari Kanketsuhen
-Kax
-Keeper
-Kera Kera Hoshi
-Kibun Ha Pastel Touch
-Kids Sap 2nd File
-Kikori No Yosaku
-Kikou Shidan
-Kimi Dake Ni Ai Wo
-King Of Chicago, The
-King Ou II The Kick Master
-Kishikaisei Taiho Shichimauzo Hyoukahan
-Kitahei 68K
-Kiwame
-Klax
-Klax
-Knight Arena
-Knight Arms The Hyblid Framer
-Knight Maker
-Kohakuiro No Yuigon Seiyou Karuta Renzokusatsujin
-Koma
-Konya Mo Asa Made Powerful Mahjongg 2
-Kora Kora
-Korette Deesure Jong!
-Koube Renai Monogatari
-Kounai Shasei
-Kouryuuki
-Kousoku Genshu
-Ku2
-Ku2
-Kudoki Mataoshiemasu
-Kudoki Mataoshiemasu II Kind Gal's
-Kuru Kuru Puzzle
-Kurutta Kajitsu
-Kyarukan
-Kyun Kyun Fruit Napple City 1
-Kyun Kyun Fruit Napple City 2
-Kyuukyoku Tiger
-L'Empereur
-La Princesse Croissant
-Lagoon
-Lam- Mal
-Lamp
-Laplace No Ma
-Larjis
-Last Armageddon
-Last Battalion
-Last Piece II
-Laydock
-Leading Company
-Lemmings
-Lenam
-Leshies
-Level Point
-Lexus 2
-Libble Rabble
-Liberty Half Grade Up
-Libido 7
-Life And Death
-Lightning Bacchus
-Lime Light
-Lipstick Adventure
-Lipstick Adventure 3
-Lipstick Adventure II
-Little Chinese
-Little Chinese Dash
-Little Chinese Final Edition
-Lock On
-Lock On 2
-Lock On 3
-Lode Runner
-Lodoss Tou Senki Fukujinduke
-Lodoss Tou Senki II Goshiki No Maryuu
-Logicrush EX
-Long Night Maikochan No Kiken Na Yoru
-Loop Eraser
-Loopz
-Lot Lot Lot
-Lovely Horror Ochame Na Yuurei
-Lua
-Lucky Shot
-Lumchan Comike Ni Iku
-Lumchan No Kawai Sou Monogatari
-Lunatic Fantasy
-Luster Soursh
-Lyrical Party
-Mad Gear
-Mad Stalker Full Metal Worth
-Magery No Sekai He Youkoso
-Magery No Sekai He Youkoso 2 The Labyrinth of Dime
-Magery No Sekai He Youkoso 3 The End of Malicious
-Magery No Sekai He Youkoso For Otaku
-Magical Crash
-Magical Shot
-Magritte
-Mahjongg Clinic Zoukangou
-Mahjongg Gensou Kyoku
-Mahjongg Kyou Jidai Special
-Mahjongg Master
-Mahjongg Saikyou Musashi
-Mahjongg Tengoku
-Mahjongg Yuuenchi
-Mahou Daisakusen
-Mahou No Senshi Physical Melon
-Mahou No Shooter Puti'n Plin
-Mai
-Maison Ikkoku Kanketsuhen Special
-Majinguu
-Majo Halldra No Yabou
-Makenshi Kumiko
-Man I Love, The
-Mappy
-Marble Madness
-Marble Magic
-Marble Panic
-Marble Reverser
-Marble Reverser 2
-Marchen Maze
-Marchen Paradise
-Marine Buster
-Marmalade Bomb
-Marss
-Martial Age
-Masayochan Peeping Shot! Vol. 1
-Mayumi
-MCHA
-Me No Sakkaku Honken Program
-Mega Powerful Jangken Pro-68K
-Megalomania
-Megami De Pon
-Meisaku Rouman Bunko Neji Shiki
-Meisaku Rouman Bunko Neji Shiki
-Memory Broken
-Mercury
-Metal Eye
-Metal Sight
-Metal Unit
-Metal Unit II Power Unit
-Metamophosea 3
-Metamophosea Dai-I-shou
-Mid-garts
-Might and Magic Book One - Secret of the Inner Sanctum
-Mikkun Fly!
-Milk Time
-Million Shot
-Minami No Hiroshi No Eigo Kyoushitsu
-Mirage
-Missile Command 68K
-Missile Command AMA-68K
-Mission For Adult
-Missle Command
-Missle Command SX-68K
-Misty 68K 1 Kikai Na Zenra Shitai
-Misty 68K 2 Unmei No Akugi No Naka De
-Misty 68K 3 Satsui No Haikei
-Misty 68K 4 Sora He Kikan Mono
-Misty 68K 5 Utsukushiki Akuma
-Misty 68K 6 Nido Me No Organ
-Misty 68K 7 Yami No Naka No Shikisai
-Mobile Suit Gundam Classic Operation
-Mogu
-Mogura Attacker
-Mokona In Space
-Molo-Q
-Momotarou
-Momotarou Densetsu
-Momotarou Gaiden Momokochan Fight!
-Momotarou II Ohimesama Ga Ippai
-Mon Mon Shinkei Suijaku
-Mon Mon Shinkei Suijaku 2
-Mon Mon Shinkei Suijaku 3
-Mon Mon Shinkei Suijaku EX
-Money Heisei 1, 2 Nendo Han
-Monster Panic
-Moon Cresta
-Moon Light Chan Rin Shan
-Moon Lights 2
-Moon-Crystal
-Moria
-Morita Shougi II
-Moritan Othello
-Motos
-Mr. Do! And Mr. Do! Vs Unicorns
-Mugen Senshi Valis II
-My Eyes
-Mystery House
-Nageyari Sensha Kassen
-Naious
-Namachuukei 69
-Naniwa Do Konjou Series Bangaihen Nouten Chokudake
-Naniwa Do Konjou Series Nouten Chokudake!
-Naniwa Do Konjou Series Nouten Chokudake! 3
-Nasake Muyou Fire 2!
-Nazo No Rooguu Shuu
-Nectaris
-Nekketsu Koukou Dodgeball Bu
-Nemesis '90 Kai
-Nemesis '93 Gradius 2
-Nemesis '94 Gradius 2
-Nemesis 94 (Msx)
-Nervous Black Jack
-NetHack (v3.1)
-Neural Gear
-New Bokosuka Wars
-New Zealand Story, The
-Nice Jan
-Nicoll
-Niko Niko
-Ninin Battle
-Nise Dragon Quest V
-Nishisansou Tetris
-Noah
-Noble Mind
-Nobunaga No Yabou Bushou Fuuunroku
-Nobunaga No Yabou Hanouden
-Nobunaga No Yabou Sengoku Gunyuuden
-Nobunaga No Yabou Zenkokuhan
-Noriko Tobimasu
-Nostalgia 1907
-Nouten Densetsu
-Nova
-Nyanko Sweeper
-Oh! Hajiki!
-Oh! Pai
-Ohimesama
-Ohootsuku Ni Kiyu
-Okumanchouja
-Olteus II
-Ooedo Hanseiki
-Ora Ora Ball
-Ora-Shoot
-Orange Iro No Biyaku
-Original Games
-Otoko Dama
-Ougon No Buta
-Ougon No Rashinban
-OverDriver
-Overtake
-Pac-land
-Pac-man
-Pac-mania
-Pac-Men
-Pachinko World
-Pachisuro Divels XX
-Pacland
-Pacman
-Pacmania
-Pai Koukan Kyou Kou Kan Nakoruru Hen
-Parodius Da! - Shinwa kara Owarai e
-Paroran
-Parsec
-Paruru
-Patariro! Game
-Pensan CD
-Pentaris
-Perfect Soko-ban
-Peshi Peshi Puzzle
-Peshi Peshi Puzzle 2
-Phalanx
-Phantasie IV
-Phoneix Quiz Slime King Wo Hari Sakase
-Pias
-Pinball Pinball
-Pinky 1
-Pinky Ponky Part 1
-Pinky Ponky Part 2
-Pinky Ponky Part 3
-Pipe Dream
-Pipyan
-Pitapat
-Pizza Busters
-Planet Investor
-Plesea
-Poker Sisters Gold
-Pole To Win
-Ponyon
-Pop Card
-Popjack
-Populous
-Populous 2
-Porolith
-Port Tower Monogatari
-Potton
-Power League
-Power Racing
-PowerMonger
-Poyo Poyo
-Premium
-Premium II
-Present
-Pretty Doll
-Prince & Princess
-Prince Of Persia
-Princess Bingo
-Princess Ha Street Girl
-Pro Soccer 68
-Pro Student G
-Pro Tennis World Court
-Pro Yakkyuu World Stadium
-Production Manager
-Professional Mahjongg Gokuu
-Profit
-Project D.H.N. Vol. 1
-Project D.H.N. Vol. 2
-Project D.H.N. Vol. 3
-Prostitute Maker
-Proth 68K
-Prototype Fighter Assault Buster
-Psycho Harrier
-Puchi Puchi Pro-68K
-Punincess Maker
-Puppet Show
-Push Bon!
-Puyo Puyo
-Puzzle
-Puzznick
-Quarter Staff The Tomb of The Setmoth
-Quarth
-Queen of Duellist Gaiden Alpha+, The
-Quest Question
-Questland Stories
-Quieazum 2 Haja No Jouken
-Quieazum Biwahoshi Quiz System
-Quieazum DCS
-Quintia Road
-Quiz Bocchama Paradise
-Quiz Cult X
-Quiz De Pon
-Quiz Fighter Hyakumanjin No Quiz Yarou
-Quiz Hao
-Quiz Jan!
-Quiz Jigoku No Tokkun
-Quiz Jockey
-Quiz Mangaka No Yabou
-Quiz Sniper
-Quiz Torimonochou
-R+R
-R-type
-R.C. Robot Construction
-R.C. Robot Construction Shuu + alpha Vol. 2
-R.C. Robot Construction Shuu + alpha Vol. 3
-R.C. Robot Construction Shuu + alpha Vol. 4
-R3 Golf
-Racing Champ
-Raguna
-Rally-X
-Ramune Club
-Rance 2 Hangyaku No Shoujotachi
-Rance Hikari Wo Motote
-Ranmaru
-Ray Gun
-Raydefox
-Raydefox Full Metal Powerdsuits
-Rayer Shoot
-Rayvs
-Real
-Record Of Lodoss War
-Red Arms
-Refresh!
-Reichsritter
-Reinforcer
-Relics Ankoku Yousai
-Reserve
-Return Of Ishtar
-Review Jashin Fukkastu
-Riiya Densetsu
-Ring Master
-Ring Master II
-Rinne Tensei Reversible Game Tanba
-Ripobitan Disk Ace
-Rising Sun
-River City Ransom
-Rogue Alliance
-Rogue Alliance
-Roll Down 2
-Rotate
-Rotation
-Rouge
-Royal Blood
-Rune Worth Kokui No Kikoushi
-Ryu Naki No Ryuu Yori
-Ryuu Kyuu
-Sabao Dama Tonda
-Sabnack
-Sades
-Sailor Moon Battler Kou To Ju Zanteihan
-Sailor Moon Shibaigoya
-Sailor V Game
-Sailormoon Chou Card Quiz Game Moon Quiz
-Sakeru No Da!
-Salamander
-Same Game
-Sangokushi
-Sangokushi III
-Santakun
-Saori Bishoujotachi No Yakata
-Saotome Gakuen Nyuugaku Annai
-Saotome Gakuen Nyuugaku Annai II Blue Wind
-Satellite Battle
-Satori Shooting Practice Program
-Sazae A Isono's Family Crazy Story
-Scarlet
-Schwarzschild Kyouran No Ginga
-Scorpius
-Scramble Pyuuta Han
-Scrap
-SD Fighter
-SD Sadistic Gamers
-SD Toki No Kagi
-Sebasuchan
-See Through
-See-Saw
-Sei Runa Gakuen Chikoku Taisen Sou No Maki
-Seifuku Kako No Ibutsu Wo Matoishi Monotachi
-Seiyuu Daishuugou
-Sekai De Ichiban Kimi Ga Suki!
-Sekai Seifuku Set
-Sekizui DX Sample
-Sekizui Hansha De Acchoo
-Senegal
-Sennin Game
-Senshasen
-Senshasen III VS-Bowler
-SFXVI
-Shanghai
-Shanghai II
-Shangrlia
-Shangrlia 2
-Shangrlia 2 Special
-Shikato
-Shiken Ni Denai Maison
-Shiken Ni Denai Maison
-Shiken Ni Deru Urusei Yatsura Part 1
-Shimai Mahjongg
-Shin Baseball Knuckles
-Shinkeisuijaku Pro 68K
-Shoot Range
-Shooting 68K
-Shooting Passion
-Shouten
-Shuffle Puck Cafe
-Signatory
-Silent MÃ¶bius - Case - Titanic
-Silk Road
-Silk Road 2
-Silsteel
-Silver Ball
-Silver Crystal
-Sim City
-Sim City - Terrain Editor
-SimAnt
-SimEarth - The Living Planet
-Sion
-Sion II
-Sion IV
-Slime Master
-Slimyer
-SMSX Moon Soldier
-Snell
-Snow Na Kibun!
-Soft De Hard Na Monogatari
-Sol-Feace
-Solitaire Tiny Han
-Solitea
-Sonic Linker
-Sorcerian
-Sorcerian
-Sorcerian
-Sotsugyou Graduation
-Sotsugyou Shashin with Biki
-Souhou Blue Phoenix
-Soukoban
-Soukou Hohei Butai Cannon Sight
-Space Harrier
-Space Invaders
-Space Landing S-Type Mission 2
-Space Rogue
-Space Soldier
-Spanner-X Endless Fire
-Spanner_A
-Special Tenanmon
-Spindizzy 2
-Spindizzy 3
-Square Resort
-Star Blade
-Star Charge
-Star Cruiser
-Star Fighter
-Star Force
-Star Luster
-Star Mobile
-Star Pulse
-Star Trader
-Star Trek
-Star War 1991
-Star Wars Attack On The Death Star
-Starblade
-Starship Rendezvous
-Steel Gunman
-Stox
-Strawberry Daisenryaku
-Street Fighter II Champion Edition
-Street Haita 2
-Street Uckey II
-Strider Hiryuu
-Strip Fighter II
-Strip Fighter II
-Stroke.x
-Suikoden Tenmei No Chikai
-Sukaparojii
-Sukatan Highschool
-Super Artemis
-Super CGQ
-Super D.P.S.
-Super Daikaiten
-Super Daisenryaku 68K
-Super Daisenryaku 68K
-Super First Mission
-Super FiSS Fighting Sailor Soldiers
-Super Graphic Theater
-Super Hang-on
-Super Jack Pro 68K
-Super Mahjong P 4
-Super Meikou Ponjan
-Super Pakris EX
-Super Shanghai Dragon's Eye
-Super Shinpi No Kyoseki
-Super Star Shooter
-Super Street Bomber X
-Super Street Fighter II - The New Challengers
-Super Tiny Phalanx
-Super Ultra Machine Cyborg Marilyn DX
-Super X-Day X
-Super Xadlak
-Super Xevious
-Superior Mahjongg P2 And P3
-Sweet Angel
-Sweet Emotion
-Sword Master
-Sword Master 2 Shinigami No Tamashii
-SX Aoumi v1.30c
-Syvalion
-T-Dragon Quest Joshou
-T-Dragon Quest Mazoku No Daichi
-Tacolis
-Taiheiyou No Arashi D X
-Taikairei Nankai No Shitou
-Taikou Risshiden
-Tail Chaser
-Taisen Kakutou Karatedou
-Take Out
-Tako Game II
-Tank Battalion
-Tank-6
-Target
-Tatakae! Dai 8 Kikou Shidan
-Tatakae! Konyanko Comike 46
-Tatakae! Konyanko Comike 47
-Tatakae! Konyanko EX
-TDF
-Technos Football
-Technos Soccer
-Teitoku No Ketsudan
-Tekken Seisai
-Tenchi Muyou
-Tenchi Muyou Puzzle De Pazurou
-Tenka Touitsu
-Tenkyuuhai
-Tenkyuuhai Special Tougen No Utage
-Tenshin Ranma
-Terra Cresta
-Terra Drive
-Tesera
-Tetris
-Tetris (BPS)
-Tetris (Cyber Factory)
-Tetris Semipro-68K
-Texceed
-TF4G
-Thanatos
-The 4th Unit
-The 4th Unit Act 2
-The 4th Unit Act 3 Dual Target
-The 4th Unit Act 4 Zero
-The 4th Unit Act 5 D-Again
-The Cockpit
-The Deep
-The Diver
-The Fairyland Story
-The Las Vegas
-The Last Tempest
-The Return of Ishtar
-The Sarumune of Tetris
-The Satellite
-The Satellite 2
-The Super Las Vegas
-The Teruminachan
-The Tower of Druaga
-Thrice
-Thunder Blade
-Thunder Force II
-Tiger Heli
-Till The Walls Come Tumblin' Down
-Tim Country Club 1994
-Tim Paper Huzoku Scenario Dairyuuou Alexas
-Time Pilot
-Tinna The Seven Crystals
-Tiny Columns X68000 Special
-Tiny Hopping Mappy
-Tokimeki Cherry Box
-Tokimeki Land Seru
-Tokimeki Land Seru 2
-Tokimeki Memorial Prototype
-Tokimeki Taisen
-Tokkou! Kamikaze Fighter
-Tokushu Koudou Keisatsu Sap
-Tokusou Keiji
-Tonkotsu Pro Roku Hachi Kei
-Toride Spirits Gaiden
-Totsugeki! Bakkon Street
-Totsugeki! Bakkon Street II Hunting Roulette
-Toujo Densetsu
-Toushin Toshi
-Toushin Toshi Hint Disk
-Tower Of Druaga
-Toy Pop
-Triangle Hearts
-Trilogy Kukiyoukashinden
-Triple Yacchii
-Tunnels and Trolls - Crusaders of Khazan
-Turbulence
-Twilight Zone 3 Nagakute Amai Yoru
-Twilight Zone 4 Dreamy Alien Girls
-Twin Bee
-Twin Soul
-Twins
-U.S. Championship Beach Volley V'ball
-Uchuu Kaitou Funny Bee
-Uchuu Kakeru Businessman
-Uha Uha 2
-Ultima 5 - Warriors Of Destiny
-Ultima 6 - The False Prophet
-Ultimate Magic
-Ultra Fire 68K
-Undeadline Denjuuki
-Uno
-Ura Maison Ikkoku Kyoukosan No Kawai Sou Monogatar
-UrotsukidÅji
-Urusei Yatsura Lum Kikiippatsu
-Usagi Jump
-Vagrant Fighter FX
-Valentine Day Panic
-Vampire Highschool
-Vaystarne
-Versnag Senran
-Video Game Anthology Vol. 1 - Terra Cresta / Moon Cresta
-View Point
-Viper-V6 Turbo
-Viper-V8 Twin Turbo
-Virgin Angel
-Virus No Dengon
-Vision
-Vs Klith
-Vulquar
-W-Tank
-Wakao-G
-Wanderers
-Warning Type 68
-Water Blue
-White Fantasia
-Wild Card
-Wind Blast
-Wings
-Winning Post
-Wips II
-Words Worth
-World Golf III
-Wrecking Crew
-Wrestle Angels 3
-X-Type
-Xadlak
-Xak
-Xanadu
-Xenon 2 Megablast
-Xevious
-Xna
-Yajiuma Pennant Race 1989
-Yajiuma Pennant Race 1990 Toshi Data
-Yami No Ketsuzoku - The Predestined Homicides #1
-Yami No Ketsuzoku Kanketsuhen
-Yaritai Houdai
-Yaritai Houdai 2
-Yesterday
-Yet Another Column
-Yonkaku
-Yoru No Tenshitachi
-Youjuu Club
-Youjuu Club 2
-Youjuu Senki AD 2048
-Youjuuclub2
-Ys 1 Ancient Ys Vanished Omen
-Ys 2 Ancient Ys Vanished
-Ys 2 Ancient Ys Vanished The Final Chapter
-Ys 3 Wanderers From Ys
-Yuugai Casino Trump No Trump
-Yuugai Chase Aa!! Namida No Shimensoka
-Yuugai Gakuen II Jiritsushinkei Gouten
-Yuugai Gakuen Noukasuitai Chokugeki
-Yuugai Puzzle
-Yuugai Wars Mamore! Akai Daichi
-Zan Kagerou No Toki
-Zark Legend
-Zavas
-Zenkai Denshoku
-Zero Master Striker
-Zero Master-Striker
-Zero Rei
-Zolgus
-Zounds
-Zoutage Hunters
-Zugya
-ZZZ(notgame):Multiword
-ZZZ(notgame):pas un jeu
-ZZZ(notgame):SMSX Sample 0.1
-Ã‰toile Princesse
+15 Puzzle (1991)(Sygnas)
+177 (1986)(Macadamia)
+2096 AD (1991)(Home Data)(Disk 1 of 3)(Disk A)
+3 Meekaa (1994)(Youkan Soft)
+37 Degrees C Kai No Bouken (19xx)(68 Bank)
+38 Man Kilo No Kokuu (1989)(System Sacom)(Disk 1 of 4)
+4th Unit Act 2, The (1988)(Data West)(Disk 1 of 3)(Disk A)
+4th Unit Act 3 Dual Target, The (1989)(Data West)(Disk 1 of 3)(Disk A)
+4th Unit Act 4 Zero, The (1990)(Data West)(Disk 1 of 3)(Disk A)
+4th Unit Act 5 D-Again, The (1990)(Data West)(Disk 1 of 4)(Disk A)
+4th Unit, The (1988)(Data West)(Disk 1 of 2)(Disk A)
+A Ressha De Ikou II (1988)(Artdink)(Disk 1 of 2)
+A Ressha De Ikou III (1991)(Artdink)(Disk 1 of 2)
+Aakushu Youen No Jidai Wo Koete (1990)(Wolf Team)
+Abunai Tengoku Densetsu (1989)(Alice Soft)
+Access Heat (1995)(Fox Factory)
+Active Shoot (1999)(Satou Kouji)
+Advanced Ruumik Quiz (1990)(Master Piece)
+Advanced Ruumik Quiz 2 (199x)(Master Piece)
+Adventure Land (1993)(Keima - Jn1fez)
+Adventure Land 2 v0.99 (1995)(Keima - Jn1fez)
+Afterburner II (1989)(Dempa)(Disk 1 of 2)
+Aikoku Pro Uso-68K (1990)(Hazama Kuroo)
+Air Combat II Yuugekiou II (1990)(System Soft)(Disk 1 of 2)(System)
+Air Hork (1990)(PCCM)
+Air Management (19xx)(Koei)(Disk 1 of 2)(Disk A)
+A-Jax (1989)(Konami)(Disk 1 of 3)(Program)
+Akazukin Cha Cha Cha v1.04 (1995)(Sprite)
+Akazukin Monogatari (199x)(Tera Tera Soft)
+Akiko (1993)(Ides)(Disk 1 of 3)
+Akumajou Dracula (1993)(Konami)(Disk 1 of 2)
+Alfarne (1989)(Shilpheed Software)
+Algarna (1991)(MNM Software)(Disk 1 of 2)(System Disk)
+Alice No Yakata (19xx)(Alice Soft)(Disk 1 of 3)
+Alice No Yakata II (1992)(Alice Soft)(Disk 1 of 4)(Disk A)
+Alien Syndrome (1992)(Dempa)
+Alien Tennis Chikyuu No Kiki (19xx)(Killer)
+Alshark (1991)(Right Stuff)(Disk 1 of 5)(System)
+Amamori Pro Uso-68K (1991)(Hazama Kuroo)
+Ambivalenz (1994)(Alice Soft)(Disk 1 of 7)
+Ame Game 0.90 (19xx)(Shin - Kisshin)
+American Heroes BF 92 Extra Version (1992)(LTT - Kuma)
+Andromeda Seiun (19xx)(Reki)
+Angel Dive (1996)(Yamada Kikaku)
+Ani Mahjongg (demo) (1993)(Sogna)
+Ani Mahjongg (demo) (1993)(Sogna)[tsuika file]
+Anmira Daihinmin (19xx)(Nippousha)
+Anzu Fly! (1991)(Pussy Cat)
+Aoki Ookami To Shiroki Meshika Genchou Hishi (1993)(Koei)(Disk 1 of 3)
+Aoki Ookami To Shiroki Meshika Genghis Khan (1989)(Koei)(Disk 1 of 3)
+Aquales (1991)(Exact)(Disk 1 of 3)
+Arcus II Silent Symphany (19xx)(Wolf Team)(Disk 1 of 4)
+Arcus Pro 68k (1989)(Wolf Team)(Disk 1 of 5)
+Are You Happy Shiawase (1995)(68 Bank)
+Argos No Senshi (1994)(Dempa)
+Arianshuu (19xx)(Haiteidoradorazu)
+Arkanoid Revenge of Doh (1987)(Sharp - SPS)
+Armored Trooper Votoms Dead Ash (1991)(Family Soft)(Disk 1 of 2)(Disk A)
+Arsia No Ki (1995)(Moai)(Disk 1 of 2)
+Artemis (1993)(X-Works)
+Arururu (19xx)(-)
+Asteroid Queen (19xx)(Kuwaki Ryuji)
+Asteroids (19xx)(Yoz)
+Asteroids v2.0 (19xx)(Yoz)
+Asuka 120 Percent Burning Fest (1994)(Family Soft)(Disk 1 of 2)
+Atomic Robo-Kid (1990)(System Sacom)(Disk 1 of 2)(Disk A)
+Atomic Runner Chelnov (1993)(Dempa)
+Ayachan Suupurekkusu II (19xx)(Kankyouken)(Disk 1 of 2)(Disk A)
+Baba Fighter II (199x)(Tsururinkun)(Disk 1 of 3)(Disk A)
+Babel (1995)(Gamma AWC)
+Babel No Tou (1995)(Gamma AWC)
+Bad Road (19xx)(-)
+Bakamedesu (1993)(Surpasser Gin)
+Bakudan Yuugi (1988)(X-Soft)
+Bakudanma v1.00 (19xx)(Kyoushirou)
+Bakuretsu Aniki (1995)(Catsoft)
+Baraduke (1995)(Dempa)
+Barcelona Fighter 92 Bangaihen Sekaiichi Ha Ore Da (1992)(LTT - Kuma)
+Barcelona Fighter 92 v2.00 (1992)(LTT - Kuma)
+Bari Bari Attack 3 Erice (1990)(Studio KBO)
+Baruusa No Fukushuu (1991)(Zain Soft)(Disk 1 of 3)(Disk A)
+Baseball Knuckles '94, The (1994)(DCS)
+Battle Chess (1989)(Pack-In-Video)(Disk 1 of 2)(Disk A)
+Battle Game (1989)(Imai Takashi)
+Battle Mania' (1992)(Biwahosi Software)
+Battle Unit (199x)(Pan-Q)
+Battle Unit II (1992)(Takumi Soft)
+Battletech (1992)(Crossmedia)(Disk 1 of 3)(Disk A)
+Beast Injuu No Yakata (19xx)(Birdy Soft)(Disk 1 of 3)(Disk A)
+Bell's Avenue (1993)(Wendy's Magazine)(Disk 1 of 2)(Disk A)
+Binbin Mahjongg Peach Angel (1994)(Takeru Soft)
+Birdy World (1991)(Birdy Soft)(Disk 1 of 3)(Disk A)
+Bishoujo Noriko (19xx)(System House Oh!)
+Bishoujo Senshi Lady Fighter v1.00 (1993)(Sprite)
+Bishoujo Senshi Moon Fighter v2.11 (1993)(Sprite)
+Bishoujo Senshi Sailor V (199x)(DK Software)[3 player version]
+Bishoujo Senshi Sailor V (199x)(DK Software)[5 player version]
+Bishoujo Senshi Sailor V Final v3 (1995)(DK Software)(Disk 1 of 2)(Disk A)
+Bishoujo Senshi Sailor V v2 (1994)(DK Software)(Disk 1 of 2)
+Bishoujo Senshi Sailormoon Kessen Dark Kingdom (1993)(Black HCS)(Disk 1 of 2)
+Bishoujo Senshi Sailormoon Moon Tiara Question (1992)(-)
+Bishoujo Senshi Super Moon Fighter v1.02 (1994)(Sprite)
+Bishoujo Senshi Super Moon Fighter X (1995)(Sprite)(Disk 1 of 2)
+Bishoujo Shashinkan Moving School (1988)(Hard)
+Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 1 (19xx)(Onoe Network)
+Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 2 (19xx)(Onoe Network)
+Bishoujo Skirt Mekuri Shinkei Suijaku Vol. 3 (19xx)(Onoe Network)
+Biyoyon Car Game (199x)(Eins-Soft)
+Black Jack 68K II Animation Version (19xx)(KZO)
+Blanka In Shura No Kuni (1997)(Haiteidoradorazu)
+Bleed Out Sakuretsu (1996)(Gold Cats Project)
+Blind Spot (1991)(Dolphin Game Studio)
+Blitzkrieg Toubu Sensen 1941-45 (199x)(System Soft)(Disk 1 of 2)
+Block Stocker v2.00 (1989)(X-Soft)
+Blockout Modoki (19xx)(Bee)
+Blodia (19xx)(Broderbund)(Disk 1 of 2)(Disk A)
+Blue Waver Special (1989)(Simokouchi M.)
+Blue Wings 2 Blue Knights (1993)(OS Software)(Disk 1 of 2)(Disk A)
+Bodhidharma Mark 2 v0.01 (1996)(Take Soft)
+Bodhidharma v1.01 Hehebereke (1995)(Take Soft)
+Bomber Man (1990)(System Soft)
+Bonanza Bros (1991)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Bonnou 2 (19xx)(Team Phantom - Midy House)(Disk 1 of 2)(System)
+Bonnou 2 Das (19xx)(Team Phantom - Midy House)
+Bonnou Muyou (1991)(Team Phantom)
+Bonnou Yobikou (1991)(Software House Parsley)(Disk 1 of 2)(Disk A)
+Bonnou Yobikou 2 (1991)(Software House Parsley)(Disk 1 of 2)(Disk A)
+Bonnou Yobikou 3 (199x)(Software House Parsley)(Disk 1 of 2)(Disk A)
+Bosconian (1988)(Dempa)
+Bottoro 2 (19xx)(-)
+Boyon Boyon (1990)(-)
+Boyoyon v3.31 (1996)(Noz)
+B-Point (1990)(WIPL)
+Branmarker (1991)(DO)(Disk 1 of 8)(Disk A)
+Break Down (1989)(Slime Soft)(Disk 1 of 2)
+Breed (1989)(Imai Takashi)
+Bretonne Lais (1990)(System Soft)(Disk 1 of 3)(Opening)
+Bretonne Lais Scenario Data (19xx)(System Soft)(Disk 1 of 2)
+Bretonne Lais Scenario Shuu 1 Kaname (19xx)(System Soft)(Disk 1 of 2)
+Bretonne Lais Scenario Shuu 2 Kaname (19xx)(System Soft)(Disk 1 of 2)
+Bubble Bobble (1989)(Dempa)
+Butarian (1994)(68 Bank)
+Butasan (1993)(Dempa)
+Butasan Quest (1994)(Tehehe-Net)
+Byakuya Monogatari (1989)(East Cube)(Disk 1 of 3)
+C Ryokukensa V3 (1992)(Hayabusa Soft)(Disk 1 of 2)(System)
+C Ryokukensa V3 (demo) (199x)(Hayabusa Soft)
+Cal 2 (1991)(Birdy Soft)(Disk 1 of 4)
+Cal Eien No Bishoujotachi (19xx)(Birdy Soft)(Disk 1 of 2)(Disk A)
+Cameltry (1991)(Denpa)
+Can Can Bunny (1990)(Cocktail Soft)(Disk 1 of 2)(Disk A)
+Can Can Bunny Extra (1993)(Cocktail Soft)(Disk 1 of 8)(Disk A)
+Can Can Bunny Premiere (1992)(Cocktail Soft)(Disk 1 of 4)(Disk A)
+Can Can Bunny Superior (1990)(Cocktail Soft)(Disk 1 of 2)(Disk A)
+Captain Color (19xx)(-)
+Carat (1992)(Custom)(Disk 1 of 2)(Disk A)
+Caroll (1990)(System House Oh!)
+Casablanca Ni Ai Wo Satsujinsha Ha Jikuu Wo Koete (19xx)(Thinking Rabbit)(Disk 1 of 2)(Disk 0)
+Castles (199x)(Crossmedia)(Disk 1 of 2)(System)
+Caterpi (19xx)(-)
+Cat's Part-1 (1993)(Cat's Pro)(Disk 1 of 3)(Disk A)
+Cave Crowds (1991)(Brings Onion Software)[comiket version]
+Cave Crowds (1992)(Brings Onion Software)
+Celcion 68000 (1992)(SPC Soft)
+Celia (1993)(B-Cat Software)
+Celia (demo) (1993)(B-Cat Software)
+Chacha Fighter V v1.10 (1995)(TMK)(Disk 1 of 2)(Disk A)
+Chaos Angels (1996)(L. Sound)
+Chaos Strikes Back (1990)(FTL)
+Chase H.Q. (1992)(Tierheit)(Disk 1 of 2)(Disk A)
+Chijou Ikusa (1991)(Yamaco)
+Chikyuugi (1989)(Yamama)
+Chinmoku No Kantai (1993)(Gam)(Disk 1 of 4)(System)
+Chotto H Na Daihinmin (1991)(Kauda Project)
+Chotto Local Rule Na Mine Sweeper Hun De Oshimai!! (199x)(MPU)(Disk 1 of 2)(Disk A)
+Chou Bakudan Otoko Densetsu (1994)(Ferrow)
+Choujin (1992)(Fix)(Disk 1 of 2)(System)
+Choujin (demo) (1992)(Fix)
+Chourensha 68K v1.01 (1995)(Famibe No Yosshin)
+Chuka Taisen (1991)(Sharp - SPS)
+Cinderella Perudue (1988)(Studio Angel)
+Circus Circus (19xx)(IT)
+Clay Shooting (1988)(X Soft)
+Clear Lap (19xx)(-)
+Cockpit, The (1988)(Compac)
+Code Name Sailor Q (19xx)(Dark Kingdom Himitsu Kenkyuusho)
+Code-Zero (1991)(Enix)(Disk 1 of 2)(Disk A)
+Collector D Bangaihen (199x)(DO)(Disk 1 of 6)(System)
+Columns (1991)(System Soft)
+Columns (19xx)(Gyagon)
+Columns v1.10 (19xx)(Mapi)
+Command X Ray (1990)(Blast Off)
+Continental (1992)(Technopolis)(Disk 1 of 4)(Disk A)
+C-ONZ (19xx)(Y.Y)(Disk 1 of 2)(Disk A)
+Cosmic Psyco (1991)(Cocktail Soft)(Disk 1 of 4)(Disk A)
+Cosmo Gang The Puzzle (1994)(Kukan)
+Cosmo Gang The Puzzle Modoki (19xx)(Kukan)
+Cotton Fantastic Night Dreams (1993)(Victor)(Disk 1 of 2)
+Cranked Arrow (1989)(Fukuda Naoto)(Disk 1 of 3)(Disk A)
+Crazy Climber I & II (1993)(Dempa)
+Crescent (199x)(Silky's)(Disk 1 of 4)(Disk A)
+Crescent Moon Girl (1989)(Alice Soft)(Disk 1 of 3)(Disk A)
+Cross Fire EX (1994)(OS Software)
+Crystal Tower (1990)(Master Piece)
+Cuarto (1991)(ASCII)(Disk 1 of 2)(Disk A)
+Cube Gradius 3 Cube Simulation (1991)(Fukuiinchou)
+Cube Runner (1990)(SPS)
+Cyber Core (1991)(SPS)
+Cyber Field (1993)(Saijou Satoshi)
+Cyber RPG Pemo Pemo Pro-68K (1991)(Kashiya)
+Cyberblock Metal Orange EX (1993)(Custom)(Disk 1 of 2)(Disk A)
+Cybermission (1989)(Login)
+Cynthia (19xx)(-)(Disk 1 of 2)
+D.P.S. (1989)(Alice Soft)(Disk 1 of 2)(Disk A)
+D.P.S. SG (1990)(Alice Soft)(Disk 1 of 4)(System)
+D.P.S. SG Set 3 (1991)(Alice Soft)(Disk 1 of 4)(System)
+D.P.S. SG System Ver 2 (1991)(Alice Soft)(Disk 1 of 4)(System)
+Dai Fugou Gakuen v1.1 (1993)(Juushoku Soft)
+Daikon Oroshi Pro Uso-68K (1990)(Hazama Kuroo)
+Daikoukai Jidai (19xx)(Koei)(Disk 1 of 2)(Mai)
+Daimakaimura (1994)(Capcom)(Disk 1 of 2)(System)
+Daisenryaku II Campaign Version (1991)(System Soft)(Disk 1 of 2)
+Daisenryaku II Unit Editor (19xx)(-)
+Daisenryaku III '90 (1991)(System Soft)(Disk 1 of 3)
+Dalk (1993)(Alice Soft)(Disk 1 of 6)(Disk A)
+Damage Fight II+ (1991)(Kazz)
+Dancing Express (1992)(Moai)
+Danger Area (1989)(Art Spec)
+Dariball (1989)(Empty)
+Darius (19xx)(Hasamichi)
+Darius Dokomade Tatakaemasuka (1991)(-)
+Darius Extra Version (198x)(Fukuiinchou)
+Dark Castle (1991)(Biwahosi Software)
+Dastard!! Ankoku No Hakai Kami (19xx)(M' Soft)
+Datenshi Kyouko Part I (19xx)(System House Oh!)
+Datsugoku Game (19xx)(Deshita Soft)
+Darwin's Dilemma (1990)(Inline Design)
+Dash Yarou (1991)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+DC Card (1990)(Studio Undo)(Disk 1 of 2)
+De Ja (1990)(Elf)(Disk 1 of 3)(Disk A)
+Dead of the Brain (1992)(Fairytale)(Disk 1 of 5)
+Death Brade (1992)(Shuuwa - SPS)(Disk 1 of 5)(System)
+Death Bringer (1989)(Telnet)(Disk 1 of 3)(Disk A)
+Death Fighter v2 (1992)(Battle Arts)
+Deep Scan (1989)(Tiny-Tomo)
+Deep Scan (19xx)(Kin-chan)
+Deep, The (1991)(Blast Off Dennou)
+Deflektor (1989)(BPS)
+Deg-On (1990)(Pineapple)
+Delta Arm (1990)(Login)(Disk 1 of 3)(Disk A)
+Demon Slayer (19xx)(T&H Project)
+Demon Slayer 2 (19xx)(T&H Project)
+Demon Slayer 3 (1991)(T&H Project)(Disk 1 of 3)(Disk A)
+Dennou Gakuen (19xx)(-)(Disk 1 of 3)(Disk A)
+Desperado v0.29d (1995)(Kabosu)
+Detana! Twin Bee (1991)(Konami)(Disk 1 of 2)(Disk A)
+Detana! Twin Bee (demo) (1991)(Konami)
+Devil Chain (1990)(G-Limited)
+Diamond Explorer (19xx)(Michael Company)
+Diamond Explorer II (1991)(Michael Company)
+Die Bahnwelt (1992)(Glodia)(Disk 1 of 6)(System)
+Dig Dug I & II (1995)(Dempa)
+Dino Land (1991)(Wolf Team)(Disk 1 of 2)
+Dion (1992)(Studio Theta)
+Dios (1990)(Zain Soft)(Disk 1 of 4)(Disk A)
+Disco Scroll (1989)(Mugen Kaisha Rana)
+Dive On (1993)(MIX)
+Dive On (demo) (1993)(MIX)
+Dive On 2 (demo) (1995)(MIX)
+Diver, The (1994)(Craftwork)
+Dog Fight! (1992)(Biwahosi Software)
+Doki Doki Amanachan (1990)(Toy Pops)
+Doki Doki Card League (1990)(Great)(Disk 1 of 2)(Disk A)
+Dome (1988)(System Sacom)(Disk 1 of 5)
+Dor (1992)(DO)(Disk 1 of 4)(System)
+Dor Part 2 (1992)(DO)(Disk 1 of 4)(System)
+Dor Part 3 (1992)(DO)(Disk 1 of 4)(System)
+Dor Special Edition '93 (1993)(DO)(Disk 01 of 10)(System)
+Dor Special Edition Sakigake (199x)(DO)(Disk 1 of 6)(System)
+Dori Dor Qizu (1993)(Daikokuya Dennou)
+Dorix (1998)(YoKoMuMu)
+Double Eagle (1989)(Artdink)(Disk 1 of 2)(Disk A)
+Double Target (1990)(Proceed)
+Douke Shisatsujin Jiken (19xx)(Thinking Rabbit)(Disk 1 of 2)(Disk 0)
+Doukyuusei (1992)(Elf)(Disk 1 of 9)(Disk A)
+Downtown Nekketsu Monogatari (1990)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Dr. A San Kyoudai Series Tomomichan No Dobon (199x)(-)
+Dr. Orima (1990)(Halman)
+Dr. Stop (1992)(Alice Soft)(Disk 1 of 2)(Disk A)
+Dracula Hakushaku (1992)(Fairy Tale)(Disk 1 of 4)
+Dragon (1989)(Log)
+Dragon Buster (1993)(Dempa)
+Dragon City (19xx)(Fairytale)(Disk 1 of 3)(Disk A)
+Dragon Cross (19xx)(Masqurade)
+Dragon Eyes (1991)(Technopolis)(Disk 1 of 3)(Disk A)
+Dragon Knight (1989)(Elf)(Disk 1 of 2)(Disk A)
+Dragon Knight 2 (1991)(Elf)(Disk 1 of 4)
+Dragon Knight 3 (1991)(Elf)(Disk 1 of 6)
+Dragon Knight 4 (1994)(Elf)(Disk 01 of 13)(Disk A)
+Dragon Province (199x)(Justice)(Disk 1 of 3)(Disk A)
+Dragon Quest v1.07 (1992)(Mitsuru Kamiyama)
+Dragon Slayer (1992)(SPS)(Disk 1 of 3)(Event)
+Dragon Slayer v1.01 (1995)(Beauty Planets)(alpha)
+Dragon Spirit (1988)(Dempa)(Disk 1 of 2)(Disk A)
+Dragon Strike (1992)(Pony Canyon)(Disk 1 of 2)(Disk A)
+Dragon Wars (1990)(Starcraft)(Disk 1 of 3)(Kidou)
+Drakkhen (1991)(Epic)(Disk 1 of 2)(Program)
+D-Return (1989)(Nichikonren Kikaku)(Disk 1 of 2)(Disk 0)
+Drinky & Smokey (1994)(Dream Staff)
+Drinky & Smokey (demo) (1994)(Dream Staff)
+Duel Fighter (1996)(Take Soft)
+Duel Fighter 2 (1997)(Mugen Unagi Team)(Disk 1 of 4)[Req Install]
+Dungeon Master (1989)(FTL)(Disk 1 of 2)(System)
+Dungeon Seekers (1990)(Haraiso)
+Dynamic Fomesion Soccer (1992)(MIX)
+Dynamite Duke (1990)(Hertz)(Disk 1 of 3)(System)
+EEL Edit Elements v2.00A (1995)(Cat Soft)(Disk 1 of 2)
+EFF Erotic Fantasy Fable (1994)(T&H Projects)
+Eikan Ha Kimi Ni Koukou Yakyuu Zenkokutaikai (1990)(Artdink)(Disk 1 of 3)(System)
+Elf No Shoujou CG Puzzle (19xx)(-)
+Elle (1991)(Elf)(Disk 1 of 4)(Disk A)
+Elrin Da! Magazine Vol. 2 Quiz Uchuu Tai Sakusen (1993)(Elrin Da!)
+Emerald Dragon (1990)(Glodia)(Disk 1 of 6)(System)
+Entfuhrer (19xx)(Zenryuutsuu)
+Erion Quest (1991)(Ankoku Baitai Software House)
+Etoile Princess (1993)(Exact)(Disk 1 of 3)(System)
+Europe Sensen (1992)(Koei)(Disk 1 of 3)(Disk A)
+Exciting Hour Jusse Oozumou (1994)(Dempa)
+eXOn (1991)(Softec)(Disk 1 of 2)(Disk A)
+Exterlian (1990)(DO)(Disk 1 of 3)(Disk A)
+Ezoris (1989)(K.W.P)
+F-1 Fastest Lap (1991)(Michael Company)
+F-15 Strike Eagle II (1991)(Microprose)(Disk 1 of 2)(Disk A)
+Fairyland Story, The (1991)(SPS)(Disk 1 of 2)(Disk A)
+Fairytale Kaizoku Han (199x)(Takeru)(Disk 1 of 2)(Disk A)
+Famass (1990)(VHS - Demon's)
+Fancy Qix (1990)(A.H.S.)
+Fantasy Shooting (1989)(Michael Company)
+Fantasy Zone (1989)(Dempa)
+Far Side Moon Chikyuu Boueidan 2 (1990)(Artdink)(Disk 1 of 3)(System)
+Farewell Disk (1994)(Hayabusa Soft)
+Fevrie (19xx)(Jeudi)
+Final Fight (1992)(Capcom)(Disk 1 of 2)
+Fire (19xx)(Takahashi Tokiyuki)
+Firia (1991)(Scuderia Phantom)
+First Blow (199x)(Project G)
+First Crisis Ma Jin No Toubou (1992)(Minkey Soft)
+First Main Dish Pasta (1993)(Toukyou Kogei Daigaku Programming Kenkyuukai)
+First Mission (1989)(YOH)
+First Mission II Final Mission (1990)(YOH)(Disk 1 of 2)(Disk A)
+First Queen II (19xx)(KSK)(Disk 1 of 3)
+Flame Wing v1.02 (1994)(Itasenpara)
+Flaming Dart (1992)(Kei-H)
+Flappy 2 Blue Star Fukkatsu No Hi (1989)(dB-Soft)
+Flip Flop (1990)(Maitake)
+Flipull (1993)(MRO)
+Fly (1990)(Login)
+Fly Shooters (1991)(Pineapple)
+Formula X (1992)(-)
+Formula X Tokubetsu Han (1991)(Hayabusa Soft)
+Formula X Yosen Han (1991)(Hayabusa Soft)
+Fortress Attack (1993)(Shibahara A.)(Disk 1 of 2)
+Forty-One (1993)(Shin)
+Four'll Fall (19xx)(Magical Knights' Connection)
+Four'll Fall (19xx)(Magical Knights' Connection)[update]
+Foxy 2 (1991)(Elf)(Disk 1 of 4)
+Frapull (19xx)(D Bou - Wing K.)
+Frisky Tom (1995)(XYZ)
+Frog (19xx)(Takahashi T.)
+Frogger (1991)(Tiny-Tomo)
+Frogger (1995)(Tiny-Tomo)
+Fruits Fields (1988)(Compac)
+FSS Fantasy Saga System (1990)(MNM Software)(Disk 1 of 2)(System)
+Full Throttle (1988)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Fushigi Densetsu (199x)(Proceed)
+Fushigi No Kabe (1988)(System House Oh!)(Disk 1 of 2)
+Fushigi No Umi No Nadia (1992)(Gainax)(Disk 1 of 9)(Disk A)
+Future Wars (19xx)(Starcraft)
+FZ Senki Axis (1990)(Wolf Team)(Disk 1 of 3)
+G.R. Gravity Responce (1992)(Tenshindou)(Disk 1 of 3)(Momotarou)
+Gaia Fighter v2.5 (1991)(Hong Kong Project)
+Gaiarm (1991)(Violet Heart Software)
+Gakuen Bomber (1994)(Active)(Disk 1 of 3)(Disk A)
+Gakuen Toshi Z (199x)(Striker)(Disk 1 of 3)(Disk A)
+Gal Mind 2 (1992)(Coto Software)(Disk 1 of 2)(System)
+Galaga '88 (1990)(Dempa)(Disk 1 of 2)(Disk A)
+Galaxian (1996)(XYZ)
+Galaxian 2 (1996)(68 Bank)
+Galaxian X68K (19xx)(Gyo)
+Galaxy Wars (1987)(Tiny-Tomo)
+Galseed (1991)(Login)(Disk 1 of 2)(Disk A)
+Game.x (1990)(Kugenuma Soft)(PD)
+Game.x (1990)(Kugenuma Soft)
+Gamma Planet (1989)(Compac)
+Ganbare! Paichan (1994)(Daba)
+Gardis Light v2.10 (1994)(Sprite)
+Garou Densetsu (1993)(Magical Company)(Disk 1 of 4)(Disk A)
+Garou Densetsu 2 (1993)(Magical Company)(Disk 1 of 6)(Disk A)
+Garou Densetsu Special (1994)(Magical Company)(Disk 1 of 9)(Disk A)
+Gaudi Barcelona No Kaze (19xx)(Wolf Team)(Disk 1 of 3)
+Ga-War Games (19xx)(To$hi)
+Gedou Densetsu (1993)(MIX)(Disk 1 of 2)(Disk A)
+Gedou Retsuden (1993)(MIX)(Disk 1 of 2)(Disk A)
+Gekkan 5 Gou (19xx)(68 Bank)
+Gemdrop (1990)(SSL - Au)
+Gemini Wing (1990)(System Sacom)(Disk 1 of 2)(Disk A)
+Genocide (1989)(Zoom)(Disk 1 of 4)(System)
+Genocide 2 (1991)(Zoom)(Disk 1 of 4)(System)
+Genocide 2 (demo) (1991)(Zoom)
+Genpei Toumaden (1988)(Dempa)
+Geograph Seal (1994)(Exact)(Disk 1 of 2)(System)
+Geograph Seal (demo) (199x)(Exact)
+Get Ready (19xx)(Santasan Soft)
+Getsumen Nanchakuriku Game (19xx)(Kurimoto Kenya)
+Giga Fight 68K (1992)(Gainen Shuppon)
+Ginga Eiyuu Densetsu (1990)(Bothtec)(Disk 1 of 3)(Disk A)
+Ginga Eiyuu Densetsu II (1990)(Bothtec)(Disk 1 of 4)(Disk A)
+Ginga Eiyuu Densetsu II DX+ (1991)(Bothtec)(Disk 1 of 4)
+Ginga Eiyuu Densetsu Power Up & Scenario Shuu (1990)(Bothtec)
+Girls Paradise (1989)(Great)(Disk 1 of 3)(Disk A)
+Giza! XIX (1991)(Fairytale)(Disk 1 of 2)(Disk A)
+Glacier (1993)(DSN-9)(Disk 1 of 2)
+Glacier (199x)(DSN-9)[otameshi version]
+Go Kichikun (1988)(Gam)
+Goddess' Blazon (1995)(DCS)(Disk 1 of 2)(Disk A)
+Gokiburi Game (1989)(NST - Onion Soft)
+Gorakuin (19xx)(Zenryuutsuu)
+Gradius (1987)(Sharp - SPS)
+Gradius II Gofer No Yabou (1992)(Konami)(Disk 1 of 2)(Disk A)
+Gram Cats 2 (1993)(Dot Kikaku)(Disk 1 of 4)(Disk A)
+Granada (1990)(Wolf Team)(Disk 1 of 3)
+Grandi Florum Mischeif of Iveris (1990)(Compac)(Disk 1 of 2)(Disk A)
+Grobda (199x)(L. Sound)
+Grobda Modoki (199x)(-)
+Ground Master (19xx)(Zain Soft)(Disk 1 of 2)(Disk A)
+Group X (1991)(Compac)(Disk 1 of 2)
+Guardian (1993)(Trap Zero)
+Guardians (1993)(Moai)
+Guerriere Lyeward (1990)(Technopolis)(Disk 1 of 2)(Disk A)
+Gunship (1990)(Microprose)
+Gyaos (1990)(Project Makkusu)
+Hacchake Ayatosan II Ikenai Holiday (19xx)(Hard)
+Hacchake Ayayosan Pro-68K (19xx)(Hard)
+Haita Tsuun Dash (199x)(QTQ's Workshop)
+Hakobune Ni Notte (1991)(Moai)
+Half Mind (19xx)(Pasoket)
+Hana Yori Dango (1991)(Active)(Disk 1 of 3)(Disk A)
+Hanafuda Hourouki (1988)(Dot Kikaku)(Disk 1 of 2)(Disk A)
+Hanafuda Koi Koi (19xx)(-)
+Hanafuda Tengoku (1990)(Junk)
+Hanaikoku Pro Uso-68K (1990)(Hazama Kuroo)
+Hare Nochi Oosawagi (1989)(Cocktail Soft)(Disk 1 of 2)
+Haruka Naru Augusta (1991)(T&E Soft)(Disk 1 of 3)(System)
+Haruka Naru Eight Lakes (1991)(T&E Soft)(Disk 1 of 2)
+Hatenkou (1998)(Haiteidoradorazu)(Disk 1 of 2)(Disk 0)
+Heart of Saphilamun (1991)(Annandule Project)(Disk 1 of 4)(Disk A)
+Heavy Nova (1991)(Micronet)
+Heiankyou Alien (19xx)(Kin-chan)
+Heiankyou Alien 68K (1988)(Tiny-Tomo)
+Hellhound (1994)(Breakthrough)
+Helmet (1991)(Ma)
+Hero Hero Disk 1 (19xx)(Opt. 1)
+Hero Hero Disk 4 Indojin No Yabou (1990)(Opt. 1)
+Hero Hero Disk 6 (1992)(Opt. 1)
+Hero Hero Disk 8 (199x)(Opt. 1)
+Hetzer (19xx)(Inoue Ken)
+Hextris (199x)(Ken1)
+Hey! Say! Education Committee v0.12 (1993)(Taka-P)
+Hi Mega Sister (1990)(Chan Chan Soft)(Disk 1 of 2)(Disk A)
+Higesori Pro Uso-68K (1990)(Hazama Kuroo)
+High & Low (199x)(Sacchin & Nima Company)
+High Position (1989)(Michael Company)
+Himitsu No Hanazono (1992)(Technopolis)(Disk 1 of 3)(Disk A)
+Hiroshi (19xx)(Rats)
+Hiroshi II (1998)(Rats)
+Hishouzame Flying Shark (1991)(Kaneko)
+Hishouzame Flying Shark (demo) (1991)(Kaneko)
+Hissatsu Yuusha Tsuitoshi (19xx)(Mugen Unagi Team)
+History of Elthlead (19xx)(NCS - Masaya)(Disk 1 of 3)
+Hitomi Zaka (19xx)(Higashikaihotsujuku)(Disk 1 of 2)(Disk A)
+Hori Hori Ume Ume (199x)(Ora Soft)(Disk 1 of 2)
+Horror of Cridewell (1990)(Annandule Project)
+Hoshi No Suna Monogatari (1991)(DO)(Disk 1 of 3)(Disk A)
+Hoshi No Suna Monogatari 2 (1992)(DO)(Disk 01 of 10)(System)
+Hot Jump v0.00 (199x)(Hayabusa Soft)
+Hotel Wars (19xx)(Bothtec)(Disk 1 of 2)(Disk A)
+Houma Hunter Lime 1 (1993)(Silence)(Disk 1 of 2)(System)
+Houma Hunter Lime 11 (1994)(Silence)(Disk 1 of 3)
+Houma Hunter Lime 2 (1993)(Silence)(Disk 1 of 2)(System)
+Houma Hunter Lime 3 (1993)(Silence)(Disk 1 of 2)(System)
+Houma Hunter Lime 6 (1993)(Silence)(Disk 1 of 2)(System)
+Houseki Tsukai Jewel Master (199x)(TFS - Nekono Kokoubou)
+Hover Craft 68K (1993)(Yamaco)
+How Many Robot (1988)(Artdink)
+Hydlide (1994)(Yokoshiba Soft)
+Hydlide 3 The Space Memories Special Version (1990)(T&E Soft)(Disk 1 of 2)
+Hydlide II Shine of Darkness (199x)(Yokoshiba Soft)
+Iinoyama No Oishii (1994)(Toukyou Kogei Daigaku Programming Kenkyuukai)(Disk 1 of 2)(Disk A)
+Ika Blade (1992)(Yax)
+Ikkaku Toushi Cecil (1993)(T&H Project)
+Illumina (1991)(Cocktail Soft)(Disk 1 of 3)(Disk A)
+Image (1992)(Software House Parsley)(Disk 1 of 3)
+Image Fight (1990)(Irem)(Disk 1 of 2)
+Imazoman v1.00 (199x)(-)
+Imitation Ha Ai Senai (1990)(Great)(Disk 1 of 3)(Disk A)
+Imperial Force (19xx)(System Soft)(Disk 1 of 2)(System)
+Inindou Datou Nobunaga (199x)(Koei)(Disk 1 of 3)(Disk A)
+Integral Arm (1992)(Yoshitaka Higashi)
+Intro Pro 68K v2.10+ (1991)(Sprite)
+Irohanihoheto (1988)(Studio Angel)
+Ishidou (1989)(ASCII)(Disk 1 of 2)(Disk A)
+Ishin No Arashi (1990)(Koei)(Disk 1 of 3)(Disk A)
+J.B. Harold Manhattan Requiem Kiss of Murder (19xx)(Riverhill Soft)
+J.B. Harold Murder Club DX (19xx)(Riverhill Soft)(Disk 1 of 3)
+J.B. Harold Series 2 Manhattan Requiem (19xx)(Riverhill Soft)(Disk 1 of 2)(Disk A)
+Jack Nicklaus' Golf (1989)(Crossmedia)(Disk 1 of 2)(System)
+Jack Nicklaus' Golf Tsuika Course 1 (19xx)(Crossmedia)
+Jack Nicklaus' Golf Tsuika Course 2 (19xx)(Crossmedia)
+Jaleck Expert-68K (1989)(SSL - Au)
+Jammes (1993)(Dream Staff)
+Jan Jaka Jan (1992)(Elf)(Disk 1 of 5)(Disk A)
+Jan Ken Club v1.2 (19xx)(Dream Project)
+Jane (1990)(System House Oh!)
+Jangou 1 (1989)(Crossmedia)(Disk 1 of 2)(Disk A)
+Jangou 2 Kyouchinouban (1990)(Crossmedia)(Disk 1 of 2)(Disk A)
+Janshin Quest (1994)(SPS)(Disk 1 of 2)(System)
+Janshin Quest (demo) (199x)(SPS)
+Japan 2136 Nihon Gokei (1990)(Login)
+Jastis (1990)(ASM)
+Jeena No Taibouken (1990)(T&H Project)
+Jissen Billiards (1990)(Pack-In-Video)(Disk 1 of 3)(Disk A)
+Joker (1991)(Birdy Soft)(Disk 1 of 3)(Disk A)
+Joker II (1992)(Birdy Soft)(Disk 1 of 4)
+Joshua (1992)(Panther Software)(Disk 1 of 5)(System)
+Jotei Senki 1 Queen Edition (1994)(Linner System)
+Jotei Senki 2 Legend of Heroines (1994)(Linner System)(Disk 1 of 2)(Disk A)
+Jotei Senki 3 The Queen of Fighters (1994)(Linner System)(Disk 1 of 2)(Disk A)
+Jotei Senki 4 Heroines Forever (1995)(Linner System)(Disk 1 of 3)(Disk A)
+Jumping Simon (19xx)(Tonarinokooringu)
+Junker Pro-68K (1990)(Gold Cats Project)
+Kachoufuugetsu Gaiden (1993)(Ray)
+Kaerimichi Ha Kiken Ga Ippai (1990)(DO)(Disk 1 of 4)(Disk A)
+Kaisen Game Daa! (1990)(Project Team Interrupt)
+Kaizoku (1993)(ORB)
+Kankyou Soft Shuu (1993)(Hazama Kuroo)
+Karei Naru Jinsei Minasan No Okage Desu (1992)(Fairy Tale)(Disk 1 of 3)(Disk A)
+Karou Densetsu (1993)(DCS)
+Karou Densetsu (1993)(DCS)(Disk 1 of 2)
+Karou Densetsu Honban (1997)(DCS)(Disk 1 of 2)(Disk A)[Req Install]
+Karou Densetsu Special (1993)(DCS)(Disk 1 of 2)(Disk A)
+Kateikyoushi Adventure (19xx)(Micro Hage Chabin)
+Kateikyoushi Adventure 2 (1989)(Micro Hage Chabin)(Disk 1 of 2)(Disk A)
+Kawaharazaki Ie No Ichizoku (199x)(Silky's)(Disk 1 of 5)(Disk A)
+Kawai Sou Monogatari Kanketsuhen (1988)(Master Piece)(Disk 1 of 2)
+Kax (1989)(Takashi Imai)
+Keeper (1993)(Success - ASCII)
+Kera Kera Hoshi (1993)(Cocktail Soft)(Disk 1 of 2)(Disk A)
+Kibun Ha Pastel Touch (19xx)(Great)(Disk 1 of 4)(Disk A)
+Kids Sap 2nd File (1992)(Great)(Disk 1 of 3)
+Kikori No Yosaku v2.07 (1991)(IJI Team)
+Kikou Shidan (1990)(Artdink)(Disk 1 of 3)(System)
+Kimi Dake Ni Ai Wo (1991)(Technopolis)(Disk 1 of 3)(Disk A)
+King of Chicago, The (1988)(Master Designer)(Disk 1 of 2)(Disk A)
+King Ou II The Kick Master (1993)(Dragon Studio)
+Kishikaisei Taiho Shichimauzo Hyoukahan (1992)(Team Phantom)
+Kitahei 68K (1992)(SPS)(Disk 1 of 2)(Program)
+Kiwame (1992)(Log)
+Klax (1990)(Hudson)
+Klax (1990)(Project M)
+Knight Arena (1994)(Creation Team Xelf)(Disk 1 of 3)(Disk A)
+Knight Arms The Hyblid Framer (1989)(Arsys)(Disk 1 of 2)(Disk A)
+Knight Maker (1991)(Yamamoto)
+Kohakuiro No Yuigon Seiyou Karuta Renzokusatsujin Jiken (1988)(Riverhill Soft)(Disk 1 of 2)
+Koma (19xx)(Yancha)
+Konya Mo Asa Made Powerful Mahjongg 2 (1989)(dB-Soft)(Disk 1 of 6)(System)
+Kora Kora (1990)(KK Software Device)
+Korette Deesure Jong! (19xx)(T&H Project)
+Koube Renai Monogatari (1989)(Zain Soft)(Disk 1 of 3)(Disk A)
+Kounai Shasei (1992)(Fairytale)(Disk 1 of 6)(Disk A)
+Kouryuuki (1993)(Koei)(Disk 1 of 4)(Disk A)
+Kousoku Genshu (1990)(Darekasan)
+Ku2 (1993)(Panther Software)(Disk 1 of 5)(Opening)
+Ku2 Front Row (1992)(Panther Software)(Disk 1 of 2)(Disk A)
+Kudoki Mataoshiemasu (1988)(Hard)
+Kudoki Mataoshiemasu II Kind Gal's (1988)(Hard)(Disk 1 of 2)
+Kuru Kuru Puzzle (1994)(Mint Jam)
+Kurutta Kajitsu (1992)(Fairy Tale)(Disk 1 of 3)(Disk A)
+Kyarukan (1990)(Toy Pops)
+Kyun Kyun Fruit Napple City 1 (1991)(Yuuichi)
+Kyun Kyun Fruit Napple City 2 (1991)(Yuuichi)
+Kyuukyoku Tiger (1993)(Kaneko)(Disk 1 of 2)(Disk A)
+La Princesse Croissant (1994)(Fox Factory)
+Lagoon (1990)(Zoom)(Disk 1 of 4)(System)
+Lamp (1994)(Mits)
+Laplace No Ma (1990)(Hummingbird Soft)(Disk 1 of 3)(System)
+Las Vegas, The (1987)(Nippon Dexter)
+Last Armageddon (1991)(Brain Grey)(Disk 1 of 7)(Disk A)
+Last Batallion (1991)(Sting)(Disk 1 of 2)(Disk A)
+Last Batallion (demo) (1991)(Sting)
+Last Piece II (1990)(POP Software)(Disk 1 of 2)(Disk A)
+Last Tempest, The (1994)(Koucha Kikaku)(Disk 1 of 2)(Disk A)
+Laydock (1997)(Hoshishiba Takayuki)
+Leading Company (1992)(Koei)(Disk 1 of 2)(Disk A)
+Lemmings (1991)(Imagineer)
+L'Empereur (19xx)(Koei)(Disk 1 of 3)(Disk A)
+Lenam (1989)(Hertz)(Disk 1 of 6)(Program)
+Level Point v1.1 (199x)(Erenvmvrcom)
+Lexus 2 (199x)(SPC Soft)
+Libble Rabble (1993)(Dempa)
+Libble Rabble v0.1 (19xx)(-)
+Libble Rabble vP911006 (1991)(REmoo)
+Libble Rabble vP911117 (1991)(REmoo)
+Liberty Half Grade Up (1994)(Nekoro Girl)
+Libido 7 (1994)(Libido)(Disk 1 of 5)(System)
+Life and Death (1992)(Ving - Takeru)(Disk 1 of 2)
+Lightning Bacchus (1989)(NCS - Masnya)(Disk 1 of 2)
+Lime Light (1989)(Hypa Soft - Apple Soft)(Disk 1 of 2)(Disk A)
+Lipstick Adventure (19xx)(Fairytale)(Disk 1 of 2)(Disk 0)
+Lipstick Adventure 3 (1993)(Fairytale)(Disk 1 of 5)(Disk A)
+Lipstick Adventure II (19xx)(Fairytale)(Disk 1 of 2)(Disk 0)
+Little Chinese (1991)(Takeboo)
+Little Chinese Dash (199x)(Takeboo)
+Little Chinese Final Edition (199x)(Takeboo)
+Lock On (1989)(Ookuroya)(Disk 1 of 2)(Disk A)
+Lock On 2 (1989)(Apple Software)
+Lock On 3 (1990)(Apple Software - Hypa Soft)
+Lode Runner (19xx)(Hiramatsu M.)
+Lodoss Tou Senki Fukujinduke (19xx)(Hummingbird Soft)
+Lodoss Tou Senki Haiiro No Majo (1991)(Hummingbird Soft)(Disk 1 of 3)(Opening)
+Lodoss Tou Senki II Goshiki No Maryuu (1992)(Hummingbird Soft)(Disk 1 of 4)(System)
+Long Night Maikochan No Kiken Na Yoru (1991)(Toy Pops)
+Loop Eraser (1991)(Nichikonren Kikaku)(Disk 1 of 2)(Program)
+Loopz (199x)(Cygnus)
+Lot Lot Lot (19xx)(Nakatani Shuuyou)
+Lovely Horror Ochame Na Yuurei (19xx)(Zenryuutsuu)
+Lua (1993)(Inter Heart)(Disk 1 of 4)(Disk A)
+Lucky Shot (1990)(Softec)
+Lumchan Comike Ni Iku (1990)(Master Piece)
+Lumchan No Kawai Sou Monogatari (1988)(Master Piece)
+Lunatic Fantasy v2.0 (199x)(Studio Light Cross)
+Luster Soursh (1990)(Mugen Kaisha Rana)
+Lyrical Party (1993)(MIX)
+Mad Gear (19xx)(-)
+Mad Stalker Full Metal Worth (1994)(Family Soft)(Disk 1 of 2)(Disk A)
+Magery No Sekai He Youkoso (19xx)(Nihon Sennou Club)
+Magery No Sekai He Youkoso 2 The Labyrinth of Dimension (199x)(Nihon Sennou Club)
+Magery No Sekai He Youkoso 3 The End of Malicious Fate (199x)(Nihon Sennou Club)
+Magery No Sekai He Youkoso For Otaku (199x)(Nihon Sennou Club)(Disk 1 of 2)(Disk A)
+Magical Crash (1991)(Proceed)(Disk 1 of 2)(System)
+Magical Shot (1991)(MNM Software)
+Magritte (1995)(Moai)
+Mahjongg Clinic Zoukangou (1991)(Home Data)(Disk 1 of 2)
+Mahjongg Gensou Kyoku (1992)(Active)(Disk 1 of 4)(Disk A)
+Mahjongg Kyou Jidai Special (1988)(Micronet)(Disk 1 of 2)(System)
+Mahjongg Master (1991)(Allex)(Disk 1 of 5)(Disk A)
+Mahjongg Saikyou Musashi (1989)(Cosmos Computer)(Disk 1 of 2)
+Mahjongg Tengoku (1993)(MIX)
+Mahjongg Yuuenchi (1991)(Home Data)(Disk 1 of 3)(Disk A)
+Mahou Daisakusen (1994)(Electronic Arts - Victor)(Disk 1 of 3)
+Mahou No Senshi Physical Melon (1994)(Leone)(Disk 1 of 2)(Disk A)
+Mai (1992)(Fairytale)(Disk 1 of 4)
+Maison Ikkoku Kanketsuhen Special (1989)(Micro Cabin)(Disk 1 of 5)(Disk 0)
+Majinguu (1987)(Xain Soft)(Disk 1 of 2)(System)
+Majo Halldra No Yabou (1993)(Moai)
+Makenshi Kumiko (19xx)(System House Oh!)
+Man I Love, The (19xx)(Thinking Rabbit)
+Mappy (1988)(N. Kei)
+Mappy (1990)(Yopino)
+Marble Madness (1991)(Home Data)
+Marble Magic (1994)(Rats Soft)
+Marble Panic (1994)(Studio KS - Rats Soft)
+Marble Reverser (1992)(Studio Pickles)[test version]
+Marble Reverser 2 (1994)(Studio Pickles)
+Marble Reverser v1.0 (1992)(Studio Pickles)
+Marchen Maze (1991)(SPS)(Disk 1 of 2)(Disk A)
+Marchen Paradise (1990)(Great)(Disk 1 of 3)(Disk A)
+Marine Buster (1993)(Silky's)(Disk 1 of 2)(Disk A)
+Maririn DX (1994)(Jast)(Disk 1 of 3)(Disk A)
+Marmalade Bomb (1995)(Pastel Koubou)
+Marss (1989)(Degauss - Mugen Kaisha Rana)
+Martial Age (1992)(Tenshindou)(Disk 1 of 3)(Disk A)
+Masayochan Peeping Shot! Vol. 1 (19xx)(Onoe Network)(Disk 1 of 2)
+Mayumi (1992)(Cocktail Soft)(Disk 1 of 2)(Disk A)
+MCHA (1991)(FNeW)
+Me No Sakkaku Honken Program (1992)(IJI Team)
+Mega Powerful Jangken Pro-68K v1.05 (1992)(Gainen Shuppon)
+Megalomania (1993)(Imagineer)(Disk 1 of 2)
+Megami De Pon (1995)(DCS)
+Meisaku Rouman Bunko Neji Shiki (19xx)(Zeit)(Disk 1 of 3)(System)
+Meisaku Rouman Bunko Neji Shiki (demo) (19xx)(Zeit)
+Memory Broken (1989)(Fukuiinchou)
+Mercury (19xx)(Maxima)(Disk 1 of 2)(System)
+Metal Eye (199x)(Elf)(Disk 1 of 7)(Disk A)
+Metal Sight (1989)(System Sacom)(Disk 1 of 5)
+Metal Unit (1994)(T&H Project)
+Metal Unit II Power Unit (1994)(T&H Project)(Disk 1 of 3)
+Mid-Garts Gold (1989)(Wolf Team)(Disk 1 of 4)
+Mikkun Fly! (1991)(Brace)
+Milk Time (1991)(System House Oh!)(Disk 1 of 3)
+Million Shot (1993)(IJI Team)
+Minami No Hiroshi No Eigo Kyoushitsu v2.0 (1989)(Todo2)
+Mirage (1992)(Discovery Software)(Disk 1 of 5)(Disk A)
+Mirage v0.1 (19xx)(Rowan)
+Missile Command 68K v2 (1989)(Tiny-Tomo)
+Missile Command AMA-68K (1988)(Tiny-Tomo)
+Mission For Adult (1990)(Himitsu Kessha M)(Disk 1 of 2)(Disk A)
+Missle Command (1992)(YOH)
+Missle Command SX-68K (1992)(Noom Activity)[Req SX-Windows]
+Misty 68K 1 Kikai Na Zenra Shitai (1989)(Data West)
+Misty 68K 2 Unmei No Akugi No Naka De (1989)(Data West)
+Misty 68K 3 Satsui No Haikei (1989)(Data West)
+Misty 68K 4 Sora He Kikan Mono (1989)(Data West)
+Misty 68K 5 Utsukushiki Akuma (1989)(Data West)
+Misty 68K 6 Nido Me No Organ (1989)(Data West)
+Misty 68K 7 Yami No Naka No Shikisai (1989)(Data West)
+Mobile Suit Gundam Classic Operation (1991)(Family Soft)(Disk 1 of 3)(Disk A)
+Mogu (1990)(Phoenix)
+Mogura Attacker (1990)(Project Makkusu)
+Mokona In Space (1995)(68 Bank)
+Molo-Q (19xx)(-)
+Momotarou (1989)(Todo2)
+Momotarou Densetsu (1988)(Hudson Soft)
+Momotarou Gaiden Momokochan Fight! (1991)(Todo2)(Disk 1 of 2)(Disk A)
+Momotarou II Ohimesama Ga Ippai (1990)(Todo2)(Disk 1 of 2)(Disk A)
+Mon Mon Shinkei Suijaku (1989)(Todo2)
+Mon Mon Shinkei Suijaku 2 v1.10 (1990)(Todo2)
+Mon Mon Shinkei Suijaku 3 v1.00 (1991)(Todo2)
+Mon Mon Shinkei Suijaku EX v1.00 (1993)(Todo2)
+Money Heisei 1, 2 Nendo Han (1993)(Dream Project)
+Monster Panic (19xx)(IT)
+Moon Cresta & Terra Cresta (1992)(Dempa)
+Moon Light Chan Rin Shan (1993)(DO)(Disk 1 of 5)(System)
+Moon-Crystal (1992)(Orange House)(Disk 1 of 4)(Disk A)
+Moria v4.87 (19xx)(Kobayashi Kenichi)
+Morita Shougi II (1989)(Enix)
+Moritan Othello v6.1 (1986)(Morita Kazurou)
+Motos (1989)(Dempa)
+Mr. Do! & Mr. Do! vs Unicorns (1994)(Dempa)
+Mugen Senshi Valis II (1989)(Telenet)(Disk 1 of 5)(Disk A)
+Multiword (19xx)(Sharp)(Disk 1 of 5)(System)
+My Eyes (199x)(Birdy Soft)(Disk 1 of 4)(Disk A)
+Mystery House (1989)(Imai Takashi)
+Nageyari Sensha Kassen (19xx)(NWK)
+Naious (1990)(Exact)(Disk 1 of 2)(Disk 0)
+Namachuukei 68 (1991)(Konami)(Disk 1 of 2)(Disk A)
+Naniwa Do Konjou Series Bangaihen Nouten Chokudake! 2 (1990)(Iron Gear)
+Naniwa Do Konjou Series Nouten Chokudake! (1990)(Iron Gear)
+Naniwa Do Konjou Series Nouten Chokudake! 3 (1991)(Iron Gear)
+Nasake Muyou Fire 2! (1994)(Yamaco)
+Nazo No Rooguu Shuu (19xx)(Team-ms)
+Nectaris (1992)(System Soft)
+Nekketsu Koukou Dodgeball Bu (1988)(Sharp - SPS)
+Nekketsu Koukou Dodgeball Bu Soccer Hen (1990)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Nemesis '90 Kai (1993)(SPS)(Disk 1 of 2)(System)
+Nemesis '90 Kai (demo) (199x)(SPS)
+Nemesis '93 Gradius 2 (1993)(Gra2 Project Team)
+Nemesis '94 Gradius 2 (1994)(Gra2 Project Team)
+Nervous Black Jack v2.00 (1992)(T.O.F.)
+Neural Gear (1990)(Crossmedia)(Disk 1 of 2)(Disk A)
+New Bokosuka Wars (19xx)(Salt)
+New Zealand Story, The (1989)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Nice Jan (19xx)(Todo2)
+Nicoll (1990)(System House Oh!)
+Niko Niko (1991)(Wolf Team)
+Ninin Battle (1990)(Takeru)
+Nise Dragon Quest V (19xx)(Pasokon Yuushi)(Disk 1 of 3)(Disk A)
+Nishisansou Tetris (1990)(NST)[take version]
+Noah (1992)(MNM Software)
+Noble Mind (1991)(Alfa System)(Disk 1 of 3)(Disk A)
+Nobunaga No Yabou Bushou Fuuunroku (1991)(Koei)(Disk 1 of 3)(Disk A)
+Nobunaga No Yabou Hanouden (1993)(Koei)(Disk 1 of 4)(System)
+Nobunaga No Yabou Sengoku Gunyuuden (1989)(Koei)(Disk 1 of 3)(Disk A)
+Nobunaga No Yabou Zenkokuhan (1988)(Koei)(Disk 1 of 2)(Disk A)
+Noriko Tobimasu (1989)(A.H.S.)
+Nostalgia 1907 (1991)(Sur De' Wave)(Disk 1 of 4)(System)
+Nouten Densetsu (1993)(Iron Gear)
+Nova (19xx)(Kazuki)
+Nyanko Sweeper (19xx)(Mackun)
+Oh! Hajiki! (19xx)(Maru)
+Oh! Pai (199x)(Silky's)(Disk 1 of 5)(Disk A)
+Ohootsuku Ni Kiyu (19xx)(Login)
+Okumanchouja (19xx)(Cosmos Computer)
+Ooedo Hanseiki (19xx)(Panther Software)(Disk 1 of 3)
+Ora Ora Ball (1995)(Ora Soft)(Disk 1 of 2)
+Orange Iro No Biyaku (1989)(System House Oh!)
+Ora-Shoot (1996)(Ora Soft)(Disk 1 of 2)
+Original Games (2001)(Tau Software)
+Otaku Dama (1999)(Mitsuky)
+Ougon No Buta (19xx)(Shoujo)
+Powermonger (1991)(Imagineer)
+Poyo Poyo (1993)(Faarutoona)(Disk 1 of 2)(System)
+Premium (199x)(Silky's)(Disk 1 of 4)(Disk A)
+Ougon No Rashinban (1989)(Riverhill Soft)(Disk 1 of 3)(System)
+Overtake (1992)(Zoom)(Disk 1 of 6)(System)
+Pachinko World (1992)(Gigc Soft)
+Pachisuro Divels XX v0.70 (1995)(Kometa Kimiaki)
+Pac-Land (1994)(Dempa)
+Pac-Man (1988)(Sharp - SPS)
+Pac-Man (1993)(IT)
+Pac-Mania (1989)(Sharp - SPS)
+Pac-Men (1995)(XYZ)
+Pai Koukan Kyou Kou Kan Nakoruru Hen (1994)(Nihon Sennou Club)(Disk 1 of 2)(System)
+Parodius Da! (1991)(Konami)(Disk 1 of 2)
+Parodius Da! (demo) (1991)(Konami)
+Paroran v3.00 (1992)(Hayabusa Soft)
+Parsec v3.11 (199x)(Parsec)
+Paruru (199x)(Maimu Koubou)
+Patariro! Game (19xx)(68 Bank)
+Pensan CD (1992)(Tanaka Yuu)
+Pentaris (1990)(Phoenix)
+Peshi Peshi Puzzle (199x)(To.)
+Peshi Peshi Puzzle 2 (199x)(To.)
+Phalanx (1991)(Zoom)(Disk 1 of 3)(System)
+Phantasie IV (1991)(Starcraft)(Disk 1 of 2)
+Phoneix Quiz Slime King Wo Hari Sakase (1990)(Phoenix)
+Pias (19xx)(Birdy Soft)(Disk 1 of 2)(Disk A)
+Pinball Pinball (1990)(Softec)
+Pinky 1 (1990)(System House Oh!)(Disk 1 of 4)
+Pinky Ponky Part 1 (1990)(Elf)
+Pinky Ponky Part 2 (1990)(Elf)
+Pinky Ponky Part 3 (1990)(Elf)
+Pipe Dream (1989)(BPS)(Disk 1 of 2)(Program)
+Pipyan (1990)(MNM Software)
+Pitapat (1992)(Victor)(Disk 1 of 2)(Disk A)
+Pizza Busters (19xx)(XYZ)
+Planet Investor v1.0 (1993)(N.Y. Spirits)
+Plesea (1990)(SPC Tropical Plan)
+Poker Sisters Gold (1989)(MGR Software)
+Pole To Win (1992)(MIX)
+Ponyon (1992)(Ponytail Soft)(Disk 1 of 4)(Disk A)
+Pop Card (1990)(Studio Theta)(Disk 1 of 2)
+Popjack (1994)(DCS)
+Populous (1989)(Imagineer)
+Populous II (1992)(Imagineer)(Disk 1 of 2)
+Populous Promised Land (19xx)(Imagineer)
+Porolith (1990)(Ko.mo.mo)
+Port Tower Monogatari (1991)(Brings Onion Software)
+Potton (1991)(Sprite)
+Power League (1988)(Hudson)
+Power Racing (1993)(Mashita Katsuaki)
+Premium II (1993)(Silky's)(Disk 1 of 4)(Disk A)
+Present (1991)(Orange House)(Disk 1 of 3)(Disk A)
+Pretty Doll (1991)(System House Oh!)(Disk 1 of 3)
+Prince & Princess (1990)(T&H Project)(Disk 1 of 2)(Disk A)
+Prince of Persia (1991)(Broderbund)(Disk 1 of 3)(Disk A)
+Princess Bingo (19xx)(User So)
+Princess Ha Street Girl (19xx)(Zenryuutsuu)
+Pro Soccer 68 (1991)(Anco)
+Pro Student G (1993)(Alice Soft)(Disk 1 of 7)(Disk A)
+Pro Tennis World Court (1990)(SPS)(Disk 1 of 2)(Disk A)
+Pro Yakkyuu World Stadium (1990)(SPS)(Disk 1 of 2)(Disk A)
+Production Manager (1989)(Compac)(Disk 1 of 2)(Disk A)
+Professional Mahjongg Gokuu (1988)(Chatnoir)
+Profit (1994)(DSN-9)
+Project D.H.N. Vol. 1 (1993)(D.H.N.)(Disk 1 of 3)(Disk A)
+Project D.H.N. Vol. 2 (1993)(D.H.N.)(Disk 1 of 3)(Disk A)
+Project D.H.N. Vol. 3 (1994)(D.H.N.)(Disk 1 of 2)(Disk A)
+Prostitute Maker (1993)(T&H Project)(Disk 1 of 2)(Disk A)
+Proth 68K (1989)(Metadyne)
+Prototype Fighter Assault Buster (19xx)(-)
+Psycho Harrier (1990)(Koumajutsu)
+Puchi Puchi Pro-68K (1990)(Hazama Kuroo)
+Punincess Maker (1992)(Oguchin)
+Puppet Show (19xx)(Artist Soft)
+Push Bon! (1994)(-)
+Puyo Puyo (1994)(SPS)
+Puyo Puyo (demo) (1994)(SPS)
+Puzzle (1991)(-)
+Puzznick (1990)(Broderbund)
+Quarter Staff The Tomb of The Setmoth (1991)(Starcraft)(Disk 1 of 2)(Program)
+Quarth (1990)(Konami)
+Queen of Duelists Gaiden Alpha+ (1994)(Agumix)(Disk 1 of 7)(Disk A)
+Quest Question (1994)(Phank's)(Disk 1 of 2)(Disk A)
+Questland Stories (1990)(OS Software)(Disk 1 of 2)(Disk A)
+Quieazum 2 Haja No Jouken (1992)(Biwahosi Software)
+Quieazum Biwahoshi Quiz System (1991)(Biwahosi Software)
+Quieazum DCS (1993)(DCS)
+Quintia Road (1991)(Great)(Disk 1 of 4)(Disk A)
+Quiz Bocchama Paradise (1994)(Ushi Soft)(Disk 1 of 2)(Disk A)
+Quiz Cult X (1992)(UOD Soft)
+Quiz De Pon (19xx)(-)(Disk 1 of 2)(Disk A)
+Quiz Fighter Hyakumanjin No Quiz Yarou (1992)(Iron Gear)
+Quiz Hao (1992)(Active)(Disk 1 of 2)(Disk A)
+Quiz Jan! (1990)(Todo2)
+Quiz Jigoku No Tokkun (19xx)(NSC)
+Quiz Jockey (1995)(Midy House)
+Quiz Mangaka No Yabou (199x)(-)
+Quiz Sniper (1990)(Masqurade)
+Quiz Torimonochou (1992)(Dempa)
+R.C. Robot Construction (1993)(Electric Sheep)
+R.C. Robot Construction Shuu + alpha Vol. 2 (1994)(Electric Sheep)
+R.C. Robot Construction Shuu + alpha Vol. 3 (1994)(Electric Sheep)
+R.C. Robot Construction Shuu + alpha Vol. 4 (1994)(Electric Sheep)
+R3 Golf (19xx)(Black FTZ)(Disk 1 of 2)(Disk A)
+Raguna (1990)(Azuma Development)
+Rally-X (1988)(IT)
+Ramune Club v1.50 (1991)(Mog-Net)
+Rance 2 Hangyaku No Shoujotachi (1990)(Alice Soft)(Disk 1 of 6)
+Rance Hikari Wo Motote (1989)(Alice Soft)(Disk 1 of 4)(Disk A)
+Ranmaru (1992)(Fairytale)(Disk 1 of 4)(Disk A)
+Ray Gun (1990)(Elf)(Disk 1 of 3)(Disk A)
+Raydefox Full Metal Powerdsuits v1995.11 (1995)(Zhin)
+Rayer Shoot v1.03 (1996)(TMK)(Disk 1 of 2)
+Real (1991)(Phoenix)(Disk 1 of 3)(System)
+Red Arms (1990)(Nishi Yoshitaka)
+Red Arms (199x)(Miso)
+Refresh! (1990)(Iron Gear)
+Reichsritter (1991)(Enix)(Disk 1 of 3)(Disk A)
+Reinforcer (1990)(Zain Soft)(Disk 1 of 4)(System)
+Relics Ankoku Yousai (19xx)(Bothec)
+Reserve (1991)(MIX)(Disk 1 of 2)(Disk A)
+Return of Ishtar, The (1989)(SPS)
+Review Jashin Fukkastu (1991)(Orange House)(Disk 1 of 2)(Disk A)
+Riiya Densetsu (199x)(Pasoket)
+Ring Master (19xx)(Hobby Japan)(Disk 1 of 3)(System)
+Ring Master II (19xx)(Hobby Japan)(Disk 1 of 3)(System)
+Rinne Tensei Reversible Game Tanba (1988)(Micronet)
+Ripobitan Disk Ace (1994)(Toukyou Kogei Daigaku Programming Kenkyuutai)
+Rising Sun (199x)(Crossmedia)(Disk 1 of 3)
+Roll Down 2 (1990)(A Kyuu Kid's)
+Rotate (1992)(Annandule Project)
+Rotate v1.15 (1990)(Annandule Project)
+Rotation (1991)(Dolphin Game Studio)(Disk 1 of 2)(System)
+Rouge (19xx)(Birdy Soft)(Disk 1 of 2)(Disk A)
+Royal Blood (19xx)(Koei)(Disk 1 of 3)(Disk A)
+R-Type (1989)(Irem)
+Rune Worth Kokui No Kikoushi (1990)(T&E Soft)(Disk 1 of 3)(Program)
+Ryu Naki No Ryuu Yori (1991)(Wolf Team)(Disk 1 of 4)
+Ryuu Kyuu (1989)(Login)
+Sabao Dama Tonda (19xx)(Opt.1)
+Sabnack (1991)(Kogado)(Disk 1 of 2)(Game)
+Sades (1989)(Studio KBO)
+Sailor Moon Battler Kou To Ju Zanteihan (199x)(Ace Software)
+Sailor Moon Shibaigoya (19xx)(Big Parfait)
+Sailor V Game v3.00 (1994)(Phank's)
+Sailormoon Chou Card Quiz Game Moon Quiz (19xx)(Sprite)
+Sakeru No Da! (19xx)(Mugen Unagi Team)
+Salamander (1988)(Sharp - SPS)
+Same Game (1995)(Makoto)
+Sangokushi (1988)(Koei)(Disk 1 of 2)(Disk A)
+Sangokushi III (1992)(Koei)(Disk 1 of 3)(Disk A)
+Santakun (199x)(Active)
+Saori Bishoujotachi No Yakata (1991)(Fairytale)(Disk 1 of 2)(Disk A)
+Saotome Gakuen Nyuugaku Annai (19xx)(Zenryuutsuu)
+Saotome Gakuen Nyuugaku Annai II Blue Wind (19xx)(Zenryuutsuu)
+Sarumune of Tetris, The (1990)(Pineapple)
+Satellite 2, The (1989)(Yamaco)
+Satellite Battle (1990)(Dual.D)
+Satellite, The (1989)(Yamaco)
+Satori Shooting Practice Program (1990)(Fukuiinchou)
+Satori Shooting Practice Program v2 (1991)(Fukuiinchou)
+Sazae A Isono's Family Crazy Story (1995)(68 Bank)
+Scarlet (1991)(Login)
+Schwarzschild Kyouran No Ginga (19xx)(Kogado)(Disk 1 of 3)(Disk A)
+Scorpius (1991)(Shinseisha)
+Scramble Pyuuta Han (19xx)(XYZ)
+Scrap (1989)(Hypa Soft)(Disk 1 of 2)(System)
+SD Fighter (1991)(Une Une Soft)
+SD Sadistic Gamers (199x)(Ankoku Baitai Software House)
+SD Toki No Kagi (1989)(-)(Disk 1 of 2)(Disk A)
+Sebasuchan (199x)(Earth & Moon)
+See Through v2 (1989)(Flying Garden)
+See-Saw (1996)(Yama)
+Sei Runa Gakuen Chikoku Taisen Sou No Maki (1991)(Pasoket)
+Seifuku Kako No Ibutsu Wo Matoishi Monotachi (1992)(Pussy Cat)
+Seiyuu Daishuugou (1990)(Buruumaunten Soft)
+Sekai De Ichiban Kimi Ga Suki! (1990)(Cocktail Soft)(Disk 1 of 2)(Disk A)
+Sekai Seifuku Set (1992)(Moai)
+Sekizui DX Sample (1993)(Famibe No Yosshin)
+Sekizui Hansha De Acchoo v613.61 (1993)(Famibe No Yosshin)
+Senegal (1991)(Brings Onion Software)
+Sennin Game (19xx)(Ando)
+Senshasen (1992)(Yamaco)
+Senshasen III VS-Bowler (1996)(Yamaco)
+Senshasen v1.0 (1991)(Yamaco)
+Shanghai (1987)(System Soft)
+Shanghai II (1989)(Hudson)
+Shangrlia (1991)(Elf)(Disk 1 of 4)(Disk A)
+Shangrlia 2 (1993)(Elf)(Disk 1 of 8)(Disk A)
+Shangrlia 2 Special (1993)(Elf)(Disk 1 of 2)
+Shikato (19xx)(Rero Rero)
+Shiken Ni Denai Maison (19xx)(Melty Club)
+Shiken Ni Deru Maison Ikkoku (1990)(Ponta Soft)
+Shiken Ni Deru Urusei Yatsura Part 1 (1989)(Ponta Soft)
+Shimai Mahjongg v1.40 (1994)(Kazumi)
+Shin Baseball Knuckles (1995)(DCS)
+Shinkeisuijaku Pro 68K (1989)(Tutankamen)
+Shoot Range (1992)(Bit2)(Disk 1 of 2)(Disk A)
+Shooting 68K (1991)(Amorphous)(Disk 1 of 2)(Game)
+Shouten (199x)(Software Factory T's)
+Shuffle Puck Cafe (1989)(Broderbund)(Disk 1 of 2)(Disk A)
+Signatory (1991)(NCS)(Disk 1 of 5)(System)
+Silkroad 2 v1.00 (1995)(Sprite)
+Silkroad Legend of Gero v2.10r (1993)(Sprite)
+Silsteel (1995)(P.Pink.Pot)
+Silver Ball (1989)(X-Soft)
+Silver Crystal (19xx)(Kunugi J.)
+Sim Ant (1993)(Imagineer)
+Sim City (1990)(Imagineer)
+Sim City (1990)(Imagineer)[city data 2]
+Sim City (1990)(Imagineer)[city data]
+Sim City Terrain Editor (1991)(Imagineer)
+Sim Earth (19xx)(Imagineer)
+Sion (1991)(Soft Bank)
+Sion II (1992)(Soft Bank)
+Sion IV (1995)(Soft Bank)
+Slime Master (19xx)(-)
+Slimyer (1990)(Hot B)
+SMSX Moon Soldier (199x)(Morimoto Uchuu Ichi)
+SMSX Sample 0.1 (199x)(Morimoto Uchuu Ichi)
+Snell (1991)(-)
+Snow Na Kibun! (1991)(-)
+Soft De Hard Na Monogatari (1988)(System Sacom)(Disk 1 of 4)
+Sol-Feace (1990)(Wolf Team)(Disk 1 of 3)
+Solitaire Tiny Han (1990)(Miro)
+Solitea (1990)(Miro)(PD)
+Sonic Linker (1993)(May-Be Soft)(Disk 1 of 2)(Disk A)
+Sorcerian (1994)(AQRS)
+Sorcerian (1995)(Yasty-Serv)(Disk 1 of 2)(User)
+Sorcerian Sugoroku (1990)(Missy.M)
+Sotsugyou Graduation (1993)(JHV)(Disk 1 of 7)(Disk A)
+Sotsugyou Shashin with Biki (1992)(Cocktail Soft)(Disk 1 of 3)(Disk A)
+Souhou Blue Phoenix (1994)(Stillrise)
+Souhou Blue Phoenix Taste Version (1995)(Stillrise)
+Soukoban (19xx)(-)
+Soukoban Perfect (1989)(Thinking Rabbit)
+Soukou Hohei Butai Cannon Sight (1995)(Nihon Computer Club Renmei)(Disk 1 of 2)(Disk A)
+Space Harrier (1987)(Dempa)
+Space Invaders (1989)(Tiny-Tomo)
+Space Landing S-Type Mission 2 (1989)(Cross Soft)
+Space Rogue (1989)(Wave Train)(Disk 1 of 2)(Disk A)
+Space Soldier (1992)(Studio Theta)
+Spanner_A (1989)(MP-Networks)
+Spanner-X Endless Fire (1994)(Studio MM)(Disk 1 of 2)(Disk A)
+Special Tenanmon (1990)(Pekin Net)
+Square Resort (1992)(Family Soft)(Disk 1 of 2)(System)
+Star Blade v1.00+ (19xx)(Nami.dat)
+Star Charge (1995)(KMC)
+Star Cruiser (1989)(Arsys)(Disk 1 of 2)(Disk A)
+Star Cruiser Sol Will 2 (1992)(Proceed)
+Star Fighter (1992)(Faw)
+Star Force (1993)(Dempa)
+Star Luster (1994)(Dempa)
+Star Mobile (1991)(MNM Software)
+Star Trader (1991)(Takeru)(Disk 1 of 2)
+Star Trek (19xx)(To$hi)
+Star War 1991 v2 (1991)(K.Y.A.T.)
+Star Wars Attack On The Death Star (1991)(MNM Software)(Disk 1 of 2)(Disk A)
+Starship Rendezvous (19xx)(Scap Trust)(Disk 1 of 2)(Disk A)
+Steel Gunman (199x)(Shuuru Shuuru)
+Stox (1989)(Pineapple)
+Strawberry Daisenryaku (199x)(Fairytale)(Disk 1 of 3)(Disk A)
+Street Fighter II Champion Edition (1993)(SPS)(Disk 1 of 4)(System)
+Street Haita 2 v1.00 (1992)(Yamazaki)
+Street Uckey II (1991)(Goro)
+Strider Hiryuu (1992)(Capcom)(Disk 1 of 3)(System)
+Strip Fighter II (1993)(Nankoku Byouyou)
+Strip Fighter II Sutonyan Dash (1993)(Nankoku Byouyou)
+Stroke.x v0.20 (demo) (1991)(Etou Hiroshi)
+Suikoden Tenmei No Chikai (1989)(Koei)(Disk 1 of 3)(Disk A)
+Sukaparojii (1993)(Dream Staff)
+Sukatan Highschool (19xx)(Team Bakabonzu)
+Super Artemis (199x)(-)(Disk 1 of 2)(Disk A)
+Super CGQ (1991)(Iron Gear)
+Super D.P.S. (1992)(Alice Soft)(Disk 1 of 6)(System)
+Super Daikaiten (1993)(Ishida Hironari)
+Super Daisenryaku 68K (1989)(System Soft)(Disk 1 of 2)(System)
+Super Daisenryaku 68K (1989)(System Soft)[map data]
+Super First Mission (1995)(YOH)
+Super FiSS Fighting Sailor Soldiers (1994)(Fiss Seisaku Iinkai)
+Super Graphic Theater (1990)(Angeldust)(Disk 1 of 2)(Disk A)
+Super Hang-On (1989)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Super Jack Pro 68K (1988)(G Club)
+Super Las Vegas, The (1988)(Nippon Dexter)(Disk 1 of 3)
+Super Meikou Ponjan (1990)(P-1)
+Super Pakris EX (1991)(G' Software)
+Super Shanghai Dragon's Eye (1991)(Hot B)(Disk 1 of 2)(System)
+Super Shinpi No Kyoseki (19xx)(FC Software)
+Super Star Shooter (1991)(Dotmap Brothers)
+Super Star Shooter v2.00 (1991)(Dotmap Brothers)
+Super Street Bomber X (19xx)(Dragon Studio)[Req Install]
+Super Tiny Phalanx (1995)(XYZ)
+Super X-Day X (1994)(PYX)
+Super X-Day X'95 (1995)(PYX)
+Superior Mahjongg PII & PIII (1993)(Ving)(Disk 1 of 6)(System)
+Superior Mahjongg PIV (1994)(Ving)(Disk 1 of 9)(System)
+Sweet Angel (1992)(Active)(Disk 1 of 2)
+Sweet Emotion (1991)(Discovery Software)(Disk 1 of 3)(Disk A)
+Sword Master (1990)(TYTTK)
+Sword Master 2 Shinigami No Tamashii (19xx)(Earth & Moon Kai)(Disk 1 of 2)
+SX Aoumi v1.43 (1995)(Yuuki Asuka)[Req SX-Windows]
+Syvalion (1990)(Sharp - SPS)(Disk 1 of 2)(Disk A)
+Tacolis (1989)(T.A)
+Taiheiyou No Arashi DX (1989)(Gam)(Disk 1 of 5)
+Taikairei Dainihon Teikoku Kaigun No Kisaki (1989)(Artdink)(Disk 1 of 8)(Disk A)
+Taikairei Nankai No Shitou (1990)(Artdink)(Disk 1 of 4)(Disk A)
+Taikou Risshiden (1992)(Koei)(Disk 1 of 3)(Disk A)
+Tail Chaser (19xx)(Neko Mimi Shoujo Dan)
+Taisen Kakutou Karatedou (1997)(Nishio Kouzou)
+Take Out (19xx)(Marionet)
+Tako Game II (19xx)(Norikun)
+Tank Battalion (1989)(Pineapple)
+Tank Battalion (199x)(L. Sound)
+Tank-6 (1991)(TEC - EPT)
+Target (1991)(RKS Project)
+Tatakae! Dai 8 Kikou Shidan (1991)(PYN)
+Tatakae! Konyanko Comike 46 (1994)(Nankoku Byouyou)(Disk 1 of 2)(Disk A)
+Tatakae! Konyanko Comike 47 (1994)(Nankoku Byouyou)(Disk 1 of 2)(Disk A)
+Tatakae! Konyanko EX (199x)(Nankoku Byouyou)(Disk 1 of 2)(Disk A)
+TDF (1987)(Data West)
+T-Dragon Quest Joshou (1991)(TNB Saisakusho)
+T-Dragon Quest Joshou (1995)(TNB Saisakusho)
+T-Dragon Quest Joshou (1995)(TNB Saisakusho)[update]
+T-Dragon Quest Mazoku No Daichi (1995)(TNB Saisakusho)(Disk 1 of 2)(Disk A)
+T-Dragon Quest Mazoku No Daichi v0.999 (1995)(TNB Saisakusho)(Disk 1 of 2)(Disk A)
+Teitoku No Ketsudan (1990)(Koei)(Disk 1 of 3)(Disk A)
+Tekken Seisai (1991)(Iron Gear)
+Tenchi Muyou (19xx)(-)
+Tenchi Muyou Puzzle De Pazurou (199x)(-)
+Tenka Touitsu (1990)(System Soft - Arsys)(Disk 1 of 2)
+Tenkyuuhai (19xx)(Panther Software)(Disk 1 of 2)(Disk A)
+Tenkyuuhai Special Tougen No Utage (19xx)(Panther Software)(Disk 1 of 2)(Disk A)
+Tenshin Ranma (1992)(Elf)(Disk 1 of 5)(Disk A)
+Tenshitachi No Gogo III Bangaihen (1990)(Jast)(Disk 1 of 2)
+Terra Drive (1989)(Unique's)
+Teruminachan, The (1989)(Micro Hage Chabin)
+Tesera (1992)(Technopolis)(Disk 1 of 6)(Disk A)
+Tetris (1988)(BPS)
+Tetris Semipro-68K v2.00 (199x)(Shimizu Jun)
+Tetris v1.02 (1990)(Lum's Company)
+Tetris v1.04 (1993)(Lum's Company)
+Tetris v5 (1991)(Cyber Factory)
+Texceed (19xx)(GIJ Checkmate)
+TF4G v0.6426 (1994)(TNB Saisakusho)
+Thanatos (1991)(Birdy Soft)(Disk 1 of 2)(Disk A)
+Thrice (1990)(MNM Software)
+Thunder Blade (1990)(Sharp - SPS)(Disk 1 of 3)(Disk A)
+Thunder Force II (1988)(Technosoft)(Disk 1 of 2)
+Till The Walls Come Tumblin' Down (1989)(SSL - Au)
+Tim Country Club 1994 (1994)(Moai)
+Tim Paper Huzoku Scenario Dairyuuou Alexas (1993)(Moai)
+Time Pilot (19xx)(IT)
+Tinna The Seven Crystals (1991)(Project Team Interrupt)
+Tiny Columns X68000 Special (19xx)(ASM)
+Tiny Hopping Mappy (19xx)(Illkun 68K)
+Tokimeki Cherry Box (19xx)(DO)(Disk 1 of 2)(Disk A)
+Tokimeki Land Seru (1992)(Todo2)(Disk 1 of 2)
+Tokimeki Land Seru 2 (1994)(Todo2)(Disk 1 of 3)(Disk A)
+Tokimeki Taisen v1.01 (1997)(TMK)(Disk 1 of 2)
+Tokkou! Kamikaze Fighter (1996)(Haiteidoradorazu)(Disk 1 of 2)(Disk 0)
+Tokushu Koudou Keisatsu Sap (1991)(Great)(Disk 1 of 3)(Game)
+Tokusou Keiji (199x)(-)
+Tonkotsu Pro Roku Hachi Kei (1991)(Ichigo)
+Toride Spirits Gaiden (19xx)(Takebee)(Disk 1 of 2)(Disk A)
+Totsugeki! Bakkon Street (1993)(Jast)(Disk 1 of 2)(Disk A)
+Totsugeki! Bakkon Street II Hunting Roulette (199x)(Jast)(Disk 1 of 3)(Disk A)
+Toujo Densetsu (1992)(Daba)
+Toushin Toshi (1991)(Alice Soft)(Disk 1 of 5)(Disk A)
+Toushin Toshi Hint Disk (1991)(Alice Soft)
+Tower of Druaga, The (1989)(R.G.B.)
+Toy Pop (1991)(R.G.B.)
+Triangle Hearts (1989)(Ankoku Baitai Softwares)
+Trilogy Kukiyoukashinden (19xx)(Hard)(Disk 1 of 2)(Disk A)
+Triple Yacchii (19xx)(Tiny-Tomo)
+Tunnels & Trolls (19xx)(Starcraft)(Disk 1 of 3)(Ki)
+Twilight Zone 3 Nagakute Amai Yoru (1989)(Great)(Disk 1 of 3)(Disk A)
+Twilight Zone 4 Dreamy Alien Girls (1990)(Great)(Disk 1 of 4)(Disk A)
+Twin Bee (1988)(Sharp - SPS)
+Twin Soul (1989)(-)
+Twins (1989)(Mugen Kaisha Rana)
+U.S. Championship Beach Volley V'ball (1989)(Sharp - SPS)
+Uchuu Kaitou Funny Bee (1994)(Alice Soft)(Disk 1 of 7)(Disk A)
+Uchuu Kakeru Businessman (1989)(Zenryuutsuu)
+Uha Uha 2 (1992)(Mu Project)
+Ultima V Warriors of Destiny (1989)(Pony Canyon)(Disk 1 of 2)
+Ultima VI The False Prophet (1991)(Pony Canyon)(Disk 1 of 3)(Kidou)
+Ultimate Magic (1990)(OS Software)(Disk 1 of 2)(Disk A)
+Undeadline Denjuuki (1990)(T&E Soft)(Disk 1 of 3)(Program)
+Uno (19xx)(-)
+Ura Maison Ikkoku Kyoukosan No Kawai Sou Monogatari (1988)(Mater Piece)
+Urotsuki Douji (199x)(Fairy Tale)(Disk 1 of 2)(Disk A)
+Urusei Yatsura Lum Kikiippatsu (1989)(Aspii)
+Usagi Jump (1989)(Degauss)
+Vagrant Fighter FX (1995)(Hong Kong Project - NKTF)(Disk 1 of 2)
+Valentine Day Panic (199x)(Kunikane Kentarou)
+Vampire Highschool (1993)(Inter Heart)(Disk 1 of 5)(Disk A)
+Vaystarne (19xx)(Earth & Moon)(Disk 1 of 2)(Disk A)
+Versnag Senran (1993)(Family Soft)(Disk 1 of 6)(Disk A)
+View Point (1995)(Nexus)(Disk 1 of 2)(System)
+Viper-V6 Turbo (1993)(Sogna)(Disk 1 of 3)(System)
+Viper-V8 Twin Turbo (1994)(Sogna)(Disk 1 of 4)(System)
+Virgin Angel (1995)(Crystal Soft)
+Virus No Dengon (199x)(Cocktail Soft)(Disk 1 of 3)(Disk A)
+Vision (1991)(MIX)(Disk 1 of 2)(System)
+Vs Klith v0.50 (1993)(K1)
+Vulquar (199x)(Cat Soft)
+Wakao-G (1989)(Ura Nanigashi)
+Wanderers (1994)(Crystal Soft)
+Warning Type 68 (19xx)(Cosmos Computer)(Disk 1 of 2)(Disk A)
+Water Blue (19xx)(Hypa Soft Lab)(Disk 1 of 2)(Disk A)
+Wild Card (19xx)(Mr. Karmu)
+Wind Blast (1991)(Scuderia Phantom)
+Wings (1989)(Broderbund)
+Winning Post (1993)(Koei)(Disk 1 of 3)(Disk A)
+Wips II (1989)(SSL - Au)
+Words Worth (199x)(Elf)(Disk 01 of 12)(Disk A)
+World Golf III (1991)(Rhodes Office)(Disk 1 of 2)(Disk A)
+Wrestle Angels 3 (1994)(Great)(Disk 1 of 6)(Disk A)
+W-Tank (199x)(Une2 Soft)
+Xadlak (1991)(Sprite)
+Xadlak (1993)(Sprite)
+Xak (1990)(Micro Cabin)(Disk 1 of 4)
+Xanadu (1994)(Yokoshiba Soft)
+Xenon 2 Megablast (1990)(Imageworks)(Disk 1 of 2)(Disk A)
+Xevious (1987)(Dempa)
+Xevious (demo) (1987)(Dempa)
+Xna (1991)(Fairytale)(Disk 1 of 4)(Disk A)
+X-Type (1990)(Sprite)
+Y2 (1994)(Torimu)(Disk 1 of 2)(Disk A)
+Y2 (demo) (1994)(Torimu)
+Yajiuma Pennant Race 1989 (1989)(Crossmedia Soft)(Disk 1 of 3)(Disk A)
+Yajiuma Pennant Race 1990 Toshi Data (19xx)(Crossmedia)
+Yami No Ketsuzoku (19xx)(System Sacom)(Disk 1 of 3)
+Yami No Ketsuzoku Kanketsuhen (1990)(System Sacom)(Disk 1 of 4)
+Yaritai Houdai (19xx)(Zenryuutsuu)
+Yaritai Houdai 2 (19xx)(Zenryuutsuu)
+Yesterday (1990)(System House Oh!)
+Yet Another Column (19xx)(-)
+Yonkaku (19xx)(Nyagi)
+Yoru No Tenshitachi (1989)(Jast)(Disk 1 of 2)
+Youjuu Club (19xx)(DO)(Disk 1 of 2)(Disk A)
+Youjuu Club 2 (1991)(DO)(Disk 1 of 3)(Disk A)
+Youjuu Senki AD 2048 (199x)(DO)(Disk 1 of 5)(System)
+Ys 1 (demo) (19xx)(Hashinami Project Team)
+Ys 1 Ancient Ys Vanished Omen (1991)(Milk House)
+Ys 2 Ancient Ys Vanished (1991)(Dempa)(Disk 1 of 2)(Disk A)
+Ys 2 Ancient Ys Vanished The Final Chapter (1991)(Missy.M)
+Ys 2 Ancient Ys Vanished The Final Chapter (1992)(Milk House)(proto)
+Ys 3 Wanderers From Ys (1990)(Falcom)(Disk 1 of 4)(Scenario)
+Yuugai Casino Trump No Trump (1992)(P Shoukai Software)
+Yuugai Chase Aa!! Namida No Shimensoka (199x)(P Shoukai Software)
+Yuugai Gakuen II Jiritsushinkei Gouten (1993)(P Shoukai Software)
+Yuugai Gakuen Noukasuitai Chokugeki (1992)(P Shoukai Software)
+Yuugai Puzzle (19xx)(P Shoukai Software)
+Yuugai Wars Mamore! Akai Daichi (199x)(P Shoukai Software)
+Zan Kagerou No Toki (1989)(Wolf Team)(Disk 1 of 3)(System)
+Zark Legend (1990)(Maxima)(Disk 1 of 4)(Game)
+Zavas (1989)(Glodia)(Disk 1 of 3)(System)
+Zenkai Denshoku (1991)(Office Koukan)(Disk 1 of 3)(Disk A)
+Zero Master-Striker (1992)(Kazuyuki Shinjuki Gumi)
+Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi)
+Zero Rei (1994)(Kazuyuki Shinjuki Gumi)
+Zolgus (1989)(PCCM)
+Zounds (1994)(Mugen Unagi Team)
+Zoutage Hunters (1997)(Haiteidoradorazu)
+Zugya (1996)(Sprite)
+ZZZ-UNK-A-Kusha (y) [unk image format]
+ZZZ-UNK-Genpei Toumaden (1988)(Dempa) [unk image format]
+ZZZ-UNK-Hishouzame Flying Shark (1991)(Kaneko)
+ZZZ-UNK-Might & Magic (19xx)(Starcraft)(Disk 2 of 3)(Disk A) [unk image format]
+ZZZ-UNK-Rouge Alliance (19xx)(Starcraft)(Disk 1 of 3)(Ki)
+ZZZ-UNK-Rouge Alliance (19xx)(Starcraft)(Disk 2 of 3)(Player) [unk image format]
+ZZZ-UNK-Silent Moebius (19xx)(Gainax)(Disk 1 of 7) [unk image format]
+ZZZ-UNK-X68_Arcus5
+ZZZ-UNK-Zavas (1989)(Glodia)(Disk 2 of 3)(Data A) [unk image format]
+3 Danhenkei Meka Fuzzy (19xx)(Login)(Disk 1 of 2)
+Arcus Odyssey (1991)(Wolf Team)(Disk 1 of 2)
 ====================
-Total Games: 1288
+Total Games: 1267

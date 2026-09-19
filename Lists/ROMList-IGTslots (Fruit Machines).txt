@@ -1,4086 +1,4086 @@
 ﻿System: IGTslots (Fruit Machines)
 ====================
 10 X 10 - Barcrest
-21 Club - Barcrest Dutch
-25 Carat Diamonds - Astra
-25 Carrot Gold - Maygay
-2p Cash Explosion - BWB
-2P Cash Nudger - MDM
-2p Unlimited - MDM
-4 Play - BFG Dutch
-5 Times Cash - Project
-5th Avenue - JPM Dutch
-6 Shooter - Vivid
-777 Heaven - Project
-A Fish Called Wonga - Empire
-A Knights Trail - Global
-Abracadabra - QPS
-Ace Chase - BWB
-Aces High - Mazooma
-Action Bank 4 - Barcrest
-Action Bank 8 - Barcrest
-Action Note - Barcrest
-Action Pack - Barcrest
-Add A Note - JPM
-Adders N Ladders - Bacrest 2
-Adders N Ladders - Barcrest
-Adders N Ladders - Barcrest Dutch
-Adders N Ladders - BWB
-Adders N Ladders 25 - Barcrest
-Adders N Ladders 5 - Barcrest
-Adders N Ladders Classic - Barcrest
-Adders N Ladders Super - Barcrest
-Aftershock - Red
-Aladdins Cave - Crystal
-Aladdins Cave - PCP
-Alice Through The Looking Glass - Reflex
-Alices Diamond Deal - Reflex
-Alices Wonderland - Reflex
-Alien - Barcrest
-All 4 One - Vivid
-All 4 One 15 - Vivid
-All Cash Advance - Barcrest
-All Fired Up - Barcrest
-Along The Prom - BFM
-Alphabet - Barcrest
-Always Eight - BWB
-Ambassador - Barcrest Dutch
-American Dream - MDM
-American Highway - Barcrest Dutch
-Andy Capp - Barcrest
-Andy Capp - Barcrest Dutch
-Andy Capp - Blueprint
-Andy Capp - BWB
-Andy Capp 10 - Barcrest
-Andy Luvs Flo - Barcrest
-Andys Full House - Barcrest
-Andys Great Escape - Barcrest
-Andys Great Escape 10 - Barcrest
-Andys Great Escape 4 - BWB
-Ant & Dec Win The Ads - BFG
-Ant N Dec Jiggy Bank - BFG
-Ant N Dec Poker Face 35 - BFG
-Ant N Dec Poker Face 70 - BFG
-Ant N Dec Saturday Night - BFG
-Apache Gold - Empire
-Apollo 9 - Maygay
-Arabian Nights - Barcrest
-Arcadia - JPM
-Armada - BFM Dutch
-Around The Board In 40 Days - Mazooma
-Atlantic - Vivid
-Atlantis - Barcrest Dutch
-Austin Powers - Barcrest
-Autoroute - Barcrest
-Aztec - BFG Dutch
-Back To The Features - Vivid
-Bagatelle - Barcrest
-Baking Bad - Blueprint
-Bands Of Gold - EuroGames
-Bangers N Cash - Empire
-Bangers N Cash 15 - Empire
-Bangin Away - Global
-Bangin Away 5 - Global
-Bank A Coin - JPM
-Bank Job - Going For Gold - QPS
-Bank Job - QPS
-Bank Raid - Empire
-Bank Raid - PCP
-Bank Roll - JPM
-Bank Roll - Mazooma
-Banker - BWB
-Bankety Bank - QPS
-Bantam Of The Opera - Mazooma
-Bar 7 - JPM
-Bar 7s - BFM
-Bar Trek - BFM
-Bar X - Electrocoin
-Bar X 4 - Electrocoin
-Bar X 480 - Electrocoin
-Bar X 5 - Electrocoin
-Bar X 7even - Electrocoin
-Bar X 8 - Electrocoin
-Bar X Deluxe - Empire
-Barcode - BFM
-Barking Mad - Barcrest
-Barmy Army - Barcrest
-Barquest - Barcrest
-Bat Outta Hell - Global
-Battle Axe - Barcrest
-Battle Axe - Barcrest German
-Bear Streak - Coinworld
-Bear X - Coinworld
-Bedazzled - Mazooma
-Berserk - Barcrest
-Best Of British - Reflex
-Big 10 - Astra
-Big 15 - Astra
-Big 20 Joker - Barcrest Swiss
-Big 40 Poker - BWB
-Big 5 - Astra
-Big 50 - JPM
-Big 7 - Electrocoin
-Big 8 - Astra
-Big Bandit - Barcrest German
-Big Banker - JPM
-Big Banker 6 - JPM
-Big Banker2 - JPM
-Big Ben - Barcrest Dutch
-Big Blaster - Mazooma
-Big Brother - Barcrest
-Big Brother 15 - Bacrest
-Big Bucks - JPM
-Big Bucks 2 - JPM
-Big Cash Machine - Empire
-Big Chief - Barcrest
-Big Chief - Barcrest Dutch
-Big Deal - JPM Dutch
-Big Game - Barcrest
-Big Ghoulies - Gemini
-Big Shot - Barcrest
-Big Shot - Red
-Big Time - Astra
-Big Wheel - JPM
-Black And White - Barcrest Dutch
-Black And White Special - Barcrest
-Black Bull - Barcrest Dutch
-Black Cherry - JPM Dutch
-Black Gold - Gemini
-Black Hole - BFM
-Black Jack - Barcrest Dutch
-Black Jack Club - Barcrest Dutch
-Black Jack Super Multi - Barcrest German
-Blackjack 4 - Barcrest
-Blackjack 480 - Barcrest
-Blasta Bank - Barcrest
-Blazing Trails - MDM
-Bling King Crazy - Barcrest
-Blue Diamond - Barcrest Dutch
-Blue Double Chip - PCP
-Blue Moon - Barcrest
-Blue Streak - PCP
-Bobby Dazzler - Mazooma
-Bobby Dazzler 25 - Mazooma
-Bobby Dazzler 35 - Mazooma
-Bobby Dazzler 8 - Mazooma
-Body Match - MDM
-Bolt From The Blue - DJE
-Bonanza - Eurocoin Dutch
-Bonanza 10 - JPM
-Bonanza 6 - JPM
-Bonanza 8 - JPM
-Bonkers - Red
-Boulder Dash 15 - Barcrest
-Boulderdash - Barcrest
-Bouncer - JPM
-Brainwaves - Barcrest
-Break The Bank - Red
-Brix - Mazooma German
-Bronze Voyage - BWB
-Bronze Voyage 2 - BWB
-Brooklyn - Barcrest Czech
-Bubble And Squeak - Extreme
-Buccaneer - BWB
-Buccaneer 10 - Barcrest
-Buccaneer 15 - Barcrest
-Bullion Bars - Astra
-Bullion Run - Electrocoin
-Bulls Eye - Associated Leisure
-Bullseye - Pound For Points - BFG
-Bullseye - Project
-Bullseye Pounds For Points - Mazooma
-Bully For You - Barcrest
-Bullys Jackpot - Project
-Bullys Prize Board - BFG
-Bullys Prize Board 25 - BFG
-Bullys Star Prize - BFG
-Bullys Star Prize 35 - BFG
-Bunny Money - Mazooma
-Bust Out - Maygay
-Butch Cassidy And The Sundance Quid - BFG
-Cabin Fever - Mazooma
-Cabin Fever 35 - Mazooma
-Caesars Palace - Ace
-Cakewalk - Union
-Calypso - BFM Dutch
-Camelot - JPM
-Cannonball Run - Empire
-Cannonball Run - Global
-Captain Cash - QPS
-Captain Scarlet - Ace
-Card Cash - Barcrest
-Card Shark - Vivid
-Caribbean Cash - Mazooma
-Caribbean Cash - QPS
-Carousel - Empire
-Carry On Joker - Barcrest
-Carry On Screaming - Maygay
-Cash Adder - QPS
-Cash Ahoy - BFG
-Cash Ahoy - Impulse
-Cash Ahoy 5 - BFM
-Cash Ahoy 5 - Impulse
-Cash Alarm - PCP
-Cash And Mouse - QPS
-Cash Arena - Barcrest
-Cash Attack - Barcrest
-Cash Attack 2 - Barcrest
-Cash Attack 35 - Barcrest
-Cash Attack 70 - Barcrest
-Cash Attraction - BFM
-Cash Bang Wallop - Barcrest
-Cash Bowl - Ace
-Cash Breaker - JPM Dutch
-Cash Buster - JPM
-Cash Card - BFM
-Cash Card - BFM Dutch
-Cash Cards - PCP
-Cash Connect - Barcrest
-Cash Cops - Coinworld German
-Cash Countdown - JPM Czech
-Cash Counter - Barcrest
-Cash Crusaders - Reflex
-Cash Dash - PCP
-Cash Encounters - Reflex
-Cash Exploder - Blueprint
-Cash Explorer - Reflex
-Cash Explosion - BFM
-Cash Explosion - BFM Dutch
-Cash Explosion - Mazooma
-Cash Explosion 480 - BFM
-Cash Falls - JPM
-Cash Gordon - Maygay
-Cash Is King - Maygay
-Cash Lab - QPS
-Cash Lab 5 -  QPS
-Cash Lines - Barcrest
-Cash Lines - BFM
-Cash Lines 15 - Barcrest
-Cash Machine - Barcrest
-Cash Matrix - Barcrest
-Cash N Burn - QPS
-Cash N Burn 5 - QPS
-Cash N Fruit - BFM
-Cash On The Lash - Mazooma
-Cash Or Bust 35 - Red
-Cash Or Bust 70 - Red
-Cash Or Nudge - Maygay
-Cash Raider - Ace
-Cash Raker - QPS
-Cash Rolls - JPM
-Cash Run - Barcrest
-Cash Smash - PCP
-Cash Strike - Empire
-Cash Towers - Ace
-Cash Vegas Strip - JPM
-Cash Wheel - Maygay Dutch
-Cash Wise - BFM
-Cash Zone - Barcrest
-Cash-Filla - PCP
-Cashablanca - PCP
-Cashanova - Mazooma
-Cashanova - Mazooma German
-Cashanova 15 - Mazooma
-Cashino - BFM Dutch
-Cashino - PCP
-Casino 5 Liner - JPM
-Casino Crazy - JPM
-Casino Crazy 15 - JPM
-Casino Joker - Barcrest Dutch
-Casino Las Vegas - JPM
-Cat N Mouse - BFM
-Caveman Cash - Reflex
-Celebration 15 - Astra
-Ceptor - Barcrest Dutch
-Chain Reaction - Maygay
-Chain Reaction 2 - BFM
-Chain Reaction 4 - BFM
-Championship Soccer - BWB
-Chances Unlimited - Barcrest
-Chase Invaders - Barcrest
-Chase It - BWB
-Chase The Ace - Empire
-Chav It - BFG
-Chavvy Chase - Mazooma
-Chequered Flag - Global
-CherryO - Barcrest Dutch
-Circle Skill - Barcrest
-Circus - JPM
-Classic Sevens - Mazooma
-Classic Slot - Astra
-Clickity Click - JPM
-Clickity Click - QPS
-Cliffhanger - Vivid
-Clockwork Oranges - Empire
-Cloud 999 - Barcrest
-Cloud 999 2 - Barcrest
-Clown In Around - BWB
-Club 2001 - BFM Dutch
-Club 65 Special - BFM
-Club Ace Of Clubs - Empire
-Club Action - Barcrest
-Club Adders N Ladders - Barcrest
-Club All In A Days Work - Global
-Club Andys Big Time - Barcrest
-Club Around The Board In 40 Days - Mazooma
-Club Around The World - Crystal
-Club Attraction - BFM
-Club Bank Roller - Barcrest
-Club Banker - JPM
-Club Bankety Bank - QPS
-Club Bedazzled - Mazooma
-Club Best Of British - Reflex
-Club Big Break - Ace
-Club Big Brother - Barcrest
-Club Big Deal - Barcrest
-Club Big Money - JPM
-Club Big Nite Out - Crystal
-Club Big Top - JPM
-Club Big Top 250 - JPM
-Club Big Top 500 - JPM
-Club Blackjack - Barcrest
-Club Blackjack - Global
-Club Bobby Dazzler - Mazooma
-Club Booze Cruise - Extreme
-Club Bucks Fizz - Barcrest
-Club Bullion - Crystal
-Club Bullseye - BFG
-Club Cabaret 50 - Barcrest
-Club Caesars Palace - Crystal
-Club Calamari - Barcrest
-Club California - Barcrest
-Club Cannonball Run - Global
-Club Card Shark - Vivid
-Club Caribbean - Barcrest
-Club Casablanca - JPM
-Club Cash Adder - QPS
-Club Cash Bazaar - BFM
-Club Cash Bonus - JPM
-Club Cash Box - Empire
-Club Cash Crusaders - Reflex
-Club Cash Encounters - Reflex
-Club Cash Of The Titans - Empire
-Club Cashino - BFM
-Club Cashlvania - QPS
-Club Cashraker - QPS
-Club Celebration - Barcrest
-Club Celebration - Global
-Club Centurion - Empire
-Club Chinatown - BFM
-Club Class - BFM
-Club Classic - Barcrest
-Club Classic Casino Crazy - Crystal
-Club Classic Casino Crazy - JPM
-Club Classic Casino Crazy 1000 - JPM
-Club Classic Casino Crazy 250 - Crystal
-Club Climber - Barcrest
-Club Clockwise - BFM
-Club Clockwork Oranges - Empire
-Club Cloud 999 - Barcrest
-Club Cluedo - JPM
-Club Cluedo - Mazooma
-Club Connect - Barcrest
-Club Cool Jewels - BFG
-Club Cops N Robbers - BFM
-Club Cops N Robbers 100 - BFM
-Club Cops N Robbers 150 - BFM
-Club Cops N Robbers 250 - BFM
-Club Cops N Robbers 500 - Mazooma
-Club Cops N Robbers 75 - BFM
-Club Cops N Robbers Gold - BFG
-Club Cops N Robbers Platinum - BFM
-Club Cops N Robbers Smash N Grab - BFG
-Club Coronation Street - Maygay
-Club Coronation Street - Mazooma
-Club Costa Del Cash - Barcrest
-Club Count Cash - BFM
-Club Crackpot - Barcrest
-Club Crazy - JPM
-Club Crazy Fruits - BFM
-Club Criss Cross - Maygay Dutch
-Club Crown Jewels - Barcrest
-Club Disco Crazy - Games Media
-Club DOND - BFG
-Club DOND - Can You Beat The Banker - BFG
-Club DOND - Casino - Mazooma
-Club DOND - The Red Mist - BFM
-Club Double - Barcrest
-Club Double Agent - Reflex
-Club Driving School - Global
-Club Driving School 200 - Global
-Club Dungeons N Drag Queens - Global
-Club El Bandido - Vivid
-Club Explosion - BFM
-Club Fairground Attraction - JPM
-Club Fairground Attraction 100200 - JPM
-Club Fast Fruits - QPS
-Club Fiddle A Fortune - Reflex
-Club Fire Cracker - BFM
-Club Fire Cracker - JPM
-Club Flamin 400 - Reflex
-Club Fortune - Barcrest
-Club Fortune - Reflex
-Club Frame And Fortune - Crystal
-Club Frame And Fortune 200 - Crystal
-Club Frame And Fortune 250 - Crystal
-Club Frenzy - Barcrest
-Club Fruit Full - Barcrest
-Club Fruit Link - Barcrest
-Club Funhouse - BFM
-Club Give Us A Break - JPM
-Club Gladiator - JPM
-Club Gladiator - QPS
-Club Go For Gold - Barcrest
-Club Gold Digger - BFM
-Club Golden Casino - BFM
-Club Golden Dragon - Barcrest
-Club Golden Grid - QPS
-Club Golden Grid 50 - QPS
-Club Golden Nugget - Voodoo
-Club Golden Winner - Mazooma
-Club Grand Slam - BFM
-Club Grandstand - Barcrest
-Club Hang Over
-Club Happy Fruits - BFM
-Club Haunted House - Maygay
-Club Hey Big Spender - Global
-Club Hi Lo Climber - Crystal
-Club Hi Roller - JPM
-Club Hi-Tension - Maygay
-Club Hit The Dracpot - Reflex
-Club Hot Dogs - Crystal
-Club Hot Shots - Reflex
-Club Hot Six - BFG
-Club Instant Millionaire - Maygay
-Club Jackpot Jump - Barcrest
-Club Juicy Jackpots - BFM
-Club King Cobra - Empire
-Club King Of The Swingers - Global
-Club Kings And Queens - Empire
-Club Knight - Red
-Club Kung Fu - Crystal
-Club Lady Luck Double Take - Reflex
-Club Lady Luck Pots Of Gold - Reflex
-Club Lady Luck Whats In The Pot - Reflex
-Club Larrys Stake X - Leisurama
-Club Lets Get Jackpotted - Reflex
-Club Little Devil - Mazooma
-Club Lock N Load - Red
-Club Lockbuster - BFG
-Club Lucky Streak - Red
-Club Lucky Strike - Barcrest
-Club Lucky Strike 2 - Barcrest
-Club Magic Circle - JPM
-Club Make A Million - BFM
-Club Mike Reids Big Night Out - Maygay
-Club Money - Ace
-Club Money To Burn - BFG
-Club Monopoly - Coronation Street - Maygay
-Club Monopoly - Maygay
-Club Monopoly 100 - Maygay
-Club Monopoly 125 - Maygay
-Club Monopoly 200 - Maygay
-Club Monopoly 75 - Maygay
-Club Monopoly Dual Stake 100200 - Maygay
-Club Monopoly Money Bags - Mazooma
-Club Monopoly Wonders Of The World - Mazooma
-Club Monster Cash - Crystal
-Club Monte Carlo - BFM
-Club Monte Carlo Or Bust - Mazooma
-Club Monte Carlo Or Bust 250 - Mazooma
-Club Monty Python - Barcrest
-Club Movie Magic - Crystal
-Club Multiplay - Barcrest
-Club Nightspot - Barcrest
-Club Nite Club - JPM
-Club Nudger - JPM
-Club Ooh Aah Dracula - Barcrest
-Club Outlaw - JPM
-Club Pacman - Mazooma
-Club Pharaohs Gold - BFG
-Club Pharaohs Gold Classic - BFG
-Club Pick Of The Pack - BFM
-Club Pink Panther - Maygay
-Club Pink Panther - QPS
-Club Pink Panther Video - QPS
-Club Plumb Crazy - QPS
-Club Pole Position - Reflex
-Club Pontoon - Barcrest
-Club Pontoon - Global
-Club Pot Luck - Barcrest
-Club Pots Of Gold - BFG
-Club Premier - BFM
-Club Premier Manager - BFM
-Club Psycho Cash Beast - Barcrest
-Club Public Enemy - BFM
-Club Public Enemy 400 - Reflex
-Club Public Enemy No 1 - BFG
-Club Public Enemy No1 200 - BFM
-Club Public Enemy No1 75 - BFM
-Club Pyramid - JPM
-Club Raiders Of The Lost Tenners - Reflex
-Club Rameses Riches - Crystal
-Club Random Spinner - BFG
-Club Random Winner - BFM
-Club Razzle Dazzle - Barcrest
-Club Red Alert - JPM
-Club Red Dragon - QPS
-Club Red Hot 6 - JPM
-Club Red Hot Roll - Barcrest
-Club Red Hot X - Mazooma
-Club Reel Bingo - JPM
-Club Reel Bonus - JPM
-Club Reel Cash - QPS
-Club Replay - Barcrest
-Club Rio Grande - Barcrest
-Club Road Hog - Barcrest
-Club Road Hog - BFM
-Club Road To Riches - Mazooma
-Club Rocky - Barcrest
-Club Roller Coaster - JPM
-Club Roller Coaster 250 - JPM
-Club Rolling Thunder - Mazooma
-Club Ronnie O Sullivan - BFG
-Club Royal Exchange - Barcrest
-Club Royal Exchange 2 - Barcrest
-Club Royal Flush - JPM
-Club Run For Your Money - Barcrest
-Club Safe Cracker - MDM
-Club Sandwich - BWB
-Club Shuffle - Barcrest
-Club Skullduggery - Empire
-Club Snakes And Ladders - BFM 250
-Club Snakes N Ladders - BFG
-Club Solid Silver - Barcrest
-Club Spectrum - Vivid
-Club Spotted Dick - Global
-Club Stake Up - Barcrest
-Club Star Wars A New Hope - Barcrest
-Club Suits U Sir - QPS
-Club Super 6 - BFG
-Club Super Blackjack - Barcrest
-Club Super Series - Barcrest
-Club Super Slam - BFG
-Club Supreme - Ace
-Club Sweepstake - Barcrest
-Club Swop A Fruit - JPM
-Club Take Note - BFM
-Club Take Note 250 - BFM
-Club Take Your Pick - Barcrest
-Club Temple Of Treasure - Barcrest
-Club Temptation - BFM
-Club The Baker Street - Maygay
-Club The Flintstones Viva Rock Vegas - JPM
-Club The Game Show - BFM
-Club The Italian Job - Mazooma
-Club The Lord Of The Rings The Two Towers - BFM
-Club The Weakest Leek - Global
-Club Thunderbirds - JPM
-Club Tornado - BFM
-Club Trail Blazer - Barcrest
-Club Trail Blazer - JPM
-Club Treble Top - Reflex
-Club Trick Shot - BFG
-Club Trivial Pursuit - Maygay
-Club Tropicana - Barcrest
-Club Tutti Frutti - BFM
-Club Typhoon - BFM
-Club Utter Nutter - Global
-Club Vegas - Barcrest
-Club Vegas - JPM
-Club Very Rich Geezer - BFM
-Club Viva Mexico - BFG
-Club Wacky Weekend - Global
-Club Wall Street - JPM
-Club Whats Up Doc - Global
-Club Whats Up Doc 2 - Global
-Club Who Wants To Be A Legionnaire - BFG
-Club Wild Thing - Empire
-Club Wild West - BFM
-Club Wise - BFM
-Club Wise 100 - BFM
-Club X - Barcrest
-Club Xtra - Ace
-Cluedo - Mazooma
-Cluedo - The Usual Suspects 35 - Mazooma
-Cluedo - The Usual Suspects 70 - Mazooma
-Cluedo 2 - Mazooma
-Cluedo 6 - Maygay
-Cluedo 70 - Mazooma
-Cluedo 8 - Maygay
-Cluedo Casino 25 - Mazooma
-Cluedo Super Sleuth - QPS
-Cluedo Super Sleuth 10 - Maygay
-Cluedo Super Sleuth 5 - Maygay
-Cluedo Super Sleuth 8 - Maygay
-Cock A Doodle Dough - Empire
-Coliseum - MDM
-Coliseum Cash - JPM
-Colossus - BFM Dutch
-Colossus - MDM
-Colour Of Money Casino - Astra
-Connect 4 - Dolbeck Systems
-Cool Jewels - BFM
-Cool Million - Project
-Cop The Lot - BFM
-Copper Loada This - Red
-Copper Run - JPM
-Copper Run 150 - JPM
-Copper Win - JPM
-Cops N Robbers - BFG
-Cops N Robbers - QPS
-Cops N Robbers - Streetwise - BFG
-Cops N Robbers 10 - BFM
-Cops N Robbers 2 - BFM
-Cops N Robbers 480 - BFM
-Cops N Robbers 6 - BFM
-Cops N Robbers 6D - BFM
-Cops N Robbers 70 - BFG
-Cops N Robbers 8 - BFM
-Cops N Robbers Deluxe - BFM Dutch
-Cops N Robbers Safecracker - BFG
-Cops N Robbers Safecracker - Mazooma
-Cops N Robbers Safecracker 2 - BFG
-Copy Cat - BWB
-Corn Of The Dead - Betcom
-Coronation Street - Maygay
-Coronation Street - Mazooma
-Coronation Street Rovers Return - Mazooma
-Coronation Street Rovers Return 10 - Maygay
-Coronation Street Rovers Return 8 - Maygay
-Cosmic Casino - BWB
-Count Down - BFM
-Count Yer Cash - Mazooma
-Cracker - JPM
-Crazy Bingo - Maygay
-Crazy Capers - Empire
-Crazy Climber Casino - BFM
-Crazy Cobra - Red
-Crazy Crazy Knights - Barcrest
-Crazy Crocs - MDM
-Crazy Fruits - BFM German
-Crazy Fruits Casino 10 - BFG
-Crazy Fruits Casino 25 - BFG
-Crazy Fruits Casino Gold 25 - BFG
-Crazy Fruits Casino Gold 5 - BFG
-Crazy Fruits Casino Red - BFM
-Crazy Fruits Casino Red 25 - BFM
-Crazy Fruits Classic - BFG
-Crazy Fruits Down Under - BFM
-Crazy Fruits Green - QPS
-Crazy Fruits Green 5 - QPS
-Crazy Fruits Red - BFM
-Crazy Joker - Barcrest Swiss
-Crazy Keys - Casino - BFG
-Crazy Keys 15 - Casino - BFG
-Crazy Money - BFG
-Crazy Pays - Project
-Crazy Pays 10 - Project
-Crazy Pays 15 - Project
-Criss Cross Cash - Ace
-Criss Cross Cash - Mazooma
-Criss Cross Crazy - BFG Dutch
-Criss Cross Crazy - Coinworld
-Criss Cross Jackpot - PCP
-Critical Mass - Red
-Crocodile Rock - Empire
-Crossfire - Empire
-Crossfire - JPM Czech
-Crown Dealer - JPM
-Crown Jester - Electrocoin
-Crown Jewels - BFG
-Crown Jewels - QPS
-Crown Jewels 5 - BFG
-Cyber Casino - BWB German
-D.N.A. - Red
-Dance With The Devil - Concept Games
-Danger Zone3 - Crystal
-Danger Zone6 - Crystal
-Daylight Robbery - BFG
-Daylight Robbery 10 - BFG
-Daylight Robbery 8 - BFG
-Daytona Classic - JPM Dutch
-Deal Or No Deal - Play The Game
-Dels Millions - BFM
-Demon Jokers - JPM Czech
-Demon Streak - Red
-Dennis The Menace - Barcrest
-Dennis The Menace 10 - Barcrest
-Devil Of A Deal - QPS
-Devil Of A Deal - Vivid
-Diamond Geezer - JPM
-Diamond Hearts - Maygay Dutch
-Diamond Mine - BFM
-Diamonds Are Forever - Empire
-Dick Turnip - BWB
-Ding Dong Bells - BGT
-Disco Inferno - Mazooma
-Discovery - BFM Dutch
-Do You Feel Lucky - JPM
-Doctor Dosh - BFG
-Doctors N Nurses - Extreme
-DOND - Bank On It - BFM
-DOND - Bankers Bonus - BFG
-DOND - Box Clever - BFG
-DOND - Break The Bank - BFG
-DOND - Can You Beat The Banker - BFG
-DOND - Can You Beat The Banker 35 - BFG
-DOND - Casino - BFG
-DOND - Casino Video - BFG
-DOND - Classic 5 - BFG
-DOND - Cops And Robbers - BFM
-DOND - Deal Wheel - BFG
-DOND - Desert Island Deal - BFG
-DOND - Diamond - BFM
-DOND - Double - BFG
-DOND - Double Take - BFG
-DOND - East And West Wing - BFG
-DOND - Eliminator - BFG
-DOND - Feeling Lucky - BFG
-DOND - Game On - BFG
-DOND - Go All The Way - BFG
-DOND - Gold - BFG
-DOND - Golden Game - BFG
-DOND - Hall Of Fame - BFG
-DOND - Lets Play - BFG
-DOND - Live - BFG
-DOND - Make Or Break - BFG
-DOND - Make Or Break 100 - BFG
-DOND - Mega - BFG
-DOND - Play It Again - BFG
-DOND - Rapid Round - BFG
-DOND - Red Hot - BFG
-DOND - Red Hot 100 - BFG
-DOND - Right Deal Right Time - BFG
-DOND - Seal The Deal - BFG
-DOND - Skill - QPS
-DOND - Spank The Banker - BFM
-DOND - The Banker Rings Twice - BFG
-DOND - The Big Deal - BFG
-DOND - The Big Reds 35 - BFG
-DOND - The Big Reds 5 - BFG
-DOND - The Big Reds 70 - BFG
-DOND - The Crazy Chair - BFG
-DOND - The Dream Factory - BFG
-DOND - The Perfect Deal - BFG
-DOND - The Perfect Game - BFG
-DOND - The Power Five - BFG
-DOND - The Red Mist - BFG
-DOND - The Walk Of Wealth - BFG
-DOND - The Walk Of Wealth 1 - BFG
-DOND - Think Big 5 - BFG
-DOND - Think Big 70 - BFG
-DOND - Think Red - BFG
-DOND - Whats In Your Box - BFG
-Dond The Red Mist Club
-Donkey Kong 10 - Maygay
-Donkey Kong 15 - Maygay
-Donkey Kong 5 - Maygay
-Donkey Kong 8 - Maygay
-Donna Kebab - BWB
-Dosh N Pecks - Barcrest
-Double 9s - Barcrest
-Double Cash - Astra
-Double Chance - BFM
-Double Crazy Reels - QPS
-Double Diamond - Haywire US
-Double Diamond - QPS
-Double Dollars - PCP
-Double Dragon - Empire
-Double Frenzy - QPS
-Double Impact - Impulse
-Double Jackpot - Astra
-Double Or Quits - BWB
-Double Top - JPM
-Double Up - Barcrest
-Dough N Arrow - QPS
-Dr Jekyll & Mr Hyde
-Dr Jekyll N Mr Hyde - Vivid
-Dr Who The Timelord - BFM
-Dracula - Barcrest German
-Dragon - Barcrest German
-Dragon Soup - Red
-Drop The Lot - JPM
-Dungeons N Drag Queens - Global
-Duty Free - Barcrest
-Duty Free 10 - Barcrest
-Each Way Nudge - Barcrest
-Each Way Nudger MK2 - JPM
-Each Way Nudger MK3 - JPM
-Each Way Shifter - MDM
-Each Way Shuffle Deluxe - JPM
-Each Way Shuffle MK2 - JPM
-Each Way Shuffle Super - JPM
-EastEnders - Maygay
-Eastenders 10 - Maygay
-Eastenders Albert Square - Maygay
-Eastenders Prize - Maygay
-Eastenders Red - Maygay
-Eastenders The Queen Vic - Maygay
-Eastern Promise - Reflex
-Easy Money - BFM
-Easy Streak - BFG
-Egyptian Gold - Vivid
-Eighth Wonder - BWB
-Eliminator - Barcrest
-Elvis Gold Rush - Barcrest
-Elvis Gold Rush Classic - Barcrest
-Elvis Red Hot Roll Classic - Barcrest
-Elvis Super Streak Classic - Barcrest
-Emmerdale - Ace
-Emmerdale - Mazooma
-Empire - Barcrest Dutch
-Euphoria - Ace
-Euphoria - Ace - 15
-Euphoria - Ace 5
-Eureka - Empire
-Everyones A Winner - Barcrest
-Evolution - QPS
-Excalibur - BWB German
-Excalibur - MDM
-Excalibur - MDM - 5 5
-Excalibur - MDM 10 8
-Excalibur - MDM 20 5
-Excalibur - MDM 5 15
-Excellence - JPM Dutch
-Exchanges Galore - Barcrest
-Exchanges Unlimited - Barcrest
-Exchanges Unlimited - Empire
-Express - Barcrest Dutch
-Extra Game - Barcrest Czech
-Extreme - Empire
-Extreme Madness - Empire
-Fairground - Crystal
-Fairground - JPM
-Fairground 6 - JPM
-Family Guy - BFG
-Family Guy - BFM
-Fantasy Football - Maygay
-Fast Forward - Barcrest
-Fast Fruit - QPS
-Fast Fruit 25 - QPS
-Fast Trak - JPM
-Fast-Trak - JPM
-Fever - BFG
-Fever - BFM Dutch
-Fever The Next - BFM Dutch
-Fiddle A Fortune - Reflex
-Fight Night - Maygay
-Final Frontier - MDM
-Final Frontier 5 - MDM
-Fire Cracker - BFM
-Fireball - Barcrest
-Fireball - JPM
-Fireball - MDM
-Firecracker - JPM
-First Class - Barcrest Dutch
-Five Alive - JPM
-Five Liner - JPM
-Five Liner 4 - JPM
-Five Star - Maygay Dutch
-Fivepenny Nudger - MDM
-Flash - BFM Dutch
-Flash Cash - Barcrest
-Flash The Cash - Mazooma
-Flash The Cash - Project
-Flashback - BFM
-Football Fever - Empire
-Force Five - BFM
-Fort Boyard - Barcrest
-Fortune N Glory - Impulse
-Fortune N Glory 5 - Impulse
-Fortune Numbers - Barcrest Dutch
-Fortune Numbers Deluxe - Barcrest
-Fortune Trail - JPM
-Fortune Wheel - BFM
-Fortune Wheel - Project
-Four More - BWB
-Frank N Stein - Crystal
-Frankie Dettori - BFG
-Frenzy - Barcrest
-Fright Night - Empire
-Frog Hop - JPM
-Fruit Bingo - Delta Dutch
-Fruit Chaser - JPM
-Fruit Cracker - PCP
-Fruit Drop - Union
-Fruit Explosion - Maygay
-Fruit Explosion 15 - Maygay
-Fruit Frenzy - BFM
-Fruit Game - Barcrest Dutch
-Fruit Lines - BFM Dutch
-Fruit Magic - JPM Dutch
-Fruit N Loot - Barcrest
-Fruit Preserve - Barcrest
-Fruit Snappa - JPM
-Fruit Swop - BWB
-Fruitopia - QPS
-Fruits And Suits - BFM
-Fruits And Suits 15 - BFM
-Full House - Empire
-Full Metal Jackpot - QPS
-Full Moon Fever - Impulse
-Full Moon Fever 5 - Impulse
-Full Of Beans - Empire
-Full Throttle - QPS
-Fun In The Sun - Barcrest
-Funfair - Red
-Funny Money - Impulse
-G-Force - JPM
-Galaxy - BFM
-Galloping Jackpots - Reflex
-Game Of Fortune - Astra German
-Game Of Gnomes - Reflex
-Games Bond - Barcrest
-Geronimo 15 - Impulse
-Geronimo 25 - Impulse
-Geronimo 5 - Impulse
-Gettin Ziggy With It - Mazooma
-Ghost Buster - BWB
-Ghost Train - Empire
-Ghost Train 5 - Empire
-Ghostbuster - JPM
-Giant Gems - Vivid
-Gimme Gimme Gimme - Barcrest
-Give Us A Break - JPM
-Gladiators - Maygay
-Globe Trotter - Ace
-Go Bananas - Union
-Go For Gold - Ace
-Go For Gold - JPM
-Go For Gold - Project
-Gold Digger - BFG
-Gold Diggers - QPS
-Gold Fever - Empire
-Gold Mine - BFM
-Gold Mine - BWB
-Gold Mine - Empire
-Gold Reserve - MDM
-Gold Rush 10 5 - Barcrest
-Gold Rush 30 5 - Barcrest
-Gold Rush 5 Line - Barcrest
-Gold Strike - Barcrest
-Gold Strike 3 - Barcrest
-Golden 10 - Maygay German
-Golden 2s - CTL
-Golden Award - Barcrest
-Golden Balls - BFM
-Golden Crowns - MDM
-Golden Day - JPM Dutch
-Golden Dragon - Barcrest
-Golden Gate - Barcrest Dutch
-Golden Ghost - JPM
-Golden Goal - JPM
-Golden Grid - QPS
-Golden Keys - Barcrest
-Golden Oldie - Mazooma
-Golden Steppa - JPM
-Golden Streak - JPM Dutch
-Golden Winner - BFG
-Golden X - Mazooma
-Golden X 10 - Mazooma
-Goldenwin - JPM Dutch
-Goldrun - JPM Dutch
-Good Vibrations - Empire
-Graffiti - Barcrest
-Graffiti - Barcrest Dutch
-Grand Prix - Ace
-Grand Prix - BFM Dutch
-Grandmaster Cash - Betcom
-Grease - QPS
-Gridrunner - Global
-Gunsmoke - Barcrest Dutch
-Hagar The Horrible - JPM
-Happy Campers - Extreme
-Happy Fruits - BFG
-Happy Go Lucky - BWB
-Happy Hour - QPS
-Happy Notes - BFM
-Happy Notes - Casino - BFM
-Happy Streak - Coinworld
-Haunted House - Empire
-Haunted House 10 10 - Empire
-Haunted House 10 15 - Empire
-Haunted House 10 5 - Empire
-Haunted House 10 8 - Empire
-Haunted House 25 10 - Empire
-Haunted House 25 15 - Empire
-Haunted House 25 5 - Empire
-Haunted House 25 8 - Empire
-Haunted House 5 10 - Empire
-Haunted House 5 15 - Empire
-Haunted House 5 5 - Empire
-Haunted House 5 8 - Empire
-Heatwave - BFM Dutch
-Heaven N Hell - BWB
-Hellraiser - Barcrest
-Hellraiser - BFM Dutch
-Hells Bells - BFG
-Hi De Hi - Ace
-Hi Flyer - Crystal
-Hi Ho Silver - JPM
-Hi Jinx - Barcrest
-Hi Karate - Crystal
-Hi Lights - Barcrest
-Hi Lo Karate - Vivid
-Hi Lo Silver - Crystal
-Hi Lo Silver - Red
-Hi Lo Sumo - Barcrest
-Hi Note - JPM
-Hi Roller - BFG
-Hi Roller - JPM
-Hi Roller 2 - JPM
-Hi Stakes - QPS
-High Flyer - Barcrest
-High Flyer - MDM
-High N Mighty - Mazooma
-High Point - BFM
-High Rise - Barcrest
-High Roller - Barcrest Dutch
-High Roller - JPM Dutch
-High Roller - QPS
-High Spirits - Empire
-High Voltage - Impulse
-High Voltage 25 - Impulse
-High Voltage 5 - Impulse
-Hill Billionaire - BFG
-Hilo Wotha - BFG
-Hissing Quid - QPS
-Hit Money - PCP
-Hit Shot - BFG
-Hit The Dracpot - Reflex
-Hit The Six - Project
-Hit The Six 480 - Project
-Hit The Six 8 - Project
-Hit The Top - Barcrest
-Holdtimer - Barcrest Dutch
-Hollywood - BFG
-Hollywood - BWB
-Holy Moley - Red
-Holy Smoke - Impulse
-Honey Money - Vivid
-Hop Idol - Vivid
-Horn Of Plenty - Barcrest
-Horn Of Plenty - Reflex
-Hot Cash - Empire
-Hot Cash 8 - Empire
-Hot Dogs - JPM
-Hot Pot - JPM
-Hot Pots - Maygay
-Hot Profit - Ace
-Hot Property - BFG
-Hot Rocks - Barcrest
-Hot Rod - Barcrest
-Hot Shot - Ace
-Hot Shot - BFM
-Hot Shot 15 - Ace
-Hot Shot 25 - Ace
-Hot Shots - Reflex
-Hot Slot - Bacrest
-Hot Spots - Project
-Hot Stuff - Barcrest
-How Bigs Your Rock - Global
-Hula Moolah - Empire
-Hulk - BFG
-Hurricane - Global
-Hypalinx - Red
-Hyper Games - Mazooma
-Hyper Note - JPM
-Hyper Viper - Barcrest
-Hyper Viper 2 - Barcrest
-Hyper Viper 25 - Barcrest
-Hyper Viper 5 - Barcrest
-Hyper Viper Super - Barcrest
-Hysteria - Impulse
-Ice Burger - Maygay
-Im A Celebrity - BFG
-Im A Celebrity 5 - BFG
-Impulse - JPM
-In For A Penny - PCP
-IncaDinkaDo - Extreme
-Indiana Jones - JPM
-Indiana Jones - JPM German
-Indiana Jones And The Kingdom Of The Crystal Skull - Red
-Indiana Jones Raiders Of The Lost Ark - Red
-Inferno - Maygay
-Infinity - Vivid
-Instant Jackpots - BFM
-Instant Replay - Barcrest
-Instant Win - Maygay
-Interceptor - Barcrest
-Intrigue - JPM
-Invaders - Red
-Invincible - Red
-Its A Knockout - Maygay
-Its Amazing - Barcrest
-Jack In The Box - Empire
-Jack Potter - Voodoo
-Jack The Kipper - Mazooma
-Jackpot 7s - Project
-Jackpot 7s Classic - Project
-Jackpot And The Beanstreak - Extreme
-Jackpot Bars - JPM
-Jackpot Dice - JPM Dutch
-Jackpot Gems - Barcrest
-Jackpot Genie - Red
-Jackpot Genie 25 - Red
-Jackpot Island - Reflex
-Jackpot Jokers - BWB
-Jackpot Jokers - BWB German
-Jackpot Junction - BFM
-Jackpot X - Astra
-Jackpots That Rock N Roll - Global
-Jail Birds - Extreme
-Jet Stream - Maygay
-Jewel In The Crown - Barcrest
-Jewel Strike - Red
-Jiggery Pokery - Mazooma German
-Jiggin In The Riggin - Global
-Jiggin In The Riggin 15 - Global
-John Francombes Winners Enclosure - Maygay
-Jokers - JPM Dutch
-Jokers Gold - JPM Czech
-Jokers Gold - JPM German
-Jokers Wild - JPM Dutch
-Jokers Wild - Project
-Jolly Gems - Barcrest
-Jolly Gems 15 - Barcrest
-Jolly Jewels - Bacrest
-Jolly Joker - Barcrest
-Jolly Joker - Barcrest Dutch
-Jolly Roger - Extreme
-Jolly Taverner - Barcrest
-Jugglin Jackpots - Betcom
-Juicy Fruits - Empire
-Jumpin Jack Cash - Mazooma
-Jumping Gems - Empire
-Jumping Jack Flash - BFM
-Jumping Jack Flash 8 - BFM
-Jumping Jacks - Project
-Jumping Jokers - Vivid
-Jungle Jackpots - QPS
-Jungle Jive - Astra
-Just The Ticket - Maygay
-Kameleon - JPM Dutch
-Kapang - Crystal
-King Cash - Astra
-King Cash - Empire
-King Cash 10 - Astra
-King Kebab - Barcrest
-King Kebab 25 - Barcrest
-King Kerching - Maygay
-King KO - Bacrest
-King Kong Cash - Mazooma
-Kings N Queens - BWB
-Kings N Queens 2 - BWB
-Korma Chameleon - Empire
-Kung Fu - Whitbread
-L Of A Day - Project
-Labyrinth - Electrcoin
-Lady Luck - Band Of Gold - Reflex
-Lady Luck Top O The Jackpots - Reflex
-Las Vegas - BFM Dutch
-Las Vegas Strip - Barcrest
-Las Vegas Strip 10 - Barcrest
-Las Vegas Strip 8 20 - Barcrest
-Lazy Bones - BWB
-Legal Tender - Red
-Let The Good Times Roll - Barcrest
-Lets Get Jackpotted - Reflex
-Lets Play Darts - Electrocoin
-Lets Play Darts 35 - Electrocoin
-Liberty - Barcrest Dutch
-Lifes A Beach - Red
-Lights Camera Action - Global
-Line Dancer - Mazooma
-Line Dancer - Mazooma 25
-Line Dancer - Mazooma 5
-Line Up 4 - BWB
-Line Up Blue - Barcrest
-Line Up Blue 2 - Barcrest
-Line Up Classic - BWB
-Line Up Super Anniversary Edition - Red
-Linx - BFM
-Lite A Nudge - JPM
-Lite A Nudge 2 - JPM
-Lite A Nudge Mk 3 - JPM
-Little Devil - PCP
-Loads A Money - Barcrest
-Lock N Load - Red
-Lockbuster - BFM
-London Underground - Maygay
-Loop The Loot - QPS
-Loot N Khamun - Vivid
-Lootshoot - JPM
-Looty Call - Blueprint
-Lotta Luck - Barcrest
-Lotty Time - Union
-Lucky 2s - JPM
-Lucky 2s - JPM2
-Lucky Arrows - JPM
-Lucky Balls - BFM
-Lucky Devil - Barcrest Dutch
-Lucky Lady - BWB
-Lucky Las Vegas - Barcrest
-Lucky Lotto - Barcrest
-Lucky Strike - Barcrest
-Lucky Strike 2 - Barcrest
-Luvvly Jubbly - BFM
-Luxor - Barcrest
-Luxor 10 - Barcrest
-Mad House - Barcrest
-Mad House 10 - Barcrest
-Magic 10 - Electrocoin
-Magic 7 - Electrocoin
-Magic Carpet - BWB
-Magic Liner - Barcrest Dutch
-Magic Moments - Ace
-Magic Pound About - QPS
-Magic Replay - Barcrest Dutch
-Magic Replay Deluxe - Barcrest Dutch
-Magnificent 7 - Barcrest
-Majestic Bells - BFM
-Make A Million - BFM
-Make A Million 10 - BFM
-Make A Mint - BWB
-Manhattan Skylines - Maygay
-Manhattan Skylines 240 - Maygay
-Manic Miner - BFM
-Manic Money Monster - Reflex
-Manic Streak Features - Vivid
-Mario Kart 64 - Maygay
-Match It - Crystal
-Match Of The Day - BFM
-Maverick - JPM
-Maximize - Union
-Maximum - Associated Leisure
-Maximum Overdrive - JPM
-Maximus Cash - Mazooma
-Mazooma Belle - BWB
-Medallion Job - QPS
-Meerkats In Black - Betcom
-Mega Bucks - Barcrest
-Mega Bucks - JPM
-Mega Money - Project
-Megalink - Barcrest Dutch
-Megazone - Barcrest
-Mental Money Monsters - Mazooma
-Merlins Magic - Maygay Dutch
-Miami Dice - Barcrest Dutch
-Miami Dice - BWB
-Mike Reid The Guvnor - Maygay
-Mini Max - Associated Leisure
-Mission Possible - Astra German
-Mississippi Lady - Barcrest German
-Money Belt - JPM
-Money Game - JPM
-Money Mad Martians - Bacrest
-Money Madness - QPS
-Money Money Money - Maygay
-Money Money Money 15 - Maygay
-Money Monster - Empire
-Money Spinner - Empire
-Money Talks - JPM
-Money To Burn - BFM
-Money To Burn 10 - BFM
-Money Trapper - PCP
-Monkey Business - Global
-Monkey Business 25 - Impulse
-Monkey Business 5 - Impulse
-Monopoly - 60th - JPM
-Monopoly - 60th Anniversary Edition - JPM
-Monopoly - BFM
-Monopoly - Boom Or Bust - BFG
-Monopoly - BWB
-Monopoly - Casino - Mazooma
-Monopoly - Deluxe - Maygay
-Monopoly - Double Money - BFG
-Monopoly - Gold - BFG
-Monopoly - Here And Now Edition - Mazooma
-Monopoly - Hot Property - Mazooma
-Monopoly - In A Spin - Mazooma
-Monopoly - Maygay
-Monopoly - Mazooma German
-Monopoly - Millionaire - BFG
-Monopoly - Millionaire Row - BFG
-Monopoly - Red Hot - Mazooma
-Monopoly - Red Hot 35 - Mazooma
-Monopoly - Road To Riches 35 - Mazooma
-Monopoly - Road To Riches 5 - Mazooma
-Monopoly - Takeover - BFG
-Monopoly - Wheel Of Wealth - Mazooma
-Monopoly - Win A Gain - Mazooma
-Monopoly - Wonders Of The World 25 - Mazooma
-Monopoly - Wonders Of The World 5 - Mazooma
-Monopoly Casino 25 - Mazooma
-Monopoly Casino 5 - Mazooma
-Monopoly Hot Property 35 - Mazooma
-Monopoly Wheel Of Wealth 35 - Mazooma
-Monte Carlo - Barcrest
-Monte Carlo Or Bust - BWB
-Monte Carlo Or Bust - BWB German
-Monte Carlo Or Bust - Mazooma
-Montego Pay - QPS
-Monty Python Flying Circus - Barcrest
-Monty Python Holy Grail - Barcrest
-Monty Python Rio - Barcrest
-Monty Pythons Flying Circus 10 5 - Barcrest
-Monty Pythons Flying Circus 30 5 - Barcrest
-Moon Lite - BWB
-More Money - VFS
-Mortal Wombat - Global
-Mortal Wombat 5 - Global
-Most Daunting - Extreme
-Motorway Mania - BFM
-Mouse Trap - JPM
-Mr Money Bags - Empire
-Multi Golden Game
-Multi Way - Barcrest Dutch
-Multi Win - JPM Dutch
-Mummy Talks - Impulse
-Mystery Spin - JPM
-Naughty But Nice - Barcrest
-Neon Light - Maygay
-Neptunes Treasure - Barcrest
-Neptunes Treasure 15 - Barcrest
-Never Mind The Jackpots - Mazooma
-New York New York - Maygay
-Nifty Fifty - Barcrest
-Nifty Fifty - Project
-Nitro - Red
-No Limit Nudge - MDM
-Noels House Party - Maygay
-Note Exchange - JPM
-Note Shoot - JPM
-Note Spinner - JPM
-Nudge Banker - Barcrest
-Nudge Banker - Maygay
-Nudge Bonanza - MDM
-Nudge Bonanza Deluxe - JPM
-Nudge Double Up 1 - JPM
-Nudge Double Up Deluxe - JPM
-Nudge Double Up Deluxe Mk 2 - JPM
-Nudge Double Up Deluxe Mk 3 - JPM
-Nudge Double Up Deluxe Mk 4 - JPM
-Nudge Double Up Deluxe Mk 4 3 - JPM
-Nudge Double Up Deluxe Mk2 3 - JPM
-Nudge Double Up Deluxe MkII 3 - JPM
-Nudge Fever - BWB
-Nudge Gems - MDM
-Nudge It - Mazooma
-Nudge Money - PCP
-Nudge Nudge Wink Wink - Barcrest
-Nudge Nudge Wink Wink Classic - Barcrest
-Nudge Nudge Wink Wink Gold - Barcrest
-Nudge Nudge Wink Wink Gold 10 - Barcrest
-Nudge Nudge Wink Wink Gold 5 - Barcrest
-Nudge Nudge Wink Wink Say No More - Barcrest
-Nudge Quest - Barcrest
-Nudge Shuffle - Barcrest
-Nudge Shuffle - JPM
-Nudge Up - Barcrest Dutch
-Nudges Unlimited - Barcrest
-Number One - Barcrest Dutch
-Nuns N Roses - Mazooma
-Oche Oche Oche - Barcrest
-Odds On - Barcrest
-Oldtimer - Barcrest Dutch
-Olivers Twist - Betcom
-Olympia - BFM Dutch
-Olympic Gold - BWB German
-Omega - Barcrest 1990 Dutch
-Omega - Maygay
-On A Roll - Red
-On A Roll 35 - Red
-On A Roll 5 - Red
-On Line - PCP
-On The Buses - Maygay
-On The Fiddle - Barcrest
-Only Fools And Horses - BFM
-Ooh Aah Dracula - Barcrest
-Ooh Aah Dracula - BWB
-Ooh Aah Dracula 15 - Barcrest
-Ooh Aah Dracula Rio - Barcrest
-Open The Box - Ace
-Open The Box - Barcrest
-Options Unlimited - Barcrest
-Over The Moon - Barcrest
-Overload - Barcrest
-OXO - JPM
-PacMan - Mazooma
-Pacman - Mazooma German
-PacMan 2 - Mazooma
-PacMan Casino - Mazooma
-PacMan Plus - Mazooma
-Pacman Plus - QPS
-PacMania - Mazooma
-Paint The Town Red 25 - Red
-Paint The Town Red 5 - Red
-Palm Springs - JPM
-Paparrazi - Empire
-Party Animal - Barcrest
-Party Time - BFM
-Party Time 25 - Astra
-Party Time 5 - Astra
-Pay Time - BFM Dutch
-Paystation - QPS
-Peep Show - Barcrest
-Pharaoh - JPM Dutch
-Pharaohs Gold - BFG Dutch
-Pharaohs Gold - BFM
-Pick A Fruit - JPM Dutch
-Pick Of The Pack - BFG
-Pick Yer Pesos - Global
-Pie Factory 1 - Vivid
-Pie Factory 2 - Vivid
-Pie Factory 3 - Vivid
-Pie Factory 5 - Vivid
-Pieces Of Eight - QPS
-Piggy Banking - Astra
-Pinball Fever - Crystal
-Pinball Nudger - Empire
-Pinball Nudger 5 - Empire
-Pinball Wizard - JPM
-Pink Panther - Double Yer Money - QPS
-Pink Panther - Maygay
-Pink Panther - Maygay Dutch
-Pink Panther - QPS
-Pink Panther 25 - QPS
-Pink Panther 35 - QPS
-Pink Panther Crack The Code 35 - QPS
-Pink Panther Crack The Code 70 - QPS
-Pink Pussy - MDM
-Pink Pussy 25 - MDM
-Pirates Gold - JPM Czech
-Pit Fall - Empire
-Place Your Bets - Barcrest
-Play It Again - Ace
-Play It Again Deluxe - Ace
-Play The Joker - Astra
-Plus Money Deluxe - JPM
-Plus Nudge - JPM
-Plus Nudge - JPM2
-Poker King - BFG
-Police Squid - QPS
-Pony Express - BFM
-Pool Play - JPM
-Popeye - JPM
-Popeye - Mazooma
-Popeye And Olive - JPM
-Popeye Super - JPM
-Popeyes Treasure Hunt - JPM
-Pot Black - Barcrest
-Pot Black 15 - Barcrest
-Pot Of Gold - Crystal
-Pot Of Gold 15 - Ace
-Pot Of Gold 5 - Ace
-Pot Shot - QPS
-Potluck - JPM Dutch
-Pots Of Gold - BFG
-Pots Of Luck - QPS
-Pound Sterling - Ace
-Pound Stretcher - Ace
-Poundaround - Ace
-Pounds Of The Baskervilles - Maygay
-Poundstretcher - Electrocoin
-Power Lines - BFG
-Power Run - Eurocoin Dutch
-Power Spin - JPM
-Power Surge - QPS
-Powerball - QPS
-Primetime - Ace
-Psycho Cash Beast - Barcrest
-Pug Life - Betcom
-Pure Madness - Union
-Quack Shot - Barcrest
-Quality Streak - BFG
-Quantum Leap - JPM
-Quazzi Mo Dough - QPS
-Quick On The Draw - Vivid
-Quick On The Draw 5 - Vivid
-Quickshot - Maygay
-Quid Vicious - QPS
-Quid Vicious 70 - QPS
-Raiders Of The Lost Tenners - Reflex
-Rainbow - BFM Dutch
-Rainbow Riches - Barcrest
-Rainbow Riches Casino - Barcrest
-Rainbow Runner - Red
-Raise The Roof - Vivid
-Rampage - Red
-Random Gold Double Up - Electrocoin
-Random Roulette - Barcrest Dutch
-Random Spin N Win - QPS
-Rapid Pay
-Rat Race - BWB
-Razzle Dazzle - Barcrest
-Ready Steady Go - Barcrest
-Ready To Rock - Barcrest
-Ready To Roll 10 - Astra
-Ready To Roll 15 - Astra
-Ready To Roll 5 - Astra
-Ready To Rumble - Crystal
-Ready To Rumble 5 - Crystal
-Red Alert - BFM Dutch
-Red Alert - JPM
-Red Alert - JPM German
-Red Arrow - JPM
-Red Demon - JPM Czech
-Red Dragon - QPS
-Red Dwarf - Red
-Red Heat - Barcrest Dutch
-Red Hot Fever - BWB
-Red Hot Ibiza - BFM
-Red Hot Knights - Barcrest
-Red Hot Notes - QPS
-Red Hot Poker - BWB
-Red Hot Rocks - QPS
-Red Hot Roll - Barcrest
-Red Hot Roll 5 - Barcrest
-Red Hot Roll Classic - Barcrest
-Red Hot Roll Classic 25 - Barcrest
-Red Hot Wheels - QPS
-Red Hot X - Mazooma
-Red Square - QPS
-Red White N Blue - Barcrest Dutch
-Red White N Blue 7 - Electrocoin
-Red X - Red
-Reel 2 Reel - Barcrest
-Reel Action - JPM Dutch
-Reel Crazy 2 - JPM
-Reel Crazy Deluxe - JPM
-Reel Crazy Deluxe 3 - JPM
-Reel Ghost - JPM Dutch
-Reel Good Time - Global
-Reel Magic - Electocoin
-Reel Magic - JPM Dutch
-Reel Magic Turbo Play - Barcrest Dutch
-Reel Magic Turbo Play - Fairplay Greece
-Reel Money - JPM
-Reel Money 10 - JPM
-Reel Money 2 - JPM
-Reel Money 8 - JPM
-Reel Poker - Barcrest
-Reely Crazy - BFM
-Reflex 240 - Project
-Reflex 400 - Project
-Reflex 480 - Project
-Reno Reels - BWB
-Reservoir Frogs - Empire
-Return Of The Count - Mazooma
-Return To Haunted House - Empire
-Revolution - Barcrest
-Revolution - BFM Dutch
-Revolva - Union
-Revolver - Mazooma
-Rhythm - JPM Dutch
-Rich Geezer - BFM
-Rich N Famous - Barcrest
-Rich N Famous 10 - Barcrest
-Ricochet - JPM
-Ring A Bell - Astra
-Rio Grande - Crystal
-Rise To The Top - Mazooma
-Road Hog - Barcrest
-Road Hog 2 - Barcrest
-Road Runner - Barcrest Dutch
-Road To Riches - Mazooma
-Road To Wembley - BFM
-Road To Wembley 10 - BFM
-Roadrunner - JPM
-Rob Da Bank - Barcrest
-Robin Hood - Ace
-Rock N Roll - Union
-Rock On - Barcrest
-Rock Pile - PCP
-Rocket Money - Barcrest
-Rocket Money - Red
-Rocket Money 10 - Barcrest
-Rocky - Barcrest
-Rocky Horror Show - BWB
-Roll Up Roll Up - Vivid
-Roll With It - Reflex
-Roll X - Empire
-Roll X 35 - Empire
-Roller Coaster - JPM
-Roller Coaster 10 - JPM
-Roller Coaster Classic - JPM
-Rolling Thunder - Mazooma
-Rolling Thunder 25 - Mazooma
-Ronnie O Sullivans Rocket Money - BFG
-Rose N Crown - BFM Dutch
-Rota Note - JPM
-Rotex - Union
-Round The Bend - Extreme
-Round The Town - BFM
-Round The Town 6 - BFM
-Route 66 - JPM
-Royal 24 - Maygay Dutch
-Royal Roulette - Global
-Rubies And Diamonds - Barcrest
-Rumble In The Jungle - Barcrest
-Run For Your Money - Barcrest
-Runaway Trail - Barcrest
-Salsa - Barcrest Dutch
-Samurai - JPM German
-Satellite - BFM Dutch
-Schloss Drachenstein - JPM German
-Screen Play - Maygay
-Screwing Around - Global
-Search Light - Maygay
-Secret 7s - BWB
-Section 16 - QPS
-Select - Union
-Sevens Above - Project
-Sevens And Melons - Project
-Shanghai - BFM Dutch
-Shanghai Surprise - Empire
-Shark Raving Mad - Barcrest
-Sharks Of The Caribbean - Reflex
-Sheik Yer Money - Barcrest
-Shock N Roll - QPS
-Shockwave - QPS
-Shockwave 20 - QPS
-Shogun - BFM
-Shooting Stars - Empire
-Show Me The Money - Empire
-Show Me The Mummy - Red
-Show Time - Reflex
-Showtime Spectacular - BFM
-Side Winder - Ace
-Side Winder - JPM
-Silva Reels - BFM
-Silver Classic - PCP
-Silver Ghost Deluxe - JPM
-Silver Nudger - MDM
-Silver Screen - Barcrest
-Silver Shadow - Barcrest
-Six Spinner - Maygay Dutch
-Slider - Red
-Smash And Grab - Barcrest
-Smash Martians - Barcrest
-Smash N Grab - MDM
-Smash N Grab 15 - MDM
-Smash The Cash - Red
-Smokey Bikin - BWB
-Snail Blazer - Red
-Snake Rattle N Roll - BFG
-Snake Rattle N Roll 25 - BFG
-Snake Rattle N Roll 5 - BFG
-Snakes And Ladders5 - BFG
-Snakes N Ladders - JPM
-Snakes N Ladders - MDM
-Snakes N Ladders 10 - JPM
-Snakes N Ladders 25 - BFG
-Snakes N Ladders Slides Again - Crystal
-Snakes N Ladders2 - BFG
-Snakez N Ladderz - Red
-Snap Happy - PCP
-Snappy Viper - Barcrest
-Snooker - Eurocoin Dutch
-Snow White And The Seven Tenners - Reflex
-Some Like It Hot - Mazooma
-Son Of Dracula - Barcrest
-Son Of Dracula 15 - Barcrest
-Sonic The Hedgehog - JPM
-South Park - BFM
-Space Ace - QPS
-Space Buster - QPS
-Space Invaders - Crystal
-Space Raiders - Barcrest
-Spartacash - Fortune And Glory - Reflex
-Spartacash - Impulse
-Spartacash 5 - Impulse
-Special Reserve 3 - JPM
-Special Reserve Deluxe - JPM
-Spectre - BFM
-Spellbound - Empire
-Sphinx - Electrocoin
-Sphinx 8 - Electrocoin
-Spice It Up - BFG
-Spiker The Biker - Barcrest
-Spiker The Biker 10 5 - Barcrest
-Spiker The Biker 30 5 - Barcrest
-Spin A Win - CMS
-Spin N Win - CMS
-Spin On It - Impulse
-Spoof - PCP
-Spoof Super - PCP
-Spoof Super 4 - PCP
-Spot Light - Barcrest
-Spot On - PCP
-SpotLight - Maygay
-Squids In - Barcrest
-Squids In - BWB
-Stack Attack - Red
-Stag Night - BFM
-Star Paws - Betcom
-Star Prize - BFM
-Star Turn - BWB
-Star Wars - A New Hope - Barcrest
-Star Wars - JPM German
-Star Wars - Return Of The Jedi - Barcrest
-Star Wars - The Empire Strikes Back - Barcrest
-Stardust - Barcrest Dutch
-Stars And Bars - Trident
-Stars N Stripes - Vivid
-Stars N Stripes 25 - Vivid
-Stax Of Cash - Barcrest
-Step Timer - Barcrest Dutch
-Steppa Nudge - JPM
-Sting King Rich - Red
-Sting King Rich 5 - Red
-Stir Crazy - Mazooma
-Stop The Clock - Barcrest
-Stop The Clock - BAS
-Streaks Ahead - QPS
-Strike 10 - JPM
-Strike 4 - BFM Dutch
-Strike A Light - Barcrest
-Strike It Lucky - Barcrest
-Sub Zero - Red
-Subbuteo - Maygay
-Sudden Impact - Maygay
-Sudden Impact - Maygay1
-Sudden Impact - Maygay2
-Suits U Sir - QPS
-Sunday Sport - PCP
-Sunset Boulevard - BWB
-Supa Fruits - Union
-Supa Shifta - JPM
-Supa Slot - Barcrest
-Supa Steppa - JPM
-Supa Steppa 4 - JPM
-Supa Streak - PCP
-Supa Swop - BWB
-Supa Track - JPM
-Supatron - Barcrest Dutch
-Super 4 - JPM Dutch
-Super Bar X - Electrocoin
-Super Bars - JPM Dutch
-Super Breakout - JPM
-Super Charged - Barcrest
-Super Cobra - BWB
-Super Deal - Barcrest Dutch
-Super Each Way Shuffle 2 - JPM
-Super Eachway Nudger - JPM
-Super Exchanges Unlimited - Barcrest
-Super Flush - BFM Dutch
-Super Fruit - JPM Dutch
-Super Hi Lo - JPM
-Super Jester - PCP
-Super Jester 240 - PCP
-Super League - BWB
-Super Mario 64 - Maygay
-Super MultiNudge - Barcrest
-Super Nova - Barcrest
-Super Nova - Maygay Dutch
-Super Nudge Gambler - JPM
-Super Nudge Gambler 4 - JPM
-Super Nudge Gambler Red - JPM
-Super Pots - JPM Dutch
-Super Pots - Maygay
-Super Pots 8 - Maygay
-Super Red Bar - Electrocoin
-Super Red Bar 15 - Electrocoin
-Super Red Bar 25 - Electrocoin
-Super Reel - JPM Dutch
-Super Star - Barecrest
-Super Stars - JPM Dutch
-Super Streak - Barcrest
-Super Streak Classic - Barcrest
-Super Streak Gold - Barcrest
-Super Streax - Mazooma
-Super Surfin - Gemini
-Super Tubes - Barcrest
-Super Two - Barcrest
-Superbank - JPM
-Superline - JPM
-Superline 3 - JPM
-Supershot - JPM
-Superwin - BWB
-Surprise Surprize - BFM
-Surprise Surprize 8 - BFM
-Swap A Note - Barcrest
-Switchback - JPM
-Take 2 - JPM
-Take It Or Leave It - Ace
-Take Note - BFM
-Take Note - Maygay
-Take The Piece - BFG
-Take The Piece 35 - BFG
-Take Two - Barcrest
-Take Two - Red
-Take Your Pick - Barcrest
-Take Your Pick 10 - Barcrest
-Temple Of Treasure - Barcrest
-Ten Out Of Ten - Barcrest
-Ten Ten Do It Again - Barcrest
-Ten Up - BFM
-Terminator - JPM
-Test Pilot - PCP
-Tetris - Mazooma
-Thats Magic - Red
-The Addams Family 15 - Barcrest
-The Addams Family 5 - Barcrest
-The Big Apple - MDM
-The Big Breakfast - BFM
-The Big Breakfast 2 - BFM
-The Big Cheese - Barcrest
-The Big Cheese - Empire
-The Big Game - Barcrest
-The Bling N Queen - Extreme
-The Blues Boys - BWB
-The Box - Union
-The Codfather - Barcrest
-The Crystal Dome - Barcrest
-The Crystal Dome 10 - Barcrest
-The Crystal Maze - Barcrest
-The Crystal Maze 10 - Barcrest
-The Crystal Maze 2 - Barcrest
-The Flintstones Viva Rock Vegas - JPM
-The Fruit Machine - JPM
-The Gambler - Empire
-The Golden Mile - Ace
-The Grand National - Ace
-The Great Escape - Maygay
-The Gunpowder Slot - BFG
-The Gunpowder Slot 70 - BFG
-The Hit - Barcrest Dutch
-The Italian Job - Maygay
-The Italian Job - Maygay 15
-The Italian Job - Maygay2
-The Italian Job - Mazooma
-The Italian Job 10 - Maygay
-The Italian Job 5 - Maygay
-The Jackpot Is Not Enough - Empire
-The Jackpoteers - Barcrest
-The Jurassic Trail - Ace
-The Lord Of The Rings - The Fellowship Of The Ring - BFG
-The Lord Of The Rings - The Fellowship Of The Ring 5 - BFG
-The Lord Of The Rings - The Return Of The King - BFG
-The Lord Of The Rings - The Return Of The King 5 - BFG
-The Lord Of The Rings - The Two Towers - BFG
-The Mob - MDM
-The Nickelodeon - Barcrest
-The Nickelodeon 240 - Barcrest
-The Nickelodeon 3 - Barcrest
-The Nickelodeon 6 - Barcrest
-The Pay Maker - Reflex
-The Phoenix Knights - Global
-The Prize Is Right - BFM
-The Rat Pack - Vivid
-The Reel Thing - Crystal
-The Roll - Project
-The Roll 10 - Project
-The Roll 6 - Project
-The Royle Family - BFG
-The Royle Family Royale Banker - BFG
-The Simpsons - Beer Guide - Maygay
-The Simpsons - Homers Meltdown 15 - Maygay
-The Simpsons - Homers Meltdown 25 - Maygay
-The Simpsons - Homers Meltdown 5 - Maygay
-The Simpsons - Maygay 10
-The Simpsons - Maygay 5
-The Simpsons 15 - Maygay
-The Simpsons 3 - Maygay
-The Simpsons Original C - Maygay
-The Simpsons Original T - Maygay
-The Spice Is Right - Barcrest
-The Spice Is Right 10 5 - Barcrest
-The Spice Is Right 30 5 - Barcrest
-The Spotted Dick - Global
-The Streak - BWB
-The Streak - Mazooma
-The Streak 5 - Mazooma
-The Twilight Zone - Maygay
-The Twilight Zone Further Encounters - Ace
-The Vampire Payer - QPS
-The Winsons - Blueprint
-The X Factor - Empire
-The X Factor 25 - Empire
-Theme Park 5 - Project
-Theme Park 8 - Project
-Three Lions - Mazooma
-Thriller - Crystal
-Thriller - JPM
-Thrills N Spills - Global
-Thunderball - Empire
-Thunderbird - Barcrest
-Thunderbirds - JPM
-Tic Tac 2 - Mazooma
-Tic Tac Toe - Classic - BWB
-Tic Tac Toe Gold - BWB
-Tic Tac Tut - Vivid
-Tic Tak Cash - Barcrest
-Tick Tock Cash - Empire
-Tomahawk - Barcrest Dutch
-Tomb Raider - JPM
-Top Action - Barcrest Dutch
-Top Deck - Barcrest Dutch
-Top Dog - Barcrest
-Top Dog - BWB
-Top Dollar - Red
-Top Gear - Barcrest
-Top Gear - Barcrest2
-Top Giza - Red
-Top Line - PCP
-Top Shot - Barcrest
-Top Stop - Barcrest
-Top Streak - JPM
-Top Strike - Maygay
-Top Take - Barcrest
-Top Tenner - Barcrest
-Top Tenner 15 - Barcrest
-Top Tenner 2 - Barcrest
-Top The Lot - Barcrest
-Top Up - JPM
-Toploader - Mazooma
-Topshot - JPM Dutch
-Tornado - BFM Dutch
-Toss The Monkey - Mazooma
-Trail Blazer - Mazooma
-Trailblazer - Impulse
-Trails of the Unexpected
-Treasure Hunt - Maygay
-Treasure Islands Jackpots - Betcom
-Treasure Quest - Crystal
-Treasure Trail - Empire
-Treasure Trail - Project
-Treble Top - Empire
-Treble Top - Reflex
-Tree Amigos - Impulse
-Trick Or Treat - Global
-TriColor - Barcrest Dutch
-Triple Bank - Barcrest Dutch
-Triple Bell - Astra
-Triple Madness - Union
-Triple XXX - Project
-Tristar - BFM
-Trivial Pursuit - Maygay
-Tropicana - Impact German
-Tubular Bells - BFM
-Tumble - JPM
-Tumbling Dice - JPM Dutch
-Tuppenny Cracker - Barcrest
-Tuppenny Fair - MDM
-Tuppenny Nudger - MDM
-Tuppenny Nudger Classic - MPS
-Turbo Reel - Barcrest Dutch
-Turboplay - Barcrest Dutch
-Tutti Fruity - Barcrest
-Tutti Frutti - QPS
-Tutti Frutti 15 - QPS
-Twenty One - Barcrest Dutch
-Twilight - Barcrest Dutch
-Twilight - BFM Dutch
-Twister - JPM Dutch
-Ultimo - Barcrest
-Universe - Barcrest Dutch
-Untouchable - JPM
-Up Down Nudger - BFM
-Up N Over - Barcrest
-Up Up And Away - Barcrest
-Utter Nutter - Global
-Valhalla - Nova Games German
-Vamp It Up - Barcrest
-Vamp It Up 25 - Barcrest
-Ventura - BFM Dutch
-Vertigo - Empire
-Vindaloot - JPM
-Viper Jive - Extreme
-Viva Espana - BWB
-Viva Espana 10 - Barcrest
-Viva Espana 4 - BWB
-Viva Espana 6 - Barcrest
-Viva Espana 6 - BWB
-Viva Espana 8 - Barcrest
-Viva Las Vegas - Barcrest
-Viva Mexico - BFG
-Viva Mexico - BFG German
-Viz - Barcrest
-Viz - QPS
-Volcano - BWB
-Voodoo Express - BWB
-Vortex - Red
-Wacky Racer - MDM
-Wall Street - Project
-War Of The Wads - QPS
-War Of The Worlds - Maygay
-Way In - Barcrest
-Werner Lass Kesseln - Mazooma German
-Western - JPM Dutch
-Whats On - Barcrest
-Whats On Prize - Barcrest
-Wheel Of Fortune - Project
-Wheel Of Wealth - BFG
-Who Wants To Be A Leigionaire - BFG
-Who Wants To Be A Millionhare - Global
-Wigwam - PCP
-Wild Hold - Maygay
-Wild Jackpots - QPS
-Wild King - Project
-Wild Mystery - Barcrest Dutch
-Wild Thing - Empire
-Wild Timer - Barcrest Dutch
-Wild Zone - Maygay
-Wildfire - Impulse
-Win A Gain - BWB
-Win Spin - Barcrest Dutch
-Win Sprint - JPM
-Winner Takes All - Barcrest
-Winner Takes All - BWB
-Winner Takes All 10 - Barcrest
-Winning Streak - BFM
-WinXplosion - BFG Dutch
-Wipe Out - Impulse
-Wizard Of Odds - JPM
-Wok And Roll - Betcom
-X Marks The Spot - Maygay
-X Rated - Red
-Your Lucky Knight - JPM
-Zeppelin - BFM Czech
-Zig Zag - Red
 10 X 10 - Barcrest
 21 Club - Barcrest Dutch
+21 Club - Barcrest Dutch
+25 Carat Diamonds - Astra
 25 Carat Diamonds - Astra
 25 Carrot Gold - Maygay
+25 Carrot Gold - Maygay
 2p Cash Explosion - BWB
+2p Cash Explosion - BWB
+2P Cash Nudger - MDM
 2P Cash Nudger - MDM
 2p Unlimited - MDM
 4 Play - BFG Dutch
+4 Play - BFG Dutch
+5 Times Cash - Project
 5 Times Cash - Project
 5th Avenue - JPM Dutch
+5th Avenue - JPM Dutch
+6 Shooter - Vivid
 6 Shooter - Vivid
 777 Heaven - Project
+777 Heaven - Project
+A Fish Called Wonga - Empire
 A Fish Called Wonga - Empire
 A Knights Trail - Global
+A Knights Trail - Global
+Abracadabra - QPS
 Abracadabra - QPS
 Ace Chase - BWB
+Ace Chase - BWB
+Aces High - Mazooma
 Aces High - Mazooma
 Action Bank 4 - Barcrest
+Action Bank 4 - Barcrest
+Action Bank 8 - Barcrest
 Action Bank 8 - Barcrest
 Action Note - Barcrest
+Action Note - Barcrest
+Action Pack - Barcrest
 Action Pack - Barcrest
 Add A Note - JPM
+Add A Note - JPM
 Adders N Ladders - Bacrest 2
-Adders N Ladders - Barcrest Dutch
+Adders N Ladders - Bacrest 2
 Adders N Ladders - Barcrest
+Adders N Ladders - Barcrest
+Adders N Ladders - Barcrest Dutch
+Adders N Ladders - Barcrest Dutch
+Adders N Ladders - BWB
 Adders N Ladders - BWB
 Adders N Ladders 25 - Barcrest
+Adders N Ladders 25 - Barcrest
+Adders N Ladders 5 - Barcrest
 Adders N Ladders 5 - Barcrest
 Adders N Ladders Classic - Barcrest
+Adders N Ladders Classic - Barcrest
+Adders N Ladders Super - Barcrest
 Adders N Ladders Super - Barcrest
 Aftershock - Red
+Aftershock - Red
+Aladdins Cave - Crystal
 Aladdins Cave - Crystal
 Aladdins Cave - PCP
+Aladdins Cave - PCP
+Alice Through The Looking Glass - Reflex
 Alice Through The Looking Glass - Reflex
 Alices Diamond Deal - Reflex
+Alices Diamond Deal - Reflex
+Alices Wonderland - Reflex
 Alices Wonderland - Reflex
 Alien - Barcrest
+Alien - Barcrest
+All 4 One - Vivid
 All 4 One - Vivid
 All 4 One 15 - Vivid
+All 4 One 15 - Vivid
+All Cash Advance - Barcrest
 All Cash Advance - Barcrest
 All Fired Up - Barcrest
+All Fired Up - Barcrest
+Along The Prom - BFM
 Along The Prom - BFM
 Alphabet - Barcrest
+Alphabet - Barcrest
+Always Eight - BWB
 Always Eight - BWB
 Ambassador - Barcrest Dutch
+Ambassador - Barcrest Dutch
+American Dream - MDM
 American Dream - MDM
 American Highway - Barcrest Dutch
-Andy Capp - Barcrest Dutch
+American Highway - Barcrest Dutch
 Andy Capp - Barcrest
+Andy Capp - Barcrest
+Andy Capp - Barcrest Dutch
+Andy Capp - Barcrest Dutch
+Andy Capp - Blueprint
 Andy Capp - Blueprint
 Andy Capp - BWB
+Andy Capp - BWB
+Andy Capp 10 - Barcrest
 Andy Capp 10 - Barcrest
 Andy Luvs Flo - Barcrest
+Andy Luvs Flo - Barcrest
+Andys Full House - Barcrest
 Andys Full House - Barcrest
 Andys Great Escape - Barcrest
+Andys Great Escape - Barcrest
+Andys Great Escape 10 - Barcrest
 Andys Great Escape 10 - Barcrest
 Andys Great Escape 4 - BWB
+Andys Great Escape 4 - BWB
+Ant & Dec Win The Ads - BFG
+Ant & Dec Win The Ads - BFG
+Ant N Dec Jiggy Bank - BFG
 Ant N Dec Jiggy Bank - BFG
 Ant N Dec Poker Face 35 - BFG
+Ant N Dec Poker Face 35 - BFG
+Ant N Dec Poker Face 70 - BFG
 Ant N Dec Poker Face 70 - BFG
 Ant N Dec Saturday Night - BFG
-Ant & Dec Win The Ads - BFG
+Ant N Dec Saturday Night - BFG
+Apache Gold - Empire
 Apache Gold - Empire
 Apollo 9 - Maygay
+Apollo 9 - Maygay
+Arabian Nights - Barcrest
 Arabian Nights - Barcrest
 Arcadia - JPM
+Arcadia - JPM
+Armada - BFM Dutch
 Armada - BFM Dutch
 Around The Board In 40 Days - Mazooma
+Around The Board In 40 Days - Mazooma
+Atlantic - Vivid
 Atlantic - Vivid
 Atlantis - Barcrest Dutch
+Atlantis - Barcrest Dutch
+Austin Powers - Barcrest
 Austin Powers - Barcrest
 Autoroute - Barcrest
+Autoroute - Barcrest
+Aztec - BFG Dutch
 Aztec - BFG Dutch
 Back To The Features - Vivid
+Back To The Features - Vivid
+Bagatelle - Barcrest
 Bagatelle - Barcrest
 Baking Bad - Blueprint
+Baking Bad - Blueprint
+Bands Of Gold - EuroGames
 Bands Of Gold - EuroGames
 Bangers N Cash - Empire
+Bangers N Cash - Empire
+Bangers N Cash 15 - Empire
 Bangers N Cash 15 - Empire
 Bangin Away - Global
+Bangin Away - Global
+Bangin Away 5 - Global
 Bangin Away 5 - Global
 Bank A Coin - JPM
+Bank A Coin - JPM
+Bank Job - Going For Gold - QPS
 Bank Job - Going For Gold - QPS
 Bank Job - QPS
+Bank Job - QPS
+Bank Raid - Empire
 Bank Raid - Empire
 Bank Raid - PCP
+Bank Raid - PCP
+Bank Roll - JPM
 Bank Roll - JPM
 Bank Roll - Mazooma
+Bank Roll - Mazooma
+Banker - BWB
 Banker - BWB
 Bankety Bank - QPS
+Bankety Bank - QPS
+Bantam Of The Opera - Mazooma
 Bantam Of The Opera - Mazooma
 Bar 7 - JPM
+Bar 7 - JPM
+Bar 7s - BFM
 Bar 7s - BFM
 Bar Trek - BFM
+Bar Trek - BFM
+Bar X - Electrocoin
 Bar X - Electrocoin
 Bar X 4 - Electrocoin
+Bar X 4 - Electrocoin
+Bar X 480 - Electrocoin
 Bar X 480 - Electrocoin
 Bar X 5 - Electrocoin
+Bar X 5 - Electrocoin
+Bar X 7even - Electrocoin
 Bar X 7even - Electrocoin
 Bar X 8 - Electrocoin
+Bar X 8 - Electrocoin
+Bar X Deluxe - Empire
 Bar X Deluxe - Empire
 Barcode - BFM
+Barcode - BFM
+Barking Mad - Barcrest
 Barking Mad - Barcrest
 Barmy Army - Barcrest
+Barmy Army - Barcrest
+Barquest - Barcrest
 Barquest - Barcrest
 Bat Outta Hell - Global
-Battle Axe - Barcrest German
+Bat Outta Hell - Global
 Battle Axe - Barcrest
+Battle Axe - Barcrest
+Battle Axe - Barcrest German
+Battle Axe - Barcrest German
+Bear Streak - Coinworld
 Bear Streak - Coinworld
 Bear X - Coinworld
+Bear X - Coinworld
+Bedazzled - Mazooma
 Bedazzled - Mazooma
 Berserk - Barcrest
+Berserk - Barcrest
+Best Of British - Reflex
 Best Of British - Reflex
 Big 10 - Astra
+Big 10 - Astra
+Big 15 - Astra
 Big 15 - Astra
 Big 20 Joker - Barcrest Swiss
+Big 20 Joker - Barcrest Swiss
+Big 40 Poker - BWB
 Big 40 Poker - BWB
 Big 5 - Astra
+Big 5 - Astra
+Big 50 - JPM
 Big 50 - JPM
 Big 7 - Electrocoin
+Big 7 - Electrocoin
+Big 8 - Astra
 Big 8 - Astra
 Big Bandit - Barcrest German
+Big Bandit - Barcrest German
+Big Banker - JPM
 Big Banker - JPM
 Big Banker 6 - JPM
+Big Banker 6 - JPM
+Big Banker2 - JPM
 Big Banker2 - JPM
 Big Ben - Barcrest Dutch
+Big Ben - Barcrest Dutch
+Big Blaster - Mazooma
 Big Blaster - Mazooma
 Big Brother - Barcrest
+Big Brother - Barcrest
+Big Brother 15 - Bacrest
 Big Brother 15 - Bacrest
 Big Bucks - JPM
+Big Bucks - JPM
+Big Bucks 2 - JPM
 Big Bucks 2 - JPM
 Big Cash Machine - Empire
-Big Chief - Barcrest Dutch
+Big Cash Machine - Empire
 Big Chief - Barcrest
+Big Chief - Barcrest
+Big Chief - Barcrest Dutch
+Big Chief - Barcrest Dutch
+Big Deal - JPM Dutch
 Big Deal - JPM Dutch
 Big Game - Barcrest
+Big Game - Barcrest
+Big Ghoulies - Gemini
 Big Ghoulies - Gemini
 Big Shot - Barcrest
+Big Shot - Barcrest
+Big Shot - Red
 Big Shot - Red
 Big Time - Astra
+Big Time - Astra
+Big Wheel - JPM
 Big Wheel - JPM
 Black And White - Barcrest Dutch
+Black And White - Barcrest Dutch
+Black And White Special - Barcrest
 Black And White Special - Barcrest
 Black Bull - Barcrest Dutch
+Black Bull - Barcrest Dutch
+Black Cherry - JPM Dutch
 Black Cherry - JPM Dutch
 Black Gold - Gemini
+Black Gold - Gemini
+Black Hole - BFM
 Black Hole - BFM
 Black Jack - Barcrest Dutch
+Black Jack - Barcrest Dutch
+Black Jack Club - Barcrest Dutch
 Black Jack Club - Barcrest Dutch
 Black Jack Super Multi - Barcrest German
+Black Jack Super Multi - Barcrest German
+Blackjack 4 - Barcrest
 Blackjack 4 - Barcrest
 Blackjack 480 - Barcrest
+Blackjack 480 - Barcrest
+Blasta Bank - Barcrest
 Blasta Bank - Barcrest
 Blazing Trails - MDM
+Blazing Trails - MDM
+Bling King Crazy - Barcrest
 Bling King Crazy - Barcrest
 Blue Diamond - Barcrest Dutch
+Blue Diamond - Barcrest Dutch
+Blue Double Chip - PCP
 Blue Double Chip - PCP
 Blue Moon - Barcrest
+Blue Moon - Barcrest
+Blue Streak - PCP
 Blue Streak - PCP
 Bobby Dazzler - Mazooma
+Bobby Dazzler - Mazooma
+Bobby Dazzler 25 - Mazooma
 Bobby Dazzler 25 - Mazooma
 Bobby Dazzler 35 - Mazooma
+Bobby Dazzler 35 - Mazooma
+Bobby Dazzler 8 - Mazooma
 Bobby Dazzler 8 - Mazooma
 Body Match - MDM
+Body Match - MDM
+Bolt From The Blue - DJE
 Bolt From The Blue - DJE
 Bonanza - Eurocoin Dutch
+Bonanza - Eurocoin Dutch
+Bonanza 10 - JPM
 Bonanza 10 - JPM
 Bonanza 6 - JPM
+Bonanza 6 - JPM
+Bonanza 8 - JPM
 Bonanza 8 - JPM
 Bonkers - Red
+Bonkers - Red
+Boulder Dash 15 - Barcrest
 Boulder Dash 15 - Barcrest
 Boulderdash - Barcrest
+Boulderdash - Barcrest
+Bouncer - JPM
 Bouncer - JPM
 Brainwaves - Barcrest
+Brainwaves - Barcrest
+Break The Bank - Red
 Break The Bank - Red
 Brix - Mazooma German
+Brix - Mazooma German
+Bronze Voyage - BWB
 Bronze Voyage - BWB
 Bronze Voyage 2 - BWB
+Bronze Voyage 2 - BWB
+Brooklyn - Barcrest Czech
 Brooklyn - Barcrest Czech
 Bubble And Squeak - Extreme
+Bubble And Squeak - Extreme
+Buccaneer - BWB
 Buccaneer - BWB
 Buccaneer 10 - Barcrest
+Buccaneer 10 - Barcrest
+Buccaneer 15 - Barcrest
 Buccaneer 15 - Barcrest
 Bullion Bars - Astra
+Bullion Bars - Astra
+Bullion Run - Electrocoin
 Bullion Run - Electrocoin
 Bulls Eye - Associated Leisure
+Bulls Eye - Associated Leisure
+Bullseye - Pound For Points - BFG
 Bullseye - Pound For Points - BFG
 Bullseye - Project
+Bullseye - Project
+Bullseye Pounds For Points - Mazooma
 Bullseye Pounds For Points - Mazooma
 Bully For You - Barcrest
+Bully For You - Barcrest
+Bullys Jackpot - Project
 Bullys Jackpot - Project
 Bullys Prize Board - BFG
+Bullys Prize Board - BFG
+Bullys Prize Board 25 - BFG
 Bullys Prize Board 25 - BFG
 Bullys Star Prize - BFG
+Bullys Star Prize - BFG
+Bullys Star Prize 35 - BFG
 Bullys Star Prize 35 - BFG
 Bunny Money - Mazooma
+Bunny Money - Mazooma
+Bust Out - Maygay
 Bust Out - Maygay
 Butch Cassidy And The Sundance Quid - BFG
+Butch Cassidy And The Sundance Quid - BFG
+Cabin Fever - Mazooma
 Cabin Fever - Mazooma
 Cabin Fever 35 - Mazooma
+Cabin Fever 35 - Mazooma
+Caesars Palace - Ace
 Caesars Palace - Ace
 Cakewalk - Union
+Cakewalk - Union
+Calypso - BFM Dutch
 Calypso - BFM Dutch
 Camelot - JPM
+Camelot - JPM
+Cannonball Run - Empire
 Cannonball Run - Empire
 Cannonball Run - Global
+Cannonball Run - Global
+Captain Cash - QPS
 Captain Cash - QPS
 Captain Scarlet - Ace
+Captain Scarlet - Ace
+Card Cash - Barcrest
 Card Cash - Barcrest
 Card Shark - Vivid
+Card Shark - Vivid
+Caribbean Cash - Mazooma
 Caribbean Cash - Mazooma
 Caribbean Cash - QPS
+Caribbean Cash - QPS
+Carousel - Empire
 Carousel - Empire
 Carry On Joker - Barcrest
+Carry On Joker - Barcrest
+Carry On Screaming - Maygay
 Carry On Screaming - Maygay
 Cash Adder - QPS
+Cash Adder - QPS
+Cash Ahoy - BFG
 Cash Ahoy - BFG
 Cash Ahoy - Impulse
+Cash Ahoy - Impulse
+Cash Ahoy 5 - BFM
 Cash Ahoy 5 - BFM
 Cash Ahoy 5 - Impulse
+Cash Ahoy 5 - Impulse
+Cash Alarm - PCP
 Cash Alarm - PCP
 Cash And Mouse - QPS
+Cash And Mouse - QPS
+Cash Arena - Barcrest
 Cash Arena - Barcrest
 Cash Attack - Barcrest
+Cash Attack - Barcrest
+Cash Attack 2 - Barcrest
 Cash Attack 2 - Barcrest
 Cash Attack 35 - Barcrest
+Cash Attack 35 - Barcrest
+Cash Attack 70 - Barcrest
 Cash Attack 70 - Barcrest
 Cash Attraction - BFM
+Cash Attraction - BFM
+Cash Bang Wallop - Barcrest
 Cash Bang Wallop - Barcrest
 Cash Bowl - Ace
+Cash Bowl - Ace
+Cash Breaker - JPM Dutch
 Cash Breaker - JPM Dutch
 Cash Buster - JPM
-Cash Card - BFM Dutch
+Cash Buster - JPM
 Cash Card - BFM
+Cash Card - BFM
+Cash Card - BFM Dutch
+Cash Card - BFM Dutch
+Cash Cards - PCP
 Cash Cards - PCP
 Cash Connect - Barcrest
+Cash Connect - Barcrest
+Cash Cops - Coinworld German
 Cash Cops - Coinworld German
 Cash Countdown - JPM Czech
+Cash Countdown - JPM Czech
+Cash Counter - Barcrest
 Cash Counter - Barcrest
 Cash Crusaders - Reflex
+Cash Crusaders - Reflex
+Cash Dash - PCP
 Cash Dash - PCP
 Cash Encounters - Reflex
+Cash Encounters - Reflex
+Cash Exploder - Blueprint
 Cash Exploder - Blueprint
 Cash Explorer - Reflex
-Cash Explosion - BFM Dutch
+Cash Explorer - Reflex
 Cash Explosion - BFM
+Cash Explosion - BFM
+Cash Explosion - BFM Dutch
+Cash Explosion - BFM Dutch
+Cash Explosion - Mazooma
 Cash Explosion - Mazooma
 Cash Explosion 480 - BFM
+Cash Explosion 480 - BFM
+Cash Falls - JPM
 Cash Falls - JPM
 Cash Gordon - Maygay
+Cash Gordon - Maygay
+Cash Is King - Maygay
 Cash Is King - Maygay
 Cash Lab - QPS
+Cash Lab - QPS
+Cash Lab 5 -  QPS
 Cash Lab 5 -  QPS
 Cash Lines - Barcrest
+Cash Lines - Barcrest
+Cash Lines - BFM
 Cash Lines - BFM
 Cash Lines 15 - Barcrest
+Cash Lines 15 - Barcrest
+Cash Machine - Barcrest
 Cash Machine - Barcrest
 Cash Matrix - Barcrest
+Cash Matrix - Barcrest
+Cash N Burn - QPS
 Cash N Burn - QPS
 Cash N Burn 5 - QPS
+Cash N Burn 5 - QPS
+Cash N Fruit - BFM
 Cash N Fruit - BFM
 Cash On The Lash - Mazooma
+Cash On The Lash - Mazooma
+Cash Or Bust 35 - Red
 Cash Or Bust 35 - Red
 Cash Or Bust 70 - Red
+Cash Or Bust 70 - Red
+Cash Or Nudge - Maygay
 Cash Or Nudge - Maygay
 Cash Raider - Ace
+Cash Raider - Ace
+Cash Raker - QPS
 Cash Raker - QPS
 Cash Rolls - JPM
+Cash Rolls - JPM
+Cash Run - Barcrest
 Cash Run - Barcrest
 Cash Smash - PCP
+Cash Smash - PCP
+Cash Strike - Empire
 Cash Strike - Empire
 Cash Towers - Ace
+Cash Towers - Ace
+Cash Vegas Strip - JPM
 Cash Vegas Strip - JPM
 Cash Wheel - Maygay Dutch
+Cash Wheel - Maygay Dutch
+Cash Wise - BFM
 Cash Wise - BFM
 Cash Zone - Barcrest
+Cash Zone - Barcrest
+Cash-Filla - PCP
 Cash-Filla - PCP
 Cashablanca - PCP
-Cashanova - Mazooma German
+Cashablanca - PCP
 Cashanova - Mazooma
+Cashanova - Mazooma
+Cashanova - Mazooma German
+Cashanova - Mazooma German
+Cashanova 15 - Mazooma
 Cashanova 15 - Mazooma
 Cashino - BFM Dutch
+Cashino - BFM Dutch
+Cashino - PCP
 Cashino - PCP
 Casino 5 Liner - JPM
+Casino 5 Liner - JPM
+Casino Crazy - JPM
 Casino Crazy - JPM
 Casino Crazy 15 - JPM
+Casino Crazy 15 - JPM
+Casino Joker - Barcrest Dutch
 Casino Joker - Barcrest Dutch
 Casino Las Vegas - JPM
+Casino Las Vegas - JPM
+Cat N Mouse - BFM
 Cat N Mouse - BFM
 Caveman Cash - Reflex
+Caveman Cash - Reflex
+Celebration 15 - Astra
 Celebration 15 - Astra
 Ceptor - Barcrest Dutch
+Ceptor - Barcrest Dutch
+Chain Reaction - Maygay
 Chain Reaction - Maygay
 Chain Reaction 2 - BFM
+Chain Reaction 2 - BFM
+Chain Reaction 4 - BFM
 Chain Reaction 4 - BFM
 Championship Soccer - BWB
+Championship Soccer - BWB
+Chances Unlimited - Barcrest
 Chances Unlimited - Barcrest
 Chase Invaders - Barcrest
+Chase Invaders - Barcrest
+Chase It - BWB
 Chase It - BWB
 Chase The Ace - Empire
+Chase The Ace - Empire
+Chav It - BFG
 Chav It - BFG
 Chavvy Chase - Mazooma
+Chavvy Chase - Mazooma
+Chequered Flag - Global
 Chequered Flag - Global
 CherryO - Barcrest Dutch
+CherryO - Barcrest Dutch
+Circle Skill - Barcrest
 Circle Skill - Barcrest
 Circus - JPM
+Circus - JPM
+Classic Sevens - Mazooma
 Classic Sevens - Mazooma
 Classic Slot - Astra
+Classic Slot - Astra
+Clickity Click - JPM
 Clickity Click - JPM
 Clickity Click - QPS
+Clickity Click - QPS
+Cliffhanger - Vivid
 Cliffhanger - Vivid
 Clockwork Oranges - Empire
+Clockwork Oranges - Empire
+Cloud 999 - Barcrest
 Cloud 999 - Barcrest
 Cloud 999 2 - Barcrest
+Cloud 999 2 - Barcrest
+Clown In Around - BWB
 Clown In Around - BWB
 Club 2001 - BFM Dutch
+Club 2001 - BFM Dutch
+Club 65 Special - BFM
 Club 65 Special - BFM
 Club Ace Of Clubs - Empire
+Club Ace Of Clubs - Empire
+Club Action - Barcrest
 Club Action - Barcrest
 Club Adders N Ladders - Barcrest
+Club Adders N Ladders - Barcrest
+Club All In A Days Work - Global
 Club All In A Days Work - Global
 Club Andys Big Time - Barcrest
+Club Andys Big Time - Barcrest
+Club Around The Board In 40 Days - Mazooma
 Club Around The Board In 40 Days - Mazooma
 Club Around The World - Crystal
+Club Around The World - Crystal
+Club Attraction - BFM
 Club Attraction - BFM
 Club Bank Roller - Barcrest
+Club Bank Roller - Barcrest
+Club Banker - JPM
 Club Banker - JPM
 Club Bankety Bank - QPS
+Club Bankety Bank - QPS
+Club Bedazzled - Mazooma
 Club Bedazzled - Mazooma
 Club Best Of British - Reflex
+Club Best Of British - Reflex
+Club Big Break - Ace
 Club Big Break - Ace
 Club Big Brother - Barcrest
+Club Big Brother - Barcrest
+Club Big Deal - Barcrest
 Club Big Deal - Barcrest
 Club Big Money - JPM
+Club Big Money - JPM
+Club Big Nite Out - Crystal
 Club Big Nite Out - Crystal
 Club Big Top - JPM
+Club Big Top - JPM
+Club Big Top 250 - JPM
 Club Big Top 250 - JPM
 Club Big Top 500 - JPM
+Club Big Top 500 - JPM
+Club Blackjack - Barcrest
 Club Blackjack - Barcrest
 Club Blackjack - Global
+Club Blackjack - Global
+Club Bobby Dazzler - Mazooma
 Club Bobby Dazzler - Mazooma
 Club Booze Cruise - Extreme
+Club Booze Cruise - Extreme
+Club Bucks Fizz - Barcrest
 Club Bucks Fizz - Barcrest
 Club Bullion - Crystal
+Club Bullion - Crystal
+Club Bullseye - BFG
 Club Bullseye - BFG
 Club Cabaret 50 - Barcrest
+Club Cabaret 50 - Barcrest
+Club Caesars Palace - Crystal
 Club Caesars Palace - Crystal
 Club Calamari - Barcrest
+Club Calamari - Barcrest
+Club California - Barcrest
 Club California - Barcrest
 Club Cannonball Run - Global
+Club Cannonball Run - Global
+Club Card Shark - Vivid
 Club Card Shark - Vivid
 Club Caribbean - Barcrest
+Club Caribbean - Barcrest
+Club Casablanca - JPM
 Club Casablanca - JPM
 Club Cash Adder - QPS
+Club Cash Adder - QPS
+Club Cash Bazaar - BFM
 Club Cash Bazaar - BFM
 Club Cash Bonus - JPM
+Club Cash Bonus - JPM
+Club Cash Box - Empire
 Club Cash Box - Empire
 Club Cash Crusaders - Reflex
+Club Cash Crusaders - Reflex
+Club Cash Encounters - Reflex
 Club Cash Encounters - Reflex
 Club Cash Of The Titans - Empire
+Club Cash Of The Titans - Empire
+Club Cashino - BFM
 Club Cashino - BFM
 Club Cashlvania - QPS
+Club Cashlvania - QPS
+Club Cashraker - QPS
 Club Cashraker - QPS
 Club Celebration - Barcrest
+Club Celebration - Barcrest
+Club Celebration - Global
 Club Celebration - Global
 Club Centurion - Empire
+Club Centurion - Empire
+Club Chinatown - BFM
 Club Chinatown - BFM
 Club Class - BFM
+Club Class - BFM
+Club Classic - Barcrest
 Club Classic - Barcrest
 Club Classic Casino Crazy - Crystal
+Club Classic Casino Crazy - Crystal
+Club Classic Casino Crazy - JPM
 Club Classic Casino Crazy - JPM
 Club Classic Casino Crazy 1000 - JPM
+Club Classic Casino Crazy 1000 - JPM
+Club Classic Casino Crazy 250 - Crystal
 Club Classic Casino Crazy 250 - Crystal
 Club Climber - Barcrest
+Club Climber - Barcrest
+Club Clockwise - BFM
 Club Clockwise - BFM
 Club Clockwork Oranges - Empire
+Club Clockwork Oranges - Empire
+Club Cloud 999 - Barcrest
 Club Cloud 999 - Barcrest
 Club Cluedo - JPM
+Club Cluedo - JPM
+Club Cluedo - Mazooma
 Club Cluedo - Mazooma
 Club Connect - Barcrest
+Club Connect - Barcrest
+Club Cool Jewels - BFG
 Club Cool Jewels - BFG
 Club Cops N Robbers - BFM
+Club Cops N Robbers - BFM
+Club Cops N Robbers 100 - BFM
 Club Cops N Robbers 100 - BFM
 Club Cops N Robbers 150 - BFM
+Club Cops N Robbers 150 - BFM
+Club Cops N Robbers 250 - BFM
 Club Cops N Robbers 250 - BFM
 Club Cops N Robbers 500 - Mazooma
+Club Cops N Robbers 500 - Mazooma
+Club Cops N Robbers 75 - BFM
 Club Cops N Robbers 75 - BFM
 Club Cops N Robbers Gold - BFG
+Club Cops N Robbers Gold - BFG
+Club Cops N Robbers Platinum - BFM
 Club Cops N Robbers Platinum - BFM
 Club Cops N Robbers Smash N Grab - BFG
+Club Cops N Robbers Smash N Grab - BFG
+Club Coronation Street - Maygay
 Club Coronation Street - Maygay
 Club Coronation Street - Mazooma
+Club Coronation Street - Mazooma
+Club Costa Del Cash - Barcrest
 Club Costa Del Cash - Barcrest
 Club Count Cash - BFM
+Club Count Cash - BFM
+Club Crackpot - Barcrest
 Club Crackpot - Barcrest
 Club Crazy - JPM
+Club Crazy - JPM
+Club Crazy Fruits - BFM
 Club Crazy Fruits - BFM
 Club Criss Cross - Maygay Dutch
+Club Criss Cross - Maygay Dutch
+Club Crown Jewels - Barcrest
 Club Crown Jewels - Barcrest
 Club Disco Crazy - Games Media
+Club Disco Crazy - Games Media
+Club DOND - BFG
 Club DOND - BFG
 Club DOND - Can You Beat The Banker - BFG
+Club DOND - Can You Beat The Banker - BFG
+Club DOND - Casino - Mazooma
 Club DOND - Casino - Mazooma
 Club DOND - The Red Mist - BFM
+Club DOND - The Red Mist - BFM
+Club Double - Barcrest
 Club Double - Barcrest
 Club Double Agent - Reflex
+Club Double Agent - Reflex
+Club Driving School - Global
 Club Driving School - Global
 Club Driving School 200 - Global
+Club Driving School 200 - Global
+Club Dungeons N Drag Queens - Global
 Club Dungeons N Drag Queens - Global
 Club El Bandido - Vivid
+Club El Bandido - Vivid
+Club Explosion - BFM
 Club Explosion - BFM
 Club Fairground Attraction - JPM
+Club Fairground Attraction - JPM
+Club Fairground Attraction 100200 - JPM
 Club Fairground Attraction 100200 - JPM
 Club Fast Fruits - QPS
+Club Fast Fruits - QPS
+Club Fiddle A Fortune - Reflex
 Club Fiddle A Fortune - Reflex
 Club Fire Cracker - BFM
+Club Fire Cracker - BFM
+Club Fire Cracker - JPM
 Club Fire Cracker - JPM
 Club Flamin 400 - Reflex
+Club Flamin 400 - Reflex
+Club Fortune - Barcrest
 Club Fortune - Barcrest
 Club Fortune - Reflex
+Club Fortune - Reflex
+Club Frame And Fortune - Crystal
 Club Frame And Fortune - Crystal
 Club Frame And Fortune 200 - Crystal
+Club Frame And Fortune 200 - Crystal
+Club Frame And Fortune 250 - Crystal
 Club Frame And Fortune 250 - Crystal
 Club Frenzy - Barcrest
+Club Frenzy - Barcrest
+Club Fruit Full - Barcrest
 Club Fruit Full - Barcrest
 Club Fruit Link - Barcrest
+Club Fruit Link - Barcrest
+Club Funhouse - BFM
 Club Funhouse - BFM
 Club Give Us A Break - JPM
+Club Give Us A Break - JPM
+Club Gladiator - JPM
 Club Gladiator - JPM
 Club Gladiator - QPS
+Club Gladiator - QPS
+Club Go For Gold - Barcrest
 Club Go For Gold - Barcrest
 Club Gold Digger - BFM
+Club Gold Digger - BFM
+Club Golden Casino - BFM
 Club Golden Casino - BFM
 Club Golden Dragon - Barcrest
+Club Golden Dragon - Barcrest
+Club Golden Grid - QPS
 Club Golden Grid - QPS
 Club Golden Grid 50 - QPS
+Club Golden Grid 50 - QPS
+Club Golden Nugget - Voodoo
 Club Golden Nugget - Voodoo
 Club Golden Winner - Mazooma
+Club Golden Winner - Mazooma
+Club Grand Slam - BFM
 Club Grand Slam - BFM
 Club Grandstand - Barcrest
+Club Grandstand - Barcrest
+Club Hang Over
 Club Hang Over
 Club Happy Fruits - BFM
+Club Happy Fruits - BFM
+Club Haunted House - Maygay
 Club Haunted House - Maygay
 Club Hey Big Spender - Global
+Club Hey Big Spender - Global
+Club Hi Lo Climber - Crystal
 Club Hi Lo Climber - Crystal
 Club Hi Roller - JPM
+Club Hi Roller - JPM
+Club Hi-Tension - Maygay
 Club Hi-Tension - Maygay
 Club Hit The Dracpot - Reflex
+Club Hit The Dracpot - Reflex
+Club Hot Dogs - Crystal
 Club Hot Dogs - Crystal
 Club Hot Shots - Reflex
+Club Hot Shots - Reflex
+Club Hot Six - BFG
 Club Hot Six - BFG
 Club Instant Millionaire - Maygay
+Club Instant Millionaire - Maygay
+Club Jackpot Jump - Barcrest
 Club Jackpot Jump - Barcrest
 Club Juicy Jackpots - BFM
+Club Juicy Jackpots - BFM
+Club King Cobra - Empire
 Club King Cobra - Empire
 Club King Of The Swingers - Global
+Club King Of The Swingers - Global
+Club Kings And Queens - Empire
 Club Kings And Queens - Empire
 Club Knight - Red
+Club Knight - Red
+Club Kung Fu - Crystal
 Club Kung Fu - Crystal
 Club Lady Luck Double Take - Reflex
+Club Lady Luck Double Take - Reflex
+Club Lady Luck Pots Of Gold - Reflex
 Club Lady Luck Pots Of Gold - Reflex
 Club Lady Luck Whats In The Pot - Reflex
+Club Lady Luck Whats In The Pot - Reflex
+Club Larrys Stake X - Leisurama
 Club Larrys Stake X - Leisurama
 Club Lets Get Jackpotted - Reflex
+Club Lets Get Jackpotted - Reflex
+Club Little Devil - Mazooma
 Club Little Devil - Mazooma
 Club Lock N Load - Red
+Club Lock N Load - Red
+Club Lockbuster - BFG
 Club Lockbuster - BFG
 Club Lucky Streak - Red
+Club Lucky Streak - Red
+Club Lucky Strike - Barcrest
 Club Lucky Strike - Barcrest
 Club Lucky Strike 2 - Barcrest
+Club Lucky Strike 2 - Barcrest
+Club Magic Circle - JPM
 Club Magic Circle - JPM
 Club Make A Million - BFM
+Club Make A Million - BFM
+Club Mike Reids Big Night Out - Maygay
 Club Mike Reids Big Night Out - Maygay
 Club Money - Ace
+Club Money - Ace
+Club Money To Burn - BFG
 Club Money To Burn - BFG
 Club Monopoly - Coronation Street - Maygay
+Club Monopoly - Coronation Street - Maygay
+Club Monopoly - Maygay
 Club Monopoly - Maygay
 Club Monopoly 100 - Maygay
+Club Monopoly 100 - Maygay
+Club Monopoly 125 - Maygay
 Club Monopoly 125 - Maygay
 Club Monopoly 200 - Maygay
+Club Monopoly 200 - Maygay
+Club Monopoly 75 - Maygay
 Club Monopoly 75 - Maygay
 Club Monopoly Dual Stake 100200 - Maygay
+Club Monopoly Dual Stake 100200 - Maygay
+Club Monopoly Money Bags - Mazooma
 Club Monopoly Money Bags - Mazooma
 Club Monopoly Wonders Of The World - Mazooma
+Club Monopoly Wonders Of The World - Mazooma
+Club Monster Cash - Crystal
 Club Monster Cash - Crystal
 Club Monte Carlo - BFM
+Club Monte Carlo - BFM
+Club Monte Carlo Or Bust - Mazooma
 Club Monte Carlo Or Bust - Mazooma
 Club Monte Carlo Or Bust 250 - Mazooma
+Club Monte Carlo Or Bust 250 - Mazooma
+Club Monty Python - Barcrest
 Club Monty Python - Barcrest
 Club Movie Magic - Crystal
+Club Movie Magic - Crystal
+Club Multiplay - Barcrest
 Club Multiplay - Barcrest
 Club Nightspot - Barcrest
+Club Nightspot - Barcrest
+Club Nite Club - JPM
 Club Nite Club - JPM
 Club Nudger - JPM
+Club Nudger - JPM
+Club Ooh Aah Dracula - Barcrest
 Club Ooh Aah Dracula - Barcrest
 Club Outlaw - JPM
+Club Outlaw - JPM
+Club Pacman - Mazooma
 Club Pacman - Mazooma
 Club Pharaohs Gold - BFG
+Club Pharaohs Gold - BFG
+Club Pharaohs Gold Classic - BFG
 Club Pharaohs Gold Classic - BFG
 Club Pick Of The Pack - BFM
+Club Pick Of The Pack - BFM
+Club Pink Panther - Maygay
 Club Pink Panther - Maygay
 Club Pink Panther - QPS
+Club Pink Panther - QPS
+Club Pink Panther Video - QPS
 Club Pink Panther Video - QPS
 Club Plumb Crazy - QPS
+Club Plumb Crazy - QPS
+Club Pole Position - Reflex
 Club Pole Position - Reflex
 Club Pontoon - Barcrest
+Club Pontoon - Barcrest
+Club Pontoon - Global
 Club Pontoon - Global
 Club Pot Luck - Barcrest
+Club Pot Luck - Barcrest
+Club Pots Of Gold - BFG
 Club Pots Of Gold - BFG
 Club Premier - BFM
+Club Premier - BFM
+Club Premier Manager - BFM
 Club Premier Manager - BFM
 Club Psycho Cash Beast - Barcrest
+Club Psycho Cash Beast - Barcrest
+Club Public Enemy - BFM
 Club Public Enemy - BFM
 Club Public Enemy 400 - Reflex
+Club Public Enemy 400 - Reflex
+Club Public Enemy No 1 - BFG
 Club Public Enemy No 1 - BFG
 Club Public Enemy No1 200 - BFM
+Club Public Enemy No1 200 - BFM
+Club Public Enemy No1 75 - BFM
 Club Public Enemy No1 75 - BFM
 Club Pyramid - JPM
+Club Pyramid - JPM
+Club Raiders Of The Lost Tenners - Reflex
 Club Raiders Of The Lost Tenners - Reflex
 Club Rameses Riches - Crystal
+Club Rameses Riches - Crystal
+Club Random Spinner - BFG
 Club Random Spinner - BFG
 Club Random Winner - BFM
+Club Random Winner - BFM
+Club Razzle Dazzle - Barcrest
 Club Razzle Dazzle - Barcrest
 Club Red Alert - JPM
+Club Red Alert - JPM
+Club Red Dragon - QPS
 Club Red Dragon - QPS
 Club Red Hot 6 - JPM
+Club Red Hot 6 - JPM
+Club Red Hot Roll - Barcrest
 Club Red Hot Roll - Barcrest
 Club Red Hot X - Mazooma
+Club Red Hot X - Mazooma
+Club Reel Bingo - JPM
 Club Reel Bingo - JPM
 Club Reel Bonus - JPM
+Club Reel Bonus - JPM
+Club Reel Cash - QPS
 Club Reel Cash - QPS
 Club Replay - Barcrest
+Club Replay - Barcrest
+Club Rio Grande - Barcrest
 Club Rio Grande - Barcrest
 Club Road Hog - Barcrest
+Club Road Hog - Barcrest
+Club Road Hog - BFM
 Club Road Hog - BFM
 Club Road To Riches - Mazooma
+Club Road To Riches - Mazooma
+Club Rocky - Barcrest
 Club Rocky - Barcrest
 Club Roller Coaster - JPM
+Club Roller Coaster - JPM
+Club Roller Coaster 250 - JPM
 Club Roller Coaster 250 - JPM
 Club Rolling Thunder - Mazooma
+Club Rolling Thunder - Mazooma
+Club Ronnie O Sullivan - BFG
 Club Ronnie O Sullivan - BFG
 Club Royal Exchange - Barcrest
+Club Royal Exchange - Barcrest
+Club Royal Exchange 2 - Barcrest
 Club Royal Exchange 2 - Barcrest
 Club Royal Flush - JPM
+Club Royal Flush - JPM
+Club Run For Your Money - Barcrest
 Club Run For Your Money - Barcrest
 Club Safe Cracker - MDM
+Club Safe Cracker - MDM
+Club Sandwich - BWB
 Club Sandwich - BWB
 Club Shuffle - Barcrest
+Club Shuffle - Barcrest
+Club Skullduggery - Empire
 Club Skullduggery - Empire
 Club Snakes And Ladders - BFM 250
+Club Snakes And Ladders - BFM 250
+Club Snakes N Ladders - BFG
 Club Snakes N Ladders - BFG
 Club Solid Silver - Barcrest
+Club Solid Silver - Barcrest
+Club Spectrum - Vivid
 Club Spectrum - Vivid
 Club Spotted Dick - Global
+Club Spotted Dick - Global
+Club Stake Up - Barcrest
 Club Stake Up - Barcrest
 Club Star Wars A New Hope - Barcrest
+Club Star Wars A New Hope - Barcrest
+Club Suits U Sir - QPS
 Club Suits U Sir - QPS
 Club Super 6 - BFG
+Club Super 6 - BFG
+Club Super Blackjack - Barcrest
 Club Super Blackjack - Barcrest
 Club Super Series - Barcrest
+Club Super Series - Barcrest
+Club Super Slam - BFG
 Club Super Slam - BFG
 Club Supreme - Ace
+Club Supreme - Ace
+Club Sweepstake - Barcrest
 Club Sweepstake - Barcrest
 Club Swop A Fruit - JPM
+Club Swop A Fruit - JPM
+Club Take Note - BFM
 Club Take Note - BFM
 Club Take Note 250 - BFM
+Club Take Note 250 - BFM
+Club Take Your Pick - Barcrest
 Club Take Your Pick - Barcrest
 Club Temple Of Treasure - Barcrest
+Club Temple Of Treasure - Barcrest
+Club Temptation - BFM
 Club Temptation - BFM
 Club The Baker Street - Maygay
+Club The Baker Street - Maygay
+Club The Flintstones Viva Rock Vegas - JPM
 Club The Flintstones Viva Rock Vegas - JPM
 Club The Game Show - BFM
+Club The Game Show - BFM
+Club The Italian Job - Mazooma
 Club The Italian Job - Mazooma
 Club The Lord Of The Rings The Two Towers - BFM
+Club The Lord Of The Rings The Two Towers - BFM
+Club The Weakest Leek - Global
 Club The Weakest Leek - Global
 Club Thunderbirds - JPM
+Club Thunderbirds - JPM
+Club Tornado - BFM
 Club Tornado - BFM
 Club Trail Blazer - Barcrest
+Club Trail Blazer - Barcrest
+Club Trail Blazer - JPM
 Club Trail Blazer - JPM
 Club Treble Top - Reflex
+Club Treble Top - Reflex
+Club Trick Shot - BFG
 Club Trick Shot - BFG
 Club Trivial Pursuit - Maygay
+Club Trivial Pursuit - Maygay
+Club Tropicana - Barcrest
 Club Tropicana - Barcrest
 Club Tutti Frutti - BFM
+Club Tutti Frutti - BFM
+Club Typhoon - BFM
 Club Typhoon - BFM
 Club Utter Nutter - Global
+Club Utter Nutter - Global
+Club Vegas - Barcrest
 Club Vegas - Barcrest
 Club Vegas - JPM
+Club Vegas - JPM
+Club Very Rich Geezer - BFM
 Club Very Rich Geezer - BFM
 Club Viva Mexico - BFG
+Club Viva Mexico - BFG
+Club Wacky Weekend - Global
 Club Wacky Weekend - Global
 Club Wall Street - JPM
+Club Wall Street - JPM
+Club Whats Up Doc - Global
 Club Whats Up Doc - Global
 Club Whats Up Doc 2 - Global
+Club Whats Up Doc 2 - Global
+Club Who Wants To Be A Legionnaire - BFG
 Club Who Wants To Be A Legionnaire - BFG
 Club Wild Thing - Empire
+Club Wild Thing - Empire
+Club Wild West - BFM
 Club Wild West - BFM
 Club Wise - BFM
+Club Wise - BFM
+Club Wise 100 - BFM
 Club Wise 100 - BFM
 Club X - Barcrest
+Club X - Barcrest
+Club Xtra - Ace
 Club Xtra - Ace
 Cluedo - Mazooma
+Cluedo - Mazooma
+Cluedo - The Usual Suspects 35 - Mazooma
 Cluedo - The Usual Suspects 35 - Mazooma
 Cluedo - The Usual Suspects 70 - Mazooma
+Cluedo - The Usual Suspects 70 - Mazooma
+Cluedo 2 - Mazooma
 Cluedo 2 - Mazooma
 Cluedo 6 - Maygay
+Cluedo 6 - Maygay
+Cluedo 70 - Mazooma
 Cluedo 70 - Mazooma
 Cluedo 8 - Maygay
+Cluedo 8 - Maygay
+Cluedo Casino 25 - Mazooma
 Cluedo Casino 25 - Mazooma
 Cluedo Super Sleuth - QPS
+Cluedo Super Sleuth - QPS
+Cluedo Super Sleuth 10 - Maygay
 Cluedo Super Sleuth 10 - Maygay
 Cluedo Super Sleuth 5 - Maygay
+Cluedo Super Sleuth 5 - Maygay
+Cluedo Super Sleuth 8 - Maygay
 Cluedo Super Sleuth 8 - Maygay
 Cock A Doodle Dough - Empire
+Cock A Doodle Dough - Empire
+Coliseum - MDM
 Coliseum - MDM
 Coliseum Cash - JPM
+Coliseum Cash - JPM
+Colossus - BFM Dutch
 Colossus - BFM Dutch
 Colossus - MDM
+Colossus - MDM
+Colour Of Money Casino - Astra
 Colour Of Money Casino - Astra
 Connect 4 - Dolbeck Systems
+Connect 4 - Dolbeck Systems
+Cool Jewels - BFM
 Cool Jewels - BFM
 Cool Million - Project
+Cool Million - Project
+Cop The Lot - BFM
 Cop The Lot - BFM
 Copper Loada This - Red
+Copper Loada This - Red
+Copper Run - JPM
 Copper Run - JPM
 Copper Run 150 - JPM
+Copper Run 150 - JPM
+Copper Win - JPM
 Copper Win - JPM
 Cops N Robbers - BFG
+Cops N Robbers - BFG
+Cops N Robbers - QPS
 Cops N Robbers - QPS
 Cops N Robbers - Streetwise - BFG
+Cops N Robbers - Streetwise - BFG
+Cops N Robbers 10 - BFM
 Cops N Robbers 10 - BFM
 Cops N Robbers 2 - BFM
+Cops N Robbers 2 - BFM
+Cops N Robbers 480 - BFM
 Cops N Robbers 480 - BFM
 Cops N Robbers 6 - BFM
+Cops N Robbers 6 - BFM
+Cops N Robbers 6D - BFM
 Cops N Robbers 6D - BFM
 Cops N Robbers 70 - BFG
+Cops N Robbers 70 - BFG
+Cops N Robbers 8 - BFM
 Cops N Robbers 8 - BFM
 Cops N Robbers Deluxe - BFM Dutch
+Cops N Robbers Deluxe - BFM Dutch
+Cops N Robbers Safecracker - BFG
 Cops N Robbers Safecracker - BFG
 Cops N Robbers Safecracker - Mazooma
+Cops N Robbers Safecracker - Mazooma
+Cops N Robbers Safecracker 2 - BFG
 Cops N Robbers Safecracker 2 - BFG
 Copy Cat - BWB
+Copy Cat - BWB
+Corn Of The Dead - Betcom
 Corn Of The Dead - Betcom
 Coronation Street - Maygay
+Coronation Street - Maygay
+Coronation Street - Mazooma
 Coronation Street - Mazooma
 Coronation Street Rovers Return - Mazooma
+Coronation Street Rovers Return - Mazooma
+Coronation Street Rovers Return 10 - Maygay
 Coronation Street Rovers Return 10 - Maygay
 Coronation Street Rovers Return 8 - Maygay
+Coronation Street Rovers Return 8 - Maygay
+Cosmic Casino - BWB
 Cosmic Casino - BWB
 Count Down - BFM
+Count Down - BFM
+Count Yer Cash - Mazooma
 Count Yer Cash - Mazooma
 Cracker - JPM
+Cracker - JPM
+Crazy Bingo - Maygay
 Crazy Bingo - Maygay
 Crazy Capers - Empire
+Crazy Capers - Empire
+Crazy Climber Casino - BFM
 Crazy Climber Casino - BFM
 Crazy Cobra - Red
+Crazy Cobra - Red
+Crazy Crazy Knights - Barcrest
 Crazy Crazy Knights - Barcrest
 Crazy Crocs - MDM
+Crazy Crocs - MDM
+Crazy Fruits - BFM German
 Crazy Fruits - BFM German
 Crazy Fruits Casino 10 - BFG
+Crazy Fruits Casino 10 - BFG
+Crazy Fruits Casino 25 - BFG
 Crazy Fruits Casino 25 - BFG
 Crazy Fruits Casino Gold 25 - BFG
+Crazy Fruits Casino Gold 25 - BFG
+Crazy Fruits Casino Gold 5 - BFG
 Crazy Fruits Casino Gold 5 - BFG
 Crazy Fruits Casino Red - BFM
+Crazy Fruits Casino Red - BFM
+Crazy Fruits Casino Red 25 - BFM
 Crazy Fruits Casino Red 25 - BFM
 Crazy Fruits Classic - BFG
+Crazy Fruits Classic - BFG
+Crazy Fruits Down Under - BFM
 Crazy Fruits Down Under - BFM
 Crazy Fruits Green - QPS
+Crazy Fruits Green - QPS
+Crazy Fruits Green 5 - QPS
 Crazy Fruits Green 5 - QPS
 Crazy Fruits Red - BFM
+Crazy Fruits Red - BFM
+Crazy Joker - Barcrest Swiss
 Crazy Joker - Barcrest Swiss
 Crazy Keys - Casino - BFG
+Crazy Keys - Casino - BFG
+Crazy Keys 15 - Casino - BFG
 Crazy Keys 15 - Casino - BFG
 Crazy Money - BFG
+Crazy Money - BFG
+Crazy Pays - Project
 Crazy Pays - Project
 Crazy Pays 10 - Project
+Crazy Pays 10 - Project
+Crazy Pays 15 - Project
 Crazy Pays 15 - Project
 Criss Cross Cash - Ace
+Criss Cross Cash - Ace
+Criss Cross Cash - Mazooma
 Criss Cross Cash - Mazooma
 Criss Cross Crazy - BFG Dutch
+Criss Cross Crazy - BFG Dutch
+Criss Cross Crazy - Coinworld
 Criss Cross Crazy - Coinworld
 Criss Cross Jackpot - PCP
+Criss Cross Jackpot - PCP
+Critical Mass - Red
 Critical Mass - Red
 Crocodile Rock - Empire
+Crocodile Rock - Empire
+Crossfire - Empire
 Crossfire - Empire
 Crossfire - JPM Czech
+Crossfire - JPM Czech
+Crown Dealer - JPM
 Crown Dealer - JPM
 Crown Jester - Electrocoin
+Crown Jester - Electrocoin
+Crown Jewels - BFG
 Crown Jewels - BFG
 Crown Jewels - QPS
+Crown Jewels - QPS
+Crown Jewels 5 - BFG
 Crown Jewels 5 - BFG
 Cyber Casino - BWB German
+Cyber Casino - BWB German
+D.N.A. - Red
 D.N.A. - Red
 Dance With The Devil - Concept Games
+Dance With The Devil - Concept Games
+Danger Zone3 - Crystal
 Danger Zone3 - Crystal
 Danger Zone6 - Crystal
+Danger Zone6 - Crystal
+Daylight Robbery - BFG
 Daylight Robbery - BFG
 Daylight Robbery 10 - BFG
+Daylight Robbery 10 - BFG
+Daylight Robbery 8 - BFG
 Daylight Robbery 8 - BFG
 Daytona Classic - JPM Dutch
+Daytona Classic - JPM Dutch
+Deal Or No Deal - Play The Game
 Deal Or No Deal - Play The Game
 Dels Millions - BFM
+Dels Millions - BFM
+Demon Jokers - JPM Czech
 Demon Jokers - JPM Czech
 Demon Streak - Red
+Demon Streak - Red
+Dennis The Menace - Barcrest
 Dennis The Menace - Barcrest
 Dennis The Menace 10 - Barcrest
+Dennis The Menace 10 - Barcrest
+Devil Of A Deal - QPS
 Devil Of A Deal - QPS
 Devil Of A Deal - Vivid
+Devil Of A Deal - Vivid
+Diamond Geezer - JPM
 Diamond Geezer - JPM
 Diamond Hearts - Maygay Dutch
+Diamond Hearts - Maygay Dutch
+Diamond Mine - BFM
 Diamond Mine - BFM
 Diamonds Are Forever - Empire
+Diamonds Are Forever - Empire
+Dick Turnip - BWB
 Dick Turnip - BWB
 Ding Dong Bells - BGT
+Ding Dong Bells - BGT
+Disco Inferno - Mazooma
 Disco Inferno - Mazooma
 Discovery - BFM Dutch
+Discovery - BFM Dutch
+Do You Feel Lucky - JPM
 Do You Feel Lucky - JPM
 Doctor Dosh - BFG
+Doctor Dosh - BFG
+Doctors N Nurses - Extreme
 Doctors N Nurses - Extreme
 DOND - Bank On It - BFM
+DOND - Bank On It - BFM
+DOND - Bankers Bonus - BFG
 DOND - Bankers Bonus - BFG
 DOND - Box Clever - BFG
+DOND - Box Clever - BFG
+DOND - Break The Bank - BFG
 DOND - Break The Bank - BFG
 DOND - Can You Beat The Banker - BFG
+DOND - Can You Beat The Banker - BFG
+DOND - Can You Beat The Banker 35 - BFG
 DOND - Can You Beat The Banker 35 - BFG
 DOND - Casino - BFG
+DOND - Casino - BFG
+DOND - Casino Video - BFG
 DOND - Casino Video - BFG
 DOND - Classic 5 - BFG
+DOND - Classic 5 - BFG
+DOND - Cops And Robbers - BFM
 DOND - Cops And Robbers - BFM
 DOND - Deal Wheel - BFG
+DOND - Deal Wheel - BFG
+DOND - Desert Island Deal - BFG
 DOND - Desert Island Deal - BFG
 DOND - Diamond - BFM
+DOND - Diamond - BFM
+DOND - Double - BFG
 DOND - Double - BFG
 DOND - Double Take - BFG
+DOND - Double Take - BFG
+DOND - East And West Wing - BFG
 DOND - East And West Wing - BFG
 DOND - Eliminator - BFG
+DOND - Eliminator - BFG
+DOND - Feeling Lucky - BFG
 DOND - Feeling Lucky - BFG
 DOND - Game On - BFG
+DOND - Game On - BFG
+DOND - Go All The Way - BFG
 DOND - Go All The Way - BFG
 DOND - Gold - BFG
+DOND - Gold - BFG
+DOND - Golden Game - BFG
 DOND - Golden Game - BFG
 DOND - Hall Of Fame - BFG
+DOND - Hall Of Fame - BFG
+DOND - Lets Play - BFG
 DOND - Lets Play - BFG
 DOND - Live - BFG
+DOND - Live - BFG
+DOND - Make Or Break - BFG
 DOND - Make Or Break - BFG
 DOND - Make Or Break 100 - BFG
+DOND - Make Or Break 100 - BFG
+DOND - Mega - BFG
 DOND - Mega - BFG
 DOND - Play It Again - BFG
+DOND - Play It Again - BFG
+DOND - Rapid Round - BFG
 DOND - Rapid Round - BFG
 DOND - Red Hot - BFG
+DOND - Red Hot - BFG
+DOND - Red Hot 100 - BFG
 DOND - Red Hot 100 - BFG
 DOND - Right Deal Right Time - BFG
+DOND - Right Deal Right Time - BFG
+DOND - Seal The Deal - BFG
 DOND - Seal The Deal - BFG
 DOND - Skill - QPS
+DOND - Skill - QPS
+DOND - Spank The Banker - BFM
 DOND - Spank The Banker - BFM
 DOND - The Banker Rings Twice - BFG
+DOND - The Banker Rings Twice - BFG
+DOND - The Big Deal - BFG
 DOND - The Big Deal - BFG
 DOND - The Big Reds 35 - BFG
+DOND - The Big Reds 35 - BFG
+DOND - The Big Reds 5 - BFG
 DOND - The Big Reds 5 - BFG
 DOND - The Big Reds 70 - BFG
+DOND - The Big Reds 70 - BFG
+DOND - The Crazy Chair - BFG
 DOND - The Crazy Chair - BFG
 DOND - The Dream Factory - BFG
+DOND - The Dream Factory - BFG
+DOND - The Perfect Deal - BFG
 DOND - The Perfect Deal - BFG
 DOND - The Perfect Game - BFG
+DOND - The Perfect Game - BFG
+DOND - The Power Five - BFG
 DOND - The Power Five - BFG
 DOND - The Red Mist - BFG
+DOND - The Red Mist - BFG
+DOND - The Walk Of Wealth - BFG
 DOND - The Walk Of Wealth - BFG
 DOND - The Walk Of Wealth 1 - BFG
+DOND - The Walk Of Wealth 1 - BFG
+DOND - Think Big 5 - BFG
 DOND - Think Big 5 - BFG
 DOND - Think Big 70 - BFG
+DOND - Think Big 70 - BFG
+DOND - Think Red - BFG
 DOND - Think Red - BFG
 DOND - Whats In Your Box - BFG
+DOND - Whats In Your Box - BFG
+Dond The Red Mist Club
 Dond The Red Mist Club
 Donkey Kong 10 - Maygay
+Donkey Kong 10 - Maygay
+Donkey Kong 15 - Maygay
 Donkey Kong 15 - Maygay
 Donkey Kong 5 - Maygay
+Donkey Kong 5 - Maygay
+Donkey Kong 8 - Maygay
 Donkey Kong 8 - Maygay
 Donna Kebab - BWB
+Donna Kebab - BWB
+Dosh N Pecks - Barcrest
 Dosh N Pecks - Barcrest
 Double 9s - Barcrest
+Double 9s - Barcrest
+Double Cash - Astra
 Double Cash - Astra
 Double Chance - BFM
+Double Chance - BFM
+Double Crazy Reels - QPS
 Double Crazy Reels - QPS
 Double Diamond - Haywire US
+Double Diamond - Haywire US
+Double Diamond - QPS
 Double Diamond - QPS
 Double Dollars - PCP
+Double Dollars - PCP
+Double Dragon - Empire
 Double Dragon - Empire
 Double Frenzy - QPS
+Double Frenzy - QPS
+Double Impact - Impulse
 Double Impact - Impulse
 Double Jackpot - Astra
+Double Jackpot - Astra
+Double Or Quits - BWB
 Double Or Quits - BWB
 Double Top - JPM
+Double Top - JPM
+Double Up - Barcrest
 Double Up - Barcrest
 Dough N Arrow - QPS
+Dough N Arrow - QPS
+Dr Jekyll & Mr Hyde
+Dr Jekyll & Mr Hyde
+Dr Jekyll N Mr Hyde - Vivid
 Dr Jekyll N Mr Hyde - Vivid
 Dr Who The Timelord - BFM
+Dr Who The Timelord - BFM
+Dracula - Barcrest German
 Dracula - Barcrest German
 Dragon - Barcrest German
+Dragon - Barcrest German
+Dragon Soup - Red
 Dragon Soup - Red
 Drop The Lot - JPM
+Drop The Lot - JPM
+Dungeons N Drag Queens - Global
 Dungeons N Drag Queens - Global
 Duty Free - Barcrest
+Duty Free - Barcrest
+Duty Free 10 - Barcrest
 Duty Free 10 - Barcrest
 Each Way Nudge - Barcrest
+Each Way Nudge - Barcrest
+Each Way Nudger MK2 - JPM
 Each Way Nudger MK2 - JPM
 Each Way Nudger MK3 - JPM
+Each Way Nudger MK3 - JPM
+Each Way Shifter - MDM
 Each Way Shifter - MDM
 Each Way Shuffle Deluxe - JPM
+Each Way Shuffle Deluxe - JPM
+Each Way Shuffle MK2 - JPM
 Each Way Shuffle MK2 - JPM
 Each Way Shuffle Super - JPM
+Each Way Shuffle Super - JPM
+EastEnders - Maygay
 EastEnders - Maygay
 Eastenders 10 - Maygay
+Eastenders 10 - Maygay
+Eastenders Albert Square - Maygay
 Eastenders Albert Square - Maygay
 Eastenders Prize - Maygay
+Eastenders Prize - Maygay
+Eastenders Red - Maygay
 Eastenders Red - Maygay
 Eastenders The Queen Vic - Maygay
+Eastenders The Queen Vic - Maygay
+Eastern Promise - Reflex
 Eastern Promise - Reflex
 Easy Money - BFM
+Easy Money - BFM
+Easy Streak - BFG
 Easy Streak - BFG
 Egyptian Gold - Vivid
+Egyptian Gold - Vivid
+Eighth Wonder - BWB
 Eighth Wonder - BWB
 Eliminator - Barcrest
+Eliminator - Barcrest
+Elvis Gold Rush - Barcrest
 Elvis Gold Rush - Barcrest
 Elvis Gold Rush Classic - Barcrest
+Elvis Gold Rush Classic - Barcrest
+Elvis Red Hot Roll Classic - Barcrest
 Elvis Red Hot Roll Classic - Barcrest
 Elvis Super Streak Classic - Barcrest
+Elvis Super Streak Classic - Barcrest
+Emmerdale - Ace
 Emmerdale - Ace
 Emmerdale - Mazooma
+Emmerdale - Mazooma
 Empire - Barcrest Dutch
+Empire - Barcrest Dutch
+Euphoria - Ace
+Euphoria - Ace
+Euphoria - Ace - 15
 Euphoria - Ace - 15
 Euphoria - Ace 5
-Euphoria - Ace
+Euphoria - Ace 5
+Eureka - Empire
 Eureka - Empire
 Everyones A Winner - Barcrest
+Everyones A Winner - Barcrest
+Evolution - QPS
 Evolution - QPS
 Excalibur - BWB German
+Excalibur - BWB German
+Excalibur - MDM
+Excalibur - MDM
+Excalibur - MDM - 5 5
 Excalibur - MDM - 5 5
 Excalibur - MDM 10 8
+Excalibur - MDM 10 8
+Excalibur - MDM 20 5
 Excalibur - MDM 20 5
 Excalibur - MDM 5 15
-Excalibur - MDM
+Excalibur - MDM 5 15
+Excellence - JPM Dutch
 Excellence - JPM Dutch
 Exchanges Galore - Barcrest
+Exchanges Galore - Barcrest
+Exchanges Unlimited - Barcrest
 Exchanges Unlimited - Barcrest
 Exchanges Unlimited - Empire
+Exchanges Unlimited - Empire
+Express - Barcrest Dutch
 Express - Barcrest Dutch
 Extra Game - Barcrest Czech
+Extra Game - Barcrest Czech
+Extreme - Empire
 Extreme - Empire
 Extreme Madness - Empire
+Extreme Madness - Empire
+Fairground - Crystal
 Fairground - Crystal
 Fairground - JPM
+Fairground - JPM
+Fairground 6 - JPM
 Fairground 6 - JPM
 Family Guy - BFG
+Family Guy - BFG
+Family Guy - BFM
 Family Guy - BFM
 Fantasy Football - Maygay
+Fantasy Football - Maygay
+Fast Forward - Barcrest
 Fast Forward - Barcrest
 Fast Fruit - QPS
+Fast Fruit - QPS
+Fast Fruit 25 - QPS
 Fast Fruit 25 - QPS
 Fast Trak - JPM
+Fast Trak - JPM
+Fast-Trak - JPM
 Fast-Trak - JPM
 Fever - BFG
+Fever - BFG
+Fever - BFM Dutch
 Fever - BFM Dutch
 Fever The Next - BFM Dutch
+Fever The Next - BFM Dutch
+Fiddle A Fortune - Reflex
 Fiddle A Fortune - Reflex
 Fight Night - Maygay
+Fight Night - Maygay
+Final Frontier - MDM
 Final Frontier - MDM
 Final Frontier 5 - MDM
+Final Frontier 5 - MDM
+Fire Cracker - BFM
 Fire Cracker - BFM
 Fireball - Barcrest
+Fireball - Barcrest
+Fireball - JPM
 Fireball - JPM
 Fireball - MDM
+Fireball - MDM
+Firecracker - JPM
 Firecracker - JPM
 First Class - Barcrest Dutch
+First Class - Barcrest Dutch
+Five Alive - JPM
 Five Alive - JPM
 Five Liner - JPM
+Five Liner - JPM
+Five Liner 4 - JPM
 Five Liner 4 - JPM
 Five Star - Maygay Dutch
+Five Star - Maygay Dutch
+Fivepenny Nudger - MDM
 Fivepenny Nudger - MDM
 Flash - BFM Dutch
+Flash - BFM Dutch
+Flash Cash - Barcrest
 Flash Cash - Barcrest
 Flash The Cash - Mazooma
+Flash The Cash - Mazooma
+Flash The Cash - Project
 Flash The Cash - Project
 Flashback - BFM
+Flashback - BFM
+Football Fever - Empire
 Football Fever - Empire
 Force Five - BFM
+Force Five - BFM
+Fort Boyard - Barcrest
 Fort Boyard - Barcrest
 Fortune N Glory - Impulse
+Fortune N Glory - Impulse
+Fortune N Glory 5 - Impulse
 Fortune N Glory 5 - Impulse
 Fortune Numbers - Barcrest Dutch
+Fortune Numbers - Barcrest Dutch
+Fortune Numbers Deluxe - Barcrest
 Fortune Numbers Deluxe - Barcrest
 Fortune Trail - JPM
+Fortune Trail - JPM
+Fortune Wheel - BFM
 Fortune Wheel - BFM
 Fortune Wheel - Project
+Fortune Wheel - Project
+Four More - BWB
 Four More - BWB
 Frank N Stein - Crystal
+Frank N Stein - Crystal
+Frankie Dettori - BFG
 Frankie Dettori - BFG
 Frenzy - Barcrest
+Frenzy - Barcrest
+Fright Night - Empire
 Fright Night - Empire
 Frog Hop - JPM
+Frog Hop - JPM
+Fruit Bingo - Delta Dutch
 Fruit Bingo - Delta Dutch
 Fruit Chaser - JPM
+Fruit Chaser - JPM
+Fruit Cracker - PCP
 Fruit Cracker - PCP
 Fruit Drop - Union
+Fruit Drop - Union
+Fruit Explosion - Maygay
 Fruit Explosion - Maygay
 Fruit Explosion 15 - Maygay
+Fruit Explosion 15 - Maygay
+Fruit Frenzy - BFM
 Fruit Frenzy - BFM
 Fruit Game - Barcrest Dutch
+Fruit Game - Barcrest Dutch
+Fruit Lines - BFM Dutch
 Fruit Lines - BFM Dutch
 Fruit Magic - JPM Dutch
+Fruit Magic - JPM Dutch
+Fruit N Loot - Barcrest
 Fruit N Loot - Barcrest
 Fruit Preserve - Barcrest
+Fruit Preserve - Barcrest
+Fruit Snappa - JPM
 Fruit Snappa - JPM
 Fruit Swop - BWB
+Fruit Swop - BWB
+Fruitopia - QPS
 Fruitopia - QPS
 Fruits And Suits - BFM
+Fruits And Suits - BFM
+Fruits And Suits 15 - BFM
 Fruits And Suits 15 - BFM
 Full House - Empire
+Full House - Empire
+Full Metal Jackpot - QPS
 Full Metal Jackpot - QPS
 Full Moon Fever - Impulse
+Full Moon Fever - Impulse
+Full Moon Fever 5 - Impulse
 Full Moon Fever 5 - Impulse
 Full Of Beans - Empire
+Full Of Beans - Empire
+Full Throttle - QPS
 Full Throttle - QPS
 Fun In The Sun - Barcrest
+Fun In The Sun - Barcrest
+Funfair - Red
 Funfair - Red
 Funny Money - Impulse
+Funny Money - Impulse
+G-Force - JPM
 G-Force - JPM
 Galaxy - BFM
+Galaxy - BFM
+Galloping Jackpots - Reflex
 Galloping Jackpots - Reflex
 Game Of Fortune - Astra German
+Game Of Fortune - Astra German
+Game Of Gnomes - Reflex
 Game Of Gnomes - Reflex
 Games Bond - Barcrest
+Games Bond - Barcrest
+Geronimo 15 - Impulse
 Geronimo 15 - Impulse
 Geronimo 25 - Impulse
+Geronimo 25 - Impulse
+Geronimo 5 - Impulse
 Geronimo 5 - Impulse
 Gettin Ziggy With It - Mazooma
+Gettin Ziggy With It - Mazooma
+Ghost Buster - BWB
 Ghost Buster - BWB
 Ghost Train - Empire
+Ghost Train - Empire
+Ghost Train 5 - Empire
 Ghost Train 5 - Empire
 Ghostbuster - JPM
+Ghostbuster - JPM
+Giant Gems - Vivid
 Giant Gems - Vivid
 Gimme Gimme Gimme - Barcrest
+Gimme Gimme Gimme - Barcrest
+Give Us A Break - JPM
 Give Us A Break - JPM
 Gladiators - Maygay
+Gladiators - Maygay
+Globe Trotter - Ace
 Globe Trotter - Ace
 Go Bananas - Union
+Go Bananas - Union
+Go For Gold - Ace
 Go For Gold - Ace
 Go For Gold - JPM
+Go For Gold - JPM
+Go For Gold - Project
 Go For Gold - Project
 Gold Digger - BFG
+Gold Digger - BFG
+Gold Diggers - QPS
 Gold Diggers - QPS
 Gold Fever - Empire
+Gold Fever - Empire
+Gold Mine - BFM
 Gold Mine - BFM
 Gold Mine - BWB
+Gold Mine - BWB
+Gold Mine - Empire
 Gold Mine - Empire
 Gold Reserve - MDM
+Gold Reserve - MDM
+Gold Rush 10 5 - Barcrest
 Gold Rush 10 5 - Barcrest
 Gold Rush 30 5 - Barcrest
+Gold Rush 30 5 - Barcrest
+Gold Rush 5 Line - Barcrest
 Gold Rush 5 Line - Barcrest
 Gold Strike - Barcrest
+Gold Strike - Barcrest
+Gold Strike 3 - Barcrest
 Gold Strike 3 - Barcrest
 Golden 10 - Maygay German
+Golden 10 - Maygay German
+Golden 2s - CTL
 Golden 2s - CTL
 Golden Award - Barcrest
+Golden Award - Barcrest
+Golden Balls - BFM
 Golden Balls - BFM
 Golden Crowns - MDM
+Golden Crowns - MDM
+Golden Day - JPM Dutch
 Golden Day - JPM Dutch
 Golden Dragon - Barcrest
+Golden Dragon - Barcrest
+Golden Gate - Barcrest Dutch
 Golden Gate - Barcrest Dutch
 Golden Ghost - JPM
+Golden Ghost - JPM
+Golden Goal - JPM
 Golden Goal - JPM
 Golden Grid - QPS
+Golden Grid - QPS
+Golden Keys - Barcrest
 Golden Keys - Barcrest
 Golden Oldie - Mazooma
+Golden Oldie - Mazooma
+Golden Steppa - JPM
 Golden Steppa - JPM
 Golden Streak - JPM Dutch
+Golden Streak - JPM Dutch
+Golden Winner - BFG
 Golden Winner - BFG
 Golden X - Mazooma
+Golden X - Mazooma
+Golden X 10 - Mazooma
 Golden X 10 - Mazooma
 Goldenwin - JPM Dutch
+Goldenwin - JPM Dutch
+Goldrun - JPM Dutch
 Goldrun - JPM Dutch
 Good Vibrations - Empire
-Graffiti - Barcrest Dutch
+Good Vibrations - Empire
 Graffiti - Barcrest
+Graffiti - Barcrest
+Graffiti - Barcrest Dutch
+Graffiti - Barcrest Dutch
+Grand Prix - Ace
 Grand Prix - Ace
 Grand Prix - BFM Dutch
+Grand Prix - BFM Dutch
+Grandmaster Cash - Betcom
 Grandmaster Cash - Betcom
 Grease - QPS
+Grease - QPS
+Gridrunner - Global
 Gridrunner - Global
 Gunsmoke - Barcrest Dutch
+Gunsmoke - Barcrest Dutch
+Hagar The Horrible - JPM
 Hagar The Horrible - JPM
 Happy Campers - Extreme
+Happy Campers - Extreme
+Happy Fruits - BFG
 Happy Fruits - BFG
 Happy Go Lucky - BWB
+Happy Go Lucky - BWB
+Happy Hour - QPS
 Happy Hour - QPS
 Happy Notes - BFM
+Happy Notes - BFM
+Happy Notes - Casino - BFM
 Happy Notes - Casino - BFM
 Happy Streak - Coinworld
+Happy Streak - Coinworld
+Haunted House - Empire
 Haunted House - Empire
 Haunted House 10 10 - Empire
+Haunted House 10 10 - Empire
+Haunted House 10 15 - Empire
 Haunted House 10 15 - Empire
 Haunted House 10 5 - Empire
+Haunted House 10 5 - Empire
+Haunted House 10 8 - Empire
 Haunted House 10 8 - Empire
 Haunted House 25 10 - Empire
+Haunted House 25 10 - Empire
+Haunted House 25 15 - Empire
 Haunted House 25 15 - Empire
 Haunted House 25 5 - Empire
+Haunted House 25 5 - Empire
+Haunted House 25 8 - Empire
 Haunted House 25 8 - Empire
 Haunted House 5 10 - Empire
+Haunted House 5 10 - Empire
+Haunted House 5 15 - Empire
 Haunted House 5 15 - Empire
 Haunted House 5 5 - Empire
+Haunted House 5 5 - Empire
+Haunted House 5 8 - Empire
 Haunted House 5 8 - Empire
 Heatwave - BFM Dutch
+Heatwave - BFM Dutch
+Heaven N Hell - BWB
 Heaven N Hell - BWB
 Hellraiser - Barcrest
+Hellraiser - Barcrest
+Hellraiser - BFM Dutch
 Hellraiser - BFM Dutch
 Hells Bells - BFG
+Hells Bells - BFG
+Hi De Hi - Ace
 Hi De Hi - Ace
 Hi Flyer - Crystal
+Hi Flyer - Crystal
+Hi Ho Silver - JPM
 Hi Ho Silver - JPM
 Hi Jinx - Barcrest
+Hi Jinx - Barcrest
+Hi Karate - Crystal
 Hi Karate - Crystal
 Hi Lights - Barcrest
+Hi Lights - Barcrest
+Hi Lo Karate - Vivid
 Hi Lo Karate - Vivid
 Hi Lo Silver - Crystal
+Hi Lo Silver - Crystal
+Hi Lo Silver - Red
 Hi Lo Silver - Red
 Hi Lo Sumo - Barcrest
+Hi Lo Sumo - Barcrest
+Hi Note - JPM
 Hi Note - JPM
 Hi Roller - BFG
+Hi Roller - BFG
+Hi Roller - JPM
 Hi Roller - JPM
 Hi Roller 2 - JPM
+Hi Roller 2 - JPM
+Hi Stakes - QPS
 Hi Stakes - QPS
 High Flyer - Barcrest
+High Flyer - Barcrest
+High Flyer - MDM
 High Flyer - MDM
 High N Mighty - Mazooma
+High N Mighty - Mazooma
+High Point - BFM
 High Point - BFM
 High Rise - Barcrest
+High Rise - Barcrest
+High Roller - Barcrest Dutch
 High Roller - Barcrest Dutch
 High Roller - JPM Dutch
+High Roller - JPM Dutch
+High Roller - QPS
 High Roller - QPS
 High Spirits - Empire
+High Spirits - Empire
+High Voltage - Impulse
 High Voltage - Impulse
 High Voltage 25 - Impulse
+High Voltage 25 - Impulse
+High Voltage 5 - Impulse
 High Voltage 5 - Impulse
 Hill Billionaire - BFG
+Hill Billionaire - BFG
+Hilo Wotha - BFG
 Hilo Wotha - BFG
 Hissing Quid - QPS
+Hissing Quid - QPS
+Hit Money - PCP
 Hit Money - PCP
 Hit Shot - BFG
+Hit Shot - BFG
+Hit The Dracpot - Reflex
 Hit The Dracpot - Reflex
 Hit The Six - Project
+Hit The Six - Project
+Hit The Six 480 - Project
 Hit The Six 480 - Project
 Hit The Six 8 - Project
+Hit The Six 8 - Project
+Hit The Top - Barcrest
 Hit The Top - Barcrest
 Holdtimer - Barcrest Dutch
+Holdtimer - Barcrest Dutch
+Hollywood - BFG
 Hollywood - BFG
 Hollywood - BWB
+Hollywood - BWB
+Holy Moley - Red
 Holy Moley - Red
 Holy Smoke - Impulse
+Holy Smoke - Impulse
+Honey Money - Vivid
 Honey Money - Vivid
 Hop Idol - Vivid
+Hop Idol - Vivid
+Horn Of Plenty - Barcrest
 Horn Of Plenty - Barcrest
 Horn Of Plenty - Reflex
+Horn Of Plenty - Reflex
+Hot Cash - Empire
 Hot Cash - Empire
 Hot Cash 8 - Empire
+Hot Cash 8 - Empire
+Hot Dogs - JPM
 Hot Dogs - JPM
 Hot Pot - JPM
+Hot Pot - JPM
+Hot Pots - Maygay
 Hot Pots - Maygay
 Hot Profit - Ace
+Hot Profit - Ace
+Hot Property - BFG
 Hot Property - BFG
 Hot Rocks - Barcrest
+Hot Rocks - Barcrest
+Hot Rod - Barcrest
 Hot Rod - Barcrest
 Hot Shot - Ace
+Hot Shot - Ace
+Hot Shot - BFM
 Hot Shot - BFM
 Hot Shot 15 - Ace
+Hot Shot 15 - Ace
+Hot Shot 25 - Ace
 Hot Shot 25 - Ace
 Hot Shots - Reflex
+Hot Shots - Reflex
+Hot Slot - Bacrest
 Hot Slot - Bacrest
 Hot Spots - Project
+Hot Spots - Project
+Hot Stuff - Barcrest
 Hot Stuff - Barcrest
 How Bigs Your Rock - Global
+How Bigs Your Rock - Global
+Hula Moolah - Empire
 Hula Moolah - Empire
 Hulk - BFG
+Hulk - BFG
+Hurricane - Global
 Hurricane - Global
 Hypalinx - Red
+Hypalinx - Red
+Hyper Games - Mazooma
 Hyper Games - Mazooma
 Hyper Note - JPM
+Hyper Note - JPM
+Hyper Viper - Barcrest
 Hyper Viper - Barcrest
 Hyper Viper 2 - Barcrest
+Hyper Viper 2 - Barcrest
+Hyper Viper 25 - Barcrest
 Hyper Viper 25 - Barcrest
 Hyper Viper 5 - Barcrest
+Hyper Viper 5 - Barcrest
+Hyper Viper Super - Barcrest
 Hyper Viper Super - Barcrest
 Hysteria - Impulse
+Hysteria - Impulse
+Ice Burger - Maygay
 Ice Burger - Maygay
 Im A Celebrity - BFG
+Im A Celebrity - BFG
+Im A Celebrity 5 - BFG
 Im A Celebrity 5 - BFG
 Impulse - JPM
+Impulse - JPM
+In For A Penny - PCP
 In For A Penny - PCP
 IncaDinkaDo - Extreme
-Indiana Jones - JPM German
+IncaDinkaDo - Extreme
 Indiana Jones - JPM
+Indiana Jones - JPM
+Indiana Jones - JPM German
+Indiana Jones - JPM German
+Indiana Jones And The Kingdom Of The Crystal Skull - Red
 Indiana Jones And The Kingdom Of The Crystal Skull - Red
 Indiana Jones Raiders Of The Lost Ark - Red
+Indiana Jones Raiders Of The Lost Ark - Red
+Inferno - Maygay
 Inferno - Maygay
 Infinity - Vivid
+Infinity - Vivid
+Instant Jackpots - BFM
 Instant Jackpots - BFM
 Instant Replay - Barcrest
+Instant Replay - Barcrest
+Instant Win - Maygay
 Instant Win - Maygay
 Interceptor - Barcrest
+Interceptor - Barcrest
+Intrigue - JPM
 Intrigue - JPM
 Invaders - Red
+Invaders - Red
+Invincible - Red
 Invincible - Red
 Its A Knockout - Maygay
+Its A Knockout - Maygay
+Its Amazing - Barcrest
 Its Amazing - Barcrest
 Jack In The Box - Empire
+Jack In The Box - Empire
+Jack Potter - Voodoo
 Jack Potter - Voodoo
 Jack The Kipper - Mazooma
+Jack The Kipper - Mazooma
+Jackpot 7s - Project
 Jackpot 7s - Project
 Jackpot 7s Classic - Project
+Jackpot 7s Classic - Project
+Jackpot And The Beanstreak - Extreme
 Jackpot And The Beanstreak - Extreme
 Jackpot Bars - JPM
+Jackpot Bars - JPM
+Jackpot Dice - JPM Dutch
 Jackpot Dice - JPM Dutch
 Jackpot Gems - Barcrest
+Jackpot Gems - Barcrest
+Jackpot Genie - Red
 Jackpot Genie - Red
 Jackpot Genie 25 - Red
+Jackpot Genie 25 - Red
 Jackpot Island - Reflex
-Jackpot Jokers - BWB German
+Jackpot Island - Reflex
 Jackpot Jokers - BWB
+Jackpot Jokers - BWB
+Jackpot Jokers - BWB German
+Jackpot Jokers - BWB German
+Jackpot Junction - BFM
 Jackpot Junction - BFM
 Jackpot X - Astra
+Jackpot X - Astra
+Jackpots That Rock N Roll - Global
 Jackpots That Rock N Roll - Global
 Jail Birds - Extreme
+Jail Birds - Extreme
+Jet Stream - Maygay
 Jet Stream - Maygay
 Jewel In The Crown - Barcrest
+Jewel In The Crown - Barcrest
+Jewel Strike - Red
 Jewel Strike - Red
 Jiggery Pokery - Mazooma German
+Jiggery Pokery - Mazooma German
+Jiggin In The Riggin - Global
 Jiggin In The Riggin - Global
 Jiggin In The Riggin 15 - Global
+Jiggin In The Riggin 15 - Global
+John Francombes Winners Enclosure - Maygay
 John Francombes Winners Enclosure - Maygay
 Jokers - JPM Dutch
+Jokers - JPM Dutch
+Jokers Gold - JPM Czech
 Jokers Gold - JPM Czech
 Jokers Gold - JPM German
+Jokers Gold - JPM German
+Jokers Wild - JPM Dutch
 Jokers Wild - JPM Dutch
 Jokers Wild - Project
+Jokers Wild - Project
+Jolly Gems - Barcrest
 Jolly Gems - Barcrest
 Jolly Gems 15 - Barcrest
+Jolly Gems 15 - Barcrest
 Jolly Jewels - Bacrest
-Jolly Joker - Barcrest Dutch
+Jolly Jewels - Bacrest
 Jolly Joker - Barcrest
+Jolly Joker - Barcrest
+Jolly Joker - Barcrest Dutch
+Jolly Joker - Barcrest Dutch
+Jolly Roger - Extreme
 Jolly Roger - Extreme
 Jolly Taverner - Barcrest
-Dr Jekyll & Mr Hyde
+Jolly Taverner - Barcrest
+Jugglin Jackpots - Betcom
 Jugglin Jackpots - Betcom
 Juicy Fruits - Empire
+Juicy Fruits - Empire
+Jumpin Jack Cash - Mazooma
 Jumpin Jack Cash - Mazooma
 Jumping Gems - Empire
+Jumping Gems - Empire
+Jumping Jack Flash - BFM
 Jumping Jack Flash - BFM
 Jumping Jack Flash 8 - BFM
+Jumping Jack Flash 8 - BFM
+Jumping Jacks - Project
 Jumping Jacks - Project
 Jumping Jokers - Vivid
+Jumping Jokers - Vivid
+Jungle Jackpots - QPS
 Jungle Jackpots - QPS
 Jungle Jive - Astra
+Jungle Jive - Astra
+Just The Ticket - Maygay
 Just The Ticket - Maygay
 Kameleon - JPM Dutch
+Kameleon - JPM Dutch
+Kapang - Crystal
 Kapang - Crystal
 King Cash - Astra
+King Cash - Astra
+King Cash - Empire
 King Cash - Empire
 King Cash 10 - Astra
+King Cash 10 - Astra
+King Kebab - Barcrest
 King Kebab - Barcrest
 King Kebab 25 - Barcrest
+King Kebab 25 - Barcrest
+King Kerching - Maygay
 King Kerching - Maygay
 King KO - Bacrest
+King KO - Bacrest
+King Kong Cash - Mazooma
 King Kong Cash - Mazooma
 Kings N Queens - BWB
+Kings N Queens - BWB
+Kings N Queens 2 - BWB
 Kings N Queens 2 - BWB
 Korma Chameleon - Empire
+Korma Chameleon - Empire
+Kung Fu - Whitbread
 Kung Fu - Whitbread
 L Of A Day - Project
+L Of A Day - Project
+Labyrinth - Electrcoin
 Labyrinth - Electrcoin
 Lady Luck - Band Of Gold - Reflex
+Lady Luck - Band Of Gold - Reflex
+Lady Luck Top O The Jackpots - Reflex
 Lady Luck Top O The Jackpots - Reflex
 Las Vegas - BFM Dutch
+Las Vegas - BFM Dutch
+Las Vegas Strip - Barcrest
 Las Vegas Strip - Barcrest
 Las Vegas Strip 10 - Barcrest
+Las Vegas Strip 10 - Barcrest
+Las Vegas Strip 8 20 - Barcrest
 Las Vegas Strip 8 20 - Barcrest
 Lazy Bones - BWB
+Lazy Bones - BWB
+Legal Tender - Red
 Legal Tender - Red
 Let The Good Times Roll - Barcrest
+Let The Good Times Roll - Barcrest
+Lets Get Jackpotted - Reflex
 Lets Get Jackpotted - Reflex
 Lets Play Darts - Electrocoin
+Lets Play Darts - Electrocoin
+Lets Play Darts 35 - Electrocoin
 Lets Play Darts 35 - Electrocoin
 Liberty - Barcrest Dutch
+Liberty - Barcrest Dutch
+Lifes A Beach - Red
 Lifes A Beach - Red
 Lights Camera Action - Global
+Lights Camera Action - Global
+Line Dancer - Mazooma
+Line Dancer - Mazooma
+Line Dancer - Mazooma 25
 Line Dancer - Mazooma 25
 Line Dancer - Mazooma 5
-Line Dancer - Mazooma
+Line Dancer - Mazooma 5
+Line Up 4 - BWB
 Line Up 4 - BWB
 Line Up Blue - Barcrest
+Line Up Blue - Barcrest
+Line Up Blue 2 - Barcrest
 Line Up Blue 2 - Barcrest
 Line Up Classic - BWB
+Line Up Classic - BWB
+Line Up Super Anniversary Edition - Red
 Line Up Super Anniversary Edition - Red
 Linx - BFM
+Linx - BFM
+Lite A Nudge - JPM
 Lite A Nudge - JPM
 Lite A Nudge 2 - JPM
+Lite A Nudge 2 - JPM
+Lite A Nudge Mk 3 - JPM
 Lite A Nudge Mk 3 - JPM
 Little Devil - PCP
+Little Devil - PCP
+Loads A Money - Barcrest
 Loads A Money - Barcrest
 Lock N Load - Red
+Lock N Load - Red
+Lockbuster - BFM
 Lockbuster - BFM
 London Underground - Maygay
+London Underground - Maygay
+Loop The Loot - QPS
 Loop The Loot - QPS
 Loot N Khamun - Vivid
+Loot N Khamun - Vivid
+Lootshoot - JPM
 Lootshoot - JPM
 Looty Call - Blueprint
+Looty Call - Blueprint
+Lotta Luck - Barcrest
 Lotta Luck - Barcrest
 Lotty Time - Union
+Lotty Time - Union
+Lucky 2s - JPM
 Lucky 2s - JPM
 Lucky 2s - JPM2
+Lucky 2s - JPM2
+Lucky Arrows - JPM
 Lucky Arrows - JPM
 Lucky Balls - BFM
+Lucky Balls - BFM
+Lucky Devil - Barcrest Dutch
 Lucky Devil - Barcrest Dutch
 Lucky Lady - BWB
+Lucky Lady - BWB
+Lucky Las Vegas - Barcrest
 Lucky Las Vegas - Barcrest
 Lucky Lotto - Barcrest
+Lucky Lotto - Barcrest
+Lucky Strike - Barcrest
 Lucky Strike - Barcrest
 Lucky Strike 2 - Barcrest
+Lucky Strike 2 - Barcrest
+Luvvly Jubbly - BFM
 Luvvly Jubbly - BFM
 Luxor - Barcrest
+Luxor - Barcrest
+Luxor 10 - Barcrest
 Luxor 10 - Barcrest
 Mad House - Barcrest
+Mad House - Barcrest
+Mad House 10 - Barcrest
 Mad House 10 - Barcrest
 Magic 10 - Electrocoin
+Magic 10 - Electrocoin
+Magic 7 - Electrocoin
 Magic 7 - Electrocoin
 Magic Carpet - BWB
+Magic Carpet - BWB
+Magic Liner - Barcrest Dutch
 Magic Liner - Barcrest Dutch
 Magic Moments - Ace
+Magic Moments - Ace
+Magic Pound About - QPS
 Magic Pound About - QPS
 Magic Replay - Barcrest Dutch
+Magic Replay - Barcrest Dutch
+Magic Replay Deluxe - Barcrest Dutch
 Magic Replay Deluxe - Barcrest Dutch
 Magnificent 7 - Barcrest
+Magnificent 7 - Barcrest
+Majestic Bells - BFM
 Majestic Bells - BFM
 Make A Million - BFM
+Make A Million - BFM
+Make A Million 10 - BFM
 Make A Million 10 - BFM
 Make A Mint - BWB
+Make A Mint - BWB
+Manhattan Skylines - Maygay
 Manhattan Skylines - Maygay
 Manhattan Skylines 240 - Maygay
+Manhattan Skylines 240 - Maygay
+Manic Miner - BFM
 Manic Miner - BFM
 Manic Money Monster - Reflex
+Manic Money Monster - Reflex
+Manic Streak Features - Vivid
 Manic Streak Features - Vivid
 Mario Kart 64 - Maygay
+Mario Kart 64 - Maygay
+Match It - Crystal
 Match It - Crystal
 Match Of The Day - BFM
+Match Of The Day - BFM
+Maverick - JPM
 Maverick - JPM
 Maximize - Union
+Maximize - Union
+Maximum - Associated Leisure
 Maximum - Associated Leisure
 Maximum Overdrive - JPM
+Maximum Overdrive - JPM
+Maximus Cash - Mazooma
 Maximus Cash - Mazooma
 Mazooma Belle - BWB
+Mazooma Belle - BWB
+Medallion Job - QPS
 Medallion Job - QPS
 Meerkats In Black - Betcom
+Meerkats In Black - Betcom
+Mega Bucks - Barcrest
 Mega Bucks - Barcrest
 Mega Bucks - JPM
+Mega Bucks - JPM
+Mega Money - Project
 Mega Money - Project
 Megalink - Barcrest Dutch
+Megalink - Barcrest Dutch
+Megazone - Barcrest
 Megazone - Barcrest
 Mental Money Monsters - Mazooma
+Mental Money Monsters - Mazooma
+Merlins Magic - Maygay Dutch
 Merlins Magic - Maygay Dutch
 Miami Dice - Barcrest Dutch
+Miami Dice - Barcrest Dutch
+Miami Dice - BWB
 Miami Dice - BWB
 Mike Reid The Guvnor - Maygay
+Mike Reid The Guvnor - Maygay
+Mini Max - Associated Leisure
 Mini Max - Associated Leisure
 Mission Possible - Astra German
+Mission Possible - Astra German
+Mississippi Lady - Barcrest German
 Mississippi Lady - Barcrest German
 Money Belt - JPM
+Money Belt - JPM
+Money Game - JPM
 Money Game - JPM
 Money Mad Martians - Bacrest
+Money Mad Martians - Bacrest
+Money Madness - QPS
 Money Madness - QPS
 Money Money Money - Maygay
+Money Money Money - Maygay
+Money Money Money 15 - Maygay
 Money Money Money 15 - Maygay
 Money Monster - Empire
+Money Monster - Empire
+Money Spinner - Empire
 Money Spinner - Empire
 Money Talks - JPM
+Money Talks - JPM
+Money To Burn - BFM
 Money To Burn - BFM
 Money To Burn 10 - BFM
+Money To Burn 10 - BFM
+Money Trapper - PCP
 Money Trapper - PCP
 Monkey Business - Global
+Monkey Business - Global
+Monkey Business 25 - Impulse
 Monkey Business 25 - Impulse
 Monkey Business 5 - Impulse
+Monkey Business 5 - Impulse
+Monopoly - 60th - JPM
 Monopoly - 60th - JPM
 Monopoly - 60th Anniversary Edition - JPM
+Monopoly - 60th Anniversary Edition - JPM
+Monopoly - BFM
 Monopoly - BFM
 Monopoly - Boom Or Bust - BFG
+Monopoly - Boom Or Bust - BFG
+Monopoly - BWB
 Monopoly - BWB
 Monopoly - Casino - Mazooma
+Monopoly - Casino - Mazooma
+Monopoly - Deluxe - Maygay
 Monopoly - Deluxe - Maygay
 Monopoly - Double Money - BFG
+Monopoly - Double Money - BFG
+Monopoly - Gold - BFG
 Monopoly - Gold - BFG
 Monopoly - Here And Now Edition - Mazooma
+Monopoly - Here And Now Edition - Mazooma
+Monopoly - Hot Property - Mazooma
 Monopoly - Hot Property - Mazooma
 Monopoly - In A Spin - Mazooma
+Monopoly - In A Spin - Mazooma
+Monopoly - Maygay
 Monopoly - Maygay
 Monopoly - Mazooma German
+Monopoly - Mazooma German
+Monopoly - Millionaire - BFG
 Monopoly - Millionaire - BFG
 Monopoly - Millionaire Row - BFG
+Monopoly - Millionaire Row - BFG
+Monopoly - Red Hot - Mazooma
 Monopoly - Red Hot - Mazooma
 Monopoly - Red Hot 35 - Mazooma
+Monopoly - Red Hot 35 - Mazooma
+Monopoly - Road To Riches 35 - Mazooma
 Monopoly - Road To Riches 35 - Mazooma
 Monopoly - Road To Riches 5 - Mazooma
+Monopoly - Road To Riches 5 - Mazooma
+Monopoly - Takeover - BFG
 Monopoly - Takeover - BFG
 Monopoly - Wheel Of Wealth - Mazooma
+Monopoly - Wheel Of Wealth - Mazooma
+Monopoly - Win A Gain - Mazooma
 Monopoly - Win A Gain - Mazooma
 Monopoly - Wonders Of The World 25 - Mazooma
+Monopoly - Wonders Of The World 25 - Mazooma
+Monopoly - Wonders Of The World 5 - Mazooma
 Monopoly - Wonders Of The World 5 - Mazooma
 Monopoly Casino 25 - Mazooma
+Monopoly Casino 25 - Mazooma
+Monopoly Casino 5 - Mazooma
 Monopoly Casino 5 - Mazooma
 Monopoly Hot Property 35 - Mazooma
+Monopoly Hot Property 35 - Mazooma
+Monopoly Wheel Of Wealth 35 - Mazooma
 Monopoly Wheel Of Wealth 35 - Mazooma
 Monte Carlo - Barcrest
-Monte Carlo Or Bust - BWB German
+Monte Carlo - Barcrest
 Monte Carlo Or Bust - BWB
+Monte Carlo Or Bust - BWB
+Monte Carlo Or Bust - BWB German
+Monte Carlo Or Bust - BWB German
+Monte Carlo Or Bust - Mazooma
 Monte Carlo Or Bust - Mazooma
 Montego Pay - QPS
+Montego Pay - QPS
+Monty Python Flying Circus - Barcrest
 Monty Python Flying Circus - Barcrest
 Monty Python Holy Grail - Barcrest
+Monty Python Holy Grail - Barcrest
+Monty Python Rio - Barcrest
 Monty Python Rio - Barcrest
 Monty Pythons Flying Circus 10 5 - Barcrest
+Monty Pythons Flying Circus 10 5 - Barcrest
+Monty Pythons Flying Circus 30 5 - Barcrest
 Monty Pythons Flying Circus 30 5 - Barcrest
 Moon Lite - BWB
+Moon Lite - BWB
+More Money - VFS
 More Money - VFS
 Mortal Wombat - Global
+Mortal Wombat - Global
+Mortal Wombat 5 - Global
 Mortal Wombat 5 - Global
 Most Daunting - Extreme
+Most Daunting - Extreme
+Motorway Mania - BFM
 Motorway Mania - BFM
 Mouse Trap - JPM
+Mouse Trap - JPM
+Mr Money Bags - Empire
 Mr Money Bags - Empire
 Multi Golden Game
+Multi Golden Game
+Multi Way - Barcrest Dutch
 Multi Way - Barcrest Dutch
 Multi Win - JPM Dutch
+Multi Win - JPM Dutch
+Mummy Talks - Impulse
 Mummy Talks - Impulse
 Mystery Spin - JPM
+Mystery Spin - JPM
+Naughty But Nice - Barcrest
 Naughty But Nice - Barcrest
 Neon Light - Maygay
+Neon Light - Maygay
+Neptunes Treasure - Barcrest
 Neptunes Treasure - Barcrest
 Neptunes Treasure 15 - Barcrest
+Neptunes Treasure 15 - Barcrest
+Never Mind The Jackpots - Mazooma
 Never Mind The Jackpots - Mazooma
 New York New York - Maygay
+New York New York - Maygay
+Nifty Fifty - Barcrest
 Nifty Fifty - Barcrest
 Nifty Fifty - Project
+Nifty Fifty - Project
+Nitro - Red
 Nitro - Red
 No Limit Nudge - MDM
+No Limit Nudge - MDM
+Noels House Party - Maygay
 Noels House Party - Maygay
 Note Exchange - JPM
+Note Exchange - JPM
+Note Shoot - JPM
 Note Shoot - JPM
 Note Spinner - JPM
+Note Spinner - JPM
+Nudge Banker - Barcrest
 Nudge Banker - Barcrest
 Nudge Banker - Maygay
+Nudge Banker - Maygay
+Nudge Bonanza - MDM
 Nudge Bonanza - MDM
 Nudge Bonanza Deluxe - JPM
+Nudge Bonanza Deluxe - JPM
+Nudge Double Up 1 - JPM
 Nudge Double Up 1 - JPM
 Nudge Double Up Deluxe - JPM
+Nudge Double Up Deluxe - JPM
+Nudge Double Up Deluxe Mk 2 - JPM
 Nudge Double Up Deluxe Mk 2 - JPM
 Nudge Double Up Deluxe Mk 3 - JPM
+Nudge Double Up Deluxe Mk 3 - JPM
+Nudge Double Up Deluxe Mk 4 - JPM
 Nudge Double Up Deluxe Mk 4 - JPM
 Nudge Double Up Deluxe Mk 4 3 - JPM
+Nudge Double Up Deluxe Mk 4 3 - JPM
+Nudge Double Up Deluxe Mk2 3 - JPM
 Nudge Double Up Deluxe Mk2 3 - JPM
 Nudge Double Up Deluxe MkII 3 - JPM
+Nudge Double Up Deluxe MkII 3 - JPM
+Nudge Fever - BWB
 Nudge Fever - BWB
 Nudge Gems - MDM
+Nudge Gems - MDM
+Nudge It - Mazooma
 Nudge It - Mazooma
 Nudge Money - PCP
+Nudge Money - PCP
+Nudge Nudge Wink Wink - Barcrest
 Nudge Nudge Wink Wink - Barcrest
 Nudge Nudge Wink Wink Classic - Barcrest
+Nudge Nudge Wink Wink Classic - Barcrest
+Nudge Nudge Wink Wink Gold - Barcrest
 Nudge Nudge Wink Wink Gold - Barcrest
 Nudge Nudge Wink Wink Gold 10 - Barcrest
+Nudge Nudge Wink Wink Gold 10 - Barcrest
+Nudge Nudge Wink Wink Gold 5 - Barcrest
 Nudge Nudge Wink Wink Gold 5 - Barcrest
 Nudge Nudge Wink Wink Say No More - Barcrest
+Nudge Nudge Wink Wink Say No More - Barcrest
+Nudge Quest - Barcrest
 Nudge Quest - Barcrest
 Nudge Shuffle - Barcrest
+Nudge Shuffle - Barcrest
+Nudge Shuffle - JPM
 Nudge Shuffle - JPM
 Nudge Up - Barcrest Dutch
+Nudge Up - Barcrest Dutch
+Nudges Unlimited - Barcrest
 Nudges Unlimited - Barcrest
 Number One - Barcrest Dutch
+Number One - Barcrest Dutch
+Nuns N Roses - Mazooma
 Nuns N Roses - Mazooma
 Oche Oche Oche - Barcrest
+Oche Oche Oche - Barcrest
+Odds On - Barcrest
 Odds On - Barcrest
 Oldtimer - Barcrest Dutch
+Oldtimer - Barcrest Dutch
+Olivers Twist - Betcom
 Olivers Twist - Betcom
 Olympia - BFM Dutch
+Olympia - BFM Dutch
+Olympic Gold - BWB German
 Olympic Gold - BWB German
 Omega - Barcrest 1990 Dutch
+Omega - Barcrest 1990 Dutch
+Omega - Maygay
 Omega - Maygay
 On A Roll - Red
+On A Roll - Red
+On A Roll 35 - Red
 On A Roll 35 - Red
 On A Roll 5 - Red
+On A Roll 5 - Red
+On Line - PCP
 On Line - PCP
 On The Buses - Maygay
+On The Buses - Maygay
+On The Fiddle - Barcrest
 On The Fiddle - Barcrest
 Only Fools And Horses - BFM
+Only Fools And Horses - BFM
+Ooh Aah Dracula - Barcrest
 Ooh Aah Dracula - Barcrest
 Ooh Aah Dracula - BWB
+Ooh Aah Dracula - BWB
+Ooh Aah Dracula 15 - Barcrest
 Ooh Aah Dracula 15 - Barcrest
 Ooh Aah Dracula Rio - Barcrest
+Ooh Aah Dracula Rio - Barcrest
+Open The Box - Ace
 Open The Box - Ace
 Open The Box - Barcrest
+Open The Box - Barcrest
+Options Unlimited - Barcrest
 Options Unlimited - Barcrest
 Over The Moon - Barcrest
+Over The Moon - Barcrest
+Overload - Barcrest
 Overload - Barcrest
 OXO - JPM
-Pacman - Mazooma German
+OXO - JPM
 PacMan - Mazooma
+PacMan - Mazooma
+Pacman - Mazooma German
+Pacman - Mazooma German
+PacMan 2 - Mazooma
 PacMan 2 - Mazooma
 PacMan Casino - Mazooma
+PacMan Casino - Mazooma
+PacMan Plus - Mazooma
 PacMan Plus - Mazooma
 Pacman Plus - QPS
+Pacman Plus - QPS
+PacMania - Mazooma
 PacMania - Mazooma
 Paint The Town Red 25 - Red
+Paint The Town Red 25 - Red
+Paint The Town Red 5 - Red
 Paint The Town Red 5 - Red
 Palm Springs - JPM
+Palm Springs - JPM
+Paparrazi - Empire
 Paparrazi - Empire
 Party Animal - Barcrest
+Party Animal - Barcrest
+Party Time - BFM
 Party Time - BFM
 Party Time 25 - Astra
+Party Time 25 - Astra
+Party Time 5 - Astra
 Party Time 5 - Astra
 Pay Time - BFM Dutch
+Pay Time - BFM Dutch
+Paystation - QPS
 Paystation - QPS
 Peep Show - Barcrest
+Peep Show - Barcrest
+Pharaoh - JPM Dutch
 Pharaoh - JPM Dutch
 Pharaohs Gold - BFG Dutch
+Pharaohs Gold - BFG Dutch
+Pharaohs Gold - BFM
 Pharaohs Gold - BFM
 Pick A Fruit - JPM Dutch
+Pick A Fruit - JPM Dutch
+Pick Of The Pack - BFG
 Pick Of The Pack - BFG
 Pick Yer Pesos - Global
+Pick Yer Pesos - Global
+Pie Factory 1 - Vivid
 Pie Factory 1 - Vivid
 Pie Factory 2 - Vivid
+Pie Factory 2 - Vivid
+Pie Factory 3 - Vivid
 Pie Factory 3 - Vivid
 Pie Factory 5 - Vivid
+Pie Factory 5 - Vivid
+Pieces Of Eight - QPS
 Pieces Of Eight - QPS
 Piggy Banking - Astra
+Piggy Banking - Astra
+Pinball Fever - Crystal
 Pinball Fever - Crystal
 Pinball Nudger - Empire
+Pinball Nudger - Empire
+Pinball Nudger 5 - Empire
 Pinball Nudger 5 - Empire
 Pinball Wizard - JPM
+Pinball Wizard - JPM
 Pink Panther - Double Yer Money - QPS
-Pink Panther - Maygay Dutch
+Pink Panther - Double Yer Money - QPS
 Pink Panther - Maygay
+Pink Panther - Maygay
+Pink Panther - Maygay Dutch
+Pink Panther - Maygay Dutch
+Pink Panther - QPS
 Pink Panther - QPS
 Pink Panther 25 - QPS
+Pink Panther 25 - QPS
+Pink Panther 35 - QPS
 Pink Panther 35 - QPS
 Pink Panther Crack The Code 35 - QPS
+Pink Panther Crack The Code 35 - QPS
+Pink Panther Crack The Code 70 - QPS
 Pink Panther Crack The Code 70 - QPS
 Pink Pussy - MDM
+Pink Pussy - MDM
+Pink Pussy 25 - MDM
 Pink Pussy 25 - MDM
 Pirates Gold - JPM Czech
+Pirates Gold - JPM Czech
+Pit Fall - Empire
 Pit Fall - Empire
 Place Your Bets - Barcrest
+Place Your Bets - Barcrest
+Play It Again - Ace
 Play It Again - Ace
 Play It Again Deluxe - Ace
+Play It Again Deluxe - Ace
+Play The Joker - Astra
 Play The Joker - Astra
 Plus Money Deluxe - JPM
+Plus Money Deluxe - JPM
+Plus Nudge - JPM
 Plus Nudge - JPM
 Plus Nudge - JPM2
+Plus Nudge - JPM2
+Poker King - BFG
 Poker King - BFG
 Police Squid - QPS
+Police Squid - QPS
+Pony Express - BFM
 Pony Express - BFM
 Pool Play - JPM
+Pool Play - JPM
+Popeye - JPM
 Popeye - JPM
 Popeye - Mazooma
+Popeye - Mazooma
+Popeye And Olive - JPM
 Popeye And Olive - JPM
 Popeye Super - JPM
+Popeye Super - JPM
+Popeyes Treasure Hunt - JPM
 Popeyes Treasure Hunt - JPM
 Pot Black - Barcrest
+Pot Black - Barcrest
+Pot Black 15 - Barcrest
 Pot Black 15 - Barcrest
 Pot Of Gold - Crystal
+Pot Of Gold - Crystal
+Pot Of Gold 15 - Ace
 Pot Of Gold 15 - Ace
 Pot Of Gold 5 - Ace
+Pot Of Gold 5 - Ace
+Pot Shot - QPS
 Pot Shot - QPS
 Potluck - JPM Dutch
+Potluck - JPM Dutch
+Pots Of Gold - BFG
 Pots Of Gold - BFG
 Pots Of Luck - QPS
+Pots Of Luck - QPS
+Pound Sterling - Ace
 Pound Sterling - Ace
 Pound Stretcher - Ace
+Pound Stretcher - Ace
+Poundaround - Ace
 Poundaround - Ace
 Pounds Of The Baskervilles - Maygay
+Pounds Of The Baskervilles - Maygay
+Poundstretcher - Electrocoin
 Poundstretcher - Electrocoin
 Power Lines - BFG
+Power Lines - BFG
+Power Run - Eurocoin Dutch
 Power Run - Eurocoin Dutch
 Power Spin - JPM
+Power Spin - JPM
+Power Surge - QPS
 Power Surge - QPS
 Powerball - QPS
+Powerball - QPS
+Primetime - Ace
 Primetime - Ace
 Psycho Cash Beast - Barcrest
+Psycho Cash Beast - Barcrest
+Pug Life - Betcom
 Pug Life - Betcom
 Pure Madness - Union
+Pure Madness - Union
+Quack Shot - Barcrest
 Quack Shot - Barcrest
 Quality Streak - BFG
+Quality Streak - BFG
+Quantum Leap - JPM
 Quantum Leap - JPM
 Quazzi Mo Dough - QPS
+Quazzi Mo Dough - QPS
+Quick On The Draw - Vivid
 Quick On The Draw - Vivid
 Quick On The Draw 5 - Vivid
+Quick On The Draw 5 - Vivid
+Quickshot - Maygay
 Quickshot - Maygay
 Quid Vicious - QPS
+Quid Vicious - QPS
+Quid Vicious 70 - QPS
 Quid Vicious 70 - QPS
 Raiders Of The Lost Tenners - Reflex
+Raiders Of The Lost Tenners - Reflex
+Rainbow - BFM Dutch
 Rainbow - BFM Dutch
 Rainbow Riches - Barcrest
+Rainbow Riches - Barcrest
+Rainbow Riches Casino - Barcrest
 Rainbow Riches Casino - Barcrest
 Rainbow Runner - Red
+Rainbow Runner - Red
+Raise The Roof - Vivid
 Raise The Roof - Vivid
 Rampage - Red
+Rampage - Red
+Random Gold Double Up - Electrocoin
 Random Gold Double Up - Electrocoin
 Random Roulette - Barcrest Dutch
+Random Roulette - Barcrest Dutch
+Random Spin N Win - QPS
 Random Spin N Win - QPS
 Rapid Pay
+Rapid Pay
+Rat Race - BWB
 Rat Race - BWB
 Razzle Dazzle - Barcrest
+Razzle Dazzle - Barcrest
+Ready Steady Go - Barcrest
 Ready Steady Go - Barcrest
 Ready To Rock - Barcrest
+Ready To Rock - Barcrest
+Ready To Roll 10 - Astra
 Ready To Roll 10 - Astra
 Ready To Roll 15 - Astra
+Ready To Roll 15 - Astra
+Ready To Roll 5 - Astra
 Ready To Roll 5 - Astra
 Ready To Rumble - Crystal
+Ready To Rumble - Crystal
+Ready To Rumble 5 - Crystal
 Ready To Rumble 5 - Crystal
 Red Alert - BFM Dutch
-Red Alert - JPM German
+Red Alert - BFM Dutch
 Red Alert - JPM
+Red Alert - JPM
+Red Alert - JPM German
+Red Alert - JPM German
+Red Arrow - JPM
 Red Arrow - JPM
 Red Demon - JPM Czech
+Red Demon - JPM Czech
+Red Dragon - QPS
 Red Dragon - QPS
 Red Dwarf - Red
+Red Dwarf - Red
+Red Heat - Barcrest Dutch
 Red Heat - Barcrest Dutch
 Red Hot Fever - BWB
+Red Hot Fever - BWB
+Red Hot Ibiza - BFM
 Red Hot Ibiza - BFM
 Red Hot Knights - Barcrest
+Red Hot Knights - Barcrest
+Red Hot Notes - QPS
 Red Hot Notes - QPS
 Red Hot Poker - BWB
+Red Hot Poker - BWB
+Red Hot Rocks - QPS
 Red Hot Rocks - QPS
 Red Hot Roll - Barcrest
+Red Hot Roll - Barcrest
+Red Hot Roll 5 - Barcrest
 Red Hot Roll 5 - Barcrest
 Red Hot Roll Classic - Barcrest
+Red Hot Roll Classic - Barcrest
+Red Hot Roll Classic 25 - Barcrest
 Red Hot Roll Classic 25 - Barcrest
 Red Hot Wheels - QPS
+Red Hot Wheels - QPS
+Red Hot X - Mazooma
 Red Hot X - Mazooma
 Red Square - QPS
+Red Square - QPS
+Red White N Blue - Barcrest Dutch
 Red White N Blue - Barcrest Dutch
 Red White N Blue 7 - Electrocoin
+Red White N Blue 7 - Electrocoin
+Red X - Red
 Red X - Red
 Reel 2 Reel - Barcrest
+Reel 2 Reel - Barcrest
+Reel Action - JPM Dutch
 Reel Action - JPM Dutch
 Reel Crazy 2 - JPM
+Reel Crazy 2 - JPM
+Reel Crazy Deluxe - JPM
 Reel Crazy Deluxe - JPM
 Reel Crazy Deluxe 3 - JPM
+Reel Crazy Deluxe 3 - JPM
+Reel Ghost - JPM Dutch
 Reel Ghost - JPM Dutch
 Reel Good Time - Global
+Reel Good Time - Global
+Reel Magic - Electocoin
 Reel Magic - Electocoin
 Reel Magic - JPM Dutch
+Reel Magic - JPM Dutch
+Reel Magic Turbo Play - Barcrest Dutch
 Reel Magic Turbo Play - Barcrest Dutch
 Reel Magic Turbo Play - Fairplay Greece
+Reel Magic Turbo Play - Fairplay Greece
+Reel Money - JPM
 Reel Money - JPM
 Reel Money 10 - JPM
+Reel Money 10 - JPM
+Reel Money 2 - JPM
 Reel Money 2 - JPM
 Reel Money 8 - JPM
+Reel Money 8 - JPM
+Reel Poker - Barcrest
 Reel Poker - Barcrest
 Reely Crazy - BFM
+Reely Crazy - BFM
+Reflex 240 - Project
 Reflex 240 - Project
 Reflex 400 - Project
+Reflex 400 - Project
+Reflex 480 - Project
 Reflex 480 - Project
 Reno Reels - BWB
+Reno Reels - BWB
+Reservoir Frogs - Empire
 Reservoir Frogs - Empire
 Return Of The Count - Mazooma
+Return Of The Count - Mazooma
+Return To Haunted House - Empire
 Return To Haunted House - Empire
 Revolution - Barcrest
+Revolution - Barcrest
+Revolution - BFM Dutch
 Revolution - BFM Dutch
 Revolva - Union
+Revolva - Union
+Revolver - Mazooma
 Revolver - Mazooma
 Rhythm - JPM Dutch
+Rhythm - JPM Dutch
+Rich Geezer - BFM
 Rich Geezer - BFM
 Rich N Famous - Barcrest
+Rich N Famous - Barcrest
+Rich N Famous 10 - Barcrest
 Rich N Famous 10 - Barcrest
 Ricochet - JPM
+Ricochet - JPM
+Ring A Bell - Astra
 Ring A Bell - Astra
 Rio Grande - Crystal
+Rio Grande - Crystal
+Rise To The Top - Mazooma
 Rise To The Top - Mazooma
 Road Hog - Barcrest
+Road Hog - Barcrest
+Road Hog 2 - Barcrest
 Road Hog 2 - Barcrest
 Road Runner - Barcrest Dutch
+Road Runner - Barcrest Dutch
+Road To Riches - Mazooma
 Road To Riches - Mazooma
 Road To Wembley - BFM
+Road To Wembley - BFM
+Road To Wembley 10 - BFM
 Road To Wembley 10 - BFM
 Roadrunner - JPM
+Roadrunner - JPM
+Rob Da Bank - Barcrest
 Rob Da Bank - Barcrest
 Robin Hood - Ace
+Robin Hood - Ace
+Rock N Roll - Union
 Rock N Roll - Union
 Rock On - Barcrest
+Rock On - Barcrest
+Rock Pile - PCP
 Rock Pile - PCP
 Rocket Money - Barcrest
+Rocket Money - Barcrest
+Rocket Money - Red
 Rocket Money - Red
 Rocket Money 10 - Barcrest
+Rocket Money 10 - Barcrest
+Rocky - Barcrest
 Rocky - Barcrest
 Rocky Horror Show - BWB
+Rocky Horror Show - BWB
+Roll Up Roll Up - Vivid
 Roll Up Roll Up - Vivid
 Roll With It - Reflex
+Roll With It - Reflex
+Roll X - Empire
 Roll X - Empire
 Roll X 35 - Empire
+Roll X 35 - Empire
+Roller Coaster - JPM
 Roller Coaster - JPM
 Roller Coaster 10 - JPM
+Roller Coaster 10 - JPM
+Roller Coaster Classic - JPM
 Roller Coaster Classic - JPM
 Rolling Thunder - Mazooma
+Rolling Thunder - Mazooma
+Rolling Thunder 25 - Mazooma
 Rolling Thunder 25 - Mazooma
 Ronnie O Sullivans Rocket Money - BFG
+Ronnie O Sullivans Rocket Money - BFG
+Rose N Crown - BFM Dutch
 Rose N Crown - BFM Dutch
 Rota Note - JPM
+Rota Note - JPM
+Rotex - Union
 Rotex - Union
 Round The Bend - Extreme
+Round The Bend - Extreme
+Round The Town - BFM
 Round The Town - BFM
 Round The Town 6 - BFM
+Round The Town 6 - BFM
+Route 66 - JPM
 Route 66 - JPM
 Royal 24 - Maygay Dutch
+Royal 24 - Maygay Dutch
+Royal Roulette - Global
 Royal Roulette - Global
 Rubies And Diamonds - Barcrest
+Rubies And Diamonds - Barcrest
+Rumble In The Jungle - Barcrest
 Rumble In The Jungle - Barcrest
 Run For Your Money - Barcrest
+Run For Your Money - Barcrest
+Runaway Trail - Barcrest
 Runaway Trail - Barcrest
 Salsa - Barcrest Dutch
+Salsa - Barcrest Dutch
+Samurai - JPM German
 Samurai - JPM German
 Satellite - BFM Dutch
+Satellite - BFM Dutch
+Schloss Drachenstein - JPM German
 Schloss Drachenstein - JPM German
 Screen Play - Maygay
+Screen Play - Maygay
+Screwing Around - Global
 Screwing Around - Global
 Search Light - Maygay
+Search Light - Maygay
+Secret 7s - BWB
 Secret 7s - BWB
 Section 16 - QPS
+Section 16 - QPS
+Select - Union
 Select - Union
 Sevens Above - Project
+Sevens Above - Project
+Sevens And Melons - Project
 Sevens And Melons - Project
 Shanghai - BFM Dutch
+Shanghai - BFM Dutch
+Shanghai Surprise - Empire
 Shanghai Surprise - Empire
 Shark Raving Mad - Barcrest
+Shark Raving Mad - Barcrest
+Sharks Of The Caribbean - Reflex
 Sharks Of The Caribbean - Reflex
 Sheik Yer Money - Barcrest
+Sheik Yer Money - Barcrest
+Shock N Roll - QPS
 Shock N Roll - QPS
 Shockwave - QPS
+Shockwave - QPS
+Shockwave 20 - QPS
 Shockwave 20 - QPS
 Shogun - BFM
+Shogun - BFM
+Shooting Stars - Empire
 Shooting Stars - Empire
 Show Me The Money - Empire
+Show Me The Money - Empire
+Show Me The Mummy - Red
 Show Me The Mummy - Red
 Show Time - Reflex
+Show Time - Reflex
+Showtime Spectacular - BFM
 Showtime Spectacular - BFM
 Side Winder - Ace
+Side Winder - Ace
+Side Winder - JPM
 Side Winder - JPM
 Silva Reels - BFM
+Silva Reels - BFM
+Silver Classic - PCP
 Silver Classic - PCP
 Silver Ghost Deluxe - JPM
+Silver Ghost Deluxe - JPM
+Silver Nudger - MDM
 Silver Nudger - MDM
 Silver Screen - Barcrest
+Silver Screen - Barcrest
+Silver Shadow - Barcrest
 Silver Shadow - Barcrest
 Six Spinner - Maygay Dutch
+Six Spinner - Maygay Dutch
+Slider - Red
 Slider - Red
 Smash And Grab - Barcrest
+Smash And Grab - Barcrest
+Smash Martians - Barcrest
 Smash Martians - Barcrest
 Smash N Grab - MDM
+Smash N Grab - MDM
+Smash N Grab 15 - MDM
 Smash N Grab 15 - MDM
 Smash The Cash - Red
+Smash The Cash - Red
+Smokey Bikin - BWB
 Smokey Bikin - BWB
 Snail Blazer - Red
+Snail Blazer - Red
+Snake Rattle N Roll - BFG
 Snake Rattle N Roll - BFG
 Snake Rattle N Roll 25 - BFG
+Snake Rattle N Roll 25 - BFG
+Snake Rattle N Roll 5 - BFG
 Snake Rattle N Roll 5 - BFG
 Snakes And Ladders5 - BFG
+Snakes And Ladders5 - BFG
+Snakes N Ladders - JPM
 Snakes N Ladders - JPM
 Snakes N Ladders - MDM
+Snakes N Ladders - MDM
+Snakes N Ladders 10 - JPM
 Snakes N Ladders 10 - JPM
 Snakes N Ladders 25 - BFG
+Snakes N Ladders 25 - BFG
+Snakes N Ladders Slides Again - Crystal
 Snakes N Ladders Slides Again - Crystal
 Snakes N Ladders2 - BFG
+Snakes N Ladders2 - BFG
+Snakez N Ladderz - Red
 Snakez N Ladderz - Red
 Snap Happy - PCP
+Snap Happy - PCP
+Snappy Viper - Barcrest
 Snappy Viper - Barcrest
 Snooker - Eurocoin Dutch
+Snooker - Eurocoin Dutch
+Snow White And The Seven Tenners - Reflex
 Snow White And The Seven Tenners - Reflex
 Some Like It Hot - Mazooma
+Some Like It Hot - Mazooma
+Son Of Dracula - Barcrest
 Son Of Dracula - Barcrest
 Son Of Dracula 15 - Barcrest
+Son Of Dracula 15 - Barcrest
+Sonic The Hedgehog - JPM
 Sonic The Hedgehog - JPM
 South Park - BFM
+South Park - BFM
+Space Ace - QPS
 Space Ace - QPS
 Space Buster - QPS
+Space Buster - QPS
+Space Invaders - Crystal
 Space Invaders - Crystal
 Space Raiders - Barcrest
+Space Raiders - Barcrest
+Spartacash - Fortune And Glory - Reflex
 Spartacash - Fortune And Glory - Reflex
 Spartacash - Impulse
+Spartacash - Impulse
+Spartacash 5 - Impulse
 Spartacash 5 - Impulse
 Special Reserve 3 - JPM
+Special Reserve 3 - JPM
+Special Reserve Deluxe - JPM
 Special Reserve Deluxe - JPM
 Spectre - BFM
+Spectre - BFM
+Spellbound - Empire
 Spellbound - Empire
 Sphinx - Electrocoin
+Sphinx - Electrocoin
+Sphinx 8 - Electrocoin
 Sphinx 8 - Electrocoin
 Spice It Up - BFG
+Spice It Up - BFG
+Spiker The Biker - Barcrest
 Spiker The Biker - Barcrest
 Spiker The Biker 10 5 - Barcrest
+Spiker The Biker 10 5 - Barcrest
+Spiker The Biker 30 5 - Barcrest
 Spiker The Biker 30 5 - Barcrest
 Spin A Win - CMS
+Spin A Win - CMS
+Spin N Win - CMS
 Spin N Win - CMS
 Spin On It - Impulse
+Spin On It - Impulse
+Spoof - PCP
 Spoof - PCP
 Spoof Super - PCP
+Spoof Super - PCP
+Spoof Super 4 - PCP
 Spoof Super 4 - PCP
 Spot Light - Barcrest
+Spot Light - Barcrest
+Spot On - PCP
 Spot On - PCP
 SpotLight - Maygay
+SpotLight - Maygay
+Squids In - Barcrest
 Squids In - Barcrest
 Squids In - BWB
+Squids In - BWB
+Stack Attack - Red
 Stack Attack - Red
 Stag Night - BFM
+Stag Night - BFM
+Star Paws - Betcom
 Star Paws - Betcom
 Star Prize - BFM
+Star Prize - BFM
+Star Turn - BWB
 Star Turn - BWB
 Star Wars - A New Hope - Barcrest
+Star Wars - A New Hope - Barcrest
+Star Wars - JPM German
 Star Wars - JPM German
 Star Wars - Return Of The Jedi - Barcrest
+Star Wars - Return Of The Jedi - Barcrest
+Star Wars - The Empire Strikes Back - Barcrest
 Star Wars - The Empire Strikes Back - Barcrest
 Stardust - Barcrest Dutch
+Stardust - Barcrest Dutch
+Stars And Bars - Trident
 Stars And Bars - Trident
 Stars N Stripes - Vivid
+Stars N Stripes - Vivid
+Stars N Stripes 25 - Vivid
 Stars N Stripes 25 - Vivid
 Stax Of Cash - Barcrest
+Stax Of Cash - Barcrest
+Step Timer - Barcrest Dutch
 Step Timer - Barcrest Dutch
 Steppa Nudge - JPM
+Steppa Nudge - JPM
+Sting King Rich - Red
 Sting King Rich - Red
 Sting King Rich 5 - Red
+Sting King Rich 5 - Red
+Stir Crazy - Mazooma
 Stir Crazy - Mazooma
 Stop The Clock - Barcrest
+Stop The Clock - Barcrest
+Stop The Clock - BAS
 Stop The Clock - BAS
 Streaks Ahead - QPS
+Streaks Ahead - QPS
+Strike 10 - JPM
 Strike 10 - JPM
 Strike 4 - BFM Dutch
+Strike 4 - BFM Dutch
+Strike A Light - Barcrest
 Strike A Light - Barcrest
 Strike It Lucky - Barcrest
+Strike It Lucky - Barcrest
+Sub Zero - Red
 Sub Zero - Red
 Subbuteo - Maygay
+Subbuteo - Maygay
+Sudden Impact - Maygay
 Sudden Impact - Maygay
 Sudden Impact - Maygay1
+Sudden Impact - Maygay1
+Sudden Impact - Maygay2
 Sudden Impact - Maygay2
 Suits U Sir - QPS
+Suits U Sir - QPS
+Sunday Sport - PCP
 Sunday Sport - PCP
 Sunset Boulevard - BWB
+Sunset Boulevard - BWB
+Supa Fruits - Union
 Supa Fruits - Union
 Supa Shifta - JPM
+Supa Shifta - JPM
+Supa Slot - Barcrest
 Supa Slot - Barcrest
 Supa Steppa - JPM
+Supa Steppa - JPM
+Supa Steppa 4 - JPM
 Supa Steppa 4 - JPM
 Supa Streak - PCP
+Supa Streak - PCP
+Supa Swop - BWB
 Supa Swop - BWB
 Supa Track - JPM
+Supa Track - JPM
+Supatron - Barcrest Dutch
 Supatron - Barcrest Dutch
 Super 4 - JPM Dutch
+Super 4 - JPM Dutch
+Super Bar X - Electrocoin
 Super Bar X - Electrocoin
 Super Bars - JPM Dutch
+Super Bars - JPM Dutch
+Super Breakout - JPM
 Super Breakout - JPM
 Super Charged - Barcrest
+Super Charged - Barcrest
+Super Cobra - BWB
 Super Cobra - BWB
 Super Deal - Barcrest Dutch
+Super Deal - Barcrest Dutch
+Super Each Way Shuffle 2 - JPM
 Super Each Way Shuffle 2 - JPM
 Super Eachway Nudger - JPM
+Super Eachway Nudger - JPM
+Super Exchanges Unlimited - Barcrest
 Super Exchanges Unlimited - Barcrest
 Super Flush - BFM Dutch
+Super Flush - BFM Dutch
+Super Fruit - JPM Dutch
 Super Fruit - JPM Dutch
 Super Hi Lo - JPM
+Super Hi Lo - JPM
+Super Jester - PCP
 Super Jester - PCP
 Super Jester 240 - PCP
+Super Jester 240 - PCP
+Super League - BWB
 Super League - BWB
 Super Mario 64 - Maygay
+Super Mario 64 - Maygay
+Super MultiNudge - Barcrest
 Super MultiNudge - Barcrest
 Super Nova - Barcrest
+Super Nova - Barcrest
+Super Nova - Maygay Dutch
 Super Nova - Maygay Dutch
 Super Nudge Gambler - JPM
+Super Nudge Gambler - JPM
+Super Nudge Gambler 4 - JPM
 Super Nudge Gambler 4 - JPM
 Super Nudge Gambler Red - JPM
+Super Nudge Gambler Red - JPM
+Super Pots - JPM Dutch
 Super Pots - JPM Dutch
 Super Pots - Maygay
+Super Pots - Maygay
+Super Pots 8 - Maygay
 Super Pots 8 - Maygay
 Super Red Bar - Electrocoin
+Super Red Bar - Electrocoin
+Super Red Bar 15 - Electrocoin
 Super Red Bar 15 - Electrocoin
 Super Red Bar 25 - Electrocoin
+Super Red Bar 25 - Electrocoin
+Super Reel - JPM Dutch
 Super Reel - JPM Dutch
 Super Star - Barecrest
+Super Star - Barecrest
+Super Stars - JPM Dutch
 Super Stars - JPM Dutch
 Super Streak - Barcrest
+Super Streak - Barcrest
+Super Streak Classic - Barcrest
 Super Streak Classic - Barcrest
 Super Streak Gold - Barcrest
+Super Streak Gold - Barcrest
+Super Streax - Mazooma
 Super Streax - Mazooma
 Super Surfin - Gemini
+Super Surfin - Gemini
+Super Tubes - Barcrest
 Super Tubes - Barcrest
 Super Two - Barcrest
+Super Two - Barcrest
+Superbank - JPM
 Superbank - JPM
 Superline - JPM
+Superline - JPM
+Superline 3 - JPM
 Superline 3 - JPM
 Supershot - JPM
+Supershot - JPM
+Superwin - BWB
 Superwin - BWB
 Surprise Surprize - BFM
+Surprise Surprize - BFM
+Surprise Surprize 8 - BFM
 Surprise Surprize 8 - BFM
 Swap A Note - Barcrest
+Swap A Note - Barcrest
+Switchback - JPM
 Switchback - JPM
 Take 2 - JPM
+Take 2 - JPM
+Take It Or Leave It - Ace
 Take It Or Leave It - Ace
 Take Note - BFM
+Take Note - BFM
+Take Note - Maygay
 Take Note - Maygay
 Take The Piece - BFG
+Take The Piece - BFG
+Take The Piece 35 - BFG
 Take The Piece 35 - BFG
 Take Two - Barcrest
+Take Two - Barcrest
+Take Two - Red
 Take Two - Red
 Take Your Pick - Barcrest
+Take Your Pick - Barcrest
+Take Your Pick 10 - Barcrest
 Take Your Pick 10 - Barcrest
 Temple Of Treasure - Barcrest
+Temple Of Treasure - Barcrest
+Ten Out Of Ten - Barcrest
 Ten Out Of Ten - Barcrest
 Ten Ten Do It Again - Barcrest
+Ten Ten Do It Again - Barcrest
+Ten Up - BFM
 Ten Up - BFM
 Terminator - JPM
+Terminator - JPM
+Test Pilot - PCP
 Test Pilot - PCP
 Tetris - Mazooma
+Tetris - Mazooma
+Thats Magic - Red
 Thats Magic - Red
 The Addams Family 15 - Barcrest
+The Addams Family 15 - Barcrest
+The Addams Family 5 - Barcrest
 The Addams Family 5 - Barcrest
 The Big Apple - MDM
+The Big Apple - MDM
+The Big Breakfast - BFM
 The Big Breakfast - BFM
 The Big Breakfast 2 - BFM
+The Big Breakfast 2 - BFM
+The Big Cheese - Barcrest
 The Big Cheese - Barcrest
 The Big Cheese - Empire
+The Big Cheese - Empire
+The Big Game - Barcrest
 The Big Game - Barcrest
 The Bling N Queen - Extreme
+The Bling N Queen - Extreme
+The Blues Boys - BWB
 The Blues Boys - BWB
 The Box - Union
+The Box - Union
+The Codfather - Barcrest
 The Codfather - Barcrest
 The Crystal Dome - Barcrest
+The Crystal Dome - Barcrest
+The Crystal Dome 10 - Barcrest
 The Crystal Dome 10 - Barcrest
 The Crystal Maze - Barcrest
+The Crystal Maze - Barcrest
+The Crystal Maze 10 - Barcrest
 The Crystal Maze 10 - Barcrest
 The Crystal Maze 2 - Barcrest
+The Crystal Maze 2 - Barcrest
+The Flintstones Viva Rock Vegas - JPM
 The Flintstones Viva Rock Vegas - JPM
 The Fruit Machine - JPM
+The Fruit Machine - JPM
+The Gambler - Empire
 The Gambler - Empire
 The Golden Mile - Ace
+The Golden Mile - Ace
+The Grand National - Ace
 The Grand National - Ace
 The Great Escape - Maygay
+The Great Escape - Maygay
+The Gunpowder Slot - BFG
 The Gunpowder Slot - BFG
 The Gunpowder Slot 70 - BFG
+The Gunpowder Slot 70 - BFG
 The Hit - Barcrest Dutch
-The Italian Job - Maygay 15
+The Hit - Barcrest Dutch
 The Italian Job - Maygay
+The Italian Job - Maygay
+The Italian Job - Maygay 15
+The Italian Job - Maygay 15
+The Italian Job - Maygay2
 The Italian Job - Maygay2
 The Italian Job - Mazooma
+The Italian Job - Mazooma
+The Italian Job 10 - Maygay
 The Italian Job 10 - Maygay
 The Italian Job 5 - Maygay
+The Italian Job 5 - Maygay
+The Jackpot Is Not Enough - Empire
 The Jackpot Is Not Enough - Empire
 The Jackpoteers - Barcrest
+The Jackpoteers - Barcrest
+The Jurassic Trail - Ace
 The Jurassic Trail - Ace
 The Lord Of The Rings - The Fellowship Of The Ring - BFG
+The Lord Of The Rings - The Fellowship Of The Ring - BFG
+The Lord Of The Rings - The Fellowship Of The Ring 5 - BFG
 The Lord Of The Rings - The Fellowship Of The Ring 5 - BFG
 The Lord Of The Rings - The Return Of The King - BFG
+The Lord Of The Rings - The Return Of The King - BFG
+The Lord Of The Rings - The Return Of The King 5 - BFG
 The Lord Of The Rings - The Return Of The King 5 - BFG
 The Lord Of The Rings - The Two Towers - BFG
+The Lord Of The Rings - The Two Towers - BFG
+The Mob - MDM
 The Mob - MDM
 The Nickelodeon - Barcrest
+The Nickelodeon - Barcrest
+The Nickelodeon 240 - Barcrest
 The Nickelodeon 240 - Barcrest
 The Nickelodeon 3 - Barcrest
+The Nickelodeon 3 - Barcrest
+The Nickelodeon 6 - Barcrest
 The Nickelodeon 6 - Barcrest
 The Pay Maker - Reflex
+The Pay Maker - Reflex
+The Phoenix Knights - Global
 The Phoenix Knights - Global
 The Prize Is Right - BFM
+The Prize Is Right - BFM
+The Rat Pack - Vivid
 The Rat Pack - Vivid
 The Reel Thing - Crystal
+The Reel Thing - Crystal
+The Roll - Project
 The Roll - Project
 The Roll 10 - Project
+The Roll 10 - Project
+The Roll 6 - Project
 The Roll 6 - Project
 The Royle Family - BFG
+The Royle Family - BFG
+The Royle Family Royale Banker - BFG
 The Royle Family Royale Banker - BFG
 The Simpsons - Beer Guide - Maygay
+The Simpsons - Beer Guide - Maygay
+The Simpsons - Homers Meltdown 15 - Maygay
 The Simpsons - Homers Meltdown 15 - Maygay
 The Simpsons - Homers Meltdown 25 - Maygay
+The Simpsons - Homers Meltdown 25 - Maygay
+The Simpsons - Homers Meltdown 5 - Maygay
 The Simpsons - Homers Meltdown 5 - Maygay
 The Simpsons - Maygay 10
+The Simpsons - Maygay 10
+The Simpsons - Maygay 5
 The Simpsons - Maygay 5
 The Simpsons 15 - Maygay
+The Simpsons 15 - Maygay
+The Simpsons 3 - Maygay
 The Simpsons 3 - Maygay
 The Simpsons Original C - Maygay
+The Simpsons Original C - Maygay
+The Simpsons Original T - Maygay
 The Simpsons Original T - Maygay
 The Spice Is Right - Barcrest
+The Spice Is Right - Barcrest
+The Spice Is Right 10 5 - Barcrest
 The Spice Is Right 10 5 - Barcrest
 The Spice Is Right 30 5 - Barcrest
+The Spice Is Right 30 5 - Barcrest
+The Spotted Dick - Global
 The Spotted Dick - Global
 The Streak - BWB
+The Streak - BWB
+The Streak - Mazooma
 The Streak - Mazooma
 The Streak 5 - Mazooma
+The Streak 5 - Mazooma
+The Twilight Zone - Maygay
 The Twilight Zone - Maygay
 The Twilight Zone Further Encounters - Ace
+The Twilight Zone Further Encounters - Ace
+The Vampire Payer - QPS
 The Vampire Payer - QPS
 The Winsons - Blueprint
+The Winsons - Blueprint
+The X Factor - Empire
 The X Factor - Empire
 The X Factor 25 - Empire
+The X Factor 25 - Empire
+Theme Park 5 - Project
 Theme Park 5 - Project
 Theme Park 8 - Project
+Theme Park 8 - Project
+Three Lions - Mazooma
 Three Lions - Mazooma
 Thriller - Crystal
+Thriller - Crystal
+Thriller - JPM
 Thriller - JPM
 Thrills N Spills - Global
+Thrills N Spills - Global
+Thunderball - Empire
 Thunderball - Empire
 Thunderbird - Barcrest
+Thunderbird - Barcrest
+Thunderbirds - JPM
 Thunderbirds - JPM
 Tic Tac 2 - Mazooma
+Tic Tac 2 - Mazooma
+Tic Tac Toe - Classic - BWB
 Tic Tac Toe - Classic - BWB
 Tic Tac Toe Gold - BWB
+Tic Tac Toe Gold - BWB
+Tic Tac Tut - Vivid
 Tic Tac Tut - Vivid
 Tic Tak Cash - Barcrest
+Tic Tak Cash - Barcrest
+Tick Tock Cash - Empire
 Tick Tock Cash - Empire
 Tomahawk - Barcrest Dutch
+Tomahawk - Barcrest Dutch
+Tomb Raider - JPM
 Tomb Raider - JPM
 Top Action - Barcrest Dutch
+Top Action - Barcrest Dutch
+Top Deck - Barcrest Dutch
 Top Deck - Barcrest Dutch
 Top Dog - Barcrest
+Top Dog - Barcrest
+Top Dog - BWB
 Top Dog - BWB
 Top Dollar - Red
+Top Dollar - Red
+Top Gear - Barcrest
 Top Gear - Barcrest
 Top Gear - Barcrest2
+Top Gear - Barcrest2
+Top Giza - Red
 Top Giza - Red
 Top Line - PCP
+Top Line - PCP
+Top Shot - Barcrest
 Top Shot - Barcrest
 Top Stop - Barcrest
+Top Stop - Barcrest
+Top Streak - JPM
 Top Streak - JPM
 Top Strike - Maygay
+Top Strike - Maygay
+Top Take - Barcrest
 Top Take - Barcrest
 Top Tenner - Barcrest
+Top Tenner - Barcrest
+Top Tenner 15 - Barcrest
 Top Tenner 15 - Barcrest
 Top Tenner 2 - Barcrest
+Top Tenner 2 - Barcrest
+Top The Lot - Barcrest
 Top The Lot - Barcrest
 Top Up - JPM
+Top Up - JPM
+Toploader - Mazooma
 Toploader - Mazooma
 Topshot - JPM Dutch
+Topshot - JPM Dutch
+Tornado - BFM Dutch
 Tornado - BFM Dutch
 Toss The Monkey - Mazooma
+Toss The Monkey - Mazooma
+Trail Blazer - Mazooma
 Trail Blazer - Mazooma
 Trailblazer - Impulse
+Trailblazer - Impulse
+Trails of the Unexpected
 Trails of the Unexpected
 Treasure Hunt - Maygay
+Treasure Hunt - Maygay
+Treasure Islands Jackpots - Betcom
 Treasure Islands Jackpots - Betcom
 Treasure Quest - Crystal
+Treasure Quest - Crystal
+Treasure Trail - Empire
 Treasure Trail - Empire
 Treasure Trail - Project
+Treasure Trail - Project
+Treble Top - Empire
 Treble Top - Empire
 Treble Top - Reflex
+Treble Top - Reflex
+Tree Amigos - Impulse
 Tree Amigos - Impulse
 Trick Or Treat - Global
+Trick Or Treat - Global
+TriColor - Barcrest Dutch
 TriColor - Barcrest Dutch
 Triple Bank - Barcrest Dutch
+Triple Bank - Barcrest Dutch
+Triple Bell - Astra
 Triple Bell - Astra
 Triple Madness - Union
+Triple Madness - Union
+Triple XXX - Project
 Triple XXX - Project
 Tristar - BFM
+Tristar - BFM
+Trivial Pursuit - Maygay
 Trivial Pursuit - Maygay
 Tropicana - Impact German
+Tropicana - Impact German
+Tubular Bells - BFM
 Tubular Bells - BFM
 Tumble - JPM
+Tumble - JPM
+Tumbling Dice - JPM Dutch
 Tumbling Dice - JPM Dutch
 Tuppenny Cracker - Barcrest
+Tuppenny Cracker - Barcrest
+Tuppenny Fair - MDM
 Tuppenny Fair - MDM
 Tuppenny Nudger - MDM
+Tuppenny Nudger - MDM
+Tuppenny Nudger Classic - MPS
 Tuppenny Nudger Classic - MPS
 Turbo Reel - Barcrest Dutch
+Turbo Reel - Barcrest Dutch
+Turboplay - Barcrest Dutch
 Turboplay - Barcrest Dutch
 Tutti Fruity - Barcrest
+Tutti Fruity - Barcrest
+Tutti Frutti - QPS
 Tutti Frutti - QPS
 Tutti Frutti 15 - QPS
+Tutti Frutti 15 - QPS
+Twenty One - Barcrest Dutch
 Twenty One - Barcrest Dutch
 Twilight - Barcrest Dutch
+Twilight - Barcrest Dutch
+Twilight - BFM Dutch
 Twilight - BFM Dutch
 Twister - JPM Dutch
+Twister - JPM Dutch
+Ultimo - Barcrest
 Ultimo - Barcrest
 Universe - Barcrest Dutch
+Universe - Barcrest Dutch
+Untouchable - JPM
 Untouchable - JPM
 Up Down Nudger - BFM
+Up Down Nudger - BFM
+Up N Over - Barcrest
 Up N Over - Barcrest
 Up Up And Away - Barcrest
+Up Up And Away - Barcrest
+Utter Nutter - Global
 Utter Nutter - Global
 Valhalla - Nova Games German
+Valhalla - Nova Games German
+Vamp It Up - Barcrest
 Vamp It Up - Barcrest
 Vamp It Up 25 - Barcrest
+Vamp It Up 25 - Barcrest
+Ventura - BFM Dutch
 Ventura - BFM Dutch
 Vertigo - Empire
+Vertigo - Empire
+Vindaloot - JPM
 Vindaloot - JPM
 Viper Jive - Extreme
+Viper Jive - Extreme
+Viva Espana - BWB
 Viva Espana - BWB
 Viva Espana 10 - Barcrest
+Viva Espana 10 - Barcrest
+Viva Espana 4 - BWB
 Viva Espana 4 - BWB
 Viva Espana 6 - Barcrest
+Viva Espana 6 - Barcrest
+Viva Espana 6 - BWB
 Viva Espana 6 - BWB
 Viva Espana 8 - Barcrest
+Viva Espana 8 - Barcrest
 Viva Las Vegas - Barcrest
-Viva Mexico - BFG German
+Viva Las Vegas - Barcrest
 Viva Mexico - BFG
+Viva Mexico - BFG
+Viva Mexico - BFG German
+Viva Mexico - BFG German
+Viz - Barcrest
 Viz - Barcrest
 Viz - QPS
+Viz - QPS
+Volcano - BWB
 Volcano - BWB
 Voodoo Express - BWB
+Voodoo Express - BWB
+Vortex - Red
 Vortex - Red
 Wacky Racer - MDM
+Wacky Racer - MDM
+Wall Street - Project
 Wall Street - Project
 War Of The Wads - QPS
+War Of The Wads - QPS
+War Of The Worlds - Maygay
 War Of The Worlds - Maygay
 Way In - Barcrest
+Way In - Barcrest
+Werner Lass Kesseln - Mazooma German
 Werner Lass Kesseln - Mazooma German
 Western - JPM Dutch
+Western - JPM Dutch
+Whats On - Barcrest
 Whats On - Barcrest
 Whats On Prize - Barcrest
+Whats On Prize - Barcrest
+Wheel Of Fortune - Project
 Wheel Of Fortune - Project
 Wheel Of Wealth - BFG
+Wheel Of Wealth - BFG
+Who Wants To Be A Leigionaire - BFG
 Who Wants To Be A Leigionaire - BFG
 Who Wants To Be A Millionhare - Global
+Who Wants To Be A Millionhare - Global
+Wigwam - PCP
 Wigwam - PCP
 Wild Hold - Maygay
+Wild Hold - Maygay
+Wild Jackpots - QPS
 Wild Jackpots - QPS
 Wild King - Project
+Wild King - Project
+Wild Mystery - Barcrest Dutch
 Wild Mystery - Barcrest Dutch
 Wild Thing - Empire
+Wild Thing - Empire
+Wild Timer - Barcrest Dutch
 Wild Timer - Barcrest Dutch
 Wild Zone - Maygay
+Wild Zone - Maygay
+Wildfire - Impulse
 Wildfire - Impulse
 Win A Gain - BWB
+Win A Gain - BWB
+Win Spin - Barcrest Dutch
 Win Spin - Barcrest Dutch
 Win Sprint - JPM
+Win Sprint - JPM
+Winner Takes All - Barcrest
 Winner Takes All - Barcrest
 Winner Takes All - BWB
+Winner Takes All - BWB
+Winner Takes All 10 - Barcrest
 Winner Takes All 10 - Barcrest
 Winning Streak - BFM
+Winning Streak - BFM
+WinXplosion - BFG Dutch
 WinXplosion - BFG Dutch
 Wipe Out - Impulse
+Wipe Out - Impulse
+Wizard Of Odds - JPM
 Wizard Of Odds - JPM
 Wok And Roll - Betcom
+Wok And Roll - Betcom
+X Marks The Spot - Maygay
 X Marks The Spot - Maygay
 X Rated - Red
+X Rated - Red
+Your Lucky Knight - JPM
 Your Lucky Knight - JPM
 Zeppelin - BFM Czech
+Zeppelin - BFM Czech
 Zig Zag - Red
+Zig Zag - Red
+2p Unlimited - MDM
 ====================
 Total Games: 4082

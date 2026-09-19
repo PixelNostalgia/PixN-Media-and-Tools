@@ -1,15 +1,16 @@
 ﻿System: Mega CD
 ====================
-A-Rank Thunder Tanjouhen
+3×3 Eyes Seima Densetsu
 After Armageddon: The Side Story of After Armageddon
 Aisle Lord
 Alshark
-Anet Futatabi
 Aokiohkami to Shirokimejika: Genchohishi
-Arcus Iãƒ»IIãƒ»III
-ArslÄn Senki: The Heroic Legend of ArslÄn
+A-Rank Thunder Tanjouhen
+Arcus I・II・III
+Arslān Senki: The Heroic Legend of Arslān
 Baku-den: The Unbalanced Zone
 Burai: Hachigyoku no Yuushi Densetsu
+Capcom no Quiz: Tonosama no Yabou
 Captain Tsubasa
 Cosmic Fantasy Stories
 Cyborg 009
@@ -21,16 +22,14 @@ Dynamic Country Club
 Earnest Evans
 Egawa Suguru's Super League CD
 F1 Circus CD
+Formula One World Championship: Beyond the Limit
 Game no Kandume Vol. 1
 Game no Kandume Vol. 2
-Sangokushi III
-Illusion City
-Gyuwambler JikocyÅ«shinha 2: Struggle in the Tokyo Mahjongland
-Formula One World Championship: Beyond the Limit
+Gyuwambler Jikocyūshinha 2: Struggle in the Tokyo Mahjongland
 Heavy Nova
+Illusion City
 Ishii Hisaichi no Daiseikai
 Jango World Cup
-Silky Lip
 Mega Schwarzschild
 Might and Magic III - Isles of Terra
 Night Striker
@@ -38,17 +37,17 @@ NinjaWarriors, The
 Nobunaga no Yabou - Haouden
 Nostalgia 1907
 Pro Yakyuu Super League CD
-Psychic Detective Series vol.3: AÃA
+Psychic Detective Series vol.3: AÝA
 Psychic Detective Series vol.4: Orgel
 Quiz Scramble Special
-Capcom no Quiz: Tonosama no Yabou
 Ranma 1/2: Byakuran Aika
 Record of Lodoss War
-3Ã—3 Eyes Seima Densetsu
+Sangokushi III
 Seirei Shinseiki - Fhey Area
 Sengoku Densho
 Shadowrun
 Shin Megami Tensei
+Silky Lip
 SimEarth
 Sing!! Sega Game Music Presented by B. B. Queens
 Switch
@@ -61,5 +60,6 @@ Winning Post
 Wonder Dog
 WonderMega Collection
 Yumimi Mix
+Anet Futatabi
 ====================
 Total Games: 61

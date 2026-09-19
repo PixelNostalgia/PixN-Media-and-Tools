@@ -1,16 +1,5 @@
 ﻿System: M.U.G.E.N
 ====================
-Alien Vs Predator MUGEN
-Anime JUS Battle Ultimate
-Art of Fury
-Art of Fury 2020
-Avenger Vs X-Men
-Babel sword
-Bastard
-Big Bang Beat 1st Impression
-Bleach Mugen
-Capcom Fighting All Stars Remix
-Capcom Fighting Evolution Max
 Capcom Vs Snk 2
 Cartoon Fighters 2010
 Cartoon vs Anime MUGEN
@@ -77,7 +66,6 @@ Tekken 3
 The Black Heart
 The King Of Dragons
 The King of Fighters Definitive Match
-The King of Fighters Final Attack
 The King of Fighters Shining
 The Queen of Fighters XXX V3.7
 TMNT Tournament Fighters
@@ -86,130 +74,16 @@ Transformers MUGEN
 World Heroes
 World Warrior Tournament 2
 X-Men Second Coming
-Dragon ball gt
-Classic Spider-Man
-Capcom vs. Snk 3 - Battle of the Millennium V2
-Dragon Ball Super Mugen
-Capcom VS SNK 2 DX 2021
-DC vs Marvel
-Capcom VS SNK Mugenation Edition
-Darkstalkers vs. Street Fighter
-Cartoon Fight Ultra
-Dragon Ball MUGEN 2007
-Demon Slayer Mugen V8
-DBZvsOP
-Dragon Ball AF
-Comic Fighters
-Dragon ball Legends Mugen V2
-CAPCOM VS SNK EVOLUTION
-Darkstalkers vs. Melty Blood
-Dragon Ball Z - Ultimate Fighter 2
-Guilty Gear XX
-Hokuto No Ken Mugen
-IWBTG - MUGEN
-Basara 3 vs. Guilty Gear XX vs. Hokoto No Ken
-Fatal Fury - Mark Of The Wolves
-Goku Mania
-Hi-Res Mugen
-Hyper Street Fighter IV M.U.G.E.N rev1
-Famicom Fighters
-Jump Force Mugen V13
-Hyper Dragon Ball Z Vision
-DragonBall Z French Power 2019
-Jojo's Bizarre Adventure Mugen
-The King of Fighters Wing
-StreetFighterHDM_v1.0
-Star Wars - The Ultimate Battle
-Street Fighter 1 - Champion Edition
-Street Fighter Legends Vs KOF
-Ultimate Marvel vs Capcom 3
-Super Marvel vs Capcom Eternity of Heroes
-Masked Rider Battle MUGEN
-Street Fighter Mugen Edition 2008
-Pocket Dimension Clash Mugen
-Super Smash Bros Ultimate
-Tekken Tag Tournament
-Melty Blood Mugen
-X-men Next Dimension
-Mortal Kombat Project 4.9.3
-The King of Fighters Anthology
-Super Street Fighter 2 Turbo HD Remix
-Saint-Seiya-Ultimate-Cosmo 2022
-Mugenation Battle HD
-The King of Fighters 10th Anniversary
-media
-Mortal Kombat 1
-Waifu Tournament 5
-The King Of Fighters MUGEN
-Sonic Freedom Fighters 2 Plus
-Neo Geo Battle Coliseum
-The King of Fighters 98 Ultimate Match
-Marvel Super Heroes
-Masters of Universe Mugenation Edition 2021
-One Piece Mugen 2020 by Mugenation
-Naruto Shippuden Ninja Generations MUGEN
-Mortal Kombat vs Darkstalkers 2 The lord of fate
-Super Street Fighter 3 EVO
-Super Capcom Vs SNK Ultimate
-Naruto Storm MUGEN
-World Warriors X
-The King of Fighters XI MUGEN
-Mortal Kombat Anthology
-Mortal Kombat 2 MUGEN
-Samurai Special Mugen Edition 2008
-Naruto MUGEN Battle Climax 2018
-Mugen Super Heroes 2000
-Neon Genesis Evangelion MUGEN
-Marvel vs Capcom MAXIMUM
-Mugen All Characters Battle Zero
-Marvel vs Capcom 3 - Last Rise of Heroes
-One Piece Colosseum MUGEN
-Street Fighter Mugen
-Shades of Manhattan 2
-Super Street Fighter 2 NES
-Samurai Shodown Anthropology
-Sonic Battle HD
-Saint Seya Mythologie
-Masters of Universe Mugenation Edition 2021 v2.0
-Wolverine And The X-men Mugen
-Mugen Multiverse
-MugenDreamVer2.
-Marvel Vs Capcom Vs Dragon Ball FighterZ
-The King Of Fighters Ex - Unlimited Match
-zzzzz
-Super Smash Bros Brawl ZX
-Steel Warriors
-Street Fighter VS Tekken Mugenation Edition
-Super Robot Wars
-The King of Fighters - Challenge to Ultimate Battle
-The King Of Fighters Mugenation Edition 2021
-The King of Fighters XIII Ultimate Edition MUGEN
-Mortal Kombat 3 MUGEN
-Street Fighter Legends
-Waifu Collection
-Marvel vs Capcom X
-Kirby the Dream Battle
-Mortal Kombat Trilogy
-The King of Fighters 2002 Ultimate Match
-Mega-Man Zero ZX - Battle Royale
-The King of Fighters Zillion
-The King Of Fighters - Counterstrike
-Street Fighter 3 Mugen
-Mugen Tournament 3
-Super Street Fighter IV MUGEN (Hi-Res)
-Marvel Mugenation
-Super Capcom Vs Snk Ver.1.0
-SF2 SNK Premium_Edition
-Street Fighter SNK - King of Fighters
-Pocket Fighter
-TMNT vs X-Men
-Mortal Kombat 2 The Lost Secrets
-Mortal Kombat New Era
-Marvel Vs Capcom 2
-Super_BRAWL_Fighters_2020
-Mica Final HD
-Pokemon Mugen Edition
-Street Fighter vs Fatal Fury II
-Mortal Kombat The After-Realm
+Alien Vs Predator MUGEN
+Anime JUS Battle Ultimate
+Art of Fury 2020
+Art of Fury
+Avenger Vs X-Men
+Babel sword
+Bastard
+Big Bang Beat 1st Impression
+Bleach Mugen
+Capcom Fighting All Stars Remix
+Capcom Fighting Evolution Max
 ====================
-Total Games: 211
+Total Games: 85

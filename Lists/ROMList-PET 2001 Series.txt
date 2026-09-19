@@ -1,48 +1,13 @@
 ﻿System: PET 2001 Series
 ====================
-ZAP
-Wander
-Voyager I Sabotage of the Robot Ship
-Temple of Apshai
-Telengard
-Tanktics
-Tank Arkade
-Star Trek 3D
-Space Invaders PET
-Shark
-Heart Racer
-Pinball
-Nukewar
-Miner!
-Midway Campaign
-Lunar Lander
-Lords of Karma
-LAWN!
-Hellfire Warrior
-Hawaii!
-Guns of Fort Defiance
-Gomoku
-Galaxy
-Fire!
-Dungeon
-Dungeon of Death
-Dnieper River Line
-DEMON!
-Cosmic Jailbreak
-Conflict 2500
-Brick
-Breakout
-B-1 Nuclear Bomber
-attack of the Petscii Robots
-Artillery
-Arrow
-Andromeda Conquest
-Aliens!
-Adventureland
 Fluglandung
 Schlange
+Space Invaders [b]
+Space Invaders
 Space War
-Star Wars
+Star Wars [b]
 Sternenfalle
+Bomber
+17 und 4
 ====================
-Total Games: 44
+Total Games: 9

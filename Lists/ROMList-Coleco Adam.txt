@@ -1,26 +1,26 @@
 ﻿System: Coleco Adam
 ====================
 Addictus
-Temple of Apshai
-B.C.'s Quest for Tires II
+Temple of Apshai (prototype)
+B.C.'s Quest for Tires II - Grog's Revenge (Can)
 Buck Rogers Planet of Zoom
-Cabbage Patch Kids - Adventures in the Park
+Cabbage Patch Kids - Adventures in the Park (prototype)
 Campaign '84
 Chess Champ
 Cosmo Fighter
-Dambusters
-Diablo
-Donkey Kong
-Donkey Kong Junior
-Dragon's Lair
+Dambusters (US, set 1)
+Diablo HyType II Series 1300 CPU
+Donkey Kong (US set 1)
+Donkey Kong Junior (US set F-2)
+Dragon's Lair (US Rev. F2)
 Evolution
 ADAM Links Golf
-Mage Quest
-Phraze Craze
+Mage Quest (v2.0)
+Phraze Craze (6221-40, U5-0A)
 RoboThief
 Sub Raiders
-Troll's Tale
-Zaxxon
+Troll's Tale (prototype)
+Zaxxon (set 1, rev D)
 2010 - The Text Adventure Game
 ====================
 Total Games: 22

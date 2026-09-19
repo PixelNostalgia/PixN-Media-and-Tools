@@ -13,8 +13,6 @@ Arcade's Greatest Hits
 Arcade's Greatest Hits: The Atari Collection 1
 Area 51
 Astal
-Z
-X-Men: Children of the Atom
 Atlantis: The Lost Tales
 Baku Baku
 Bases Loaded '96: Double Header
@@ -45,28 +43,20 @@ Christmas NiGHTS into Dreams...
 Clockwork Knight
 Clockwork Knight 2
 College Slam
-WWF WrestleMania: The Arcade Game
-WWF In Your House
 Command & Conquer
 Congo : The Movie : The Lost City of Zinj
 Contra: Legacy of War
 Corpse Killer: Graveyard Edition
-Worms
-Worldwide Soccer: Sega International Victory Goal Edition
 Courier Crisis
-Sega Worldwide Soccer '98
-World Series Baseball II
 Creature Shock: Special Edition
 CrimeWave
 Criticom
 Croc: Legend of the Gobbos
-The Crow : City of Angels
 Crusader: No Remorse
 Crypt Killer
 Cyber Speedway
+Cyber Troopers : Virtual On
 Cyberia
-World Series Baseball 98
-World Series Baseball
 D
 Darius Gaiden
 Darius II
@@ -77,32 +67,25 @@ Daytona USA
 Daytona USA: Championship Circuit Edition
 Daytona USA: Championship Circuit NetLink Edition
 Decathlete
-World League Soccer '98
-World Cup Golf: Professional Edition
 Deep Fear
 Defcon 5
 Destruction Derby
 Die Hard Arcade
 Die Hard Trilogy
+Discworld
 Discworld II: Missing Presumed...!?
 DOOM
-WipEout 2097
-WipEout
 Double Switch
 Dragon Ball Z Idainaru Dragon Ball Densetsu
 Dragon Force
 DragonHeart: Fire & Steel
 Duke Nukem 3D
 Earthworm Jim 2
-Winter Heat
-Winning Post
-Wing Arms
-Whizz
 Enemy Zero
 F1 Challenge
-FIFA: Road to World Cup 98
-FIFA Soccer 96
 FIFA 97
+FIFA Soccer 96
+FIFA: Road to World Cup 98
 Fighters Megamix
 Fighting Vipers
 Formula Karts: Special Edition
@@ -122,15 +105,12 @@ Hebereke's Popoitto
 Heir of Zendor: The Legend and the Land
 Herc's Adventures
 Hexen: Beyond Heretic
-Hi-Octane: The Track Fights Back!
 High Velocity: Mountain Racing Challenge
 Highway 2000
-The Horde
-The House of the Dead
+Hi-Octane: The Track Fights Back!
 Hyper 3D Pinball
 Impact Racing
 In the Hunt
-The Incredible Hulk : The Pantheon Saga
 Independence Day : The Game
 Iron Man & X-O Manowar in Heavy Metal
 Iron Storm
@@ -138,22 +118,16 @@ Jewels of the Oracle
 Johnny Bazookatone
 Jonah Lomu Rugby
 Keio Flying Squadron 2
-The King of Fighters '95
 Krazy Ivan
 Last Bronx
 Last Gladiators: Digital Pinball
-The Legend of Oasis
 Loaded
-The Lost World : Jurassic Park
-Warcraft II: The Dark Saga
-VR Soccer
 Lunacy
 Machine Head
 Madden NFL 97
 Madden NFL 98
 Magic Carpet
 Magic Knight Rayearth
-The Mansion of Hidden Souls
 Manx TT Superbike
 Marvel Super Heroes
 Mass Destruction
@@ -166,15 +140,13 @@ Mighty Hits
 Minnesota Fats: Pool Legend
 Mortal Kombat II
 Mortal Kombat Trilogy
-VR Golf '97
-Virtual Open Tennis
 Mr. Bones
 Myst
 NASCAR 98
 NBA Action
 NBA Action 98
-NBA Jam Tournament Edition
 NBA Jam Extreme
+NBA Jam Tournament Edition
 NBA Live 97
 NBA Live 98
 NFL '97
@@ -194,10 +166,6 @@ Pacific Theater of Operations II
 Pandemonium!
 Panzer Dragoon
 Panzer Dragoon II Zwei
-Virtual On - Cyber Troopers Net Link Edition
-Cyber Troopers : Virtual On
-Virtual Hydlide
-Virtual Golf
 Panzer Dragoon Saga
 Parodius
 Pebble Beach Golf Links
@@ -214,10 +182,6 @@ Resident Evil
 Return Fire
 Revolution X : Music is the Weapon
 Rise 2 : Resurrection
-Virtual Casino
-VR Virtua Racing
-Virtua Fighter Remix
-Virtua Fighter Kids
 Riven : The Sequel to Myst
 Road & Track Presents : The Need for Speed
 Road Rash
@@ -233,6 +197,7 @@ Sega Rally Championship
 Sega Rally Championship Plus: Netlink Edition
 Sega Touring Car Championship
 Sega Worldwide Soccer 97
+Sega Worldwide Soccer '98
 Shanghai : Triple-Threat
 Shellshock
 Shining Force 3 - Scenario 1
@@ -254,20 +219,25 @@ Space Jam
 Spot Goes to Hollywood
 StarFighter 3000
 Steep Slope Sliders
-Street Fighter: The Movie
-Street Fighter Alpha: Warriors' Dreams
 Street Fighter Alpha 2
-Virtua Fighter 2
-Virtua Fighter
+Street Fighter Alpha: Warriors' Dreams
 Street Fighter Collection
+Street Fighter: The Movie
 Street Racer
 Striker 96
 Super Puzzle Fighter II Turbo
 Swagman
 Tempest 2000
 Ten Pin Alley
-Discworld
 Tetris Plus
+The Crow : City of Angels
+The Horde
+The House of the Dead
+The Incredible Hulk : The Pantheon Saga
+The King of Fighters '95
+The Legend of Oasis
+The Lost World : Jurassic Park
+The Mansion of Hidden Souls
 Theme Park
 Three Dirty Dwarves
 ThunderStrike 2
@@ -281,5 +251,35 @@ Ultimate Mortal Kombat 3
 Valora Valley Golf
 Virtua Cop
 Virtua Cop 2
+Virtua Fighter
+Virtua Fighter 2
+Virtua Fighter Kids
+Virtua Fighter Remix
+Virtual Casino
+Virtual Golf
+Virtual Hydlide
+Virtual On - Cyber Troopers Net Link Edition
+Virtual Open Tennis
+VR Golf '97
+VR Soccer
+VR Virtua Racing
+Warcraft II: The Dark Saga
+Whizz
+Wing Arms
+Winning Post
+Winter Heat
+WipEout
+WipEout 2097
+World Cup Golf: Professional Edition
+World League Soccer '98
+World Series Baseball
+World Series Baseball 98
+World Series Baseball II
+Worldwide Soccer: Sega International Victory Goal Edition
+Worms
+WWF In Your House
+WWF WrestleMania: The Arcade Game
+X-Men: Children of the Atom
+Z
 ====================
 Total Games: 281

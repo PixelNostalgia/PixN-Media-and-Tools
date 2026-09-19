@@ -4,7 +4,7 @@
 Akai Katana Shin
 Aquapazza: Aquaplus Dream Match
 Arcana Heart 2
-Arcana Heart 3: Love Max Six Stars!!!!!!
+Arcana Heart 3
 BlazBlue: Central Fiction
 BlazBlue: Chrono Phantasma
 BlazBlue: Continuum Shift II
@@ -15,7 +15,7 @@ Dragon Dance
 Elevator Action
 En-Eins Perfektewelt
 Exception
-GÅketsuji Ichizoku: Senzo KuyÅ
+Gōketsuji Ichizoku: Senzo Kuyō
 Homura
 Hyper Street Fighter II: The Anniversary Edition
 Ikaruga
@@ -45,7 +45,5 @@ Tottemo E Mahjong
 Chaos Code - New Sign of Catastrophe (nesica) [2.11]
 Space Invaders
 Darius Burst - Another Chronicle EX
-The King of Fighters 98 - Ultimate Match Final Edition for NESiCAxLive
-The King of Fighters XIII Climax for NESiCAxLive
 ====================
-Total Games: 47
+Total Games: 45

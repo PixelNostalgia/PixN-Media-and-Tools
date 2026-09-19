@@ -1,158 +1,85 @@
 ﻿System: Philips CD-i
 ====================
-3rd Degree
-A Great Day at the Races
-ABC Sports Presents: The Palm Springs Open
-Accelerator
-Alfapet
-Alice in Wonderland
-Alien Gate
-Arcade Classics
-Archeon CD-i Quiz (Netherlands)
-AstÃ©rix: Caesar's Challenge
-Atlantis: The Last Resort
-Axis and Allies
-Backgammon
-Battleship
-Big Bang Show
-Brain Dead 13
-Burn:Cycle
-Caesars World of Boxing
-Caesars World of Gambling
-CD Shoot
-Challenge - The CD-i (UK)
-Chaos Control
-Christmas Country
-Christmas Crisis
-Clue
-Clue 2: The Mysteries Continue
-Connect Four
-Creature Shock
-Creature Shock
-Crime Patrol
-Crime Patrol 2: Drug Wars
-Dark Castle
-Defender of the Crown
-Dimo's Quest
-Domino
-Dragon's Lair
-Dragon's Lair II: Time Warp
-Earth Command: The Future of our World is in Your Hands
-Effacer: Hangman from the 25th Century
-Escape from Cyber City
-Face Kitchen
-Family Games I
-Family Games II: Junk Food Jive
-Felix The Cat's Giant Electronic Comic Book
-Flashback
-Flintstones & Jetsons: Timewarp
-Follow Your Dreams (Germany)
-Foqus
-Girl's Club: The Fantasy Dating Game
-Gnomes
-Go
-Go: Special Edition
-Goal! FIFA World Cup Soccer Quiz Game (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)
-Golden Oldies I: Guardian and Invaders
-Golden Oldies II: Blockbuster and Bughunt
-Golf Tips
-Golgo 13
-Hanna-Barbera Cartoon Carnival
-Hotel Mario
-Inca
-International Tennis Open
-Invasion from the Planet Skyron
-Jack Sprite Vs The Crimson Ghost
-Jan Pienkowski: Haunted House
-Jeopardy!
-Kether
-Kingdom: The Far Reaches
-L' Albero Azzurro
-L'Affaire Morlov
-L'Ange et le Demon
-Labyrinth of Crete
-Laser Lords
-Le TrÃ©sor de l'Ã®le aux Jeux
-Lemmings
-Les Guignols de l'Info... le Jeu!
-Les Schtroumpfs : Le Teleportaschtroumpf (France)
-Link: The Faces of Evil
-Litil Divil
-Lords of the Rising Sun
-Lost Eden
-Lucky Luke: The Video Game
-Mad Dog II: The Lost Gold
-Mad Dog McCree
-Magic Eraser
-Making the Grade
-Marco Polo
-Master Labyrinth
-Max Magic
-Mega-Maze
-Merlin's Apprentice
-Micro Machines
-Mutant Rampage: Bodyslam
-Myst
-Mystic Midway: Phantom Express
-Mystic Midway: Rest in Pieces
-Nobelia (World) (v101) (Aftermarket) (Unl)
-Origami
-Othello
-P.A.W.S.: Personal Automated Wagging System
-Pac-Panic
-Pecos Bill
-Pinball
-Plunderball
-Rise of the Robots
-Sandy's Circus Adventure
-Santa Claus' Mice
-Sargon Chess
-Scotland Yard Interactive
-Secret Mission
-Shadoan
-Shaolin's Road
-Solar Crusade
-Space Ace
-Space Ranger: Return to Earth
-Steel Machine
-Striker Pro
-Strip Poker Live
-Strip Poker Pro
-SuperTest (Europe) (De,It)
-Surf City
-Tangram: The Ultimate Chinese Game
-Tetris
-Tetsuo Gaiden
-Text Tiles
-The 7th Guest
-The Adventure of the Space Ship Beagle
-The Apprentice
-The Berenstain Bears: On Their Own, and You On Your Own
-The Joker's Wild
-The Joker's Wild Jr
-The Last Bounty Hunter
-The Lost Ride
-Thunder in Paradise
-Tim & Bear at the Movies
-Tom: Magic Picture Show
-Treasures of Oz
-UEFA Champions League 95-96 (Europe)
-Ultra CD-i Soccer
-USGA Great American Golf 1 (Europe)
-USGA Great American Golf 2 (Europe)
-Vegas Girls
-Video Speedway: The Ultimate Racing Experience
-Voetbal (Netherlands)
-Voyeur
-Whack a Bubble
-Who Shot Johnny Rock?
-Wimbledon Challenge: The Official Wimbledon Quiz Game
-Wordplay
-World Cup Golf: Hyatt Dorado Beach
-Yearn2Learn: Peanuts
-Zelda's Adventure
-Zelda: The Wand of Gamelon
-Zenith
-Zombie Dinos From Planet Zeltoid
+3rd Degree (USA)
+7th Guest, The (USA)
+ABC Sports Presents - Power Hitter (USA)
+Alice in Wonderland (USA)
+Alien Gate (USA)
+Asterix - Caesar's Challenge (Europe)
+Atlantis - The Last Resort (Europe)
+Axis and Allies (USA)
+Backgammon (USA)
+Battleship (USA)
+Brain Dead 13 (Europe)
+BURN-CYCLE (USA)
+Caesars World of Gambling (USA)
+Chaos Control (USA)
+Christmas Country (Europe)
+Christmas Crisis (Europe)
+Cluedo - The Mysteries Continue (Europe)
+Connect 4 (USA)
+Creature Shock (Europe) (Disc 1)
+Crime Patrol (USA)
+Dark Castle (USA)
+Defender of the Crown (USA)
+Domino (Europe)
+Dragon's Lair (USA)
+Dragon's Lair II - Time Warp (USA)
+Drug Wars (Europe)
+Earth Command - The Future of Our World is in Your Hands (USA)
+Effacer - Hangman of the 25th Century (USA)
+Escape from CyberCity (USA)
+Family Games I (Europe)
+Family Games II - Junk Food Jive (Europe)
+Flashback (Europe)
+Golden Oldies I (Europe)
+Golden Oldies II (Europe)
+Great Day at the Races, A (USA)
+Hotel Mario (USA)
+Inca (Europe)
+International Tennis Open (Europe)
+Kether (USA)
+Kingdom - The Far Reaches (USA)
+Kingdom 2 - Shadoan (Europe)
+Labyrinth of Crete (Europe)
+Last Bounty Hunter, The (Europe)
+Lemmings (Europe)
+Lingo (Netherlands)
+Link - The Faces of Evil (Europe)
+Litil Divil (USA)
+Lost Eden (Europe)
+Lost Ride, The (Europe)
+Mad Dog II - The Lost Gold (Europe)
+Magic Eraser (Germany)
+Making the Grade (Europe)
+Marco Polo (Europe)
+Mega Maze (USA)
+Micro Machines (Europe)
+Mutant Rampage - Bodyslam (USA)
+Myst (Europe)
+Othello (Europe)
+Pac-Panic (Europe)
+Plunderball (USA)
+Pyramid Adventures - Episode 1 Treasures of the Lost Pyramid (USA)
+Rise of the Robots (Europe)
+Scotland Yard - Interactive (Europe)
+Secret Mission (Europe)
+Space Ace (USA)
+Striker Pro (USA)
+Tangram - The Ultimate Chinese Game (Europe)
+Tetris (USA)
+Tetsuo Gaiden (Europe)
+Text Tiles (USA)
+Thunder in Paradise (USA)
+Ultra CD-i Soccer (Europe)
+Uncover Featuring Tatjana (Europe)
+Wacky World of Minature Golf, The - With Eugene Levy (USA)
+Whack a Bubble (Europe)
+Who Shot Johnny Rock (USA)
+Wordplay (Europe)
+World Cup Golf (Europe)
+Zelda - The Wand of Gamelon (USA)
+Zelda's Adventure (Europe)
+Zombie Dinos from Planet Zeltoid (Europe)
 ====================
-Total Games: 154
+Total Games: 81

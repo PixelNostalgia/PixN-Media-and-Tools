@@ -25,6 +25,5 @@ Nerf Arcade (multiguns)
 GhostBusters (multiguns)
 Big Buck Hunter Pro (multiguns)
 Super Alpine Racer
-Guitar Hero Arcade
 ====================
-Total Games: 26
+Total Games: 25

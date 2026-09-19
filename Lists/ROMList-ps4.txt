@@ -1,153 +1,90 @@
 ﻿System: ps4
 ====================
 10 Second Ninja X
-13 Sentinels: Aegis Rim
 2Dark
 A Hole New World
 A King's Tale: Final Fantasy XV
 Adventures of Pip
-AereA
 AM2R: Return of Samus
 Another World: 20th Anniversary Edition
 Arcade Archives: Double Dragon
-Armello
 Back to the Future: The Game 30th Anniversary Edition
 Battle Garegga Rev.2016
-Beach Buggy Racing 2: Island Adventure
 BLACKHOLE: Complete Edition
 Bladed Fury
 Blasphemous
-BlazBlue: Cross Tag Battle
 Blizzard Arcade Collection
 Bloodborne
 Bloodstained: Curse of the Moon
-Bloodstained: Curse of the Moon 2
 Boulder Dash 40th Anniversary
 Braid, Anniversary Edition
 Broken Sword 5: the Serpent's Curse
-Burnout Paradise Remastered
 Capcom Fighting Collection
 Cars 3: Driven to Win
 Catmaze
-Cities Skylines
-Cladun Returns: This is Sengoku!
-Clockwork Aquario
 Contra: Anniversary Collection
-Cosmic Star Heroine
-CounterSpy
-Crash Bandicoot N Sane Trilogy
-Crash Team Racing Nitro-Fueled
-Crystar
 Cuphead
 Cursed Castilla (Maldita Castilla EX)
 Cyber Shadow
 Dark Souls: Remastered
-Dead Cells
-Dead or Alive 5 - Last Round
 Demon Hunter - Ascendance
 Devil May Cry 4: Special Edition
 DoDonPachi Blissful Death Re-Incarnation
 Donut County
-DOOM 64
-Dragon Quest Builders
 DriveClub
 Duke Nukem 3D: 20th Anniversary World Tour
 Dynasty Feud
 DYSMANTLE
 Exophobia
-Fallout Shelter
 Fast Striker
-Final Fantasy Pixel Remaster
-Final Fantasy II Pixel Remaster
-Final Fantasy III Pixel Remaster
-Final Fantasy IV Pixel Remaster
-Final Fantasy V Pixel Remaster
-Final Fantasy VI Pixel Remaster
-Final Fantasy VIII Remastered
-Final Fantasy IX
-Final Fantasy Type-0 HD
 Final Fantasy XV Pocket Edition HD
 Flynn: Son of Crimson
 Formula Retro Racing
-Galak-Z
 Gargoyles Remastered
 Ghost Blade HD
-Godzilla
 GoNNER
-GONNER2
-Gravity Rush 2
 Gravity Rush Remastered
-GrimGrimoire OnceMore
-Gundemoniums
 Gunlord X
 Hollow Knight
 Hollow Knight: Silksong
-Iris Fall
 Jamestown+
 JoJo's Bizarre Adventure: All Star Battle R
-Journey
-KeyWe
 Landflix Odyssey
-Lara Croft and The Temple of Osiris
-Life is Strange Remastered
 LIMBO
 Lode Runner Legacy
 Marsupilami: Hoobadventure
 Marvel Puzzle Quest: Dark Reign
 Mato Anomalies
 Mega Man Legacy Collection
-Monopoly Family Fun Pack
 Monster Boy and the Cursed Kingdom
 Moonscars
 Namco Museum Archives Vol 1
 Need for Speed Hot Pursuit Remastered
-Need for Speed Rivals
-Ni no Kuni II - Revenant Kingdom (Prince's Edition)
 Night Trap: 25th Anniversary Edition
-Odin Sphere Leifthrasir
-Pac Man Championship Edition 2 + Arcade Game Series
 Peggle 2: Magical Masters Edition
 Persona 3 Reload
 Persona 5 Royal
-Potion Permit
 Project CARS
-Project Highrise: Architect's Edition
 Rayman Legends
 Regions of Ruin
-Resogun
-RetroMania Wrestling
 Running Fox
-Rusty Spout Rescue Adventure
-Shadow Man Remastered
-Shadow Warrior
-Shikhondo(é£Ÿé­‚å¾’) - Soul Eater
-SHINOBI Art of Vengeance
+Shikhondo(食魂徒) - Soul Eater
+Shinobi Art of Vengeance
 Skautfold Usurper
 Skullgirls 2nd Encore
 Sky Force Reloaded
 Smelter
-SÃ¶ldner-X 2: Final Prototype Definitive Edition
-Sonic Forces
 Sonic Mania
-Sonic Origins Plus
 Spelunker HD Deluxe
-STAR OCEAN First Departure R
 Street Fighter - The Movie
 Street Fighter 30th Anniversary Collection
 Streets of Red: Devils Dare Deluxe
 Strikers Edge
 Super Monkey Ball Banana Mania
 Super Monkey Ball: Banana Blitz HD
-Super Skull Smash Go! 2 Turbo
 Super Star Wars
-Tales From The Borderlands A Telltale Game Series
-Teenage Mutant Ninja Turtles - The Cowabunga Collection
 Teenage Mutant Ninja Turtles: Mutants in Manhattan
-Tempest 4000
-Terminator 2D NO FATE
-Terraria
 The Skylia Prophecy
-The Witch and The Hundred Knight 2
 THUNDER
 Thy Sword
 Timothy and The Mysterious Forest
@@ -158,20 +95,27 @@ Tomb Raider: Definitive Edition
 Toy Odyssey The Lost and Found
 Turrican Flashback
 Under Night In-Birth II Sys:Celes
-Valkyria Revolution
 Wonder Boy Anniversary Collection
 Wonder Boy Collection
-Wonder Boy Returns Remix
+Wonder Boy Returns
 Wonder Boy: The Dragon's Trap
-World of Final Fantasy
-World to the West
-Worms Battlegrounds
 Wuppo Special Edition
 Yakuza Kiwami
 Yasai Ninja
 Youtubers Life: OMG Edition
 Zombie Driver: Immortal Edition
-Zombieland Double Tap Road Trip
-Zombies Ate My Neighbors and Ghoul Patrol
+AereA
+Armello
+BlazBlue: Cross Tag Battle
+Bloodstained: Curse of the Moon 2
+CounterSpy
+DOOM 64
+GONNER2
+Iris Fall
+Project Highrise: Architect's Edition
+RetroMania Wrestling
+Super Skull Smash Go! 2 Turbo
+Terminator 2D NO FATE
+World to the West
 ====================
-Total Games: 173
+Total Games: 117

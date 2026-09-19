@@ -55,8 +55,8 @@ Asa Delta
 ASAP PLZ
 Astebros
 Asteraoult Wars
-AstÃ©rix and the Great Rescue
-AstÃ©rix and the Power of the Gods
+Astérix and the Great Rescue
+Astérix and the Power of the Gods
 Atomic Robo-Kid
 Atomic Runner
 ATP Tour Championship Tennis
@@ -214,7 +214,7 @@ CrazyBus
 Criatura
 Cross Fire
 Crystal's Pony Tale
-CrÃ¼e Ball : Heavy Metal Pinball
+Crüe Ball : Heavy Metal Pinball
 Curse of Illmoore Bay, The
 Custodian
 CutThroat Island
@@ -522,7 +522,7 @@ Madden NFL 97
 Madden NFL 98
 Magic Girl Featuring Ling Ling The Little Witch
 Magic Pockets
-MangangÃ¡
+Mangangá
 Mansion of Sadness
 Marble Madness
 Mario 3: Around the World
@@ -681,8 +681,8 @@ Passing Breeze: An Arcade Adventure
 Payne Stewart Pro Golf
 Pebble Beach Golf Links
 Pedreiro Polar
-PelÃ©!
-PelÃ©'s World Tournament Soccer
+Pelé!
+Pelé's World Tournament Soccer
 Pense Bem
 Pete Sampras Tennis
 PGA European Tour
@@ -707,7 +707,7 @@ Pitfall : The Mayan Adventure
 Plants Vs Zombies
 Pocahontas
 Pokemon II
-PokÃ©mon Crazy Drummer
+Pokémon Crazy Drummer
 Populous
 Power Drive
 Power Monger
@@ -1047,8 +1047,8 @@ Twin Cobra : Desert Attack Helicopter
 Two Crude Dudes
 Two Cyclops
 Two Tribes : Populous II
-TÃ¤nzer
-TÃ¤nzer
+Tänzer
+Tänzer
 Ultimate Mortal Kombat 3
 Ultimate Qix
 Ultimate Soccer
@@ -1143,7 +1143,7 @@ Zhuo Gui Da Shi - Ghost Hunter
 Zombi Terror
 Zombie High
 Zombies Ate My Neighbors
-Zool : Ninja of the â€œNthâ€ Dimension
+Zool : Ninja of the “Nth” Dimension
 Zoom!
 Zooming Secretary - Going Panic
 Zoop
