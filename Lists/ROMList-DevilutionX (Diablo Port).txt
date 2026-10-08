@@ -3,7 +3,6 @@
 Diablo
 Diablo: Hellfire
 Diablo
-Diablo
 Diablo: Hellfire
 ====================
-Total Games: 5
+Total Games: 4

@@ -985,5 +985,7 @@ Advanced Blackjack (USA)
 221B Baker Street (USA) (Disk 1 Side B)
 2400 A.D. (USA) (Disk 1)
 221B Baker Street (USA) (Disk 1 Side A)
+Conan (Side B)
+Conan (Side A)
 ====================
-Total Games: 985
+Total Games: 987

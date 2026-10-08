@@ -1,13 +1,12 @@
 ﻿System: Saturn (Japan)
 ====================
-Puzzle & Action: 2do Arukoto wa Sand-R
 2Tax Gold
 3x3 Eyes - Kyuusei Koushu S
 6 Inch My Darling
 Advanced V.G.
 Advanced World War - Sennen Teikoku no Koubou - Last of the Millennium
 Air Management '96
-Airs Adventure
+Airs Adventure  (T-En)
 Amagi Shien
 AnEarth Fantasy Stories: The First Volume
 Angel Graffiti S - Anata e no Profile
@@ -15,17 +14,13 @@ Angelique Duet
 Angelique Special
 Angelique Special 2
 Another Memories
-Pu-Li-Ru-La Arcade Gears
-Gun Frontier Arcade Gears
-Wonder 3 Arcade Gears
-ImageFight and Xmultiply - Arcade Gears
-Arcana Strikes
+Arcana Strikes (T-En)
 Arthur to Astaroth no Nazomakaimura - Incredible Toons
 Assault Rigs
 Assault Suit Leynos 2
 Astra Superstars
-Asuka 120% LimitOver BURNING Fest
 Asuka 120% Limited BURNING Fest.
+Asuka 120% LimitOver BURNING Fest
 Ayakashi Ninden Kunoichiban Plus
 BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou
 BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei
@@ -35,19 +30,23 @@ Baldy Land
 Baroque
 Batsugun
 Battle Athletess Daiundoukai
-Battle Garegga
+Battle Garegga  (T-En)
 Big Thanks Super Keirin - Dream with Keirin 50 Years
 Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special
 Bishoujo Senshi Sailor Moon SuperS - Various Emotion
+Bishoujo Variety Game - Rapyulus Panic
 Black/Matrix
-Blast Wind
+Blast Wind  (T-En)
 Blue Breaker - Ken Yori mo Hohoemi o
 Blue Seed - Kushinada Hirokuden
+Bomberman Fight!!  (T-En)
 Bomberman Wars
 Bouken Katsugeki Monomono
 BreakThru!
-Bubble Symphony
+Bubble Symphony  (T-En)
 Bulk Slash
+Bust-A-Move 2: Arcade Edition
+Bust-A-Move 3
 Can Can Bunny Extra
 Can Can Bunny Premiere
 Can Can Bunny Premiere 2
@@ -56,19 +55,18 @@ Capcom Generation - Dai 2 Shuu Makai to Kishi
 Capcom Generation - Dai 3 Shuu Koko ni Rekishi Hajimaru
 Capcom Generation - Dai 4 Shuu Kokou no Eiyuu
 Capcom Generation - Dai 5 Shuu Kakutouka-tachi
-Akumajou Dracula X - Gekka no Yasoukyoku
+Castlevania - Symphony of the Night  (T-En)
 Cat the Ripper - 13-Ninme no Tanteishi
 Chaos Control Remix
 Chibi Maruko-Chan no Taisen Pazuru Dama
 Chisato Moritaka - Watarase Bashi And Lala Sunshine
-Choro Q Park
 Cho Aniki - Kyukyoku ... Otoko no Gyakushu
-Super Dimension Fortress Macross, The : Do You Remember Love?
+Choro Q Park
 Cleopatra Fortune
 ClockWerx
 Code R
-Conveni 2 - Zenkoku Chain Tenkai Da!, The
 Conveni - The Ano Machi Wo Dokusen Seyo, The
+Conveni 2 - Zenkoku Chain Tenkai Da!, The
 Cross Tantei Monogatari - Motsureta Nanatsu no Labyrinth
 Crows - The Battle Action for SegaSaturn
 Cube Battler - Anna Mirai-hen
@@ -77,75 +75,80 @@ Cubic Gallery - Edy And Disy
 Culdcept
 Cyber Doll
 Cyberbots: Full Metal Madness
+D-Xhird
 Daibouken: St. Elmo's no Kiseki
-Daikoukai Jidai Gaiden
 Daikoukai Jidai 2
+Daikoukai Jidai Gaiden
+Daina Airan
+Daina Airan - Yokoku Hen
 Daisenryaku - Strong Style
 Daisuki
 Dark Hunter Ge - Youma no Mori
 Dark Hunter Jou - Ijigen Gakuen
 Dark Seed 2
-Dark Seed
+Darkseed  (T-En)
 Dead or Alive
 Death Crimson
 Death Throttle - Kakuzetsu Toshi Kara no Dasshutsu
-DeathMask
-Delisoba Deluxe
+DeathMask  (T-En)
+Delisoba Deluxe  (T-En)
 Denpa Shounenteki Game
+Densetsu no Ogre Battle
 Densha de Go! EX
 Derby Stallion
 Dero~n Dero Dero
 Desire
 Detana TwinBee Yahoo! Deluxe Pack
 Devicereign
+Devil Summoner - Soul Hackers Extra Dungeon
 Devil Summoner Soul Hackers - Akuma Zensho Dainishuu
 Devil Summoner: Soul Hackers
-Devil Summoner - Soul Hackers Extra Dungeon
 Dezaemon 2
 Digital Ange - Dennou Tenshi SS
 Digital Dance Mix Vol.1 Namie Amuro
 Digital Monster Ver. S Digimon Tamers
 Digital Pinball - Last Gladiators Ver. 9.7
 Digital Pinball: Necronomicon
-Daina Airan - Yokoku Hen
-Daina Airan
 Disc Station Bessatsu - I Miss You.
 DJ Wars
 DoDonPachi
 DonPachi
 Doraemon - Nobita to Fukkatsu no Hoshi
 Doukoku Soshite...
-Doukyuusei if
 Doukyuusei 2
+Doukyuusei if
 Dragon Ball Z: Shin Butouden
 Dragon Force II: Kamisarishi Daichi ni
 Dragon Master Silk
 Dragon's Dream
 Dream Generation - Koi ka? Shigoto ka!?...
+Drift King Shutokou Battle '97 - Tsuchiya Keiichi and Bandou Masaaki
 Druid - Yami-He no Tsuiseki Sha
 Dungeon Master Nexus
-Dungeons and Dragons Collection
+Dungeons & Dragons Collection
+DX Jinsei Game
+DX Jinsei Game 2
 DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan
-D-Xhird
 Eberouge
 Eberouge Special - Koi to Mahou no Gakuen Seikatsu
 Eiyuu Shigan - Gal ACT Heroism
+El Hazard The Magnificent World
 Elevator Action Returns
-Elf o Karu Monotachi - Hanafuda Hen
 Elf o Karu Monotachi
+Elf o Karu Monotachi - Hanafuda Hen
 Elf o Karu Monotachi 2
-EMIT Vol. 1 - Toki no Maigo
-EMIT Vol. 2 - Inochigake no Tabi
-EMIT Vol. 3 - Watashi ni Sayonara o
+Emit Vol. 1 - Toki no Maigo  (T-En)
+Emit Vol. 2 - Inochigake no Tabi ( (T-En)
+Emit Vol. 3 - Watashi ni Sayonara o  (T-En)
 Eternal Melody
 Etude Prologue - Yureugoku Kokoro no Katachi
 EVE - Burst Error
 EVE: The Lost One
-Falcom Classics
+Exhilarating Puyo Puyo Dungeon  (T-En)
 Falcom Classics 2
 Fantastep
-Farland Saga - Toki no Michishirube
 Farland Saga
+Farland Saga - Toki no Michishirube
 Farland Story - Habou no Mai
 Father Christmas
 FEDA Remake! The Emblem of Justice
@@ -175,11 +178,8 @@ Gakkou no Kowai Uwasa - Hanako-san ga Kita!!
 Gale Racer
 Gals Panic SS
 Game de Seishun
-DX Jinsei Game
-DX Jinsei Game 2
 Game Tengoku - The Game Paradise
 Garou Densetsu 3: Road to the Final Victory
-Hyper 3D Taisen Battle Gebockers
 GeGeGe no Kitarou - Gentou Kaikitan
 Gekirindan - Time Travel Shooting
 Gekitotsu Koushien
@@ -191,14 +191,15 @@ Girl Doll Toy - Tamashii o Kudasai
 Godzilla - Rettoushinkan
 Goiken Muyou - Anarchy in the Nippon
 Gotha - Ismailia SenEki
-Groove on Fight - Gouketsuji Ichizoku 3
 Gradius Deluxe Pack
-Grandia Digital Museum
 Grandia
+Grandia Digital Museum
 GranDread
 Greatest Nine 96
+Groove on Fight - Gouketsuji Ichizoku 3
 GT24
 Guardian Force
+Gun Frontier Arcade Gears
 Gunbird
 Gunblaze S
 Gungriffon
@@ -221,13 +222,16 @@ Hop Step Idol
 Horror Tour
 Houkago Ren'ai Club - Koi no Etude
 Houma Hunter Lime Perfect Collection
+Hyper 3D Taisen Battle Gebockers
 Hyper Duel
 Hyper Reverthion
 Hyper Securities S
+ImageFight and Xmultiply - Arcade Gears
+Initial D - Koudou Saisoku Densetsu
 Irem Arcade Classics
 Ishin no Arashi
 Isto É Zico - Zico no Kangaeru Soccer
-J. B. Harold - Blue Chicago Blues
+J. B. Harold - Blue Chicago Blues (T-En)
 J.League Go Go Goal!
 J.League Jikkyou Honoo no Striker
 J.League Pro Soccer Club o Tsukurô!
@@ -237,47 +241,47 @@ Japan Super Bass Classic 96
 Jikkyou Oshaberi Parodius - Forever with Me
 Jikkyou Powerful Pro Yakyuu '95 - Kaimakuban
 Jikkyou Powerful Pro Yakyuu S
-Jikuu Tantei DD - Maboroshi no Lorelei
 Joshikousei no Houkago... Pukunpa
 Jun Classic Country Club & Rope Club
-Jung Rhythm
+Jung Rhythm  (T-En)
 Jungle Park - Saturn Jima
 K-1 Fighting Illusion Shou
 Kaitou Saint Tail
 Kakyuusei
 Kanzen Chuukei Pro Yakyuu Greatest Nine
-Kekkon - Marriage - Zen'ya
+Keio Flying Squadron 2  (T-En)
 Kekkon - Marriage
+Kekkon - Marriage - Zen'ya
 Keriotosse!
 Kidou Senkan Nadesico - The Blank of 3 Years
 Kidou Senkan Nadesico: Yappari Saigo ha 'Ai ga Katsu'?
-Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho
 Kidou Senshi Gundam - Gihren no Yabou
+Kidou Senshi Gundam - Gihren no Yabou - Kouryaku Shireisho
 Kidou Senshi Z Gundam - Kouhen Sora o Kakeru
 Kidou Senshi Z Gundam - Zenpen Zeta no Kodou
 Kindaichi Shounen no Jikenbo: Hoshimitou Kanashimi no Hukushuuki
 King of Fighters '96, The
 King of Fighters '97, The
-Shippuu Mahou Daisakusen: Kingdom-Grandprix
+Kingdom Grandprix  (T-En)
 Kiss Yori...
+Kisuishou Densetsu Astal (T-En)
 Kochira Katsushikaku Kamearikouenmae Hashutsujo Nakagawa Land Dai Race! No Maki
 Koden Koureijutsu Hyaku Monogatari - Hontoni Atta Kowai Hanashi
 Koi no Summer Fantasy - In Miyazaki Seagaia
 Konami Antiques MSX Collection
-Initial D - Koudou Saisoku Densetsu
+Kono Yo No Hate De Koi Wo Utau Shoujo Yu-no
 Kouryuu Sangoku Engi
-Steeldom
 Kumitate Battle Kuttu Ketto
 Kunoichi Torimonochou
 Kuro no Danshou - The Literary Fragment
 Kururin Pa!
 Kuusou Kagaku Sekai Gulliver Boy
 Kyuukyoku Tiger 2 Plus
-Kyuutenkai
+Kyuutenkai: Fantastic Pinball  (T-En)
 Langrisser - Dramatic Edition
-Langrisser 3
 Langrisser 4
 Langrisser 5 - The End of Legend
+Langrisser III  (T-En)
 Last Bronx
 Layer Section 2
 Legend Of Heroes 1 And 2, The
@@ -287,16 +291,18 @@ Lifescape - Seimei 40-Okunen Harukana Tabi
 Lifescape 2 - Body Bionics - Kyoui no Shouuchuu Jintai
 Linda³ Kanzenban
 Linkle Liver Story
+Liquid Kids  (T-En)
 Lode Runner - The Legend Returns
 Lode Runner Extra
-Logic Puzzle Rainbow Town
+Logic Puzzle Rainbow Town  (T-En)
 Lulu - Un Conte Interactif de Romain Victor-Pujebet
 Lunar - Silver Star Story
+Lunar 2 - Eternal Blue (T-En)
 Lunar: Silver Star Story Complete
-Lunar 2 - Eternal Blue
-Lupin The 3rd - Pyramid no Kenja
+Lupin Sansei - Pyramid no Kenja  (T-En)
 M - Kimi o Tsutaete
 Maboroshi no Black Bass
+Machi
 Madou Monogatari
 Magical Drop
 Magical Drop 2
@@ -304,8 +310,8 @@ Magical Drop 3 - Toretate Zoukan-gou!
 Magical Night Dreams: Cotton 2
 Magical Night Dreams: Cotton Boomerang
 Mahou Gakuen Lunar!
-Mahou Shoujo Pretty Samy: Heart no Kimochi
 Mahou Shoujo Pretty Samy - Osorubeshi Shintaisokutei! Kakubakuhatsu 5 Byou Mae!!
+Mahou Shoujo Pretty Samy: Heart no Kimochi
 Mahoutsukai ni Naru Houhou
 Maria - Kimitachi ga Umareta Wake
 Marica - Shinjitsu no Sekai
@@ -323,9 +329,8 @@ Metal Slug
 Minakata Hakudou Toujou
 Minami no Shima ni Buta ga Ita - Lucas no Daibouken
 Minton Keibu no Sousa File - Doukeshi Satsujin Jiken
-Mizubaku Daibouken
 Mizuki Shigeru no Youkai Zukan Soushuuhen
-Mobile Suit Gundam
+Mobile Suit Gundam  (T-En)
 Mobile Suit Gundam Side Story - The Blue Destiny
 Mobile Suit Gundam Side Story 1 - Senritsu no Blue
 Mobile Suit Gundam Side Story 2 - Ao o Uketsugu Mono
@@ -334,7 +339,6 @@ Momotarou Douchuki
 Monster Slider
 Moon Cradle
 Motteke Tamago with Ganbare! Kamonohashi
-Ryougae Puzzle Game Moudjiya
 Mouri Motonari - Chikai no Sanshi
 Mujintou Monogatari R - Futari no Love Love Island
 Murakoshi Seikai no Bakuchou Nihon Rettou
@@ -342,18 +346,17 @@ My Dream - On Air ga Matenakute
 Nanatsu Kaze no Shima Monogatari
 Nanatsu no Hikan
 Nekketsu Oyako
-Shinseiki Evangelion - Koutetsu no Girlfriend
 Neon Genesis Evangelion - Digital Card Library
 Next King - Koi no Sennen Oukoku
 Night Striker S
+Nightruth - Explanation of the Paranormal #01 - "Yami no Tobira"
 Nightruth - Explanation of the Paranormal - "Futatsu dake no Shinjitsu"
 Nightruth - Explanation of the Paranormal - Maria
-Nightruth - Explanation of the Paranormal #01 - "Yami no Tobira"
 Nihon Daihyou Team no Kantoku ni Naruu! Sekaihatsu Soccer RPG
 Nile Gawa no Yoake
 Ninja Jajamaru-kun - Onigiri Ninpouchou Gold
-Ninpen Manmaru
-Ninku - Tsuyokina Yatsura no Daigekitotsu!
+Ninja Penguin Manmaru  (T-En)
+Ninku - Clash of the Toughest! ( (T-En)
 No-appointment Gals Olympos
 Nobunaga no Yabou Returns
 Nobunaga no Yabou Sengoku Gunyuuden
@@ -363,7 +366,6 @@ Nobunaga no Yabou Tenshouki with Power-Up Kit
 NOeL 3 - Not Digital
 Nonomura Byouin no Hitobito
 Noon
-Densetsu no Ogre Battle
 O-chan no Oekaki Logic
 Ojousama Express
 Ojousama o Nerae!!
@@ -375,7 +377,7 @@ Panic Chan
 Pappara Paoon
 Pastel Muses
 PD Ultraman Link
-PhantasM
+Phantasmagoria
 Photo Genic
 Photograph of a Crime, The - Hankou Shashin - Shibarareta Shoujo-tachi no Mita Mono wa
 Pia Carrot e Youkoso!! 2
@@ -383,39 +385,40 @@ Pia Carrot e Youkoso!! We've Been Waiting for You
 Planet Joker
 Pocket Fighter
 Policenauts
-Purikura Daisakusen
-Princess Crown
+Princess Crown (T-En)
 Princess Maker - Yumemiru Yousei
 Princess Maker 2
 Princess Quest
 Prisoner of Ice - Jashin Kourin
-Pro Yakyuu Greatest Nine '97 - Make Miracle
 Pro Yakyuu Greatest Nine '97
-Pro Yakyuu Greatest Nine '98 - Summer Action
+Pro Yakyuu Greatest Nine '97 - Make Miracle
 Pro Yakyuu Greatest Nine '98
+Pro Yakyuu Greatest Nine '98 - Summer Action
 Pro Yakyuu Team mo Tsukurou!
+Psychic Killer Taromaru  (T-En)
 Psychotron, The
+Pu-Li-Ru-La Arcade Gears
 Pup-Breeder
+Purikura Daisakusen
+Puyo Puyo 2
 Puyo Puyo Sun
 Puyo Puyo Sun for SegaNet
-Puyo Puyo 2
-Bust-A-Move 2: Arcade Edition
-Bust-A-Move 3
+Puzzle & Action: 2do Arukoto wa Sand-R
 Quantum Gate 1 - Akumu no Joshou
 QuoVadis
 QuoVadis 2 - Wakusei Kyoushuu Ovan Rei
+R?MJ - The Mystery Hospital
 Rabbit
 Race Drivin'
 Radiant Silvergun
+Ragnagard  (T-En)
 Rampo
-Bishoujo Variety Game - Rapyulus Panic
 Real Bout Garou Densetsu
 Real Bout Garou Densetsu Special
 Real Sound - Kaze no Regret
 Refrain Love - Anata ni Aitai
 Return to Zork
 Riglordsaga 2
-R?MJ - The Mystery Hospital
 Ronde - Majin Tensei
 Roommate
 Roommate - Ryouko In Summer Vacation
@@ -423,33 +426,33 @@ Roommate 3 - Ryouko Kaze No Kagayaku Asa Ni
 Roommate W - Futari
 RoX - 6 = Six
 Ruriiro no Yuki
-Ryouko No Oshaberi Room
 Ryori No Tetsujin - Kitchen Stadium Tour
+Ryougae Puzzle Game Moudjiya
+Ryouko No Oshaberi Room
 Ryuuteki Gosennen - Dragons Of China
 Sakamoto Ryuuma - Ishin Kaikoku
-Sakura Taisen Hanagumi Taisen Columns
-Sakura Taisen - Hanagumi Tsuushin
-Sakura Wars - Steam Radio Show
-Sakura Taisen Teigeki Graph In Sakura Wars
-Sakura Taisen 2
-Sakura Taisen Hanagumi Tsuushin
 Sakura Taisen
+Sakura Taisen - Hanagumi Tsuushin
+Sakura Taisen Hanagumi Taisen Columns
+Sakura Tsuushin
+Sakura Taisen Teigeki Graph In Sakura Wars
+Sakura Wars - Steam Radio Show
+Sakura Wars 2 - Thou Shalt Not Die  (T-En)
 Salamander Deluxe Pack Plus
-Samurai Spirits: Amakusa Kourin
 Samurai Spirits Zankurou Musouken
+Samurai Spirits: Amakusa Kourin
+Sangokushi 5
 Sangokushi Eiketsuden
 Sangokushi Koumeiden
 Sangokushi Returns
-Sangokushi 5
-Saturn Bomberman Fight!!
 Savaki
 SD Gundam G Century S
 Seabass Fishing 2
-Sega Ages: After Burner 2
-Sega Ages: I Love Mickey Mouse & I Love Donald Duck
-Sega Ages: Columns Arcade Collection
 Sega Ages - Fantasy Zone
+Sega Ages: After Burner 2
+Sega Ages: Columns Arcade Collection
 Sega Ages: Galaxy Force 2
+Sega Ages: I Love Mickey Mouse & I Love Donald Duck
 Sega Ages: Memorial 1
 Sega Ages: Memorial Selection Vol. 2
 Sega Ages: OutRun
@@ -464,6 +467,7 @@ Segata Sanshirou Shinkenyugi
 Seifuku Densetsu Pretty Fighter X
 Seikai Risshiden - Yoi Kuni Yoi Seiji
 Sengoku Blade
+Senken Kigyouden
 Senkutsu Katsuryuu Taisen Chaos Seed
 Sentimental Graffiti - First Window
 Sentimental Grafitti
@@ -474,18 +478,16 @@ She'sn
 Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen
 Shienryu
 Shin Kaitei Gunkan - Koutetsu No Kodoku
-Shin Megami Tensei - Devil Summoner - Akuma Zensho
 Shin Megami Tensei - Devil Summoner
+Shin Megami Tensei - Devil Summoner - Akuma Zensho
 Shin Seiki Evangelion - 2nd Impression
-Shinseiki Evangelion
 Shingata Kururin Pa!
-Shining Force 3 - Scenario 1
-Shining Force 3 - Scenario 2
-Shining Force 3 - Scenario 3
-Shining Force 3 - Premium Disc
-Shinouken
-El Hazard The Magnificent World
-Shinrei Jusatsushi Tarōmaru
+Shining Force III - Scenario 1 - The Titan of Aspia  (T-En)
+Shining Force III - Scenario 2 - Target - Child of God  (T-En)
+Shining Force III - Scenario 3 - Bulzome Rising  (T-En)
+Shining Force III Premium Disc  (T-En)
+Shinseiki Evangelion
+Shinseiki Evangelion - Koutetsu no Girlfriend
 Shinsetsu Samurai Spirits Bushidou Retsuden
 Shiroki Majo - Mouhitotsu No Eiyuu Densetsu
 Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari
@@ -499,37 +501,36 @@ Skull Fang
 Slayers Royale
 Slayers Royale 2
 Snatcher
-Soldnerschild
 Sokko Seitokai Sonic Council
 Sol Divide
+Soldnerschild
 Solo Crisis
 Sonic Wings Special
 Sorvice
-Sotsugyou S
-Sotsugyou Album
-Sotsugyou Crossworld
 Sotsugyou 2 Neo Generation
 Sotsugyou 3 - Wedding Bell
+Sotsugyou Album
+Sotsugyou Crossworld
+Sotsugyou S
 Soukuu No Tsubasa - Gotha World
 Soukyu Gurentai Otokuyo
-Soukyuugurentai: Oubushutsugeki
-Machi
+Soukyuu Gurentai
+Sound Novel Tsukuru 2
+Sound Qube
+Space Invaders
 Stakes Winner
 Stakes Winner 2
 Standby Say You!
 Star Bowling Vol. 2, The
-The Star Bowling Dx
-SteamGear Mash
 Steam Hearts
+Steamgear Mash  (T-En)
+Steeldom
 Stellar Assault SS
 Strahl - Himerareshi Nanatsu no Hikari
 Street Fighter II Movie
 Street Fighter Zero 2'
 Street Fighter Zero 3
 Strikers 1945
-Sound Novel Tsukuru 2
-Sound Qube
-Space Invaders
 Strikers 1945 II
 Suchie-Pai Adventure Doki Doki Nightmare
 Sugobencha - Dragon Master Silk Gaiden
@@ -537,9 +538,10 @@ Suiko Enbu - Fuunsaiki
 Suikoden - Tendou Hyaku Hachi-sei
 Suikoden Tenmei No Chikai
 Super Adventure Rockman
+Super Dimension Fortress Macross, The : Do You Remember Love?
 Super Robot Taisen F
 Super Tempo
-Sword And Sorcery
+Sword & Sorcery  (T-En)
 Tactical Fighter
 Tactics Formula
 Tactics Ogre
@@ -550,39 +552,40 @@ Taito Chase H.q. Plus S.c.i.
 Takuramakan - Tonkou Denki
 Tama - Adventurous Ball in Giddy Labyrinth
 Tanjou S - Debut
-Tantei Saburo Jinguji Mikan No Rupo
 Tantei Jinguuji Saburou - Yume No Owari Ni
+Tantei Saburo Jinguji Mikan No Rupo
 Teitoku No Ketsudan 3 With Power-up Kit
 Tenant Wars
-Tenchi Muyou! Mimiri Onsen - Yukemuri No Tabi
 Tenchi Muyo - Rensa Hitsuyu
+Tenchi Muyou! Mimiri Onsen - Yukemuri No Tabi
 Tenchi Muyou! Ryououki Gokuraku CD-ROM for Sega Saturn
 Tenchi Muyou! Toukou Muyou: Aniraji Collection
 Tenchi Wo Kurau 2
-Tenka Seiha
 Tengai Makyou - Daiyon No Mokushiroku
+Tenka Seiha
 Tennis Arena
 Terra Cresta 3D
 Terra Phantastica
 Tetris S
 Texthoth Ludo - Arcanum Senki
+The Star Bowling Dx
+The Unsolved
 Thunder Force Gold Pack 1
 Thunder Force Gold Pack 2
-Thunderforce 5
 Thunder Storm and Road Blaster
+Thunderforce 5
 Tilk - Aoi Umi Kara Kita Shoujo
 Time Bokan Series - Bokan To Ippatsu! Doronboo Kanpekiban
 Time Commando
 Time Gal & Ninja Hayate
 Tokimeki Memorial - Forever With You
-Tokimeki Memorial Drama Series Vol.1 - Nijiiro No Seishun
-Tokimeki Memorial Drama Series Vol. 2 - Irodori No Love Song
 Tokimeki Memorial Drama Series Vol 3 Tabaidachi No Uta
+Tokimeki Memorial Drama Series Vol. 2 - Irodori No Love Song
+Tokimeki Memorial Drama Series Vol.1 - Nijiiro No Seishun
 Tokimeki Memorial Selection - Fujisaki Shiori
 Tokimeki Memorial Taisen Pazurudama
 Tokimeki Memorial Taisen Tokkaedama
 Tokusou Kidoutai J Swat
-Drift King Shutokou Battle '97 - Tsuchiya Keiichi and Bandou Masaaki
 Tokyo Shadow
 Top Anglers - Super Fishing Big Fight 2
 Touge King - The Spirits 2
@@ -602,8 +605,6 @@ Ultraman Zukan 3
 Umanari 1 Furlong Gekijou
 Universal Nuts
 Uno-dx
-The Unsolved
-Zanma Chouougi Valhollian
 Vampire Savior
 Vandal Hearts
 Vatlva
@@ -617,45 +618,45 @@ Virus
 Voice Fantasia S - Ushinawareta Voice Power
 Voice Idol Maniacs - Pool Bar Story
 Wachenröder
-Waialae No Kiseki - Extra 36 Holes
+Waialae Country Club - Extra 36 Holes  (T-En)
 Waku Waku 7
-Waku Waku Puyo Puyo Dungeon
 Waku Waku Monster
 WanChai Connection
 Wangan Dead Heat + Real Arrange
 Wangan Trial Love
 Wara² Wars: Gekitou! Daigundan Battle
 Welcome House
-Willy Wombat
+Willy Wombat  (T-En)
+Winning Post
+Winning Post 2
 Winning Post 2 Final 97
 Winning Post 2 Program 96
-Winning Post 2
-Winning Post 3: Program '98
 Winning Post 3
-Winning Post
+Winning Post 3: Program '98
 With You Mitsumeteitai
-Wizardry - Llylgamyn Saga
-Wizardry Nemesis - The Wizardry Adventure
-Wizardry VI & VII Complete
 Wizard's Harmony
 Wizard's Harmony 2
+Wizardry - Llylgamyn Saga
+Wizardry Nemesis - The Wizardry Adventure
+Wizardry VI & VII Complete  (T-En)
 Wolf Fang Ss Kuuga 2001
+Wonder 3 Arcade Gears
 World Advanced Daisenryaku - Sakusen File
+World Advanced Ironstorm Strategy  (T-En)
 World Cup France '98 - Road to Win
 World Evolution Soccer
 World Heroes Perfect
 X Japan - Virtual Shock 001
-Senken Kigyouden
 X-men Vs Street Fighter
 Yellow Brick Road
-Yumimi Mix Remix
-Kono Yo No Hate De Koi Wo Utau Shoujo Yu-no
 Yukyu Gensokyoku
+Yumimi Mix Remix
 Yuukyuu Gensoukyoku 2nd Album
 Yuukyuu Gensoukyoku Ensemble
 Yuukyuu Gensoukyoku Ensemble 2
 Yuukyuu no Kobako Official Collection
 Yuushun Classic Road
+Zanma Chouougi Valhollian
 Zap Snowboarding Trix
 Zap! Snowboarding Trix '98
 Zen Nihon Pro Wrestling Featuring Virtua
@@ -666,4 +667,4 @@ Zoku Hatsukoi Monogatari - Shūgaku Ryokō
 Zoop
 Zork I: The Great Underground Empire
 ====================
-Total Games: 665
+Total Games: 666

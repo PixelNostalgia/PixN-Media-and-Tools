@@ -1,46 +1,45 @@
 ﻿System: Memotech MTX512
 ====================
+3D Tachyon Fighter
+3D Turbo
+Agrovator
+Alice in Wonderland
+Arcazions
+Astro-Pac
+Astromilon
+Backgammon
+Blobbo
+Chamberoids
+Chess
 Comic Bakery
-Doodelbug Destroyers
-Downstream Danger
-Dr Frankie
-Escape from Zarcos
-Felix in the Factory
-Firehouse Freddie
+Cosmic Raiders
+Draughts
+Fathoms Deep
+Felix in the factory
 Goldmine
 Hawk Wars
 Jet Set Willy
-Karate King
 Kilopede
 Knuckles
-Manic Miner
-Maxima
-Missile Kommand
+Little Devils
 Mission Alphatron
-Ms Snapman
+Mission Omega
+Nemo
+Obliteration Zone
 Obloids
-Pac Manor Rescue
 Phaid
-Pot Hole Pete
-Power Pac
-Salty Sam
-Soldier Sam
-Son of Pete
-Soul of a Robot
-Space Invasion
-Spectron
-Time Bandits
+Qogo
+Quazzia
+Sloopy's Christmas
+Space Invasion (Coleco conversion)
+Spectron (Coleco conversion)
+Star Command
+Super Minefield
+Surface Scanner
+Tapeworm
+Target Zone
+Telebunny (MSX conversion)
 Toado
-Turbo
 Vernon and the Vampires
-3D Tachyon Fighter
-Astro Pac
-Chamberoids
-Cobra
-Agrovator
-Blobbo
-Combat
-Arcazion
-Blitz
 ====================
-Total Games: 42
+Total Games: 41

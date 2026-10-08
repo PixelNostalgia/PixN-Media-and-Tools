@@ -1,5 +1,8 @@
 ﻿System: Spectravideo SV-318
 ====================
+Alien 8
+Arkanoid
+Armoured Assault
 Assiduity
 Cabbage Patch Kids
 Candoo Ninja
@@ -107,8 +110,5 @@ Yie Ar Kung-fu
 Yie Ar Kung-Fu II: The Emperor Yie-Gah
 Zakil Wood
 Zaxxon
-Arkanoid
-Armoured Assault
-Alien 8
 ====================
 Total Games: 110

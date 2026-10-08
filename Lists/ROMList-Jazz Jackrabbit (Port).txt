@@ -2,6 +2,5 @@
 ====================
 Jazz Jackrabbit
 Jazz Jackrabbit
-Jazz Jackrabbit
 ====================
-Total Games: 3
+Total Games: 2

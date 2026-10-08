@@ -1,87 +1,59 @@
 ﻿System: MSX2
 ====================
+1942
+[DIRES] - giger . loop -
 AcroJet
-Aleste
 American Soccer
 Arctic
 Arkanoid II - Revenge of Doh
+Arsene Lupin the 3rd: The Golden Legend of Babylon
 Bubble Bobble
-The Cockpit
-Kontora
-Risk. Great Strategy.
 Darwin 4078
-[DIRES] - giger . loop -
 Dragon Buster
-Dragon Quest
-Dragon Slayer IV - Drasle Family
-Dragon Slayer IV - Drasle Family
+Dragon King
 Druid
 Dynamite Bowl
-The Eidolon
 F-15 Strike Eagle
-Famicle Parodic
 Family Billiards
 Family Boxing
+Family Stadium Pro Baseball
 Fantasy Zone II - The Tears of Opa-Opa
 Fire Ball
-Pennant Race 1
-Gekitotsu Pennant Race 2
 Girly Block
-Andorogynus
 Hardball
 Heroes Of The Lance
-Makaijima - Higemaru
-Firebird
 Hole In One Special
-Hydlide III - The Space Memories
 Ikari
-King Kong 2
-King's Valley II - The Seal of El Giza
+Ishtar no Fukkatsu
+Jackie Chan in 'Project A' 2
+Kontora
 Koronis Rift
-Arsene Lupin the 3rd: The Golden Legend of Babylon
 Lupin the 3rd : Cagliostro no Shiro
 Mad Rider
-Malaya No Hibou
-Metal Gear
-Metal Gear
 Mirai
-The Mon Mon Monster
 Mr. Ninja - Ashura's Chapter
 Ogre
 Out Run
 Pac-Mania
-Penguin Kun Wars 2
+Pennant Race 1
 Predator
-Family Stadium Pro Baseball
 Professional Baseball Fan Tele Network Stadium
-Jackie Chan in 'Project A' 2
-Quarth
-Quinpl
 Rastan Saga
 Replicart
-Ishtar no Fukkatsu
 Return of Jelda
 Rick and Mick's Big Adventure
 Scramble Formation
 Space Manbow
 Star Virgin
 Strategic Mars
-Super Risk
 Super Lode Runner
 Super Rambo Special
 Super Runner
 Super Triton
-Tengoku Yoitoko
 Tetris V2
-The Treasure of Usas
-Vampire Killer
-Woody Poco
+The Cockpit
+The Eidolon
+The Mon Mon Monster
 Xevious - Fardraut Saga
-Mr Ghost
-Zanac Ex
-Zombie Hunter
-Kempelen Chess
-1942
-Dragon King
 ====================
-Total Games: 83
+Total Games: 55

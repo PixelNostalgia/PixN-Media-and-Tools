@@ -1,10 +1,13 @@
 ﻿System: unis_batocera
 ====================
-After Dark
 Crazy Ride
-Elevator Action Invasion
-Night Hunter
-Raccoon Rampage
+Fantasy Soccer
+Mighty Moto
+Night Hunter (multiguns)
 Wicked Tuna
+Elevator Action Invasion (multiguns)
+Raccoon Rampage (multiguns)
+After Dark (mulitguns)
+Dino Invasion
 ====================
-Total Games: 6
+Total Games: 9

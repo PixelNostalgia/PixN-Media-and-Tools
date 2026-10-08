@@ -16,14 +16,23 @@ The Fast and the Furious: Super Bikes
 TMNT Arcade: Wrath of the Mutants
 Winter X-Games SnoCross
 Winter X-Games Snowboarder
-Cruis'n Blast
 Injustice Arcade
-Aliens Armageddon (multiguns)
 Target Terror Gold (multiguns)
-Terminator Salvation (multiguns)
 Nerf Arcade (multiguns)
-GhostBusters (multiguns)
+Ghostbusters (multiguns)
 Big Buck Hunter Pro (multiguns)
 Super Alpine Racer
+Guitar Hero Arcade
+Cruis'n Blast
+Galaga Assault
+Jurassic Park (multiguns)
+Big Buck World
+The Walking Dead Arcade
+Pac-Man Chomp Mania
+Terminator Salvation
+Halo: Fireteam Raven
+Big Buck HD Wild
+Pink Panther Jewel Heist
+Aliens Armageddon
 ====================
-Total Games: 25
+Total Games: 34

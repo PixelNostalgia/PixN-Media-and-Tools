@@ -1,13 +1,13 @@
 ﻿System: typex_retrobat
 ====================
-Spica Adventure (USA)
 Block King Ball Shooter
-The King of Fighters '98: Ultimate Match (USA)
-Tetris: The Grand Master 3: Terror-Instinct
 Chaos Breaker (USA)
+Giga Wing Generations (USA)
 Mobile Suit Gundam: Spirits of Zeon
+The King of Fighters '98: Ultimate Match (USA)
 KOF: Sky Stage (USA)
 Shikigami no Shiro III (USA)
-Giga Wing Generations (USA)
+Spica Adventure (USA)
+Tetris: The Grand Master 3: Terror-Instinct
 ====================
 Total Games: 9

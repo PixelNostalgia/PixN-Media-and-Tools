@@ -1,4 +1,4 @@
-﻿System: exaarcadia_batocera
+﻿System: exaarcadia_retrobat
 ====================
 BATSUGUN Saturn Tribute Boosted
 Battle Princess Madelyn

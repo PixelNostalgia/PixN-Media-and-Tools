@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<gameList>
+     <folder>
+        <path>./1-hit</path>
+        <name>Top-Hits</name>
+        <marquee>./media/C64-1-Hits-marquee.png</marquee>
+        <fanart>./media/C64-1-Hits-fanart.png</fanart>
+    </folder>
+	<folder>
+        <path>./2-best</path>
+        <name>Sehr gute Spiele</name>
+        <marquee>./media/C64-2-Best-marquee.png</marquee>
+        <fanart>./media/C64-2-Best-fanart.png</fanart>
+    </folder>
+    <folder>
+        <path>./3-average</path>
+        <name>3-average</name>
+        <marquee>./media/C64-3-Average-marquee.png</marquee>
+        <fanart>./media/C64-3-Average-fanart.png</fanart>
+    </folder>
+    <folder>
+        <path>./4-low</path>
+        <name>Durchschnittliche Spiele</name>
+        <marquee>./media/C64-4-Low-marquee.png</marquee>
+        <fanart>./media/C64-4-Low-fanart.png</fanart>
+    </folder>
+    <folder>
+        <path>./5-verylow</path>
+        <name>Unterdurchschnittliche Spiele</name>
+        <marquee>./media/C64-5-Very Low-marquee.png</marquee>
+        <fanart>./media/C64-5-Very Low-fanart.png</fanart>
+    </folder>
+    <folder>
+        <path>./+Aftermarket</path>
+        <name>+Aftermarket</name>
+        <marquee>./media/C64-Aftermarket-marquee.png</marquee>
+        <fanart>./media/C64-Aftermarket-fanart.png</fanart>
+    </folder>
+</gameList>

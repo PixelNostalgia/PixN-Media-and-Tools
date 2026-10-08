@@ -2,11 +2,13 @@
 ====================
 2001
 24
+Gottlieb 300
 4Square
 50_50
 Abra Ca Dabra
 ACDC (Pro)
 Add-A-Ball
+The Addams Family
 Air Aces
 Airport
 Akira
@@ -26,7 +28,6 @@ Back to the Future: The Pinball
 Back to the Future: The Pinball
 Bad Cats
 Balls-a-poppin'
-Bally Big Show
 Bally Hoo
 Band Wagon
 Banzai Run
@@ -38,6 +39,7 @@ Big Bang Bar
 Big Ben
 Big Deal (1963)
 Big Guns (Europe)
+Bally Big Show
 Big Spender
 Black Gold
 Black Jack
@@ -86,7 +88,6 @@ Defender
 Devils Dare
 Diamond Jack
 Die Hard
-Disney TRON Legacy
 Doctor Maboul
 Doctor Who
 Dolly Parton
@@ -107,6 +108,7 @@ El Toro
 Elektra
 Elvis
 Embryon
+The Entertainer
 Evel Knievel
 Expo
 Express Way
@@ -117,8 +119,8 @@ Fast Draw
 Fathom
 Favorite
 Fire Action
-Fireball Classic
 Fireball! (Europe,USA)
+Fireball Classic
 Firepower
 Fish Tales
 FJ Holden
@@ -141,6 +143,7 @@ Galaxy
 Gemini 2000
 Genesis
 Genie
+The Getaway: High Speed II
 Gilligan's Island (Europe)
 Gladiators
 Gold Rush
@@ -148,7 +151,6 @@ Gold Strike
 Goldfinger
 Goldrake
 Gorgar
-Gottlieb 300
 Granada
 Grand Prix (Williams)
 Green Pastures
@@ -159,10 +161,11 @@ Hawkman
 Hearts and Spades
 Heavy Metal
 Heavy Metal Meltdown
+Mary Shelley's Frankenstein
 Hi-Deal
+Hi-Lo Ace
 High Hand
 High Speed
-Hi-Lo Ace
 Hollywood
 Honey Williams
 Hot Shot
@@ -170,9 +173,10 @@ Hot Tip
 Hurdy Gurdy
 Ice Fever
 Ice Show
-Id4
+Marvel's The Incredible Hulk
 Indiana Jones
 Indiana Jones Pinball Adventure
+Id4
 Iron Man
 Jack in the Box
 Jackpot
@@ -203,9 +207,11 @@ Lectronamo
 Lightning
 Little Chief
 Little Joe
+The Lord of the Rings
 Lost in Space
 Lost World
 Lucky Seven
+The Machine: Bride of Pin•Bot
 Mad Race
 Magic
 Magic Castle
@@ -214,8 +220,6 @@ Magnotron
 Majorettes
 Mariner
 Mars: God of War
-Marvel's The Incredible Hulk
-Mary Shelley's Frankenstein
 Mary Shelley's Frankenstein
 Masters of the Universe
 Mata Hari
@@ -245,13 +249,16 @@ OXO
 Palace Guard
 Panthera
 Paragon
+The Party Zone
 Paul Bunyan
 Pennant Fever
+The Phantom of the Opera
 Pharaoh
 Phineas and Ferb
 Pinball
 Pinball Planet
 Pinball Pool
+The Machine: Bride of Pin•Bot
 Pink Panther
 Pioneer
 Pirates of the Caribbean
@@ -259,14 +266,15 @@ Pokerino
 Police Force (Europe)
 Pop-A-Card
 Power Play
-Pro Football
 Pro Pool
+Pro Football
 QBert's Quest
 Quicksilver
 Rally
 Raven
 Rawhide
 Red Baron
+The Red Max
 Rey de Diamantes
 Ripley's Believe It Or Not
 Robot
@@ -282,13 +290,16 @@ Satin Doll
 Scared Stiff
 Scorpion
 Seawitch
+The Shadow
 Shark (Taito Do Brasil)
 Sheriff
 Ship Ahoy
 Shock
 Silver
 SilverBall Mania
+The Simpsons
 Sinbad
+The Six Million Dollar Man
 Skateball
 Sky Divers
 Sky Jump
@@ -337,20 +348,7 @@ Taxi
 Teacher's Pet
 Tee'd Off
 Terminator 2 - Judgement Day
-The Addams Family
-The Entertainer
-The Getaway: High Speed II
 The Goonies Pinball Adventure
-The Lord of the Rings
-The Machine: Bride of Pin•Bot
-The Machine: Bride of Pin•Bot
-The Party Zone
-The Phantom of the Opera
-The Red Max
-The Shadow
-The Simpsons
-The Six Million Dollar Man
-The X Files
 Time Line
 Time Tunnel
 Time Warp
@@ -360,6 +358,7 @@ Top Score
 Totem
 Trident
 Triple Strike
+Disney TRON Legacy
 Twilight Zone
 Twister
 Volcano
@@ -369,9 +368,10 @@ Whirlwind
 Wild Fyre (Europe,USA)
 Wizard!
 World Cup Soccer
-Xenon
-X-Men: Magneto Limited Edition
+The X Files
 X's & O's
+X-Men: Magneto Limited Edition
+Xenon
 Yukon special
 Zarza
 Zip A Doo

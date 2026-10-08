@@ -10,7 +10,9 @@ AA6061
 AAAHH!!! Real Monsters
 Abyssal Infants
 Academia Do Saber
+Action 52
 Addams Family Values
+Adventures of the Gummi Bears
 Aero the Acro-Bat
 Aero the Acro-Bat 2
 Aerobiz
@@ -29,6 +31,7 @@ Alien Cat 2
 Alien Soldier
 Alien Storm
 Alisia Dragoon
+Altered Beast
 AlterEgo - Dreamwalker
 AlterEgo - Remastered
 American Gladiators
@@ -53,6 +56,7 @@ Art Alive
 Art of Fighting
 Asa Delta
 ASAP PLZ
+ASCII Wars
 Astebros
 Asteraoult Wars
 Astérix and the Great Rescue
@@ -62,6 +66,7 @@ Atomic Runner
 ATP Tour Championship Tennis
 Attack of the PETSCII Robots
 Australian Rugby League
+Avatar
 Avuado
 Awesome Possum... ...Kicks Dr. Machino's Butt
 Ayrton Senna's Super Monaco GP II
@@ -69,9 +74,11 @@ B.O.B.
 Baby Boom
 Baby's Day Out
 Back to the Future Part III
+Ball Jacks
 Ballz 3D : The Battle of the Ballz
 Bao Long Tu - Violent Dragon Rabbit
 Barbarian
+Barbarian: The Ultimate Warrior
 Barbie : Super Model
 Barbie : Vacation Adventure
 Bare Knuckled Princess
@@ -99,6 +106,7 @@ Beavis and Butt-Head
 Beethoven's 2nd: The Quest for Pups
 Beggar Prince
 Ben 10 - Alien Force
+Berzerk
 Best of the Best : Championship Karate
 Beyond Oasis
 Beyond Zero Tolerance
@@ -110,6 +118,7 @@ Bimini Run
 Bio Evil
 Bio Hazard Battle
 Black Baron
+Black Tiger
 Blades of Vengeance
 Blaster Master 2
 Block'em Sock'em
@@ -120,17 +129,19 @@ Blow'em Out
 Body Count
 Bomb on Basic City : Special Edition
 Bomber
-Bomber
 Bonanza Bros.
 Bone Marrow
 Bone Marrow Rebirth
 Bonkers
 Boogerman : A Pick and Flick Adventure
 Bottle Taps Race
+BoTTleD - Tower Defense
 Boxing Legends of the Ring
 Bram Stoker's Dracula
 Brave Battle Saga : Legend of the Magic Warrior
+Brave Spacy Pixy
 Breach
+Break An Egg
 Brett Hull Hockey 95
 Brian Lara Cricket
 Brian Lara Cricket 96
@@ -167,14 +178,16 @@ Castle Cat 2
 Castle Cat 3
 Castle of Illusion Starring Mickey Mouse
 Castlevania : The New Generation
-Cavalos E Peoes
+Cat at Crossroad
+Cavalos & Peoes
+Cave Story: Doukutsu Monogatari
 Centurion : Defender of Rome
 Chakan
 Champions World Class Soccer
 Championship Bowling
 Championship Pool
 Championship Pro-Am
-Chaos Engine, The
+Chase
 Chase H.Q. II
 Cheese Cat-Astrophe Starring Speedy Gonzales
 Chess
@@ -199,20 +212,26 @@ College Football's National Championship
 College Football's National Championship II
 College Slam
 Columns
+Columns II: The Voyage Through Time
 Columns III
 Combat Aces
 Combat Cars
 Comix Zone
+Command & Conquer
+Commandos
 Congo
 Connection Crafts Museum
 Contra: Hard Corps
 Cool Spot
 Cosmic Spacehead
+Counter-Strike 2D
 Crack Down
+Crazy Cars
 Crazy Driver
 CrazyBus
 Criatura
 Cross Fire
+Crusader of Centy
 Crystal's Pony Tale
 Crüe Ball : Heavy Metal Pinball
 Curse of Illmoore Bay, The
@@ -235,15 +254,18 @@ Daze Before Christmas
 Deadly Moves
 Death Caliber
 Death Duel
+Death Sword
+Deboomer
 Debtor
 DEcapAttack
 Decoder
 Deer Hunter
-Deflektor MD
+Deflektor
 Demolition Man
 Demons of Asteborg
 Desert Demolition Starring Road Runner and Wile E. Coyote
 Desert Strike : Return to the Gulf
+Despicable Me 2
 Devilish : The Next Possession
 Devwill Too MD
 Devwill Too Prologue
@@ -260,13 +282,15 @@ Dominus
 Donald in Maui Mallard
 Dongfang Sheng Zhong Yi - Trouble Lotus
 Doom Troopers
+Doroppu
 Double Clutch
 Double Cooked
 Double Dragon
 Double Dragon 3 : The Arcade Game
 Double Dragon V : The Shadow Falls
+Double Dribble - The Playoff Edition
 Double Symbol
-Downforce - Red Hot Princess Carnage
+Downforce
 Dr. Robotnik's Mean Bean Machine
 Dragon : The Bruce Lee Story
 Dragon Ball Z - Buyuu Retsuden
@@ -291,8 +315,11 @@ Ecco : The Tides of Time
 Ecco Jr.
 Ecco the Dolphin
 El. Viento
+Element Block
 Elemental Master
+Elite
 Empire of Steel
+Error Rush
 Escape 2042 : The Truth Defenders
 ESPN Baseball Tonight
 ESPN National Hockey Night
@@ -305,13 +332,11 @@ Evander Holyfield's 'Real Deal' Boxing
 Ex-Mutants
 Exile
 Exo Squad
-Exodus - Journey to the Promised Land
 Exodus : Journey to the Promised Land
 Eyra - The Crow Maiden
 F-117 Night Storm
 F-15 Strike Eagle II
 F-22 Interceptor
-Formula One
 F1 World Championship Edition
 Family Feud
 Fantasia
@@ -323,39 +348,42 @@ Fatal Fury 2
 Fatal Fury One
 Fatal Labyrinth
 Fatal Rewind
+Fatal Smarties
 Felix The Cat
 Ferias Frustradas Do Pica-pau
 Ferrari Grand Prix Challenge
 Fever Pitch Soccer
 Fica 1
 Fido Dido
-FIFA 97
 FIFA 98 : Road to World Cup
 FIFA International Soccer
 FIFA Soccer 2000
 FIFA Soccer 95
 FIFA Soccer 96
+FIFA Soccer 97
 Fight for Vengeance
 Fight Game 3 500
 Fight Game II 1000
 Fight Game II 3000
 Fighting Masters
+Final Fight MD
 Fire Shark
 Fix-It Felix, Jr.
 FlammenWerfer
 Flappy Bird
+Flash Point
 Flashback
 Flicky
 Flink
 Forca Alienigena
 Foreman for Real
 Forgotten Worlds
-FoxyLand
+Formula One
+Foxy Land
 Frank Thomas Big Hurt Baseball
 Frog Dude
 Frogger
 Fun 'n Games
-Funny World & Balloon Boy
 Funny World & Balloon Boy
 FX Unit Yuki : The Henshin Engine
 G-LOC Air Battle
@@ -375,6 +403,7 @@ Genghis Khan II : Clan of the Gray Wolf
 George Foreman's KO Boxing
 Ghostbusters
 Ghouls'n Ghosts
+Glass Breaker
 Gluf
 Gnome Runner
 Goblin Coffee Break
@@ -383,8 +412,10 @@ Gold Rush
 Golden Axe
 Golden Axe II
 Goofy's Hysterical History Tour
+Goplanes
 GrandSlam : The Tennis Tournament
 Gravibots
+Gravity Pig
 Greatest Heavyweights
 Greendog : The Beached Surfer Dude!
 Griel's Quest for the Holy Porron
@@ -403,6 +434,8 @@ HardBall '95
 HardBall III
 HardBall!
 Harry Potter
+Harry Potter 2
+Harry Potter and the Chamber of Secrets
 Haunting Starring Polterguy
 Havoc
 Hayato's Journey
@@ -419,11 +452,10 @@ Home Alone
 Home Alone 2 : Lost in New York
 Hook
 Hover Tank X-Treme
-Huan Le Tao Qi Shu - Smart Mouse
 Hunter Girls
 Hurricanes
-Double Dribble - The Playoff Edition
-IK Deluxe
+Hyper Dyne Side Arms
+IK+ Deluxe
 IMG International Tour Tennis
 Indiana Jones and the Last Crusade
 Insane Pain
@@ -431,8 +463,10 @@ Insector X
 Instruments of Chaos Starring Young Indiana Jones
 International Rugby
 International Superstar Soccer Deluxe
+Invasion - Free Edition
 Iraq War 2003
-Irmaos Aratu
+Irena: Genesis Metal Fury
+Irmãos Aratu
 Iron Man
 Ishido : The Way of Stones
 It Came from the Desert
@@ -454,6 +488,7 @@ Jerry Glanville's Pigskin Footbrawl
 Jesse "the Body" Ventura - Wrestling Superstars
 Jewel Master
 Jim Power - The Lost Dimension in 3D
+Jim Power: The Arcade Game
 Jimmy the Fruit Catcher
 Jimmy White's Whirlwind Snooker
 Joe & Mac
@@ -465,17 +500,20 @@ John Madden Football '93
 John Madden Football : Championship Edition
 Jordan vs Bird
 Joshua & the Battle of Jericho
-Joshua & the Battle of Jericho
+Journey from Darkness - Strider Returns
 Judge Dredd
 Jungle Strike : The Sequel to Desert Strike
+Junkbots
 Junte Quatro
 Jurassic Park
 Jurassic Park : Rampage Edition
 Justice League Task Force
 Ka-Ge-Ki : Fists of Steel
 Kawasaki Superbikes
+Kekcroc
 Kick Off 3 : European Challenge
 Kid Chameleon
+Killer Instinct Gold - Genesis Fight Engine
 King of the Monsters
 King of the Monsters 2
 King Salmon : The Big Catch
@@ -484,6 +522,7 @@ Klax
 Knights & Demons
 Kromasphere
 Krusty's Super Fun House
+Kung Fu Panda
 Kunio no Nekketsu School Fighters
 L'Abbaye des Morts
 La Russa Baseball 95
@@ -499,6 +538,7 @@ Lego Batman
 Lego Pirates Of The Caribbean
 Lemmings
 Lemmings 2 : The Tribes
+Leovigildo’s Murcian Conspiracy
 Lethal Enforcers
 Lethal Enforcers II : Gun Fighters
 LHX Attack Chopper
@@ -506,15 +546,18 @@ Liberty or Death
 Life on Earth: Reimagined
 Life on Mars: Genesis
 Light Crusader
+Liquid Space Dodger
 Little Medusa
 LIZARDPAINT
 Lobo
+Lost Astronaut
 Lotus II : R.E.C.S
 Lotus Turbo Challenge
 Lufia & the Fortress of Doom
 Lunch Break
 Lyle in Cube Sector
 M-1 Abrams Battle Tank
+Mad Stalker: Full Metal Forth
 Madden NFL '94
 Madden NFL 95
 Madden NFL 96
@@ -522,6 +565,7 @@ Madden NFL 97
 Madden NFL 98
 Magic Girl Featuring Ling Ling The Little Witch
 Magic Pockets
+Mallet Legend's Whac-A-Critter
 Mangangá
 Mansion of Sadness
 Marble Madness
@@ -550,19 +594,24 @@ Mega Man : The Wily Wars
 Mega Marble World
 Mega Marble World 2
 Mega Mindtris
+Mega Pang
 Mega Q-bert
 Mega Slow Mole
+Mega Squad Advantage
+Mega Swirl
 Mega SWIV
 Mega Turrican
-Mega Turrican
+Mega Turrican - Director's Cut
 Mega Xmas '89
 Mega-lo-Mania
+MegalDoom
 Megarunner
 Meka Grappler X
 Menacer 6-Game Cartridge
 Mercs
 Metal Blast 2277
 Metal Dragon
+Metal Gear
 Metal Slug Warfare
 Mick & Mack as the Global Gladiators
 Mickey Mania
@@ -572,17 +621,17 @@ Micro Machines 2 : Turbo Tournament
 Micro Machines : Military
 Micro Machines : Turbo Tournament 96
 Midnight Resistance
-Midway Presents Arcade's Greatest Hits
 Mig-29 Fighter Pilot
 Might and Magic : Gates to Another World
 Might and Magic III : Isles of Terra
-Mighty Mighty Missile 2004
+Mighty Mighty Missile!
 Mighty Morphin Power Rangers
-Mighty Morphin Power Rangers - The Fighting Edition
 Mighty Morphin Power Rangers : The Movie
+Mighty Morphin Power Rangers: The Fighting Edition
 Mike Ditka Power Football
-mikeyeldey95
+Mikeyeldey95
 Mikeyeldey: The Album
+Mine Sweeper
 Miniplanets
 Miniplanets Remix
 Minnesota Fats : Pool Legend
@@ -596,7 +645,7 @@ Mortal Kombat II
 Mosaico
 Mr. Balls
 Mr. Nutz
-Mr. Nutz Hoppin' Mad
+Mr. Nutz 2: Hoppin' Mad
 Ms. Pac-Man
 Muhammad Ali Heavyweight Boxing
 MUSHA : Metallic Uniframe Super Hybrid Armor
@@ -629,13 +678,13 @@ NFL Football '94 starring Joe Montana
 NFL Quarterback Club
 NFL Quarterback Club 96
 NFL Sports Talk Football '93 Starring Joe Montana
+NHL '94
 NHL 95
 NHL 96
 NHL 97
 NHL 98
 NHL All-Star Hockey 95
-NHL '94
-NHLPA Hockey 93
+NHLPA Hockey
 NHLPA Hockey 93
 Nigel Mansell's World Championship Racing
 Nightmare Circus
@@ -647,10 +696,12 @@ Nyordax
 Ocean Beach Volley
 Odeio Carros
 Oh Mummy Genesis
+Old Skill
 Old Towers
 Olympic Summer Games
 Omega Blast
 Onslaught
+Open Season
 Operation Europe : Path to Victory 1939-45
 Ordinary Gerbil
 Out of the Vortex
@@ -660,14 +711,11 @@ OutRun
 OutRun 2019
 OutRunners
 Outworld 2375 A.D.
-Overdrive
-Overdrive 2
 P.T.O. : Pacific Theater of Operations
-Pac-Man 2 : The New Adventures
+Pac-Attack
+Pac-Man
 Pac-Man 2 : The New Adventures
 Pac-Mania
-Pac-Attack
-Panorama Cotton
 Paperboy
 Paperboy 2
 Papi Commando
@@ -675,6 +723,7 @@ Papi Commando - Second Blood
 Papi Commando Reload
 Papi Commando Remix
 Papi Commando Remix Deluxe
+Papi Commando Tennis
 Paprium
 Parachute
 Passing Breeze: An Arcade Adventure
@@ -696,18 +745,23 @@ Phantasy Star IV
 Phantom 2040
 Phelios
 Pier Solar and the Great Architects
+Pingouin Bleu
+Pingouin Rose
 Pink Goes to Hollywood
 Pinocchio
+Pirates of the Caribbean 3 At World's End
 Pirates Of The Caribbean 4 - On Stranger Tides
 Pirates! Gold
 Piruja
 Pistoleiro
 Pit-Fighter
 Pitfall : The Mayan Adventure
+Planet Contra
 Plants Vs Zombies
 Pocahontas
 Pokemon II
 Pokémon Crazy Drummer
+Pong RAM
 Populous
 Power Drive
 Power Monger
@@ -732,12 +786,12 @@ Puzzli
 QuackShot Starring Donald Duck
 Quad Challenge
 R.B.I. Baseball '93
-R.B.I. Baseball '93
 R.B.I. Baseball '94
 R.B.I. Baseball 3
 R.B.I. Baseball 4
 Race Drivin'
 Racer
+Rad Rhino
 Radical Rex
 Rambo III
 Rampart
@@ -747,6 +801,7 @@ Red Queen Rampage
 Red Zone
 Redline Reaver
 Reknum
+Remute - Technoptimistic
 Resq
 Retro Games Hunters
 Return to Genesis
@@ -768,6 +823,7 @@ RoadBlasters
 Robert Cop 2
 RoboCop 3
 RoboCop versus The Terminator
+Rock n' Roll Racing
 Rock n' Roll Racing Hack
 Rocket Knight Adventures
 Rocket Panda: Into the Unknown
@@ -793,14 +849,16 @@ Sanrin San-chan : Spatter
 Saturday Night Slammasters
 Scholastic's The Magic School Bus : Space Exploration Game
 Scooby-Doo Mystery
+Scorpion Illuminati
 Scrabble
 Scream Mr. Jack
-seaQuest DSV
+Sea Quest DSV
 Seasaw Space Security Squad
 Second Samurai
 Sega Master System Brawl
 Segapede
 SegaSonic Bros.
+SegGala
 Sensible Soccer : European Champions
 Sensible Soccer : International Edition
 Sesame Street Counting Cafe
@@ -810,12 +868,13 @@ Shadow of the Beast
 Shadow of the Beast II
 Shadowrun
 Shanghai II : Dragon's Eye
-Shaolin Carcara
+Shaolin Carcará
 Shaq-Fu
 Shattering Jaws
 Shining Force
 Shining Force II
 Shining in the Darkness
+Shinobi
 Shinobi III : Return of the Ninja Master
 Ship
 Shove It! ...The Warehouse Game
@@ -823,35 +882,41 @@ Show Do Milhao
 Show Do Milhao Volume 2
 ShylaX
 Side Pocket
+Silent Hill: Genesis
 Simpsons, The - Trivia Quiz
 Skazka
 Skeleton Krew
 Skitchin'
 Slam : Shaq vs. the Legends
 Slaughter Sport
+Smart Mouse
 Snail Maze II
 Snake Rattle n Roll
 Socket
 Sol-Deace
 Solaris
-Crusader of Centy
+Soldiers of Fortune
 Solitaire in Space
 Sonic & Knuckles
 Sonic & Knuckles + Sonic The Hedgehog 2
 Sonic & Knuckles + Sonic The Hedgehog 3
 Sonic & Knuckles + Sonic the Hedgehog : Blue Sphere
-Sonic 3D Flickies' Island
-Sonic 3D Flickies' Island
+Sonic 3D Blast
+Sonic 3D Blast - Director's Cut
 Sonic Crackers
+Sonic Jam 6
 Sonic Spinball
+Sonic Tetris
 Sonic The Hedgehog
 Sonic The Hedgehog 2
 Sonic the Hedgehog 3
+Sonic The Hedgehog 3 (Paramount Promo Cart)
+Sonic the Hedgehog 3 Limited Edition
 Sorcerer's Kingdom
+Soul Edge VS Samurai Spirits
 Space Flies Attack
 Space Harrier II
 Space Hero
-Space Invaders '91
 Space Invaders '91
 Sparkster
 Spax
@@ -862,12 +927,12 @@ Spider-Man & X-Men : Arcade's Revenge
 Spider-Man Vs. The Kingpin
 Spike Hell
 Spiritual Warfare
-Spiritual Warfare
 Spirou
 Splatterhouse 2
 Splatterhouse 3
 Sports Talk Baseball
 Spot Goes to Hollywood
+Star Chaser
 Star Control
 Star Mobile
 Star Odyssey
@@ -885,7 +950,6 @@ Streets of Rage
 Streets of Rage 2
 Streets of Rage 3
 Strider
-Journey from Darkness - Strider Returns
 Striker
 Sub-Terrania
 Submarine Canyon Bomber vs Marine Aliens
@@ -902,13 +966,12 @@ Super Heavy Duty
 Super High Impact
 Super Hydlide
 Super Kick Off
-Super League
 Super Locomotive
-Super Mario Bros.
 Super Mario Bros.
 Super Maximum Overkill
 Super Monaco GP
 Super Off Road
+Super Ping-Pong
 Super Real Basketball
 Super Skidmarks
 Super Smash T.V.
@@ -927,6 +990,7 @@ Sword of Vermilion
 Syd of Valis
 Sylvester & Tweety in Cagey Capers
 Syndicate
+T-Gun II
 T2 : The Arcade Game
 TaleSpin
 Tanglewood
@@ -936,10 +1000,10 @@ Target Earth
 Task Force Harrier EX
 Taz in Escape from Mars
 Taz-Mania
+TC 2000
 Team USA Basketball
 TechnoClash
 Technocop
-Technoptimistic
 Tecmo Super Baseball
 Tecmo Super Bowl
 Tecmo Super Bowl II : Special Edition
@@ -950,29 +1014,30 @@ Tecmo World Cup
 Teenage Mutant Hero Turtles : The Hyperstone Heist
 Teenage Mutant Hero Turtles : Tournament Fighters
 Teenage Mutant Ninja Turtles - The Legend Returns
+Teenage Queen
 Telethugs
 Tennis All Stars
 Terminator 2 : Judgment Day
 Test Drive II : The Duel
+Tetra-GB
 Tetrex
 Tetris
 Tetrogen Classic
 The Addams Family
 The Adventures of Batman & Robin
+The Adventures of DMA David
 The Adventures of Mighty Max
 The Adventures of Rocky and Bullwinkle and Friends
-The Adventures of the Gummi Bears
 The Aquatic Games Starring James Pond and the Aqua
 The Berenstain Bears' Camping Adventure
-The Chaos Engine
 The Chaos Engine 2
 The Citadel of Chaos
 The Cursed Knight
 The Death and Return of Superman
 The Eldritch Monarch
 The Faery Tale Adventure
-The Flintstones
-The Flintstones
+The Flintstones (Ocean)
+The Flintstones (Taito)
 The Great Circus Mystery Starring Mickey & Minnie
 The Great Waldo Search
 The Humans
@@ -998,7 +1063,6 @@ The Simpsons : Bart vs. the Space Mutants
 The Simpsons : Bart's Nightmare
 The Smurfs
 The Smurfs Travel the World
-The Story of Thor
 The Terminator
 The Tick
 Theme Park
@@ -1022,8 +1086,10 @@ ToeJam & Earl in Panic on Funkotron
 Toki : Going Ape Spit
 Tom and Jerry : Frantic Antics
 Tom Mason's Dinosaurs for Hire
+Tommy Lasorda Baseball
 Tony La Russa Baseball
 Top Gear 2
+Top Shooter
 Total Football
 Toughman Contest
 Tourmaline
@@ -1038,16 +1104,15 @@ Tro-Now
 Trouble Shooter
 Troy Aikman NFL Football
 Truco '96
-Truco '96
 True Lies
 Truxton
 Tsunagi Kougeikan
+Tubes
 Turrican
 Twin Cobra : Desert Attack Helicopter
 Two Crude Dudes
 Two Cyclops
 Two Tribes : Populous II
-Tänzer
 Tänzer
 Ultimate Mortal Kombat 3
 Ultimate Qix
@@ -1061,7 +1126,6 @@ Unnecessary Roughness '95
 Unstoppable Knight
 Urban Strike
 Uwol - Quest For Money
-Uwol: Quest for Money
 Valis
 Valis III
 Vapor Trail
@@ -1069,14 +1133,20 @@ Vectorman
 Vectorman 2
 Venom & Spider-Man : Separation Anxiety
 Viewpoint
+VilQ
+VilQ Adventure
 Vintage Van Halen
+Violence Pingouin
 Virtua Fighter 2
 Virtua Racing
+Virtua Worm
+Virtua Worm 2
 Virtual Bart
 Virtual Pinball
 VR Troopers
 VS Puyo Puyo Sun
 Wacky Races
+Wacky Willy Weiner Sausage Surfer
 Wacky Worlds Creativity Studio
 Wardner
 Warlock
@@ -1094,14 +1164,15 @@ Where in the World is Carmen Sandiego?
 Where in Time is Carmen Sandiego?
 Whip Rush
 Wild Snake
+Williams Arcade's Greatest Hits
 Wimbledon Championship Tennis
 Windjammers
 Windjammers - Bonus Level
 Winter Challenge
 Winter Olympics : Lillehammer '94
-Wisdom Tree Collection
 Wiz'n'Liz : The Frantic Wabbit Wescue
 Wolfchild
+Wolfenstein 3D
 Wolverine : Adamantium Rage
 Wonder Boy in Monster World
 World Championship Soccer II
@@ -1124,11 +1195,9 @@ X-Men 2 : Clone Wars
 X-Perts
 Xeno Crisis
 Xenon 2 : Megablast
-Xiao Monv - Magic Girl
 Xump 2: Back to Space
 Yazzie
 Yie Ar Kung-Fu
-YM2020
 Yogi Bear : Cartoon Capers
 You Shall Not Steal
 Ys III
@@ -1136,10 +1205,8 @@ Yu Yu Hakusho - Makyou Toitsusen
 Zany Golf
 Zero the Kamikaze Squirrel
 Zero Tolerance
-Zero Tolerance
 Zero Tolerance Underground
 Zero Wing
-Zhuo Gui Da Shi - Ghost Hunter
 Zombi Terror
 Zombie High
 Zombies Ate My Neighbors
@@ -1147,5 +1214,6 @@ Zool : Ninja of the “Nth” Dimension
 Zoom!
 Zooming Secretary - Going Panic
 Zoop
+ZPF
 ====================
-Total Games: 1147
+Total Games: 1215

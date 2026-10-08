@@ -1,20 +1,21 @@
 ﻿System: LCD Games
 ====================
 Telko: Bassmate
-Konami: The Adventures of Bayou Billy
-Konami: Contra
-Konami: Garfield
-Konami: Gradius
-Konami: Lone Ranger
-Konami: Teenage Mutant Ninja Turtles
 Texas: Speak & Spell
 Tamagotchi
-Tronica: Thief in Garden
-Tronica: Shuttle Voyage
-Tronica: Space Rescue
-Konami: Bucky O'Hare
+ebball3
+Clever Chicken
+Super Goal Keeper
+Shuttle Voyage
+Space Adventure
+Space Rescue
+Spider (Tronica)
 Simon
-Konami: Blades of Steel
-Electronika: Nu, pogodi!
+Space Mission (Tronica)
+Super Simon
+Thief in Garden
+Diver's Adventure
+Galaxy Invader 1000
+Galaxy Invader (Gakken, cyan version)
 ====================
-Total Games: 16
+Total Games: 17

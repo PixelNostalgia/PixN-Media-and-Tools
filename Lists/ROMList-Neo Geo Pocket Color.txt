@@ -24,6 +24,7 @@ Kikou Seiki Unitron: Sono Tsuide. Hikari Umareru Chi Yori.
 King of Fighters R-2
 King of Fighters, The: Battle de Paradise
 Koi Koi Mahjong
+The Last Blade : Beyond the Destiny (Europe)
 Magical Drop Pocket
 Memories Off: Pure
 Metal Slug: 1st Mission
@@ -35,22 +36,22 @@ Neo Baccarat: Real Casino Series
 Neo Cherry Master Color: Real Casino Series
 Neo Derby Champ Daiyosou
 Neo Dragon's Wild: Real Casino Series
+NeoGeo Cup '98 Plus
 Neo Mystery Bonus: Real Casino Series
 Neo Poke Pro Yakyuu
 Neo Turf Masters
-NeoGeo Cup '98 Plus
 Nige-ron-pa
 Ogre Battle Gaiden: The Prince of Zenobia
-Pachinko Hissyou Guide: Pocket Parlor
+Pac-Man
+Pachisuro Azure Oogoku Pocket: Azteca
 Pachi-slot Aruze Oukoku Pocket: Dekahel 2
+Pachisuro Aruze Oogoku Pocket: Delsol 2
+Pachisuro Aruze Ohgoku Pocket: E-cup
+Pachisuro Aruze Oogoku Pocket: Hanabi
 Pachi-slot Aruze Oukoku Pocket: Oohanabi
 Pachi-slot Aruze Oukoku Pocket: Porcano 2
-Pachisuro Aruze Ohgoku Pocket: E-cup
-Pachisuro Aruze Oogoku Pocket: Delsol 2
-Pachisuro Aruze Oogoku Pocket: Hanabi
 Pachisuro Aruze Oogoku Pocket: Ward Of Lights
-Pachisuro Azure Oogoku Pocket: Azteca
-Pac-Man
+Pachinko Hissyou Guide: Pocket Parlor
 Party Mail
 Picture Puzzle
 Pocket Love If
@@ -72,6 +73,5 @@ SNK vs. Capcom: The Match of the Millennium
 Sonic the Hedgehog: Pocket Adventure
 Soreike!! Hanafuda Doujou
 Super Real Mahjong: Premium Collection
-The Last Blade : Beyond the Destiny (Europe)
 ====================
 Total Games: 73

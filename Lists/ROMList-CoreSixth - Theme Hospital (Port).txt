@@ -1,6 +1,5 @@
 ﻿System: CoreSixth - Theme Hospital (Port)
 ====================
 Theme Hospital HD
-Theme Hospital HD
 ====================
-Total Games: 2
+Total Games: 1

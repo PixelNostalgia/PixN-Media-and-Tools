@@ -1621,8 +1621,8 @@ Tecmo Bowl (World, set 1)
 Tecmo World Cup '90
 TeddyBoy Blues (315-5115, New Ver.)
 Tee'd Off
-Teenage Mutant Ninja Turtles (World 4 Players, version X)
-Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)
+Teenage Mutant Ninja Turtles (4 Players)
+Teenage Mutant Ninja Turtles - Turtles in Time (4 Players)
 Tehkan World Cup
 Teki Paki
 Tempest (rev 3, Revised Hardware)
@@ -1918,7 +1918,7 @@ WWF WrestleFest (World)
 WWF Wrestlemania (rev 1.30 08/10/95)
 Wyvern F-0 (Rev 1)
 X Multiply (World, M81 hardware)
-X-Men (4 Players ver EBA)
+X-Men (4 Players)
 X2222
 Xain'd Sleena (World)
 Xenophobe
@@ -1951,5 +1951,9 @@ Zunzunkyou no Yabou (Japan)
 Zwackery
 Zzyzzyxx (set 1)
 Super Casino
+The Simpsons (2 Player World, set 3)
+Teenage Mutant Ninja Turtles - Turtles in Time (2 Players)
+Teenage Mutant Ninja Turtles (2 Players)
+X-Men (2 Players)
 ====================
-Total Games: 1951
+Total Games: 1955

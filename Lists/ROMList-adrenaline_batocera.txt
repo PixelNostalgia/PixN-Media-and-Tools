@@ -14,5 +14,7 @@ Fruit Ninja FX2
 Rabbids Hollywood Arcade (multiguns)
 Tomb Raider Arcade (multiguns)
 Drakons Realm Keepers (multiguns)
+Hot Wheels Victory Lap
+Jetpack Joyride Arcade
 ====================
-Total Games: 14
+Total Games: 16
