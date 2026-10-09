@@ -6,7 +6,7 @@ BlazBlue: Continuum Shift
 Chase H.Q. 2
 D1GP Arcade: Professional Drift Game
 The King of Fighters XIII
-The King of Fighters : Maximum Impact Regulation
+The King of Fighters : Maximum Impact Regulation A
 Samurai Spirits Sen
 Senko no Ronde DUO: Dis-United Order (2.00)
 Street Fighter IV
@@ -20,7 +20,5 @@ Haunted Museum (multiguns)
 The King of Fighters XII
 Elevator Action Death Parade (multiguns)
 Groove Coaster 2: Heavenly Festival
-The King of Fighters XIII Climax
-Super Street Fighter IV Arcade Edition (Version 2010 - Export)
 ====================
-Total Games: 22
+Total Games: 20

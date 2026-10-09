@@ -1,12 +1,15 @@
 ﻿System: IGS PolyGame Master
 ====================
 Demon Front
-Dragon World 2001
-Dragon World 3
-Dragon World 3 EX (World)
 Dragon World II
+Dragon World 3
+Dragon World 2001
+Dragon World 3 EX (World)
 Dragon World Pretty Chance
 Huanle Liuhe Yi
+The Killing Blade
+The Killing Blade Plus
+The King of Fighters '98: Ultimate Match HERO
 Knights of Valour
 Knights of Valour 2
 Knights of Valour 2: New Legend
@@ -16,18 +19,15 @@ Knights of Valour Plus
 Knights of Valour: Super Heroes
 Knights of Valour: Super Heroes Plus
 Martial Masters
-Oriental Legend
-Oriental Legend 2
-Oriental Legend Special Plus
 Oriental Legend Super
+Oriental Legend Special Plus
+Oriental Legend 2
+Oriental Legend
 Photo Y2K
-Photo Y2K 2
 Puzzle Star
 Puzzli 2
+Photo Y2K 2
 S.V.G.: Spectral vs Generation
 The Gladiator
-The Killing Blade
-The Killing Blade Plus
-The King of Fighters '98: Ultimate Match HERO
 ====================
 Total Games: 29

@@ -1,270 +1,270 @@
 ﻿System: 3DSen
 ====================
 1943 : The Battle of Midway
-2048
-3-D WorldRunner
-Abadox : The Deadly Inner War
-Adventure Island
-Adventures of Lolo
-Adventures of Lolo 2
-Adventures of Lolo 3
-Amagon
-Antarctic Adventure
-Arkanoid
-Astyanax
-Bad Dudes
-Balloon Fight
-Batman : The Video Game
-Battle City
-Battle Kid : Fortress Of Peril
-Binary Land
-Blaster Master
-bobl
-Bomberman
-Bubble Bobble
-Bucky O'Hare
-Bugs Bunny Crazy Castle, The
-BurgerTime
-Castlevania
-Castlevania II : Simon's Quest
-Chip 'N Dale : Rescue Rangers
-Chip 'N Dale : Rescue Rangers 2
-Circus Charlie
-City Connection
-Clash at Demonhead
-Clu Clu Land
-Contra
-Depths
-Dig Dug
-Disney's Darkwing Duck
-Disney's DuckTales
-Disney's DuckTales 2
-Donkey Kong
-Donkey Kong 3
-Donkey Kong Jr.
-Dr. Mario
-Dragon Warrior
-Dragon Warrior II
-Duck Hunt
-Elevator Action
-Excitebike
-Felix the Cat
-Fester's Quest
-Final Fantasy
-Fire 'n Ice
-Flappy
-Flappy Bird
-Flappy Bird FPV
-Flipull - An Exciting Cube Game
-Galaga : Demons of Death
-Gargoyle's Quest II
-Ghosts 'n Goblins
-Goonies, The
-Gradius
-Gremlins 2 : The New Batch
-Gyromite
-Hogan's Alley
-Ice Climber
-Ice Hockey
-Jackal
-Jackie Chan's Action Kung Fu
-Journey to Silius
-Kabuki Quantum Fighter
-Kid Icarus
-Kung Fu / Spartan X
-Legacy of the Wizard
-Legend of Kage, The
-Legend of Zelda, The
-Life Force
-Lode Runner
-Lunar Pool
-Mappy
-Mario Bros.
-Mega Man
-Mega Man 2
-Mega Man 3
-Mega Man 4
-Mega Man 5
-Mega Man 6
-Metroid
-Micro Mages
-Moai-kun
-Ninja Gaiden III : The Ancient Ship of Doom
-Nix - The Paradox Relic
-Nuts & Milk
-Pac-Man
-Palamedes
-Panic Restaurant
-Pinball
-Pooyan
-Popeye
-Punch-Out!!
-Puzznic
-Quarth
-Road Fighter
-RoadBlasters
-Rockman Special Edition 3D
-Samurai Pizza Cats
-Shadow of the Ninja
-Shatterhand
-Snow Brothers
-Solomon's Key
-Spy Hunter
-Super Bat Puncher
-Super Mario Bros.
-Super Mario Bros. 2
-Super Mario Bros. 3
-Super Spike V' Ball
-Teenage Mutant Ninja Turtles
-Teenage Mutant Ninja Turtles II : The Arcade Game
-Tennis
-Tetris
-Tetris (Famicom)
-Tetris : The Soviet Mind Game
-The Chessmaster
-Twinbee
-Urban Champion
-Vice : Project Doom
-Werewolf : The Last Warrior
-Whomp 'Em
-Wild Gunman
-Wrecking Crew
-Yie Ar Kung-fu
-Yoshi
-Zelda II : The Adventure of Link
-Zooming Secretary
 1943 : The Battle of Midway
 2048
+2048
+3-D WorldRunner
 3-D WorldRunner
 Abadox : The Deadly Inner War
+Abadox : The Deadly Inner War
+Adventure Island
 Adventure Island
 Adventures of Lolo
+Adventures of Lolo
+Adventures of Lolo 2
 Adventures of Lolo 2
 Adventures of Lolo 3
+Adventures of Lolo 3
+Amagon
 Amagon
 Antarctic Adventure
+Antarctic Adventure
+Arkanoid
 Arkanoid
 Astyanax
+Astyanax
+Bad Dudes
 Bad Dudes
 Balloon Fight
+Balloon Fight
+Batman : The Video Game
 Batman : The Video Game
 Battle City
+Battle City
+Battle Kid : Fortress Of Peril
 Battle Kid : Fortress Of Peril
 Binary Land
+Binary Land
+Blaster Master
 Blaster Master
 bobl
+bobl
+Bomberman
 Bomberman
 Bubble Bobble
+Bubble Bobble
+Bucky O'Hare
 Bucky O'Hare
 Bugs Bunny Crazy Castle, The
+Bugs Bunny Crazy Castle, The
+BurgerTime
 BurgerTime
 Castlevania
+Castlevania
 Castlevania II : Simon's Quest
-The Chessmaster
-Chip 'N Dale : Rescue Rangers 2
+Castlevania II : Simon's Quest
 Chip 'N Dale : Rescue Rangers
+Chip 'N Dale : Rescue Rangers
+Chip 'N Dale : Rescue Rangers 2
+Chip 'N Dale : Rescue Rangers 2
+Circus Charlie
 Circus Charlie
 City Connection
+City Connection
+Clash at Demonhead
 Clash at Demonhead
 Clu Clu Land
+Clu Clu Land
 Contra
-Disney's Darkwing Duck
+Contra
+Depths
 Depths
 Dig Dug
-Donkey Kong
-Donkey Kong 3
-Donkey Kong Jr.
-Dr. Mario
-Dragon Warrior
-Dragon Warrior II
-Duck Hunt
+Dig Dug
+Disney's Darkwing Duck
+Disney's Darkwing Duck
+Disney's DuckTales
 Disney's DuckTales
 Disney's DuckTales 2
+Disney's DuckTales 2
+Donkey Kong
+Donkey Kong
+Donkey Kong 3
+Donkey Kong 3
+Donkey Kong Jr.
+Donkey Kong Jr.
+Dr. Mario
+Dr. Mario
+Dragon Warrior
+Dragon Warrior
+Dragon Warrior II
+Dragon Warrior II
+Duck Hunt
+Duck Hunt
+Elevator Action
 Elevator Action
 Excitebike
+Excitebike
+Felix the Cat
 Felix the Cat
 Fester's Quest
+Fester's Quest
+Final Fantasy
 Final Fantasy
 Fire 'n Ice
-Flappy Bird FPV
-Flappy Bird
+Fire 'n Ice
 Flappy
+Flappy
+Flappy Bird
+Flappy Bird
+Flappy Bird FPV
+Flappy Bird FPV
+Flipull - An Exciting Cube Game
 Flipull - An Exciting Cube Game
 Galaga : Demons of Death
+Galaga : Demons of Death
+Gargoyle's Quest II
 Gargoyle's Quest II
 Ghosts 'n Goblins
+Ghosts 'n Goblins
+Goonies, The
 Goonies, The
 Gradius
+Gradius
+Gremlins 2 : The New Batch
 Gremlins 2 : The New Batch
 Gyromite
+Gyromite
+Hogan's Alley
 Hogan's Alley
 Ice Climber
+Ice Climber
+Ice Hockey
 Ice Hockey
 Jackal
+Jackal
+Jackie Chan's Action Kung Fu
 Jackie Chan's Action Kung Fu
 Journey to Silius
+Journey to Silius
+Kabuki Quantum Fighter
 Kabuki Quantum Fighter
 Kid Icarus
+Kid Icarus
+Kung Fu / Spartan X
+Kung Fu / Spartan X
+Legacy of the Wizard
 Legacy of the Wizard
 Legend of Kage, The
+Legend of Kage, The
+Legend of Zelda, The
 Legend of Zelda, The
 Life Force
+Life Force
+Lode Runner
 Lode Runner
 Lunar Pool
+Lunar Pool
+Mappy
 Mappy
 Mario Bros.
-Mega Man 4
-Mega Man 5
-Mega Man 6
+Mario Bros.
+Mega Man
 Mega Man
 Mega Man 2
+Mega Man 2
 Mega Man 3
+Mega Man 3
+Mega Man 4
+Mega Man 4
+Mega Man 5
+Mega Man 5
+Mega Man 6
+Mega Man 6
+Metroid
 Metroid
 Micro Mages
+Micro Mages
+Moai-kun
 Moai-kun
 Ninja Gaiden III : The Ancient Ship of Doom
+Ninja Gaiden III : The Ancient Ship of Doom
+Nix - The Paradox Relic
 Nix - The Paradox Relic
 Nuts & Milk
+Nuts & Milk
+Pac-Man
 Pac-Man
 Palamedes
+Palamedes
+Panic Restaurant
 Panic Restaurant
 Pinball
+Pinball
+Pooyan
 Pooyan
 Popeye
+Popeye
+Punch-Out!!
 Punch-Out!!
 Puzznic
+Puzznic
+Quarth
 Quarth
 Road Fighter
+Road Fighter
+RoadBlasters
 RoadBlasters
 Rockman Special Edition 3D
+Rockman Special Edition 3D
+Samurai Pizza Cats
 Samurai Pizza Cats
 Shadow of the Ninja
+Shadow of the Ninja
+Shatterhand
 Shatterhand
 Snow Brothers
+Snow Brothers
 Solomon's Key
-Kung Fu / Spartan X
+Solomon's Key
+Spy Hunter
 Spy Hunter
 Super Bat Puncher
+Super Bat Puncher
 Super Mario Bros.
-Super Mario Bros. 3
+Super Mario Bros.
 Super Mario Bros. 2
+Super Mario Bros. 2
+Super Mario Bros. 3
+Super Mario Bros. 3
 Super Spike V' Ball
-Teenage Mutant Ninja Turtles II : The Arcade Game
+Super Spike V' Ball
 Teenage Mutant Ninja Turtles
-Tetris : The Soviet Mind Game
+Teenage Mutant Ninja Turtles
+Teenage Mutant Ninja Turtles II : The Arcade Game
+Teenage Mutant Ninja Turtles II : The Arcade Game
+Tennis
 Tennis
 Tetris
+Tetris
 Tetris (Famicom)
+Tetris (Famicom)
+Tetris : The Soviet Mind Game
+Tetris : The Soviet Mind Game
+The Chessmaster
+The Chessmaster
+Twinbee
 Twinbee
 Urban Champion
+Urban Champion
+Vice : Project Doom
 Vice : Project Doom
 Werewolf : The Last Warrior
+Werewolf : The Last Warrior
+Whomp 'Em
 Whomp 'Em
 Wild Gunman
+Wild Gunman
+Wrecking Crew
 Wrecking Crew
 Yie Ar Kung-fu
+Yie Ar Kung-fu
+Yoshi
 Yoshi
 Zelda II : The Adventure of Link
+Zelda II : The Adventure of Link
+Zooming Secretary
 Zooming Secretary
 ====================
 Total Games: 266

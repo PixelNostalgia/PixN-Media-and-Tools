@@ -1,14 +1,14 @@
 ﻿System: Nintendo 64DD
 ====================
 Dezaemon DD
-F-Zero X - Expansion Kit (Japan)
-Nihon Pro Golf Tour 64
-Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou
 Kyojin No Doshin
+F-zero X - Expansion Kit
+Nihon Pro Golf Tour 64
+Mario Artist - Talent Studio
+Kyojin no Doshin: Kaihou Sensen Chibikko Chikko Daishuugou
 Mario Artist - Communication Kit
 Mario Artist - Paint Studio
 Mario Artist - Polygon Studio
-Mario Artist - Talent Studio
 SimCity 64
 ====================
 Total Games: 10

@@ -1,23 +1,24 @@
 ﻿System: typex2_retrobat
 ====================
-Battle Fantasia (USA)
-BlazBlue: Calamity Trigger (USA)
-BlazBlue: Continuum Shift
-Chase H.Q. 2
-D1GP Arcade (USA)
 DariusBurst (USA)
+BlazBlue: Calamity Trigger (USA)
+D1GP Arcade (USA)
 Elevator Action: Death Parade (USA)
+Super Street Fighter IV: Arcade Edition Ver. 2012 (USA)
+BlazBlue: Continuum Shift
+The King of Fighters XIII Climax (USA)
+Chase H.Q. 2
+Theatrhythm Final Fantasy: All-Star Carnival (USA)
+Battle Fantasia (USA)
+Street Fighter IV (USA)
 Gaia Attack 4 (USA)
 Haunted Museum (USA)
 Haunted Museum II (USA)
 KOF: Maximum Impact Regulation A (USA)
-The King of Fighters XIII Climax (USA)
 Music GunGun! 2 (USA)
 Samurai Shodown: Edge of Destiny (USA)
 School of Ragnarok (USA)
 Senko no Ronde DUO: Dis-United Order (USA)
-Street Fighter IV (USA)
-Super Street Fighter IV: Arcade Edition Ver. 2012 (USA)
 Wacky Races (USA)
 ====================
-Total Games: 19
+Total Games: 20

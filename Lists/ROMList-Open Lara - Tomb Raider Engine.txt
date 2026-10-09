@@ -1,11 +1,11 @@
 ﻿System: Open Lara - Tomb Raider Engine
 ====================
+Tomb Raider II (PSX)
+Tomb Raider III: Adventures of Lara Croft (PC)
+Tomb Raider III: Adventures of Lara Croft (PSX)
 Tomb Raider (PC)
 Tomb Raider (PSX)
 Tomb Raiders (Saturn)
 Tomb Raider II (PC)
-Tomb Raider II (PSX)
-Tomb Raider III: Adventures of Lara Croft (PC)
-Tomb Raider III: Adventures of Lara Croft (PSX)
 ====================
 Total Games: 7

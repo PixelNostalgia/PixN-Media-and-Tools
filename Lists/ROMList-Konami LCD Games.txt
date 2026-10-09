@@ -1,6 +1,6 @@
 ﻿System: Konami LCD Games
 ====================
-The Adventures of Bayou Billy
+Bill Elliott's NASCAR Racing
 Blades of Steel
 Bottom of the Ninth
 Bucky O'Hare
@@ -10,14 +10,14 @@ Double Dribble
 Garfield
 Gradius
 Lone Ranger
-Bill Elliott's NASCAR Racing
 NFL Football
 Skate or Die
 Star Trek 25th Anniversary
+The Adventures of Bayou Billy
 TMNT - Teenage Mutant Ninja Turtles
+TMNT 1 - Basketball
 TMNT 2 - Splinter Speaks
 TMNT 3 - Shredder's Last Stand
-TMNT 1 - Basketball
 Top Gun
 Top Gun - Second Mission
 ====================

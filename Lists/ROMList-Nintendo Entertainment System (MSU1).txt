@@ -1,25 +1,31 @@
 ﻿System: Nintendo Entertainment System (MSU1)
 ====================
+Chip 'n Dale Rescue Rangers (Enchanced)
+Contra
+Duck Tales
+Kid Icarus
+Mega Man II
+Mega Man III
+Mega Man IV
+Mega Man
+Metroid
+Mike Tyson's Punch-Out!!
 10-Yard Fight
 1943 - The Battle of Midway
 Abadox - The Deadly Inner War
 Adventure Island II
-Adventures of Lolo
 Adventures of Lolo 2
 Adventures of Lolo 3
+Adventures of Lolo
 Amagon
 Batman
 Battle City
 Black Bass, The
-Blaster Master
 Bomb Sweeper
 BurgerTime
 Chip 'n Dale Rescue Rangers
-Chip 'n Dale Rescue Rangers (Enchanced)
 Chip 'n Dale Rescue Rangers 2
 Clu Clu Land
-Color A Dinosaur
-Contra
 Crystalis
 Dig Dug
 Dig Dug II - Trouble in Paradise
@@ -27,12 +33,9 @@ Donkey Kong - Original Edition (savepatch)
 Donkey Kong 3 (savepatch)
 Donkey Kong Jr.
 Donkey Kong Jr. Math
-Double Dragon II
-Double Dragon
 Dr. Mario
 Dracs Night Out
 Dragon's Lair
-Duck Tales
 DuckTales 2
 Dungeon Magic
 Excitebike
@@ -50,12 +53,9 @@ Ice Climber
 Ice Hockey
 Ikari Warriors
 Jackal
-Kid Icarus
 Lee Trevino's Fighting Golf
 Legend of the Ghost Lion
 Legend of Zelda, The
-Legend of Zelda, The
-Life Force
 Little Mermaid, The
 Little Nemo - The Dream Master
 Lode Runner
@@ -65,14 +65,8 @@ Mahjong
 Majou Densetsu II
 Mappy
 Mario Bros.
-Mega Man
-Mega Man 2
-Mega Man 3
-Mega Man 4
 Metal Gear
 Metal Storm
-Metroid
-Mike Tyson's Punch-Out!!
 Millipede
 Ms. Pac-Man
 Ninja Gaiden
@@ -83,12 +77,10 @@ Pooyan
 Popeye
 Popeye no Eigo Asobi
 Q-bert
-R.C. Pro-Am
 Robin Hood - Prince of Thieves
 RoboCop
 RoboCop 2
 Route 16 Turbo
-Rygar
 Seicross
 Sky Kid
 Soccer
@@ -96,13 +88,12 @@ Space Invaders
 Spelunker
 Splatter House - Wanpaku Graffiti
 Spy vs Spy
-Star Trek - The Next Generation
+Star Trek - The Next Generation (USA) NES (PN v.1.3)
 Star Wars - The Empire Strikes Back
 Stinger
-Super Dodge Ball
+Super Mario Bros. Game Watch
 Super Mario Bros.
 Super Mario Bros. 3
-Super Mario Bros. Game Watch
 Tag Team Wrestling
 Tennis
 Tetris
@@ -112,8 +103,9 @@ Wagyan Land
 Whomp 'Em
 Willow
 Wrecking Crew
+Rygar
+Super Dodge Ball
+Legend of Zelda, The
 Zelda II - The Adventure of Link
-Castlevania II: Simon's Quest
-Castlevania
 ====================
-Total Games: 115
+Total Games: 107

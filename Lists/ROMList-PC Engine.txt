@@ -1,10 +1,19 @@
 ﻿System: PC Engine
 ====================
 15-in-1 Mega Collection - Backtracking Ten Years
-1943 Kai
-21 Emon: Mezase Hotel Ou!!
 5-in-1 Fami Collection: Nes Collection Nr 1
 6-in-1 Fami Collection - Nes Collection Nr 2
+Castlevania
+Contra
+DuckTales 2
+Final Match Tennis Ladies
+Jackal
+Mega Man
+Mega Man 2
+Reflectron
+Super Mario Bros.
+1943 Kai
+21 Emon: Mezase Hotel Ou!!
 Adventure Island
 Aero Blasters
 After Burner II
@@ -25,11 +34,11 @@ Benkei Gaiden
 Bikkuriman World
 Blodia
 Bodyconquest II: Kyuuseishu
-Bomberman
-Bomberman '93
-Bomberman '93: Special Version
-Bomberman '94
 Bomberman: Users Battle
+Bomberman
+Bomberman '93: Special Version
+Bomberman '93
+Bomberman '94
 Bouken Danshaku Don: The Lost Sunheart
 Bravoman
 Break In
@@ -38,15 +47,12 @@ Bull Fight: Ring no Hasha
 Burning Angels
 Busou Keiji: Cyber Cross
 Cadash
-Castlevania
 Champion Wrestler
-Chase H.Q.
 Chibi Maruko-chan: Quiz de Piihyara
 Chikudenya Toubei: Kubikiri Yakata Yori
 Circus Lido
 City Hunter
 Columns
-Contra
 Coryoon: Child of Dragon
 Cross Wiber: Cyber Combat Police
 Cyber Core
@@ -71,27 +77,25 @@ Dragon Egg!
 Dragon Saber
 Dragon Spirit
 Drop Rock Hora Hora
-DuckTales 2
 Dungeon Explorer
 Energy
-Eternal City: Toshi Tensou Keikaku
-F-1 Dream
-F-1 Pilot: You're King of Kings
 F1 Circus
 F1 Circus '91
 F1 Circus '92: The Speed of Sound
+F-1 Dream
+F-1 Pilot: You're King of Kings
 F1 Triple Battle
 Fantasy Zone
 Fighting Run
 Final Blaster
 Final Lap Twin
 Final Match Tennis
-Final Match Tennis Ladies
 Final Soldier
 Final Soldier: Special Version
+Fire Pro Wrestling: Combination Tag
 Fire Pro Wrestling 2: 2nd Bout
 Fire Pro Wrestling 3: Legend Bout
-Fire Pro Wrestling: Combination Tag
+Hisou Kihei X-SERD
 Formation Armed
 Formation Soccer: Human Cup '90
 Formation Soccer: On J. League
@@ -107,26 +111,24 @@ Genpei Toumaden Ni no Maki
 Gokuraku! Chuuka Taisen
 Gomola Speed
 Gradius
-Gunhed
 Gunhed: Special Version
+Gunhed
 Hana Taaka Daka!
 Hanii in the Sky
 Hanii on the Road
 Hatris
 Heavy Unit
-Hisou Kihei X-SERD
 Hit the Ice: VHL, The Official Video Hockey League
 Honoo no Toukyuuji: Dodge Danpei
 Hyper Dyne: SideArms
 Idol Hanafuda Fan Club
 ImageFight
-J. League Greatest Eleven
 Jack Nicklaus: Turbo Golf
-Jackal
 Jackie Chan's Action Kung Fu
 Jaseiken Necromancer
 Jigoku Meguri
 Jinmu Denshou
+J. League Greatest Eleven
 Juuouki
 Kaizou Choujin Shubibinman
 Kaizou Choujin Shubibinman 2: Aratanaru Teki
@@ -140,16 +142,16 @@ Knight Rider Special
 Kore ga Pro Yakyuu '89
 Kore ga Pro Yakyuu '90
 Kung Fu, The
-Kyuukyoku Mahjong II
 Kyuukyoku Mahjong: Idol Graphics
+Kyuukyoku Mahjong II
 Kyuukyoku Tiger
 Lady Sword: Ryakudatsu Sareta 10-nin no Otome
 Legend of Hero Tonma
 Lode Runner: Lost Labyrinth
 Maerchen Maze
 Magical Chase
-Mahjong Gakuen Mild: Touma Soushirou Toujou
 Mahjong Gakuen: Touma Soushirou Toujou
+Mahjong Gakuen Mild: Touma Soushirou Toujou
 Mahjong Gokuu Special
 Mahjong Haouden: Kaiser's Quest
 Mahjong Shikaku Retsuden: Mahjong Wars
@@ -159,8 +161,7 @@ Makai Prince Dorabocchan
 Makyou Densetsu
 Maniac Pro Wres: Asu e no Tatakai
 Mashin Eiyuuden Wataru
-Mega Man
-Mega Man 2
+Somer Assault
 Metal Stoker
 Mizubaku Dai Bouken
 Momotarou Densetsu Gaiden: Dai-1-shuu
@@ -194,28 +195,29 @@ Out Live
 OutRun
 Override
 P-47: The Freedom Fighter
-Pac-Land
 Pachio-Kun: Juuban Shoubu
+Pac-Land
 Paranoia
 Parasol Stars: The Story of Bubble Bobble 3
 Parodius Da!: Shinwa kara Owarai e
+PC Genjin: Punkic Cyborgs
+PC Genjin: Pithecanthropus Computerurus
 PC Genjin 2: Pithecanthropus Computerurus
 PC Genjin 3: Pithecanthropus Computerurus
-PC Genjin: Pithecanthropus Computerurus
-PC Genjin: Punkic Cyborgs
 PC Pachi-Slot Idol Gambler
 Populous
 Power Drift
 Power Eleven
 Power Gate
 Power Golf
+Power League: All Star Version
 Power League
 Power League '93
-Power League 4
-Power League 5
 Power League II
 Power League III
-Power League: All Star Version
+Power League 4
+Power League 5
+World Sports Competition
 Power Tennis
 Pro Tennis World Court
 Pro Yakyuu World Stadium
@@ -224,16 +226,14 @@ Psycho Chaser
 Puzzle Boy
 Puzznic
 Quiz Toukou Shashin
-R-Type
-R-Type II
 Rabio Lepus Special
 Racing Damashii
 Raiden
 Rastan Saga II
-Reflectron
 Rock-On
+R-Type
+R-Type II
 Ryuukyuu
-S.C.I.: Special Criminal Investigation
 Sadakichi Seven: Hideyoshi no Ougon
 Saigo no Nindou: Ninja Spirit
 Salamander
@@ -247,26 +247,26 @@ Shougi Shoshinsha Muyou
 Silent Debuggers
 Sindibad: Chitei no Daimakyuu
 Skweek
-Soldier Blade
 Soldier Blade Special: Caravan Stage
-Somer Assault
+Soldier Blade
 Son Son II
 Soukoban World
 Space Harrier
 Space Invaders: Fukkatsu no Hi
+S.C.I.: Special Criminal Investigation
 Spin Pair
 Spiral Wave
 Splatterhouse
 Stratego
 Street Fighter II': Champion Edition
 Strip Fighter II
-Super Mario Bros.
 Super Metal Crusher
 Super Momotarou Dentetsu
 Super Momotarou Dentetsu II
 Super Star Soldier
 Super Volleyball
 Susanoou Densetsu
+Chase H.Q.
 Takahashi Meijin no Shin Boukenjima
 Takeda Shingen
 Tatsujin
@@ -279,6 +279,7 @@ Time Cruise II
 Titan
 Toilet Kids
 Tora Heno Michi
+Eternal City: Toshi Tensou Keikaku
 Tower of Druaga, The
 Toy Shop Boys
 Tricky
@@ -294,7 +295,6 @@ Victory Run
 Vigilante
 Violent Soldier
 Volfied
-W-Ring: The Double Rings
 Wai Wai Mahjong: Yukai na Janyuu-tachi
 Wallaby!!
 Winning Shot
@@ -302,7 +302,7 @@ Wonder Momo
 World Beach Volley
 World Circuit
 World Jockey
-World Sports Competition
+W-Ring: The Double Rings
 Xevious: Fardraut Densetsu
 Youkai Douchuuki
 Yuu Yuu Jinsei: Victory Life
