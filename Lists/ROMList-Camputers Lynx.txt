@@ -1,48 +1,31 @@
 ﻿System: Camputers Lynx
 ====================
-3D Monster Craze (1983)(Camsoft)(GB)
-Backgammon
-Battlebrick (19xx)(-)
-Centipede (19xx)(Play It!)
-Colossal Adventure
+Odysee d'Asterix, L' (19xx)(La Bibliotheque de Cintre)(96K)(FR)
 Dam Busters (1983)(Camsoft)(96K)(GB)(fr)
-Deathball
-Digger Man
-Dungeon Adventure
 Floyds Bank (1983)(Romik Software)(GB)
+Pontoon (1983)(Gem Software)(48K-96K-128K)(GB)
 Gempack 4 (1983)(Gem Software)(GB)
 Gobble de Spook (1983)(Camsoft)(GB)
 Gridtrap (19xx)(-)(FR)
-Labyrinthe (19xx)(Quazar Computing)(48K-96K-128K)(GB)(fr)
-Logichess v2.2 (1983)(Danielsen, Kaare - Ekner, Hartvig)(96K)
 Lynx Hangman (1983)(French, Steven B.)
 Lynx Invaders (1983)(Camsoft)(GB)
-Mastermind (96K)(France)
+Labyrinthe (19xx)(Quazar Computing)(48K-96K-128K)(GB)(fr)
+Logichess v2.2 (1983)(Danielsen, Kaare - Ekner, Hartvig)(96K)
 Mazeman (1983)(Abersoft)(GB)
-Mined Out
 Moonfall
 Muncher (1983-06-09)(Gordon, Robert)
-Nuclear Invaders
 Numerons (1983)(Camsoft)(96K)(GB)(fr)
-Odysee d'Asterix, L' (19xx)(La Bibliotheque de Cintre)(96K)(FR)
 Oh Mummy!! (1983)(Gem Software)(GB)
-Panik
 Pengo (1984)(Play It!)
-Pontoon (1983)(Gem Software)(48K-96K-128K)(GB)
 Power Blaster
 Racer (1983)(Camsoft)(GB)
 Rocketman - A Pair of Number Games for Kids (1983)(Bamby Software)
-Scrablynx (1985)(Sauget, Alain)(96K)(FR)
-Siege Attack
-Space Trek (1983)(Quazar Computing)(GB)
-Spellbound
 Super Air Raid
-The Forest (96K)
-The Worm
-Treasure Island
-Tron Blocker (96K)(France)
-Twinkle
-Ynxvaders
-Zombie Panic (France)
+Scrablynx (1985)(Sauget, Alain)(96K)(FR)
+Space Trek (1983)(Quazar Computing)(GB)
+Colossal Adventure
+Battlebrick (19xx)(-)
+Centipede (19xx)(Play It!)
+3D Monster Craze (1983)(Camsoft)(GB)
 ====================
-Total Games: 44
+Total Games: 27

@@ -80,6 +80,7 @@ Sengoku
 Sengoku 2
 Samurai Shodown II
 Ragnagard
+Shinsetsu Samurai Spirits - Bushido Retsuden
 Syougi No Tatsujin - Master of Syougi
 Soccer Brawl
 Aero Fighters 2
@@ -101,7 +102,5 @@ World Heroes 2 Jet
 World Heroes Perfect
 Xeno Crisis
 Metal Slug
-Samurai Spirits - Tales of the Bushido (Japan) [T-En by Jeff Nussbaum v1.10] [n]
-Rick Dangerous DX
 ====================
-Total Games: 103
+Total Games: 102

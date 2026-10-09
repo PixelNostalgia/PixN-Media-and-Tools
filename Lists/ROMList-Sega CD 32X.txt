@@ -1,10 +1,10 @@
 ﻿System: Sega CD 32X
 ====================
-Corpse Killer
-Surgical Strike
-Supreme Warrior
 Fahrenheit
 Night Trap
 Slam City with Scottie Pippen
+Supreme Warrior
+Corpse Killer
+Surgical Strike
 ====================
 Total Games: 6

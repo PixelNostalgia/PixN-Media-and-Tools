@@ -3,11 +3,19 @@
 AC-DC Live Rock Band Track Pack
 Band Hero
 Beatles, The - Rock Band
+Green Day - Rock Band
+Guitar Hero - Aerosmith
+Guitar Hero - Encore Rocks The 80s
+Guitar Hero - Metallica
+Guitar Hero - Smash Hits
+Guitar Hero - Van Halen
+Guitar Hero - World Tour
 Guitar Hero 5
 Guitar Hero II
+Guitar Hero III - Legends of Rock
 Guitar Hero On Tour
 Guitar Hero
-My Songs
+LEGO Rock Band
 Rock Band 2
 Rock Band 3
 Rock Band 4
@@ -38,5 +46,7 @@ Rock Band 4
 Rock Band Blitz
 Rock Band
 Spinal Tap
+Guitar Hero - Warriors of Rock
+My Songs
 ====================
-Total Games: 38
+Total Games: 48

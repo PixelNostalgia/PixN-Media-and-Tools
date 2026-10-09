@@ -1,7 +1,5 @@
 ﻿System: Atomiswave
 ====================
-Force Five
-KenJu
 Animal Basket
 Sega Bass Fishing Challenge (Version A)
 Block Pong-Pong
@@ -9,10 +7,12 @@ Sega Clay Challenge
 Demolish Fist
 Dirty Pigskin Football
 Dolphin Blue
+Force Five
 Fist Of The North Star / Hokuto no Ken
 Faster Than Speed
 Guilty Gear Isuka
 Guilty Gear X (ver. 1.5)
+KenJu
 The King of Fighters Neowave
 The King of Fighters XI
 Knights of Valour: The Seven Spirits

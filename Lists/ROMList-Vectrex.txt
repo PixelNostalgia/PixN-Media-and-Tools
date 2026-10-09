@@ -1,26 +1,26 @@
 ﻿System: Vectrex
 ====================
-Armor..Attack
-Bedlam
-Berzerk
-Blitz! - Action Football
-Clean Sweep
-Cosmic Chasm
-Fortress of Narzod
-Heads-Up - Action Soccer
-HyperChase - Auto Race
-Mine Storm
-Mine Storm II
-Polar Rescue
-Pole Position
-Rip Off
-Scramble
-Solar Quest
-Space Wars
-Spike
-Spin ball
-Star Castle
-Star Trek - The Motion Picture
-StarHawk
+Armor..Attack (World)
+Bedlam (USA, Europe)
+Berzerk (World)
+Blitz! - Action Football (USA, Europe) (0F11CE0C)
+Clean Sweep (World)
+Cosmic Chasm (World)
+Fortress of Narzod (USA, Europe)
+Heads-Up - Action Soccer (USA)
+HyperChase - Auto Race (World)
+Mine Storm (World)
+Mine Storm II (USA) (Rev 2)
+Polar Rescue (USA)
+Pole Position (USA) (A00ED3D6)
+Rip Off (World)
+Scramble (USA, Europe)
+Solar Quest (World)
+Space Wars (World)
+Spike (USA, Europe)
+Spin ball (USA)
+Star Castle (USA)
+Star Trek - The Motion Picture (USA)
+StarHawk (World)
 ====================
 Total Games: 22
