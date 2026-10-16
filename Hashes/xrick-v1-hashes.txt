@@ -1,0 +1,11 @@
+d043c07ae9ca6964  xrick.cmd
+49434352497a1908  _info.txt
+8d956762b9437682  xrick.cmd.keys
+532f9a57e456071e  media/marquee/xrick-data.png
+e31922e02c215196  xrick.exe
+651f470108c1ce3b  media/images/xrick-data.png
+11a8e90f0abf540b  xrick-data.zip
+ddb0779e620dad98  media/thumbnails/xrick-data.jpg
+d2709ab048341a2a  SDL.dll
+c4e90000e4151ba6  media/videos/xrick-data.mp4
+65e636a58f64adb9  media/fanarts/xrick-data.jpg

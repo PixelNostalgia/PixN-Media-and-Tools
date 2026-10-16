@@ -1,0 +1,32 @@
+2d06800538d394c2  cd_key.txt
+00fa981b93fea35e  _info.txt
+06853dbe216d5bdf  Quake III Arena Team Mission Pack.quake3
+6e30d3b32598a2b3  Quake III Arena.quake3
+1e8e6c92b238f191  renderer_opengl1_x86_64.so
+b467cb3a4556252e  baseq3/CDKEY
+69d3291219e151a8  gamelist.xml.bak.20260501_211214
+63494ee328b265b1  missionpack/pak3.pk3
+cc1608a742ad535d  missionpack/pak1.pk3
+cf821ce682dc603d  renderer_opengl2_x86_64.so
+59e3901b163d7970  baseq3/pak1.pk3
+6b303b5fab712a92  missionpack/pak2.pk3
+9bb893c2639778ea  ioquake3
+ff2ea423feab757f  baseq3/pak2.pk3
+cde4d920b75461cd  baseq3/pak5.pk3
+78eb8db44ee968e7  baseq3/pak3.pk3
+bfc0ae09f4a27fb0  baseq3/pak7.pk3
+1a53cc8ec9fba91e  baseq3/pak8.pk3
+89d73f8573ae375a  media/fanarts/Quake III Arena.jpg
+b1ed3cd3d30c4961  baseq3/pak4.pk3
+87dcee42a0035e71  media/fanarts/Quake III Arena Team Mission Pack.jpg
+050bedeea8e081c4  media/thumbnails/Quake III Arena Team Mission Pack.png
+32e18de304e6ac78  media/thumbnails/Quake III Arena.png
+ea537486435cc419  media/videos/Quake III Arena Team Mission Pack.mp4
+b07f1c7704f32fe8  media/marquee/Quake III Arena.png
+cff441341eead5c7  media/images/Quake III Arena Team Mission Pack.jpg
+20bcfe603f76c6d3  media/marquee/Quake III Arena Team Mission Pack.png
+2b0e5b1f89076e8f  baseq3/pak6.pk3
+74513a211e44a2d3  media/images/Quake III Arena.jpg
+4b0be538830389e5  media/videos/Quake III Arena.mp4
+fe8d78c6315150e0  missionpack/pak0.pk3
+9c38e4979cf1d890  baseq3/pak0.pk3

@@ -1,0 +1,5 @@
+797b55107b87c47a  images/Temptations-DEMO-v1.0c-WHDLoad-image.png
+0fc54400c44e9589  images/Temptations-DEMO-v1.0c-WHDLoad-marquee.png
+8920a3e0d7d257bf  Temptations-DEMO-v1.0c-WHDLoad.lha
+733ba2904f39f7f4  images/Temptations-DEMO-v1.0c-WHDLoad-thumb.png
+e7dffb92e7df56c4  videos/Temptations-DEMO-v1.0c-WHDLoad-video.mp4

@@ -1,0 +1,3029 @@
+2d06800538d394c2  Baldur's Gate.bg1/GemRB.log
+7ce6bb47f2bb2c54  Baldur's Gate.bg1/Readme.txt
+141162008bca6590  Baldur's Gate.bg1/Baldur.ini
+7ce6bb47f2bb2c54  Baldur's Gate.bg1/English_Readme.txt
+23d909700082b2ac  Baldur's Gate.bg1/Keymap.ini
+aa55d9335232823d  Baldur's Gate.bg1/Update.url
+8a663d25363abad8  Baldur's Gate.bg1/gemrb_path.txt
+1e42ecb2bb7caa2b  Baldur's Gate.bg1/luaAuto.cfg
+e6798f93fa41c734  Baldur's Gate.bg1/Uninst.isu
+cc4b1207377af67a  Baldur's Gate.bg1/chitin.key
+1adc21c044f46ff1  Baldur's Gate.bg1/dialog.tlk
+48d1780c4a4d8053  Icewind Dale.iwd/CHITIN.KEY
+ebfe6c9f596a6eed  Icewind Dale.iwd/Keymap.ini
+84d1d2716f65429b  Icewind Dale.iwd/3dfx.dll
+45f5f7db962a901a  Icewind Dale.iwd/Language.ini
+0c4b5917af748c47  Icewind Dale.iwd/Dialog.tlk
+5586434b3738ecb6  Icewind Dale.iwd/README.TXT
+f078a654215454d2  Icewind Dale.iwd/icewind.ini
+d619a28f51c3401b  Icewind Dale.iwd/Uninst.isu
+91689dc9097e402a  Icewind Dale.iwd/mpicewnd.mpi
+8fe632d8d5227b0e  Baldur's Gate.bg1/Config.exe
+a1609c6f0e819654  Baldurs Gate 2.bg2/Baldur's Gate 2 manual.pdf
+5c54960d082bf111  Baldur's Gate.bg1/Baldur.exe
+ef54a34aab29a1c9  Baldurs Gate 2.bg2/Chitin.key
+9775b8953731b079  Baldurs Gate 2.bg2/BGConfig.exe
+72069b975d7353bb  Baldurs Gate 2.bg2/Keymap.ini
+edcdfef2880cfb70  Baldurs Gate 2.bg2/Language.txt
+11557a9bd54cba31  Baldurs Gate 2.bg2/MPlayer.doc
+979d4b33b38df9d1  Baldurs Gate 2.bg2/MPlayer.txt
+5cb0cda8511bdd30  Baldurs Gate 2.bg2/Mplaynow.ini
+5ad9dd9ea04b6063  Baldurs Gate 2.bg2/Power Users.txt
+2120130413a2cd47  Baldurs Gate 2.bg2/Readme.txt
+3fc31b6b0bff4171  Baldurs Gate 2.bg2/BGMain.exe
+0cf9f1499c5324b5  Baldurs Gate 2.bg2/Update.url
+e75956ab409fc8f5  Icewind Dale.iwd/Config.exe
+24f837e0284d64bc  Baldurs Gate 2.bg2/autorun.ini
+69b15399744390ca  Baldurs Gate 2.bg2/baldur.ico
+14ca045a976b490a  Baldurs Gate 2.bg2/bgate2.mpi
+970c678512a19e0b  Baldurs Gate 2.bg2/baldur.ini
+5ce73f87b506b59b  Baldurs Gate 2.bg2/bgdxtest.exe
+9d62088dc9896634  Baldurs Gate 2.bg2/CharView.exe
+d99e78005eeb7c67  Baldurs Gate 2.bg2/bggltest.exe
+801a62ab710d1e32  Baldurs Gate 2.bg2/MoviePlay.exe
+3f0759a6f2c1cb36  Baldurs Gate 2.bg2/license.txt
+0c49381eb4cac5c0  Baldurs Gate 2.bg2/mpnwn.bat
+93aadc72797be75e  Baldur's Gate.bg1/BGMain.exe
+d886450666dec50a  Baldurs Gate 2.bg2/dialog.tlk
+ba4c6d9888976eb1  Baldurs Gate 2.bg2/mplaynow.exe
+7c5c976cd37bc351  Baldur's Gate.bg1/Heat/Heat.ico
+9bcee8c5b7a7080f  Baldur's Gate.bg1/Heat/Heat.url
+2f079799efc7ed63  Baldur's Gate.bg1/Heat/Install.ico
+f8efdf20cc442edc  Baldur's Gate.bg1/Heat/HeatInstall.exe
+087a54eebb8cda82  Baldur's Gate.bg1/Data/ARMISC.bif
+d19d63a94c93f675  Baldurs Gate 2.bg2/baldur.exe
+bf9c8c388a5be79f  Baldur's Gate.bg1/Data/AREA260A.BIF
+c9d86ff4fd5cb6ea  Baldurs Gate 2.bg2/nwn_1.mpg
+1419d80bbd2b463a  Baldur's Gate.bg1/Data/AREA2600.BIF
+b1f089907e56c90f  Baldur's Gate.bg1/Data/Areas.bif
+950d5ab33eaee6ad  Baldur's Gate.bg1/Data/CREATURE.bif
+bae1377e48a8349f  Icewind Dale.iwd/IDMain.exe
+4f46be2cb3af2d14  Baldur's Gate.bg1/Data/CRESound.BIF
+114036e455878d90  Baldur's Gate.bg1/Data/Dialog.bif
+f93296ffdd7e0edd  Baldur's Gate.bg1/Data/CREAnim.BIF
+9f8ae6576db1db0c  Baldur's Gate.bg1/Data/DEFAULT.bif
+91b76282c0f5814b  Baldur's Gate.bg1/Data/EFFECTS.bif
+5f302455cd109c42  Baldur's Gate.bg1/Data/ITEMS.bif
+9be8bbeb47671dee  Baldur's Gate.bg1/Data/CHASound.BIF
+a5116016fd74f8e1  Baldur's Gate.bg1/Data/OBJANIM.bif
+521c0b17a98fba31  Baldur's Gate.bg1/Data/CHAANIM.bif
+3a5141c1f96673f4  Baldur's Gate.bg1/Data/Spells.bif
+451d5d02947cd5f3  Baldur's Gate.bg1/Characters/cleric.chr
+bc7890495fbb0f2e  Baldur's Gate.bg1/Data/scripts.bif
+ba623a9e261c7bec  Baldur's Gate.bg1/Characters/fighter.chr
+07c30a6a7a24ca3b  Baldur's Gate.bg1/Data/RndEncnt.BIF
+0400e07b51603d41  Baldur's Gate.bg1/Characters/multi.chr
+75b0b838aa564b96  Baldur's Gate.bg1/Data/NPCSound.BIF
+1fbda52331d40c60  Baldur's Gate.bg1/Characters/mage.chr
+2d06800538d394c2  Baldur's Gate.bg1/Override/AR2100.bcs
+89ceb0bf53abcc38  Baldur's Gate.bg1/Override/ACTFLAM.bcs
+73e24323e8475cf3  Baldur's Gate.bg1/Override/Ar0111.ARE
+63b2505e9f947c43  Baldur's Gate.bg1/Override/Ar0145.ARE
+ad138660df79491f  Baldur's Gate.bg1/Override/Ar0109.ARE
+52283c217f267d4e  Baldur's Gate.bg1/Characters/thief.chr
+d09fd83ca527fa37  Baldur's Gate.bg1/Override/AR3300.bcs
+1adae555497d82b4  Baldur's Gate.bg1/Override/Ar2600.ARE
+78b54ebf216f16af  Baldur's Gate.bg1/Override/Ar0146.ARE
+45063963749fcc70  Baldur's Gate.bg1/Override/Ar2610.ARE
+fb94a4419f7224b3  Baldur's Gate.bg1/Data/SFXSound.bif
+9c03e659568d7b98  Baldur's Gate.bg1/Override/Ar2609.ARE
+b95c03e4eef5dfab  Baldur's Gate.bg1/Data/GUI.bif
+d1be5a01ea5ea7a1  Baldur's Gate.bg1/Override/Ar2614.ARE
+94334e46f68ab9ef  Baldur's Gate.bg1/Override/Ar2608.ARE
+8edd8a21170eae9a  Baldur's Gate.bg1/Override/Ar2300.ARE
+6b767edddedfa7f0  Baldur's Gate.bg1/Override/Bendal.dlg
+0a6d79dea65318ac  Baldur's Gate.bg1/Override/Ar2611.ARE
+491af18ab44daf78  Baldur's Gate.bg1/Override/Drizzt.bcs
+a00074eb3bc46885  Baldur's Gate.bg1/Override/Caedmo.dlg
+70bb57f3cb00140e  Baldur's Gate.bg1/Override/Cadder.dlg
+1d69fd1c75025d93  Baldur's Gate.bg1/Override/Skelwa.CRE
+f81fb5f51f482eba  Baldur's Gate.bg1/Override/Ar2612.ARE
+2ca1f37c0d50c234  Baldur's Gate.bg1/Override/RING09.itm
+27fb6d6609f061ad  Baldur's Gate.bg1/Override/LEAT08.itm
+7998d724138756fe  Baldur's Gate.bg1/Override/SpWi107.spl
+e2cecec8b2a4db78  Baldur's Gate.bg1/Override/Skelwa02.CRE
+534fbbd1816b5895  Baldur's Gate.bg1/Override/SpPr403.spl
+9e62d9e7f2b8dcd8  Baldur's Gate.bg1/Override/albert.CRE
+94d80a0fa1622160  Baldur's Gate.bg1/Override/ar0700n.WED
+a4fdfadb52874dbf  Baldur's Gate.bg1/Override/Voleta.dlg
+1788077ee4d436a1  Baldur's Gate.bg1/Override/ar1900.bcs
+9a3d7f5743dde0c1  Baldur's Gate.bg1/Override/SpWi116.spl
+df2313fae2e27c41  Baldur's Gate.bg1/Override/amnise.dlg
+5192a29354dbd537  Baldur's Gate.bg1/Override/ar3352.bcs
+698cccc70a91dba3  Baldur's Gate.bg1/Override/ar5406.MOS
+2475dacbe9207a48  Baldur's Gate.bg1/Override/belt.CRE
+9668f0e473824a43  Baldur's Gate.bg1/Override/bolt02.itm
+c6f9d728e96b8d05  Baldur's Gate.bg1/Override/benjy.CRE
+1e4a12c7fd78cec2  Baldur's Gate.bg1/Override/bjorni.CRE
+067592570f35adf6  Baldur's Gate.bg1/Override/bolt05.itm
+d2c80be7a40b6572  Baldur's Gate.bg1/Override/bolt03.itm
+f033137c4137b505  Baldur's Gate.bg1/Override/albert.dlg
+2249567f6b42c57b  Baldur's Gate.bg1/Override/boot02.itm
+5fceb4dd5c4ab63e  Baldur's Gate.bg1/Override/bolt06.itm
+306ac6abc5b65cbd  Baldur's Gate.bg1/Override/bolt04.itm
+68ce1edf7a995475  Baldur's Gate.bg1/Override/branwe.CRE
+fb7557f7037080a8  Baldur's Gate.bg1/Override/bow02.itm
+b02c965b022f931c  Baldur's Gate.bg1/Override/bow01.itm
+3cd13054b079d5b2  Baldur's Gate.bg1/Override/brage2.CRE
+422eeb9abaf0bd6d  Baldur's Gate.bg1/Override/calaha.dlg
+dbefa113ab6acc4b  Baldur's Gate.bg1/Override/davaeo.CRE
+99d44ddc249eeb95  Baldur's Gate.bg1/Override/divine.dlg
+1631692a35e2797f  Baldur's Gate.bg1/Override/drizzt.CRE
+19f6a04a836733eb  Baldur's Gate.bg1/Override/chan06.itm
+87ec510924e05d63  Baldur's Gate.bg1/Override/childulg.dlg
+5f8b6fa7c01616b3  Baldur's Gate.bg1/Override/evalt.dlg
+8473b884ec1844d4  Baldur's Gate.bg1/Override/dradee.dlg
+75f9494ffb05e274  Baldur's Gate.bg1/Override/firebe.CRE
+d13f1b0ad897411d  Baldur's Gate.bg1/Override/fenten.dlg
+3643377cc796df7d  Baldur's Gate.bg1/Override/farthi.dlg
+e75da3db8c6464c0  Baldur's Gate.bg1/Override/flam01.itm
+245842f62c5ddfbc  Baldur's Gate.bg1/Override/dink.dlg
+4b123110555aa05d  Baldur's Gate.bg1/Override/fenrus.dlg
+1931153222527267  Baldur's Gate.bg1/Override/flam2.dlg
+f2137fa3d81312bb  Baldur's Gate.bg1/Override/ftowbez.dlg
+57622239ed727b49  Baldur's Gate.bg1/Override/flam13.CRE
+9d3c64c874b9eaa8  Baldur's Gate.bg1/Override/ftown2.dlg
+d102e2da106022cc  Baldur's Gate.bg1/Override/gatewa2.dlg
+86ab9a324d6e68ea  Baldur's Gate.bg1/Override/gnoll5.dlg
+6ac203397d324f89  Baldur's Gate.bg1/Override/gnoll5.bcs
+5e1746c78cced5bb  Baldur's Gate.bg1/Override/gandol.dlg
+b102436dc6531419  Baldur's Gate.bg1/Override/gatewere.dlg
+706ae65b10377297  Baldur's Gate.bg1/Override/gnarl.dlg
+f546f7817797d08e  Baldur's Gate.bg1/Override/husam.dlg
+d7a100f060610414  Baldur's Gate.bg1/Override/islsir.dlg
+bd0f3ef20107d9f5  Baldur's Gate.bg1/Override/jaheir6.CRE
+a5d1e4b0d9b3febd  Baldur's Gate.bg1/Override/gnolldr.bcs
+e0bf86c3889d45f0  Baldur's Gate.bg1/Override/liia.CRE
+cb4d8383a78367d3  Baldur's Gate.bg1/Override/kryla.dlg
+9116fd4fe08ade67  Baldur's Gate.bg1/Override/lothan.dlg
+de9d958c31b15792  Baldur's Gate.bg1/Override/lahl.dlg
+3547aeb7cb379a1b  Baldur's Gate.bg1/Override/jorin.dlg
+711962003e62b7e3  Baldur's Gate.bg1/Override/marale.dlg
+1d2e079bce6c24b2  Baldur's Gate.bg1/Override/misc72.itm
+12651afbb0d13014  Baldur's Gate.bg1/Override/maltz.dlg
+522c23bc60ce87f1  Baldur's Gate.bg1/Override/memnis.dlg
+1b46e8bb3c4f845a  Baldur's Gate.bg1/Override/misc89.itm
+16e6c0d795f3ff8d  Baldur's Gate.bg1/Override/mtowbez.dlg
+423af1dc2cf6f325  Baldur's Gate.bg1/Override/mulahe.CRE
+1919c785ec9f5a4e  Baldur's Gate.bg1/Override/narlen.dlg
+770517f0ba079b6c  Baldur's Gate.bg1/Override/nalin.CRE
+3b060290923bac48  Baldur's Gate.bg1/Override/nadin.dlg
+9b8b201e69609d29  Baldur's Gate.bg1/Override/nikola.CRE
+be6a74faf5b5aaf4  Baldur's Gate.bg1/Override/ogrelead.dlg
+2242e5ce2e23cd33  Baldur's Gate.bg1/Override/palin.dlg
+ffb8a27b5bf288e4  Baldur's Gate.bg1/Override/potn40.itm
+26aa66aa70316adb  Baldur's Gate.bg1/Override/ragefa.CRE
+95fba150e4794bf0  Baldur's Gate.bg1/Override/ragefa.dlg
+b6698531eae3538d  Baldur's Gate.bg1/Override/ramazi.dlg
+8386a779873faf4f  Baldur's Gate.bg1/Override/oublek.dlg
+37e44a58d200ae9c  Baldur's Gate.bg1/Override/sarevo.dlg
+ed75e38bd3271039  Baldur's Gate.bg1/Override/ramazi.CRE
+9571b9bb1be95fb2  Baldur's Gate.bg1/Override/schlum.CRE
+47fa24bef02e6434  Baldur's Gate.bg1/Override/sarevok.bcs
+be1a7e907ac30435  Baldur's Gate.bg1/Override/schlum1.itm
+a977f9f049778ad6  Baldur's Gate.bg1/Override/skelwa03.CRE
+134c1d80f25a58df  Baldur's Gate.bg1/Override/shoal.dlg
+601fe31c3d3434c2  Baldur's Gate.bg1/Override/silenc.dlg
+7e5bb4021a367929  Baldur's Gate.bg1/Override/sw2h06.itm
+20e3d710611ae896  Baldur's Gate.bg1/Override/taloun.dlg
+fcf4126f6399b8dc  Baldur's Gate.bg1/Override/spwi313.spl
+f82e58d8cdf93b4d  Baldur's Gate.bg1/Override/tem4802.STO
+9d0ee13750d930aa  Baldur's Gate.bg1/Override/thalan.dlg
+2ca29b9d4e80e391  Baldur's Gate.bg1/Override/tremai.dlg
+f80628ab2e5240af  Baldur's Gate.bg1/Override/tethto2.dlg
+b836cc52e56bf53d  Baldur's Gate.bg1/Override/therel.dlg
+7a05e562ceecb62d  Baldur's Gate.bg1/Override/tem2304.STO
+ff9762499736b823  Baldur's Gate.bg1/Override/tick.dlg
+1a37d9c58bf1e4b2  Baldur's Gate.bg1/Override/ulcast.dlg
+83df20e0e92d4c9f  Baldur's Gate.bg1/Override/unshey.dlg
+c6712f1cca66f874  Baldur's Gate.bg1/Override/viconi.dlg
+9662700354a25c6b  Baldur's Gate.bg1/Override/xan6.CRE
+5e7b3e41ee5019c7  Baldur's Gate.bg1/Override/voltin.CRE
+43f52d72360ccb59  Baldur's Gate.bg1/Override/ulraun.dlg
+9eb7db96253bb1bd  Baldur's Gate.bg1/Music/BC1.mus
+f33fe2c98afabdc9  Baldur's Gate.bg1/Music/BC2.mus
+955e4e4cf3fd4bed  Baldur's Gate.bg1/Music/BD1.mus
+bcae310b28d65b8b  Baldur's Gate.bg1/Music/BD2.mus
+a7f102e5a3251ded  Baldur's Gate.bg1/Override/yeslick.bcs
+ab9d316e3ff7fb88  Baldur's Gate.bg1/Music/BF1.mus
+3b0d774850962f99  Baldur's Gate.bg1/Music/BL1.mus
+e24461ea389fa272  Baldur's Gate.bg1/Music/BP1.mus
+ffa43040ee3f0f38  Baldur's Gate.bg1/Music/BF2.mus
+584763e15a051eb2  Baldur's Gate.bg1/Music/BL2.mus
+0d93d28313d52d8d  Baldur's Gate.bg1/Music/BP2.mus
+55ba0e34346ac7c9  Baldur's Gate.bg1/Music/CDay1.mus
+6bc2b1f201b2db1b  Baldur's Gate.bg1/Music/CNite.mus
+70f5cc60c388bfc9  Baldur's Gate.bg1/Music/CDay2.mus
+48db5fe9366711eb  Baldur's Gate.bg1/Music/BW1.mus
+95fef976c9d2b6da  Baldur's Gate.bg1/Music/Chapter.mus
+6598ebcc5b2056a7  Baldur's Gate.bg1/Music/Chants.mus
+95fef976c9d2b6da  Baldur's Gate.bg1/Music/Dream.mus
+32a3f7de6cf265ff  Baldur's Gate.bg1/Music/Dung2.mus
+b413c7510c02797b  Baldur's Gate.bg1/Music/Dung3.mus
+0990a2e01e1cb3eb  Baldur's Gate.bg1/Music/Dung1.mus
+19f4f303f9a6f14f  Baldur's Gate.bg1/Music/FNite.mus
+7b65592e05954475  Baldur's Gate.bg1/Music/Fort.mus
+5cba2a40c9c5c451  Baldur's Gate.bg1/Music/PDay.mus
+84492683e3765b6a  Baldur's Gate.bg1/Music/FDay.mus
+29751b2813148dcf  Baldur's Gate.bg1/Music/TDay1.mus
+14910a4d946e2df6  Baldur's Gate.bg1/Music/Pnite.mus
+d07cbacc3f32c917  Baldur's Gate.bg1/Music/TDay2.mus
+5e959ae2662fdc93  Baldur's Gate.bg1/Music/TNite.mus
+65e4354de9d45136  Baldur's Gate.bg1/Music/Tav1.mus
+3fee2021430018b3  Baldur's Gate.bg1/Music/Tav4.mus
+1f1558195dd3c1ef  Baldur's Gate.bg1/Music/Tav3.mus
+e60ac15373ced631  Baldur's Gate.bg1/Music/Tav2.mus
+9fecfcfaccf31c99  Baldur's Gate.bg1/Music/Temple.mus
+36b57374a2299793  Baldur's Gate.bg1/Music/Theme.mus
+3a84df0441d3893b  Baldur's Gate.bg1/Register/Ereg.bin
+e508ac4075a7cd2a  Baldur's Gate.bg1/Register/Prtbody.txt
+a1e8442955ee8aa2  Baldur's Gate.bg1/Register/Regfax.txt
+00f1e90882545eed  Baldur's Gate.bg1/Register/Eregui.ini
+de20ab61ecd6d3f0  Baldur's Gate.bg1/Register/Regmail.txt
+03ce28cb37404c9b  Baldur's Gate.bg1/Register/inter.bmp
+4124e9fc79f61ebf  Baldur's Gate.bg1/Register/Eregui32.dll
+1e6d77f718bc8d83  Baldur's Gate.bg1/Register/Reg32a.exe
+1078ad0e0ce82126  Baldur's Gate.bg1/Register/Regxmit.txt
+064045fd5b8b9a51  Baldur's Gate.bg1/Register/Regrcrd.txt
+2d06800538d394c2  Baldur's Gate.bg1/scripts/None.bs
+1c3144b1d5d29404  Baldur's Gate.bg1/Register/Ereg3201.dll
+b5fb957b5dd8596f  Baldur's Gate.bg1/scripts/cleric4.bs
+96b1528fb215fa1f  Baldur's Gate.bg1/scripts/cleric1.bs
+27222c8fc0e2849b  Baldur's Gate.bg1/scripts/cleric3.bs
+6123ee0f02dcde85  Baldur's Gate.bg1/scripts/fighter2.bs
+714f6b0b5c46a896  Baldur's Gate.bg1/scripts/fighter3.bs
+3582c04ec7aa3963  Baldur's Gate.bg1/scripts/fighter4.bs
+b4ca9df799e6e59b  Baldur's Gate.bg1/scripts/fighter1.bs
+688b73cc65aec353  Baldur's Gate.bg1/scripts/mage2.bs
+5a84c113e13c4c45  Baldur's Gate.bg1/scripts/default.bs
+1db1b59f7d9ed703  Baldur's Gate.bg1/scripts/mage4.bs
+637ec4eb76e5560a  Baldur's Gate.bg1/scripts/mage3.bs
+26332d9ac26285ef  Baldur's Gate.bg1/scripts/cleric2.bs
+27222c8fc0e2849b  Baldur's Gate.bg1/scripts/thief3.bs
+442c4aa87f8d883a  Baldur's Gate.bg1/scripts/thief2.bs
+71703ff21fc68443  Baldur's Gate.bg1/scripts/mage1.bs
+eb489d55d7b1da6f  Baldur's Gate.bg1/scripts/thief1.bs
+b5fb957b5dd8596f  Baldur's Gate.bg1/scripts/thief4.bs
+86499832c87f746c  Baldur's Gate.bg1/Sounds/Female1b.wav
+e0d43acca72ba42f  Baldur's Gate.bg1/Sounds/Female1d.wav
+cb6e91bf62c45014  Baldur's Gate.bg1/Sounds/Female1c.wav
+b2c8a6274901000c  Baldur's Gate.bg1/Sounds/Female1a.wav
+cbe1fb990b8209c6  Baldur's Gate.bg1/Sounds/Female1e.wav
+6fc224915b4531ec  Baldur's Gate.bg1/Sounds/Female1h.wav
+c6d830e1da9b2c5a  Baldur's Gate.bg1/Sounds/Female1f.wav
+7b73df7185658926  Baldur's Gate.bg1/Sounds/Female1k.wav
+db09f9cd37e4117e  Baldur's Gate.bg1/Sounds/Female1g.wav
+a0135ebc178d77af  Baldur's Gate.bg1/Sounds/Female2a.wav
+0133fcd554d0fafc  Baldur's Gate.bg1/Sounds/Female1j.wav
+418c478e903a5b32  Baldur's Gate.bg1/Sounds/Female1l.wav
+92b83eb1dde70f22  Baldur's Gate.bg1/Sounds/Female1i.wav
+eeda349cb5110176  Baldur's Gate.bg1/Sounds/Female1m.wav
+43c3dbfbab6df47e  Baldur's Gate.bg1/Sounds/Female2b.wav
+8c34a0de052ff276  Baldur's Gate.bg1/Sounds/Female2e.wav
+d3450216148c91f0  Baldur's Gate.bg1/Sounds/Female2d.wav
+e8ef9665c30478f8  Baldur's Gate.bg1/Sounds/Female2c.wav
+0e5a62dc7f4e4445  Baldur's Gate.bg1/Sounds/Female2h.wav
+2c0f3334aabdff32  Baldur's Gate.bg1/Sounds/Female2i.wav
+169e42a4289d64de  Baldur's Gate.bg1/Sounds/Female2f.wav
+ffcc33b53e738c8f  Baldur's Gate.bg1/Sounds/Female2j.wav
+74ad7ace5fd6b238  Baldur's Gate.bg1/Sounds/Female2g.wav
+2d434411d888c908  Baldur's Gate.bg1/Sounds/Female2k.wav
+7ab7f4b6a7697065  Baldur's Gate.bg1/Sounds/Female2l.wav
+aecb3504f8305f48  Baldur's Gate.bg1/Sounds/Male1a.wav
+e3c9b1c8ce31f25d  Baldur's Gate.bg1/Sounds/Male1b.wav
+4ecac1920a7187fb  Baldur's Gate.bg1/Sounds/Male1c.wav
+9776b7549fe830de  Baldur's Gate.bg1/Sounds/Female2m.wav
+ed5b9345a5d5b260  Baldur's Gate.bg1/Sounds/Male1d.wav
+c8234de4d5497e80  Baldur's Gate.bg1/Sounds/Male1g.wav
+b6f1736daef55d8d  Baldur's Gate.bg1/Sounds/Male1j.wav
+f737b196bb9b56da  Baldur's Gate.bg1/Sounds/Male1e.wav
+28998f9a515bf96f  Baldur's Gate.bg1/Sounds/Male1k.wav
+cffc72dd0ca937e2  Baldur's Gate.bg1/Sounds/Male1f.wav
+28ff9bd9b86956ed  Baldur's Gate.bg1/Sounds/Male1i.wav
+7ad3b1c5eee42498  Baldur's Gate.bg1/Sounds/Male2b.wav
+0e9c8c23001bc101  Baldur's Gate.bg1/Sounds/Male1l.wav
+2d29f3c568a2b616  Baldur's Gate.bg1/Sounds/Male1h.wav
+ae1660e4ae8fb0b5  Baldur's Gate.bg1/Sounds/Male2d.wav
+ff14aeb5aaaef5bc  Baldur's Gate.bg1/Sounds/Male1m.wav
+0a9cd69ebd64f828  Baldur's Gate.bg1/Sounds/Male2c.wav
+7bc7403f177f864b  Baldur's Gate.bg1/Sounds/Male2e.wav
+c2e2ecc6cf113123  Baldur's Gate.bg1/Sounds/Male2a.wav
+00c887d43e2724c2  Baldur's Gate.bg1/Sounds/Male2f.wav
+b11d0a882e8d9aed  Baldur's Gate.bg1/Sounds/Male2i.wav
+4104a2d1c749139d  Baldur's Gate.bg1/Sounds/Male2j.wav
+b53216cb54ed4849  Baldur's Gate.bg1/Sounds/Male2h.wav
+42d540158929a347  Baldur's Gate.bg1/Sounds/Male2g.wav
+25894c58ffecc993  Baldur's Gate.bg1/Sounds/Male2l.wav
+4cd8e6386dc95018  Baldur's Gate.bg1/Sounds/Male2k.wav
+afb383e333185726  Baldur's Gate.bg1/Sounds/Male3b.wav
+516e92e3860086f1  Baldur's Gate.bg1/Sounds/Male3d.wav
+6d962f69482d9650  Baldur's Gate.bg1/Sounds/Male3c.wav
+6588a13ecc8df20e  Baldur's Gate.bg1/Sounds/Male3f.wav
+374353f230b351bc  Baldur's Gate.bg1/Sounds/Male3a.wav
+8e503b209d3ecd11  Baldur's Gate.bg1/Sounds/Male2m.wav
+1c51a0acce4361ce  Baldur's Gate.bg1/Sounds/Male3g.wav
+1f38a8d43f5d2ce0  Baldur's Gate.bg1/Sounds/Male3e.wav
+b13b17240b70243f  Baldur's Gate.bg1/Sounds/Male3j.wav
+0e8cd2c5143997b7  Baldur's Gate.bg1/Sounds/Male3h.wav
+66428811777f542d  Baldur's Gate.bg1/Sounds/Male3i.wav
+95b4905f02b4b589  Baldur's Gate.bg1/Sounds/female3b.wav
+b646b48fcd455ff0  Baldur's Gate.bg1/Sounds/Male3m.wav
+3995b039b0fdfc74  Baldur's Gate.bg1/Sounds/female3a.wav
+2563898b62338f10  Baldur's Gate.bg1/Sounds/Male3k.wav
+b249060bc90e1f78  Baldur's Gate.bg1/Sounds/Male3l.wav
+5cfb460a4b5dcd2d  Baldur's Gate.bg1/Sounds/female3g.wav
+1286e5ef52e3e0f1  Baldur's Gate.bg1/Sounds/female3f.wav
+5a894a8015dfb036  Baldur's Gate.bg1/Sounds/female3e.wav
+9569ab6c7735cd01  Baldur's Gate.bg1/Sounds/female3h.wav
+f4789a93a9b0becf  Baldur's Gate.bg1/Sounds/female3c.wav
+c74853b4e67695b3  Baldur's Gate.bg1/Sounds/female3k.wav
+44af68dc61000b56  Baldur's Gate.bg1/Sounds/female3j.wav
+25a29334a9e5fd74  Baldur's Gate.bg1/Sounds/female3i.wav
+214d22c6973d282b  Baldur's Gate.bg1/Sounds/female3m.wav
+24113e7eff35ab4d  Baldur's Gate.bg1/Sounds/female3d.wav
+06c6a698bf4a22b8  Baldur's Gate.bg1/Sounds/sndlist.txt
+753a042bab04f236  Baldur's Gate.bg1/Sounds/female3l.wav
+c625378dab7c21f4  Icewind Dale.iwd/Data/ARfile.bif
+4f958a4eca4f9e23  Icewind Dale.iwd/Data/BCSde.bif
+6a8650f2d601a1cb  Icewind Dale.iwd/Data/BCSde2.bif
+c17200463445e72e  Icewind Dale.iwd/Data/BCScv.bif
+33312989f34cfcfe  Icewind Dale.iwd/Data/ARTport.bif
+25d715f32e43d240  Icewind Dale.iwd/Data/AR2100.bif
+0dd46810881166e1  Icewind Dale.iwd/Data/BAMmisc.bif
+a7bc8abae1aec30b  Icewind Dale.iwd/Data/BCSde5.bif
+dfc3b1ca5f442e63  Icewind Dale.iwd/Data/AR1000.bif
+3d85b561679600b4  Icewind Dale.iwd/Data/BCSee.bif
+ed8011c7149f83b9  Icewind Dale.iwd/Data/BCSde3.bif
+4c2ed97f881eaa3b  Icewind Dale.iwd/Data/BCSde4.bif
+d46a58693d77585d  Icewind Dale.iwd/Data/BCSgen.bif
+ca1f065d9cfa930a  Icewind Dale.iwd/Data/BCStfg.bif
+b94c151741de58cc  Icewind Dale.iwd/Data/BCSeh.bif
+3219bc886b258d14  Icewind Dale.iwd/Data/BCSku.bif
+3f08d60fb02f7bba  Icewind Dale.iwd/Data/BCSkp.bif
+e029db17eb54bb54  Icewind Dale.iwd/Data/BCSwt.bif
+1110f1ba84e55207  Icewind Dale.iwd/Data/BCSld.bif
+2e0077462f807726  Icewind Dale.iwd/Data/BCSsh.bif
+53201b89d28fa12c  Icewind Dale.iwd/Data/BCSvs.bif
+99abba2947d6aec5  Icewind Dale.iwd/Data/BCSud.bif
+cf8199c4ae770bc5  Icewind Dale.iwd/Data/CREfile.bif
+4f0b60511553aadd  Icewind Dale.iwd/Data/CREman2.bif
+506da3889022da4f  Icewind Dale.iwd/Data/CREman3.bif
+5dcb1a9fbc452a5a  Baldurs Gate 2.bg2/GSArcade.EXE
+64289dfdf304fbaf  Icewind Dale.iwd/Data/CREmani.bif
+8a6e553c1014fe84  Icewind Dale.iwd/Data/CREmaru.bif
+f74e05d01c713d05  Icewind Dale.iwd/Data/CREmbe2.bif
+111b2b9493c6366a  Baldurs Gate 2.bg2/glsetup.exe
+4b278d770ad0262a  Icewind Dale.iwd/Data/CREmbe1.bif
+be904f3e6a85c187  Icewind Dale.iwd/Data/CREmbrh.bif
+5d0d7522893e079b  Icewind Dale.iwd/Data/CREanim2.bif
+1a2e8d465574e059  Icewind Dale.iwd/Data/CREmetn.bif
+a12864e7343f68ec  Icewind Dale.iwd/Data/CREmcyc.bif
+f4d0126ab249b697  Icewind Dale.iwd/Data/CREmgve.bif
+0612b9ef8cf8cefa  Icewind Dale.iwd/Data/CHRanim.bif
+6632fc80f3365fae  Icewind Dale.iwd/Data/CREmhis.bif
+04f0ae530c235dcf  Icewind Dale.iwd/Data/CREmler.bif
+c4804cbd9b18d174  Icewind Dale.iwd/Data/CREmgfi.bif
+cd378428653e50d7  Icewind Dale.iwd/Data/CREmgir.bif
+655af44b0b2dc11c  Icewind Dale.iwd/Data/CREmgfr.bif
+d69ed4de159d5115  Icewind Dale.iwd/Data/CREmmyc.bif
+69112fa7bda9e8e3  Icewind Dale.iwd/Data/CREmno3.bif
+5eaa5cf6c241beb2  Icewind Dale.iwd/Data/CREmli3.bif
+23b7f0472036deee  Icewind Dale.iwd/Data/CREmshr.bif
+d2c4e427aedbe661  Icewind Dale.iwd/Data/CREmyu1.bif
+1d0032405a0b2bab  Icewind Dale.iwd/Data/CREmmy2.bif
+009dd7f7622808a3  Icewind Dale.iwd/Data/CREanim.bif
+8b60d8f7e9aa352b  Icewind Dale.iwd/Data/GUIchui.bif
+cb57a998b104ffd5  Icewind Dale.iwd/Data/DLGfile.bif
+a6e52ad16a4a7d96  Icewind Dale.iwd/Data/CREmtan.bif
+028a41af56d61a14  Icewind Dale.iwd/Data/DEFAULT.bif
+8eb545a9dffcee0d  Icewind Dale.iwd/Data/CREmyu3.bif
+18a9a73d75bd3815  Icewind Dale.iwd/Data/CREmyu2.bif
+09a0e6615f4ef571  Icewind Dale.iwd/Data/GUImisc.bif
+1c5a2b09f1107d55  Icewind Dale.iwd/Data/GUIdesc.bif
+9bb727bb4cef001b  Icewind Dale.iwd/Data/GUIfont.bif
+c81b089d7fbc66c6  Icewind Dale.iwd/Data/GUIicon.bif
+6ef0ce0eeb9554aa  Icewind Dale.iwd/Data/ITMinv.bif
+0c960fc6e102d354  Icewind Dale.iwd/Data/ITMfile.bif
+45387a8d72e7674e  Icewind Dale.iwd/Data/GUIbam.bif
+cb05c537c9fff7ec  Icewind Dale.iwd/Data/ITMbam.bif
+e6f1f9d469105783  Icewind Dale.iwd/Data/SPLbmp.bif
+879b0b5e8aa9a00d  Icewind Dale.iwd/Data/MVEfileL.bif
+fd2d314d4f1034df  Icewind Dale.iwd/Data/SNDcreat.bif
+c3f7b2753aef909a  Icewind Dale.iwd/Data/STOfiles.bif
+3709e5a8c0ee5659  Icewind Dale.iwd/Data/GUImos.bif
+92cc7d26f1c76ee4  Baldurs Gate 2.bg2/characters/CLERIC.BIO
+92cc7d26f1c76ee4  Baldurs Gate 2.bg2/characters/FIGHTER.BIO
+63bee0c937266efd  Icewind Dale.iwd/Data/SNDgen.bif
+9c1a95b8a76eb8e5  Baldurs Gate 2.bg2/characters/CLERIC.CHR
+92cc7d26f1c76ee4  Baldurs Gate 2.bg2/characters/MAGE.BIO
+23c9b802bdb35fb7  Icewind Dale.iwd/Data/SPLbam.bif
+92cc7d26f1c76ee4  Baldurs Gate 2.bg2/characters/THIEF.BIO
+009f42996815002d  Icewind Dale.iwd/Data/SPLfile.bif
+fc936fab43c71dc3  Baldurs Gate 2.bg2/characters/THIEF.CHR
+9307def2326e1033  Icewind Dale.iwd/Music/B1.mus
+7915e852fdcc7735  Icewind Dale.iwd/Music/Theme.mus
+2165bb7bd4d00e8b  Icewind Dale.iwd/Music/chap0.mus
+ca6a1d08a16687c6  Icewind Dale.iwd/Music/B3.mus
+e14f66f663e705b2  Icewind Dale.iwd/Data/SNDspell.bif
+1547c6a8a8bfcb83  Icewind Dale.iwd/Music/chap1.mus
+706ae342ba314e6f  Icewind Dale.iwd/Music/B2.mus
+151821c3c541b716  Icewind Dale.iwd/Music/mx1000.mus
+d5b6ed91d27fa790  Icewind Dale.iwd/Music/mx1100.mus
+90366937380f5fe6  Icewind Dale.iwd/Music/mx1004.mus
+9d2583948a645303  Baldurs Gate 2.bg2/characters/FIGHTER.CHR
+013a7618c64e0294  Icewind Dale.iwd/Music/mx1001.mus
+806276423662f5ac  Icewind Dale.iwd/Music/mx3000.mus
+806657ff4922675f  Baldurs Gate 2.bg2/characters/MAGE.CHR
+8cf70f8f30f2128c  Icewind Dale.iwd/Music/mx2112.mus
+c25b95f44ca50f45  Icewind Dale.iwd/Music/B4.mus
+a0fd55153caa5cab  Icewind Dale.iwd/Music/mx2100.mus
+2196569b7b3a50b9  Icewind Dale.iwd/Music/mx3601.mus
+454338f294bf6421  Icewind Dale.iwd/Music/mx3600.mus
+d724c8d42e49b7f0  Icewind Dale.iwd/Music/mx3603.mus
+f10a6cc5ef066d88  Icewind Dale.iwd/Music/mx1201.mus
+ee4a1a3414b0adf6  Icewind Dale.iwd/Music/mx4005.mus
+6d465c9dae7d8745  Icewind Dale.iwd/Music/mx3501.mus
+7929df8caab43cd6  Icewind Dale.iwd/Music/mx5001.mus
+0cd717b15a663bca  Icewind Dale.iwd/Music/mx4001.mus
+38c92e9abfe361e7  Icewind Dale.iwd/Music/mx5101.mus
+e40616bcefd5f353  Icewind Dale.iwd/Music/mx6001.mus
+b9226460d522d68f  Icewind Dale.iwd/Music/mx6000.mus
+3bd39684c08251c6  Icewind Dale.iwd/Music/mx2100b.mus
+dd08280d4814d841  Icewind Dale.iwd/Music/mx3503.mus
+6817d95f9817a00d  Icewind Dale.iwd/Music/mx6003.mus
+fbbec8d2c4998f9e  Icewind Dale.iwd/Music/mx6005.mus
+56fb11dba8c7ffcf  Icewind Dale.iwd/Music/mx8001.mus
+fc7f0d3dd9558000  Icewind Dale.iwd/Music/mx8004.mus
+532318e2cfb06a7e  Icewind Dale.iwd/Music/mx5000.mus
+3665e9179bdfbba1  Icewind Dale.iwd/Music/mx8009.mus
+a74deb04fd3990d3  Icewind Dale.iwd/Music/mx6002.mus
+56f370d43742f29b  Icewind Dale.iwd/Music/mx7001.mus
+411fb8f2234a3a62  Icewind Dale.iwd/Music/mx7000.mus
+2bb8579d2e1bfda5  Icewind Dale.iwd/Music/mx9000.mus
+98ee88f61e1998f6  Icewind Dale.iwd/Music/mx8005.mus
+bd7d6b8dff38c3ff  Icewind Dale.iwd/Data/SNDVO.bif
+001be15628f8cb89  Icewind Dale.iwd/Music/mx8012.mus
+bf83de10c8eeda9c  Icewind Dale.iwd/Override/AR1006sr.bmp
+ffc4a37ec12a7618  Icewind Dale.iwd/Music/mx7004.mus
+87e09310ffb56508  Icewind Dale.iwd/Override/BOOT01.itm
+1820cd59d0cfabfc  Icewind Dale.iwd/Override/DDavin.dlg
+a4c0576dfdaad8b6  Icewind Dale.iwd/Override/DFengla.dlg
+2f1c651d8260541c  Icewind Dale.iwd/Override/DMytos.dlg
+8762f3cc643e646c  Icewind Dale.iwd/Override/DKayless.dlg
+8bdabc9b81d3425b  Icewind Dale.iwd/Override/AR4004.ARE
+41ec9e381c456d28  Icewind Dale.iwd/Override/DOgre.dlg
+15927923bf91f2a1  Icewind Dale.iwd/Override/ar6009.ARE
+bae09fdbf9aee90c  Icewind Dale.iwd/Override/ar6013.ARE
+373b33ed5aea9f98  Icewind Dale.iwd/Override/d4YuanP.bcs
+8e44c6e0c4a27a18  Icewind Dale.iwd/Override/ar7002.ARE
+ae3c1d54e0360c5b  Icewind Dale.iwd/Override/eePoqCng.bcs
+c9cbf34c05a19a43  Icewind Dale.iwd/Override/DNorlino.dlg
+5bb80d981b8d4b0e  Icewind Dale.iwd/Override/Potn41.itm
+98c30bd4a019dfdc  Icewind Dale.iwd/Override/ldDGnom2.bcs
+fe64d00395b3c737  Icewind Dale.iwd/Override/d4YunInf.bcs
+2b120aa8d1de1a0a  Icewind Dale.iwd/Override/udNorlin.bcs
+14fdd590d463e664  Icewind Dale.iwd/Override/ehEverar.bcs
+87e2c0c8642405cf  Icewind Dale.iwd/Override/ldFleez1.bcs
+55b63f91bb6b913c  Icewind Dale.iwd/Override/SpWi104.spl
+2b6c513cbc889503  Icewind Dale.iwd/Override/wtDoor2.bcs
+eb927c05869aa76e  Icewind Dale.iwd/Override/ldIrnGol.bcs
+5eb56019e3ac4c95  Icewind Dale.iwd/Override/wtSlvRun.bcs
+d80eda5ed2675f46  Icewind Dale.iwd/Override/eebelkil.bcs
+a959466e4f62ab49  Icewind Dale.iwd/Register/ERHTTP01.ini
+3a84df0441d3893b  Icewind Dale.iwd/Register/EReg.Bin
+d6cd6f2bc83fced5  Icewind Dale.iwd/Override/wtGiant1.bcs
+7d812ff1f2d3d5aa  Icewind Dale.iwd/Register/ERLocal.ini
+e25baa17edb56faa  Icewind Dale.iwd/Register/EReg01.ini
+5e776369dd5684dd  Icewind Dale.iwd/Register/HTTP01.ini
+e0f7ae3061795513  Icewind Dale.iwd/Register/RegBrwsr.html
+8f0b1c6e29b8e6af  Icewind Dale.iwd/Register/EregUI.ini
+288d5183aaab03e3  Icewind Dale.iwd/Register/RegBody.txt
+7dd0bde9b6659ad1  Icewind Dale.iwd/Register/RegMail.txt
+58b8bb909a45facc  Icewind Dale.iwd/Register/RegFax.txt
+261593c058ffb0df  Icewind Dale.iwd/Register/RegXMit.txt
+358c047ded9e7c11  Icewind Dale.iwd/Register/RegRcrd.txt
+f5c79d8a2d28f1ee  Icewind Dale.iwd/Register/ERHttp01.dll
+4d72af8ea905cae3  Icewind Dale.iwd/Register/EReg3201.dll
+2c3c75715536248f  Icewind Dale.iwd/Scripts/Cleric1.bs
+a34284361afafad8  Icewind Dale.iwd/Register/inter.bmp
+b5e90b958dae1a73  Icewind Dale.iwd/Register/Reg32.exe
+daa77d0d12a58928  Icewind Dale.iwd/Scripts/Cleric4.bs
+576449fb4020b376  Icewind Dale.iwd/Scripts/Cleric2.bs
+0a44f3ddaa073c6e  Icewind Dale.iwd/Scripts/Fighter2.bs
+d7d2270bc25dd74f  Icewind Dale.iwd/Scripts/Mage1.bs
+9cb9622b85bd6cf2  Icewind Dale.iwd/Scripts/Fighter3.bs
+6aec90c3fcd77cf2  Icewind Dale.iwd/Register/ereg1.bmp
+43ebf2287e75dd1c  Icewind Dale.iwd/Scripts/Cleric3.bs
+2d06800538d394c2  Icewind Dale.iwd/Scripts/None.bs
+3a2359cbf3a0b390  Icewind Dale.iwd/Scripts/Mage4.bs
+d62e06d66ce7f823  Icewind Dale.iwd/Register/ereg2.bmp
+3e4d7de688400aef  Icewind Dale.iwd/Scripts/Fighter4.bs
+552d2dde9b83ff84  Icewind Dale.iwd/Scripts/Fighter1.bs
+6c93d3bc8901e79d  Icewind Dale.iwd/Scripts/Mage3.bs
+4351984effef4620  Icewind Dale.iwd/Scripts/Thief1.bs
+43ebf2287e75dd1c  Icewind Dale.iwd/Scripts/Thief3.bs
+93b7d1df3b4b9b87  Icewind Dale.iwd/Scripts/Thief4.bs
+664deaf6b375d235  Icewind Dale.iwd/Sounds/sndlist.txt
+65483adf846f252f  Icewind Dale.iwd/Scripts/Thief2.bs
+3ec34b4f60b72609  media/box2d/Baldurs Gate 2.jpg
+34f6288001417387  Icewind Dale.iwd/characters/BARD.RES
+e7508b60ed91a0de  Icewind Dale.iwd/characters/CLERIC.RES
+50764f81c56f63ff  Icewind Dale.iwd/characters/BARD.CHR
+98dac2e6f199b6fc  Icewind Dale.iwd/Scripts/Mage2.bs
+1226fe54affa4a61  Icewind Dale.iwd/characters/CLERIC.CHR
+0155b121d4a237dd  Icewind Dale.iwd/characters/DRUID.CHR
+52290f8a65f4754d  media/box2d/Icewind Dale.jpg
+67c5a4d499ddd0d5  Icewind Dale.iwd/characters/DRUID.RES
+5f71d09cdcb3dd04  Icewind Dale.iwd/characters/FIGHTER.CHR
+7c584589ff06b9f6  Icewind Dale.iwd/characters/FIGHTER.RES
+b303df27f9efc051  Icewind Dale.iwd/characters/MAGE.CHR
+2a1fd684e67a09be  media/box2d/Baldur's Gate.png
+96245ab0920263c1  Icewind Dale.iwd/characters/RANGER.CHR
+d14aafd19ee305b4  Icewind Dale.iwd/characters/MAGE.RES
+e772974e375c7e39  Icewind Dale.iwd/characters/THIEF.CHR
+23c8a792be2745f0  Icewind Dale.iwd/characters/PALADIN.CHR
+ff8ce62a5342720f  Icewind Dale.iwd/characters/THIEF.RES
+3653805e6ec3e797  Icewind Dale.iwd/characters/PALADIN.RES
+9173b3de75aaafd7  Icewind Dale.iwd/characters/RANGER.RES
+75b457405596aa78  Icewind Dale.iwd/Register/ERegUI32.dll
+6dac59c18b886ec5  Baldurs Gate 2.bg2/data/ARMisc.bif
+16eb5a128fd79114  Baldurs Gate 2.bg2/data/Areas.bif
+e015a57e4837be55  Baldurs Gate 2.bg2/data/CD3CreA2.bif
+eddc1f4ef6abd7b6  Baldurs Gate 2.bg2/data/CD4CreA2.bif
+c3dad56330beaad8  Baldurs Gate 2.bg2/data/CD3CreAn.bif
+ecd70f4dc2aa592f  Baldurs Gate 2.bg2/data/CD4CreA3.bif
+6453da1ff9b57a21  Baldurs Gate 2.bg2/data/CD4CreAn.bif
+b784de1864dffb4e  Baldurs Gate 2.bg2/data/AMBSound.bif
+ee76734e0bba1982  Baldurs Gate 2.bg2/data/CDCreAni.bif
+aee52ec02395f94c  Baldurs Gate 2.bg2/data/Creature.bif
+1eef68306605f277  Baldurs Gate 2.bg2/data/CREAnim.bif
+f012cc1e71222a09  Baldurs Gate 2.bg2/data/CRESound.bif
+9bbace2bf8ab461e  Baldurs Gate 2.bg2/data/Effects.bif
+8fb8f1fd39f9203d  Baldurs Gate 2.bg2/data/Dialog.bif
+5fee84a6c2b10094  Baldurs Gate 2.bg2/data/Default.bif
+e094903ed4fbba32  Baldurs Gate 2.bg2/data/GUICHUI.bif
+babb50b078033c09  Baldurs Gate 2.bg2/data/CREAnim1.bif
+2379b13e61806ae9  Baldurs Gate 2.bg2/data/CHASound.bif
+077e4fd60f6bffe2  Baldurs Gate 2.bg2/data/Hd0CrAn.bif
+e1ad094597639a2a  Baldurs Gate 2.bg2/data/GUIFont.bif
+0e58f7a262b73cf9  Baldurs Gate 2.bg2/data/GUIBam.bif
+85dafa72222b7243  Baldurs Gate 2.bg2/data/GUIDesc.bif
+65650192fb3e19fd  Baldurs Gate 2.bg2/data/MISSound.bif
+ff294bba056430b2  Baldurs Gate 2.bg2/data/CHAAnim.bif
+a8493c2796f2610d  Baldurs Gate 2.bg2/data/GUIIcon.bif
+1cc9b34bbd0ddedf  Baldurs Gate 2.bg2/data/Items.bif
+0a98a81b9e3d014c  Baldurs Gate 2.bg2/data/Hd0GMosc.bif
+b9ffe65623ffd1bf  Baldurs Gate 2.bg2/data/NPCHd0So.bif
+0799243ba80e8e97  Baldurs Gate 2.bg2/data/CRIWAnim.bif
+32f6a8a51e854899  Baldurs Gate 2.bg2/data/NPCAnim.bif
+f1474af5e97a77dd  Baldurs Gate 2.bg2/data/MovHD0.bif
+1c843b67abf83098  Baldurs Gate 2.bg2/data/MISCAnim.bif
+48a4609fa6e0ddfb  Baldurs Gate 2.bg2/data/NPCSoCD3.bif
+bc6e895d406be60c  Baldurs Gate 2.bg2/data/NPCSoCD2.bif
+bd8874921d989cf1  Baldurs Gate 2.bg2/data/NPCSoCD4.bif
+90cc806e4808430c  Baldurs Gate 2.bg2/data/Project.bif
+b62b8c17c4f1efd8  Baldurs Gate 2.bg2/data/PaperDol.bif
+e2178d3a10488978  Baldurs Gate 2.bg2/data/Portrait.bif
+38f4001f1531ac97  Baldurs Gate 2.bg2/data/Spells.bif
+cd2faacd971fe0aa  Baldurs Gate 2.bg2/data/GUIMosc.bif
+7c0b8f61c2a62070  Baldurs Gate 2.bg2/data/OBJAnim.bif
+586635831dce6e33  Baldurs Gate 2.bg2/data/Stores.bif
+a959466e4f62ab49  Baldurs Gate 2.bg2/eReg/ERHTTP01.ini
+ab86bc5f2aa9c2a2  Baldurs Gate 2.bg2/data/Scripts.bif
+5a9b6cc5f7168900  media/boxback/Icewind Dale.jpg
+e8b3b28bc80c669a  Baldurs Gate 2.bg2/data/SFXSound.bif
+7d812ff1f2d3d5aa  Baldurs Gate 2.bg2/eReg/ERLocal.ini
+e25baa17edb56faa  Baldurs Gate 2.bg2/eReg/EReg01.ini
+1c74a01d3cbfbd90  media/cartridges/Baldur's Gate.png
+3a84df0441d3893b  Baldurs Gate 2.bg2/eReg/EReg.Bin
+ef52ea2fad47bcad  Baldurs Gate 2.bg2/data/NPCSound.bif
+f5c79d8a2d28f1ee  Baldurs Gate 2.bg2/eReg/ERHttp01.dll
+5e776369dd5684dd  Baldurs Gate 2.bg2/eReg/HTTP01.ini
+111264585cb38791  media/cartridges/Icewind Dale.png
+288d5183aaab03e3  Baldurs Gate 2.bg2/eReg/RegBody.txt
+e0f7ae3061795513  Baldurs Gate 2.bg2/eReg/RegBrwsr.html
+dd021b0163e29088  Baldurs Gate 2.bg2/eReg/EregUI.ini
+7dd0bde9b6659ad1  Baldurs Gate 2.bg2/eReg/RegMail.txt
+261593c058ffb0df  Baldurs Gate 2.bg2/eReg/RegXMit.txt
+6aec90c3fcd77cf2  Baldurs Gate 2.bg2/eReg/ereg1.bmp
+358c047ded9e7c11  Baldurs Gate 2.bg2/eReg/RegRcrd.txt
+4d72af8ea905cae3  Baldurs Gate 2.bg2/eReg/EReg3201.dll
+58b8bb909a45facc  Baldurs Gate 2.bg2/eReg/RegFax.txt
+d62e06d66ce7f823  Baldurs Gate 2.bg2/eReg/ereg2.bmp
+a34284361afafad8  Baldurs Gate 2.bg2/eReg/inter.bmp
+b5e90b958dae1a73  Baldurs Gate 2.bg2/eReg/Reg32.exe
+2f34c1d18ea790b0  Baldurs Gate 2.bg2/data/SPELAnim.bif
+f84fb3ad3e834f15  Baldur's Gate.bg1/Music/Bc1/Bc1a2.ACM
+725d7a0b31e7795d  Baldur's Gate.bg1/Music/Bc1/Bc1a4.ACM
+f130ce4cf472b00a  Baldur's Gate.bg1/Music/Bc1/Bc1b1.ACM
+30bf464d566910b2  Baldur's Gate.bg1/Music/Bc1/Bc1a3.ACM
+7317157af2c8ba4b  Baldur's Gate.bg1/Music/Bc1/Bc1a1.ACM
+703cf5058622b3b3  Baldur's Gate.bg1/Music/Bc1/Bc1b2.ACM
+b7264f32caaa52c2  Baldur's Gate.bg1/Music/Bc1/Bc1d3.ACM
+1038ae52237b4429  Baldur's Gate.bg1/Music/Bc1/Bc1c1.ACM
+a8f5de4b3dedffc3  Baldur's Gate.bg1/Music/Bc1/Bc1d1a.ACM
+39037996a7859299  Baldur's Gate.bg1/Music/Bc1/Bc1d2a.ACM
+49d509202a11d667  Baldur's Gate.bg1/Music/Bc1/Bc1d4.ACM
+627bf00627cf8671  Baldur's Gate.bg1/Music/Bc1/Bc1e1.ACM
+39037996a7859299  Baldur's Gate.bg1/Music/Bc1/Bc1d2.ACM
+81b549cbb780e9c8  Baldur's Gate.bg1/Music/Bc1/Bc1e3.ACM
+e9de3321f275fa77  Baldur's Gate.bg1/Music/Bc1/Bc1e4.ACM
+601b0be5ec84a739  Baldur's Gate.bg1/Music/Bc1/Bc1e2.ACM
+142655c0c2f827c7  Baldur's Gate.bg1/Music/Bc1/Bc1b3.ACM
+a8f5de4b3dedffc3  Baldur's Gate.bg1/Music/Bc1/Bc1d1.ACM
+8266e51ff9de3d22  Baldur's Gate.bg1/Music/Bc1/Bc1enda1.ACM
+b0d8e0b9b2fc3e31  Baldur's Gate.bg1/Music/Bc1/Bc1endb3.ACM
+449f7a447062b407  Baldur's Gate.bg1/Music/Bc1/Bc1endb1.ACM
+7f23e87cdd7a4ad1  Baldur's Gate.bg1/Music/Bc1/Bc1enda4.ACM
+75b457405596aa78  Baldurs Gate 2.bg2/eReg/ERegUI32.dll
+ea5a4f66b00f7784  Baldur's Gate.bg1/Music/Bc1/Bc1ende1.ACM
+85c0e0a32e8cc148  Baldur's Gate.bg1/Music/Bc1/Bc1ende2.ACM
+b6399a8d03652e62  Baldur's Gate.bg1/Music/Bc1/Bc1endc1.ACM
+dc164aaf4127f90b  Baldur's Gate.bg1/Music/Bc1/Bc1endb2.ACM
+848c5764c013ec98  Baldur's Gate.bg1/Music/Bc1/Bc1endd1.ACM
+b6c9c1ba11e49360  Baldur's Gate.bg1/Music/Bc1/Bc1endf2.ACM
+71acf8a96a764b83  Baldur's Gate.bg1/Music/Bc1/Bc1endd4.ACM
+4b5be3a983dd68f3  Baldur's Gate.bg1/Music/Bc1/Bc1endd2.ACM
+6398fb99009e42b2  Baldur's Gate.bg1/Music/Bc1/Bc1endh4.ACM
+23cff0eb766868cb  Baldur's Gate.bg1/Music/Bc1/Bc1endg2.ACM
+c0c2cd4984a925fc  Baldur's Gate.bg1/Music/Bc1/Bc1endg3.ACM
+0e7f5cfd81086039  Baldur's Gate.bg1/Music/Bc1/Bc1f1.ACM
+b89fd4151b502a9c  Baldur's Gate.bg1/Music/Bc1/Bc1endf4.ACM
+c52ff701a21c7160  Baldur's Gate.bg1/Music/Bc1/Bc1endh2.ACM
+4b235af8138b53ad  Baldur's Gate.bg1/Music/Bc1/Bc1ende4.ACM
+dbd11b05c62d484d  Baldur's Gate.bg1/Music/Bc1/Bc1endh3.ACM
+30d444d3778b5bf3  Baldur's Gate.bg1/Music/Bc1/Bc1f3.ACM
+520cf5500be7ea5a  Baldur's Gate.bg1/Music/Bc1/Bc1g1.ACM
+44a387bf803f8d2b  Baldur's Gate.bg1/Music/Bc1/Bc1g2.ACM
+441a0f18cc623360  Baldur's Gate.bg1/Music/Bc1/Bc1h1.ACM
+0702b244f908f398  Baldur's Gate.bg1/Music/Bc1/Bc1h4.ACM
+b30eb3494be02774  Baldur's Gate.bg1/Music/Bc1/Bc1g3.ACM
+20690e754a53cd03  Baldurs Gate 2.bg2/mplayer/Connect to the mplayer.com Web Site.url
+a2aa9672d7bdf604  Baldurs Gate 2.bg2/mplayer/Visit BG2World.com.url
+6105236d3cc5494d  Baldur's Gate.bg1/Music/Bc1/Bc1h3.ACM
+ec0db0c4033f8825  Baldur's Gate.bg1/Music/Bc1/Bc1i1.ACM
+7f651f07d7598671  Baldur's Gate.bg1/Music/Bc1/Bc1f2.ACM
+bf42da87a40163a8  Baldur's Gate.bg1/Music/Bc1/Bc1h2.ACM
+8faccc4cbfb7db9d  Baldur's Gate.bg1/Music/Bc2/Bc2a1.ACM
+6d6f4fa78c8ce586  Baldur's Gate.bg1/Music/Bc2/Bc2c1.ACM
+7d0d387e8846e0c4  Baldur's Gate.bg1/Music/Bc2/Bc2d2.ACM
+6b798d8337dd66fa  Baldur's Gate.bg1/Music/Bc1/Bc1f4.ACM
+118184ac6d01623d  Baldur's Gate.bg1/Music/Bc2/Bc2a2.ACM
+11c31da42850e263  Baldur's Gate.bg1/Music/Bc2/Bc2c2.ACM
+d46b71bec6b00526  Baldur's Gate.bg1/Music/Bc2/Bc2d1.ACM
+54d50967f8578a54  Baldur's Gate.bg1/Music/Bc2/Bc2a3.ACM
+3811738ae407a4a0  Baldur's Gate.bg1/Music/Bc2/Bc2b2.ACM
+0d38df76d1ab270c  Baldur's Gate.bg1/Music/Bc2/Bc2e1.ACM
+b12064c182a94356  Baldur's Gate.bg1/Music/Bc2/Bc2b1.ACM
+cbb2d7cdb9eef406  Baldur's Gate.bg1/Music/Bc2/Bc2endb.ACM
+0221bc89bf173886  Baldur's Gate.bg1/Music/Bc2/Bc2f2.ACM
+faea584003deafae  Baldur's Gate.bg1/Music/Bc2/Bc2g2.ACM
+dfaa1266b9022fe7  Baldur's Gate.bg1/Music/Bc2/Bc2e2.ACM
+2c52ec400cff9d07  Baldur's Gate.bg1/Music/Bc2/Bc2g3.ACM
+ed1d67a6ec95a1a2  Baldur's Gate.bg1/Music/Bc2/Bc2endc.ACM
+51848660b25f789f  Baldur's Gate.bg1/Music/Bc2/Bc2f1.ACM
+848c5764c013ec98  Baldur's Gate.bg1/Music/Bc2/Bc2enda.ACM
+cc54ac3f716d8fa1  Baldur's Gate.bg1/Music/Bc2/Bc2h2.ACM
+49eedcf43af17b57  Baldur's Gate.bg1/Music/Bc2/Bc2h4.ACM
+945252f4c326594c  Baldur's Gate.bg1/Music/Bc2/Bc2i2.ACM
+e38e1f64a9cfb527  Baldur's Gate.bg1/Music/Bc2/Bc2g1.ACM
+16af0ab7e64d20e4  Baldur's Gate.bg1/Music/Bc2/Bc2h1.ACM
+e7abca9149aa21a0  Baldur's Gate.bg1/Music/Bc2/Bc2i4.ACM
+7bf12022cfe1a58f  Baldur's Gate.bg1/Music/Bc2/Bc2h3.ACM
+faf7cc39773fbb1e  Baldur's Gate.bg1/Music/Bc2/Bc2i3.ACM
+a45ab37ff91c96cc  Baldur's Gate.bg1/Music/Bc2/Bc2j4.ACM
+a9f16d89ac1c7ef4  Baldur's Gate.bg1/Music/Bc2/Bc2i1.ACM
+cf3653148e59a75a  Baldur's Gate.bg1/Music/Bc2/Bc2j3.ACM
+880e2f2c758d7833  Baldur's Gate.bg1/Music/Bc2/Bc2k3.ACM
+fc3db4bfa9049bb5  Baldur's Gate.bg1/Music/Bc2/Bc2k1.ACM
+3c52a8c43f3ffdba  Baldur's Gate.bg1/Music/Bc2/Bc2k2.ACM
+290b9219ce427c6c  Baldur's Gate.bg1/Music/Bc2/Bc2j1.ACM
+1a8da195c3f8b16c  Baldur's Gate.bg1/Music/Bc2/Bc2j2.ACM
+0ecf549ffb8b33e3  Baldur's Gate.bg1/Music/Bc2/Bc2xa1.ACM
+b17777b771396411  Icewind Dale.iwd/Music/B1/B1Loop.acm
+956cba4f661ecc07  Icewind Dale.iwd/Music/B1/B1a1.acm
+791c3432b1d755ef  Icewind Dale.iwd/Music/B1/B1a2.acm
+554464a90709658b  Icewind Dale.iwd/Music/B1/B1a3.acm
+0daefa02b2705e5a  media/fanarts/Baldur's Gate.jpg
+4afdc14ae1befdb1  Icewind Dale.iwd/Music/B1/B1b3.acm
+a7598b38828e387c  Icewind Dale.iwd/Music/B1/B1c1.acm
+c26e7169f8fc87b8  Icewind Dale.iwd/Music/B1/B1c2.acm
+485cb467208e972b  Icewind Dale.iwd/Music/B1/B1b2.acm
+97ca4ecc552626ab  media/fanarts/Icewind Dale.jpg
+3fc5699cc34dffbe  Icewind Dale.iwd/Music/B1/B1c4.acm
+6ba38a4791a7aa40  Icewind Dale.iwd/Music/B1/B1c3.acm
+1bd50fa1369fb374  Icewind Dale.iwd/Music/B1/B1b1.acm
+9c283b99aacc02b7  Icewind Dale.iwd/Music/B1/B1d1.acm
+788226170be76454  Icewind Dale.iwd/Music/B1/B1b4.acm
+60030cb584f35b8b  Icewind Dale.iwd/Music/B1/B1endC1.acm
+b476d7f49563c3da  Icewind Dale.iwd/Music/B1/B1d3.acm
+481e8c65ce740492  Icewind Dale.iwd/Music/B1/B1e1.acm
+24439b2df939c7ce  Icewind Dale.iwd/Music/B1/B1endD1.acm
+1708d1cad9edee17  Icewind Dale.iwd/Music/B1/B1d2.acm
+3e75f11e8deb3a07  Icewind Dale.iwd/Music/B1/B1e2.acm
+578ae290df120b33  Icewind Dale.iwd/Music/B1/B1endA1.acm
+62ee7d89a6ad4d38  Icewind Dale.iwd/Music/B1/B1endG1.acm
+f590ef1996bfae77  Icewind Dale.iwd/Music/B1/B1f2.acm
+e9943f099a842dd0  Icewind Dale.iwd/Music/B1/B1g3.acm
+b3632b25b375eb90  Icewind Dale.iwd/Music/B1/B1g1.acm
+a38be9ccc218b10b  Icewind Dale.iwd/Music/B1/B1endE1.acm
+af35b234366f50c6  Icewind Dale.iwd/Music/B1/B1g2.acm
+9db5554416d844f3  Baldurs Gate 2.bg2/music/BC1.mus
+7708eaed093eaf7f  Icewind Dale.iwd/Music/B1/B1f1.acm
+03e381c9b17c263e  Baldurs Gate 2.bg2/music/BC2.mus
+fa9a0299719ed2a3  Icewind Dale.iwd/Music/B1/B1g4.acm
+9f6e6c707bccb3b3  Baldurs Gate 2.bg2/music/BD3.mus
+c4527a2fcb42bcda  Baldurs Gate 2.bg2/music/BD2.mus
+a62089ba7ce83c41  Baldurs Gate 2.bg2/music/BD1.mus
+1c3622f47fd43ca9  Baldurs Gate 2.bg2/music/BF2.mus
+024d4cb2ce3b5823  Baldurs Gate 2.bg2/music/BJR.mus
+f6028ec17485c0fd  Baldurs Gate 2.bg2/music/BM2.mus
+b81c13df5cec4d98  Baldurs Gate 2.bg2/music/BM1.mus
+f45f53e2445cb831  Baldurs Gate 2.bg2/music/BP2.mus
+3a90525e09cfc1d7  Baldurs Gate 2.bg2/music/BP1.mus
+38181231855b6e66  Baldurs Gate 2.bg2/music/BF1.mus
+e4b8374f572199e2  Baldurs Gate 2.bg2/music/BRD.mus
+c6816eaa270e8236  Baldurs Gate 2.bg2/music/Mx0011.mus
+1b62ea126d348b03  Baldurs Gate 2.bg2/music/Mx0015.mus
+0bf385e4ea57426d  Baldurs Gate 2.bg2/music/Blank.mus
+53b909feb7978314  Baldurs Gate 2.bg2/music/BSD.mus
+00b895f51d7abbd0  Baldurs Gate 2.bg2/music/MX0202.mus
+860f9151ff5be671  Baldurs Gate 2.bg2/music/BST.mus
+af19e91b3e1304f7  Baldurs Gate 2.bg2/music/Mx0012.mus
+4f0b855242ebdc3a  Baldurs Gate 2.bg2/music/Mx0204.mus
+d0946da595926dbe  Baldurs Gate 2.bg2/music/Mx0020.mus
+4c230994c4a61317  Baldurs Gate 2.bg2/music/Mx0013.mus
+063cfd3d280a1907  Baldurs Gate 2.bg2/music/Mx0406.mus
+063ac7054503d3cd  Baldurs Gate 2.bg2/music/Mx0300.mus
+39d18e6bba12ea46  Baldurs Gate 2.bg2/music/Mx0414.mus
+d4a8a2d018edd492  Baldurs Gate 2.bg2/music/Mx0400.mus
+2ae4c14f6524bd6e  Baldurs Gate 2.bg2/music/Mx0313.mus
+8fabcb77031bfc77  Baldurs Gate 2.bg2/music/Mx0021.mus
+da869445fe335353  Baldurs Gate 2.bg2/music/Mx0512.mus
+f1685d04249a65df  Baldurs Gate 2.bg2/music/Mx0404.mus
+7affb7d59d65517a  Baldurs Gate 2.bg2/music/Mx0400n.mus
+bef960e2d149565a  Baldurs Gate 2.bg2/music/Mx1200.mus
+56bf676af9930f5b  Baldurs Gate 2.bg2/music/Mx0700.mus
+3eaf176a7a8b9600  Baldurs Gate 2.bg2/music/Mx0900.mus
+871f470144bb1157  Baldurs Gate 2.bg2/music/Mx0500.mus
+1d4831cbdf8ec52a  Baldurs Gate 2.bg2/music/Mx0410.mus
+2eeeeaaaa31dcd53  Baldurs Gate 2.bg2/music/Mx0516.mus
+77fed94e3ba60525  Baldurs Gate 2.bg2/music/Mx0602.mus
+8faaaf9410b26bad  Baldurs Gate 2.bg2/music/Mx1500.mus
+6f13421f500aad3c  Baldurs Gate 2.bg2/music/Mx1900.mus
+26555b267533b6ca  Baldurs Gate 2.bg2/music/Mx1600.mus
+911e83c4f462cdb5  Baldurs Gate 2.bg2/music/Mx2100.mus
+16388b0b6209be74  Baldurs Gate 2.bg2/music/Mx1300.mus
+4323e4ff60aa3aa5  Baldurs Gate 2.bg2/music/Mx1100.mus
+2613e0f9eb30b29b  Baldurs Gate 2.bg2/music/Mx1304.mus
+f759a45ebb89ab6d  Baldurs Gate 2.bg2/music/Mx1400.mus
+b580bf7d384b1160  Baldurs Gate 2.bg2/music/Mx2000.mus
+2ccd37acfc1b18a8  Baldurs Gate 2.bg2/music/MxAerie.mus
+7bfa1ae0aa6e3e0e  Baldurs Gate 2.bg2/music/Mx2300.mus
+e073dd0a314bf8fc  Baldurs Gate 2.bg2/music/Mx1201.mus
+3b13c7f93893d661  Baldurs Gate 2.bg2/music/MxAnom.mus
+d3dfd21dbd945310  Baldurs Gate 2.bg2/music/MxKhali.mus
+761aa678c1695ffc  Baldurs Gate 2.bg2/music/MxKalah.mus
+4ca792e94bd4f36f  Baldurs Gate 2.bg2/music/MxVicon.mus
+55b166fcdc6147c5  Baldurs Gate 2.bg2/music/Tav3.mus
+f858b3c5ce2c7bd6  Baldurs Gate 2.bg2/music/MxJahir.mus
+bbb78b6990f6a615  Baldurs Gate 2.bg2/music/harp_v2.mus
+020be206e178445f  Baldurs Gate 2.bg2/music/MxThief.mus
+b49be66b262141dc  Baldurs Gate 2.bg2/music/Tav4.mus
+0cb339b1c9648e3f  Baldurs Gate 2.bg2/music/Tav2.mus
+f9726f6b2899cc11  Baldurs Gate 2.bg2/music/Theme.mus
+3e87d03dd692d81a  Baldurs Gate 2.bg2/music/SPC1.acm
+30e86895b0d94545  Baldurs Gate 2.bg2/music/Tav1.mus
+48508f57df612928  Baldur's Gate.bg1/Music/Bd1/Bd1a2.ACM
+1667c5648ee5420d  Baldur's Gate.bg1/Music/Bd1/Bd1b1.ACM
+93ff05dcca75a4fe  Baldur's Gate.bg1/Music/Bd1/Bd1b3.ACM
+df14fabd40a36386  Baldur's Gate.bg1/Music/Bd1/Bd1b2.ACM
+8ec44cf312cf35d3  Baldur's Gate.bg1/Music/Bd1/Bd1a1.ACM
+902e842bed16fcc1  Baldur's Gate.bg1/Music/Bd1/Bd1d1.ACM
+8eecbf7f2517d86d  Baldur's Gate.bg1/Music/Bd1/Bd1c2.ACM
+f91dba75ad7901bd  Baldurs Gate 2.bg2/music/harp_v6.mus
+d87cf053b315e5c9  Baldur's Gate.bg1/Music/Bd1/Bd1c1.ACM
+20e488208f9b9147  Baldur's Gate.bg1/Music/Bd1/Bd1b4.ACM
+272ef34bf90a6f3f  Baldur's Gate.bg1/Music/Bd1/Bd1d2.ACM
+5ae0760b9fe9dc8d  Baldur's Gate.bg1/Music/Bd1/Bd1d3.ACM
+613e58a5adc0b622  Baldur's Gate.bg1/Music/Bd1/Bd1e3.ACM
+ed6fb4fdfdf7f222  Baldur's Gate.bg1/Music/Bd1/Bd1e4.ACM
+e8fcf966795e1d00  Baldur's Gate.bg1/Music/Bd1/Bd1e1.ACM
+92c3dcd366d1431b  Baldur's Gate.bg1/Music/Bd1/Bd1endc.ACM
+56c3c4d75af6b4f4  Baldur's Gate.bg1/Music/Bd1/Bd1f1.ACM
+c56d0775ca058762  Baldur's Gate.bg1/Music/Bd1/Bd1enda.ACM
+6a9d8906eade0d7d  Baldur's Gate.bg1/Music/Bd1/Bd1f3.ACM
+d7ad179c471c800b  Baldur's Gate.bg1/Music/Bd1/Bd1g3a.ACM
+93bbdd44c6e35b9c  Baldur's Gate.bg1/Music/Bd1/Bd1g1.ACM
+0a6595c7466be463  Baldur's Gate.bg1/Music/Bd1/Bd1e2.ACM
+5714db2984451757  Baldur's Gate.bg1/Music/Bd1/Bd1g4a.ACM
+1fc5ea7b991463cf  Baldur's Gate.bg1/Music/Bd1/Bd1g2.ACM
+1d49894de28ee96a  Baldur's Gate.bg1/Music/Bd1/Bd1endb.ACM
+880cf3aa33e73ba6  Baldur's Gate.bg1/Music/Bd1/Bd1h3.ACM
+6d3e0e7d2ce5a5f5  Baldur's Gate.bg1/Music/Bd1/Bd1i12.ACM
+f5bc40d96b4f3647  Baldur's Gate.bg1/Music/Bd1/Bd1xa1.ACM
+15d998e48f077895  Baldur's Gate.bg1/Music/Bd1/Bd1f2.ACM
+5699cdb59450d212  Baldur's Gate.bg1/Music/Bd1/Bd1h1.ACM
+413ab23971eaf282  Icewind Dale.iwd/Music/B2/B2a1.acm
+fb9af3246c9563b5  media/images/Baldur's Gate.jpg
+54cf5df9fd425903  Icewind Dale.iwd/Music/B2/B2b2.acm
+e586d917b6c7378a  Baldur's Gate.bg1/Music/Bd1/Bd1h2.ACM
+0981ef84ce0472f7  Icewind Dale.iwd/Music/B2/B2b1.acm
+6f065d87921fcce5  Icewind Dale.iwd/Music/B2/B2c3.acm
+74f1404e74f7726f  Icewind Dale.iwd/Music/B2/B2d1.acm
+95b0e66369afbaf6  Icewind Dale.iwd/Music/B2/B2c1.acm
+35b511b347b04b85  Icewind Dale.iwd/Music/B2/B2c2.acm
+28e621b8084f2acc  Icewind Dale.iwd/Music/B2/B2c4.acm
+d6e282b719153638  media/images/Baldurs Gate 2.jpg
+36115dd8d68423af  Icewind Dale.iwd/Music/B2/B2d2.acm
+fade727820fe5f5f  Icewind Dale.iwd/Music/B2/B2f1.acm
+f800c5d5f3f93cab  Icewind Dale.iwd/Music/B2/B2endB1.acm
+e115ea896809c482  media/images/Icewind Dale.png
+54853d135e0f77b7  Icewind Dale.iwd/Music/B2/B2endC1.acm
+65eadcf06cad6c97  Icewind Dale.iwd/Music/B2/B2e1.acm
+3d1f13ed9a012270  Icewind Dale.iwd/Music/B2/B2e2.acm
+9b973ece950af54c  Icewind Dale.iwd/Music/B2/B2f2.acm
+1bb08081f2df84d0  Icewind Dale.iwd/Music/B2/B2endD1.acm
+ecd55912715fc142  Icewind Dale.iwd/Music/B2/B2f3.acm
+bcd861ea67fc7ad9  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_01.wav
+a445c200cce11469  Icewind Dale.iwd/Music/B2/B2f4.acm
+dfee5f24343ab73b  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_03.wav
+5a0140bc3c111476  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_06.wav
+c61a2bd0989f0f2c  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_02.wav
+3c001267fbe871be  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_05.wav
+151aa3eed55c53aa  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_07.wav
+1a1b92c792344ca8  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_14.wav
+d86b7c7021738133  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_12.wav
+162c21f568291b2f  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_11.wav
+d290316142aef0a7  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_10.wav
+665e9198d33a85d0  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_04.wav
+3a7f6826927807c2  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_08.wav
+c764324932c1fe1f  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_15.wav
+72b15c149572ca8e  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_13.wav
+61148d9b37c8acd5  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_09.wav
+a5e61186a061f01d  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_21.wav
+0b12044dce3cc5cf  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_16.wav
+8023ff4218d20448  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_17.wav
+bc11d500c1449572  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_18.wav
+9a04cfd7a9664b14  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_19.wav
+4960738fd6f2508b  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_20.wav
+9a721ff538872dc8  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_22.wav
+b8fd3a876acba430  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_26.wav
+f03895074d465238  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_25.wav
+3e7f9220434b41da  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_24.wav
+070dd4d86ad63866  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_29.wav
+46192f55980f32d7  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_27.wav
+73c754ae22af34c9  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_31.wav
+592eb76f18e2baa7  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_30.wav
+1c53aea4c5b85153  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_23.wav
+fed784aec24e0590  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_36.wav
+9af982f68a6a8de9  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_35.wav
+25134b3f315e4ca7  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_33.wav
+785f29882665e35a  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_28.wav
+8b083a1d202aefda  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_32.wav
+8968ed41cdfdc658  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_37.wav
+040eca7c3a747964  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_38.wav
+a93bad1f5b021693  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_39.wav
+0acd16dffb274003  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_40.wav
+026efaf9e88a8b91  Icewind Dale.iwd/Sounds/Female_Fighter_1/DFF_34.wav
+468dab4aa79ad3c8  Baldurs Gate 2.bg2/override/AM0201c9.wav
+c70a5a5992c5866f  Baldurs Gate 2.bg2/override/AERIEJ.dlg
+2efdb555f785afad  Baldurs Gate 2.bg2/override/AM0201c8.wav
+c0caeb29e0b982cd  Baldurs Gate 2.bg2/override/AM1201a6.wav
+4f19c89a553aeade  Baldurs Gate 2.bg2/override/AM0201c7.wav
+6a48a20419da7d5f  Baldurs Gate 2.bg2/override/AM1201a3.wav
+1675e08c367138f4  Baldurs Gate 2.bg2/override/AM1201a5.wav
+524eff79fe60a96f  Baldurs Gate 2.bg2/override/AM1201a4.wav
+d5bdcb49d108da13  Baldurs Gate 2.bg2/override/AM1201a2.wav
+205d4d4eb38e80e4  Baldurs Gate 2.bg2/override/AM1201a1.wav
+37d330a293e69225  Baldurs Gate 2.bg2/override/AM1201a7.wav
+a35231b3b7bc7547  Baldurs Gate 2.bg2/override/AM1201a8.wav
+76319f46d7cca9c3  Baldurs Gate 2.bg2/override/AR1900.bcs
+882d278c3d53b622  Baldurs Gate 2.bg2/override/Am0201c1.wav
+4918df826f469b85  Baldurs Gate 2.bg2/override/Am0201c5.wav
+b4826dfa129627ba  Baldurs Gate 2.bg2/override/Am0201c2.wav
+a8185923d8fa963d  Baldurs Gate 2.bg2/override/ANOMENJ.dlg
+688264a3fa19c151  Baldurs Gate 2.bg2/override/Am0201c6.wav
+b197e59579bcf963  Baldurs Gate 2.bg2/override/Am0072.wav
+ef36157f82badba6  Baldurs Gate 2.bg2/override/Am0201c4.wav
+a9c64bd523e32521  Baldurs Gate 2.bg2/override/Am0201c3.wav
+3e71ccbcd7a9f0bb  Baldurs Gate 2.bg2/override/BERNARD.dlg
+64c05257779016bf  Baldurs Gate 2.bg2/override/C6HARP.dlg
+942a8634600a0a94  Baldurs Gate 2.bg2/override/BANOMEN.dlg
+6361ebdd0c932933  Baldurs Gate 2.bg2/override/BAERIE.dlg
+d57f4400d56db354  Baldurs Gate 2.bg2/override/Clabfi02.2da
+c553b91507696329  Baldurs Gate 2.bg2/override/DART01.itm
+9854bd44935799f9  Baldurs Gate 2.bg2/override/Anomen.bcs
+66ab447adf11dcbc  Baldurs Gate 2.bg2/override/HELMBYR.dlg
+4c6022c03e428e55  Baldurs Gate 2.bg2/override/BHOISIG.dlg
+6f403160d33c7671  Baldurs Gate 2.bg2/override/HPRELATE.dlg
+4704dbbbd70a5532  Baldurs Gate 2.bg2/override/ELFFF01.WAV
+f290a565df71f1d0  Baldurs Gate 2.bg2/override/LEAT08.itm
+8ec9278ace519316  Baldurs Gate 2.bg2/override/INSPECT.dlg
+ec0ee24d691f8732  Baldurs Gate 2.bg2/override/PPDESH.dlg
+11ecccffe0310f8b  Baldurs Gate 2.bg2/override/PPSTAT01.dlg
+787d30c7dc6d65d1  Baldurs Gate 2.bg2/override/PPRIDD.dlg
+788b03c20be36c8a  Baldurs Gate 2.bg2/override/RENAL.dlg
+e2a2a3b99f916860  Baldurs Gate 2.bg2/override/SpIn957.spl
+216ef4f9e9aaa5aa  Baldurs Gate 2.bg2/override/SPCL221.SPL
+1540ea01b81c4e3f  Baldurs Gate 2.bg2/override/SpPr504.spl
+f0778cb7e76f58b5  Baldurs Gate 2.bg2/override/Jaheira.bcs
+4e5264993094634f  Baldurs Gate 2.bg2/override/MAEVAR.dlg
+8a967d09867e822b  Baldurs Gate 2.bg2/override/QUAYLE.dlg
+7791b7309b4b2882  Baldurs Gate 2.bg2/override/SpPr712.SPL
+a507adcd19eefa95  Baldurs Gate 2.bg2/override/aerie.bcs
+399f76235b84f58d  Baldurs Gate 2.bg2/override/WeapProf.2DA
+d0efd94fc3281e9b  Baldurs Gate 2.bg2/override/Yoshimo.bcs
+c01138833b19abb2  Baldurs Gate 2.bg2/override/ar0072.WED
+0e57fd007d564e76  Baldurs Gate 2.bg2/override/ar0072ht.bmp
+0015620fc6707d01  Baldurs Gate 2.bg2/override/ar0072sr.bmp
+4ab202c23e444ba1  Baldurs Gate 2.bg2/override/ar0205sr.bmp
+3701d7fd50d84546  Baldurs Gate 2.bg2/override/ar0900.WED
+f693b2db07b7ca0f  Baldurs Gate 2.bg2/override/ar2209.ARE
+e29833a97c1b2c41  Baldurs Gate 2.bg2/override/c6bmist.CRE
+6c1bcf5203f11b17  Baldurs Gate 2.bg2/override/ar0072lm.bmp
+a2fdc1de245025a8  Baldurs Gate 2.bg2/override/baldur.bcs
+d94e3a7592c700bf  Baldurs Gate 2.bg2/override/ar0900n.WED
+53396ea06718af31  Baldurs Gate 2.bg2/override/famdust.CRE
+b2daa894cab49ce0  Baldurs Gate 2.bg2/override/cut41g.bcs
+92a2f10060cd4518  Baldurs Gate 2.bg2/override/minsc12.cre
+190914b2f336567c  Baldurs Gate 2.bg2/override/minsc10.CRE
+b278d162e9a854e7  Baldurs Gate 2.bg2/override/minsc7.CRE
+c54a059647602125  Baldurs Gate 2.bg2/override/ghoullor.EFF
+86921c61cc2ece8b  Baldurs Gate 2.bg2/override/minsc9.cre
+1f8d5c93e94e6836  Baldurs Gate 2.bg2/override/minsc8.cre
+0760c02e5c78239b  Baldurs Gate 2.bg2/override/pcapt02.CRE
+a8679525be7eb3dc  Baldurs Gate 2.bg2/override/scrla5.ITM
+7c2b12f377472a9f  Baldurs Gate 2.bg2/override/valyg11.CRE
+b99452196f0fa78c  Baldurs Gate 2.bg2/override/valyg8.CRE
+cd9b7ecf6f20d7cd  Baldurs Gate 2.bg2/override/valyg9.cre
+b3b67dfec4f3d0a7  Baldurs Gate 2.bg2/override/valyg12.cre
+d51f9f9823e6c815  Baldurs Gate 2.bg2/override/wa2helm.ITM
+dc0aff2f40ce0b44  Baldurs Gate 2.bg2/override/wqlh4a1.BAM
+3b469997fc549c31  Baldurs Gate 2.bg2/override/ar0072.TIS
+f614f0c61d35539f  Baldurs Gate 2.bg2/override/suelf10.STO
+9b0d52bf233d5999  Baldurs Gate 2.bg2/override/wqlh4a3.BAM
+093e675a89d5f508  Baldurs Gate 2.bg2/override/ar2602.MOS
+8fc598343a7a6d70  Baldurs Gate 2.bg2/override/wqlh4a2.BAM
+046c12bbc305e234  Baldurs Gate 2.bg2/override/wqlh4a7.BAM
+18777c1801e86211  Baldurs Gate 2.bg2/override/wqlh4a5.BAM
+876d178b718fd6c0  Baldurs Gate 2.bg2/override/wqlh4a8.BAM
+046c12bbc305e234  Baldurs Gate 2.bg2/override/wqlh4a9.BAM
+f60d7489f5b2ee8a  Baldurs Gate 2.bg2/override/wqlh4ss.BAM
+b1e78c02317f22b9  Baldurs Gate 2.bg2/override/wqlh4sa.BAM
+e34c6a28120c87b8  Baldurs Gate 2.bg2/override/wqlh4a4.BAM
+bd41eae45a73d5bd  Baldurs Gate 2.bg2/override/wqlh4sx.BAM
+2612a2a979466d5a  Baldurs Gate 2.bg2/override/wqlh4ca.BAM
+a500e4a16b8426f4  Baldurs Gate 2.bg2/override/wqlh4g1.BAM
+19f017c4988ba832  Baldurs Gate 2.bg2/override/wqlh4a6.BAM
+cb6518ff5bb8f037  Baldurs Gate 2.bg2/override/wqlh5a1.BAM
+c2ea95040026d025  Baldurs Gate 2.bg2/override/wqlh5a3.BAM
+a1c3b4e0c8344145  Baldurs Gate 2.bg2/override/wqlh5a4.BAM
+966b6629d0eea930  Baldurs Gate 2.bg2/override/wqlh5a2.BAM
+54bd7a9d00afb426  Baldurs Gate 2.bg2/override/wqlh5a8.BAM
+a63697a65ebd1bf9  Baldurs Gate 2.bg2/override/wqlh5a7.BAM
+60c83860e69be165  Baldurs Gate 2.bg2/override/wqlh5a5.BAM
+8820ae5d714c4554  Baldurs Gate 2.bg2/override/wqlh5a9.BAM
+1437f43bb98f5c62  Baldurs Gate 2.bg2/override/wqlh5ca.BAM
+3ef7a6a77acecdb6  Baldurs Gate 2.bg2/override/wqlh5ss.BAM
+234bf593c8dd80ff  Baldurs Gate 2.bg2/override/wqlh5a6.BAM
+df5222f11ce5e00b  Baldurs Gate 2.bg2/override/wqlh5sa.BAM
+73d17350b0cd941f  Baldurs Gate 2.bg2/override/wqnh4a1.BAM
+08bcb8eb3acacdb3  Baldurs Gate 2.bg2/override/wqnh4a2.BAM
+5505b9848f34a109  Baldurs Gate 2.bg2/override/wqnh4a3.BAM
+9cc9feb4dcc5e765  Baldurs Gate 2.bg2/override/wqlh5sx.BAM
+781f11e128ce004f  Baldurs Gate 2.bg2/override/wqnh4a9.BAM
+8f79fff7d5df502c  Baldurs Gate 2.bg2/override/wqnh4a4.BAM
+1abe9a1e63bd9a38  Baldurs Gate 2.bg2/override/wqlh5g1.BAM
+781f11e128ce004f  Baldurs Gate 2.bg2/override/wqnh4a7.BAM
+5b1e1d7f75c3eccf  Baldurs Gate 2.bg2/override/wqnh4ca.BAM
+bcd52dbf9335f977  Baldurs Gate 2.bg2/override/wqnh4a6.BAM
+92fcea0fd4920cb8  Baldurs Gate 2.bg2/override/wqnh4sa.BAM
+972cff0d7da7d42b  Baldurs Gate 2.bg2/override/wqnh4ss.BAM
+b1be898349641881  Baldurs Gate 2.bg2/override/wqnh4a8.BAM
+ea3c496f6bf59388  Baldurs Gate 2.bg2/override/wqnh4a5.BAM
+cd01309a5d5ce716  Baldurs Gate 2.bg2/override/wqnh4g1.BAM
+968abea66fa0429f  Baldurs Gate 2.bg2/override/wqnh5a6.BAM
+abf75d721babce67  Baldurs Gate 2.bg2/override/wqnh5a4.BAM
+bff08e6a35585b34  Baldurs Gate 2.bg2/override/wqnh5a7.BAM
+48c6072b98370aba  Baldurs Gate 2.bg2/override/wqnh4sx.BAM
+36c4d31f767629b9  Baldurs Gate 2.bg2/override/wqnh5a8.BAM
+79c864e4e46ae1b7  Baldurs Gate 2.bg2/override/wqnh5a1.BAM
+cdcca88a617e4708  Baldurs Gate 2.bg2/override/wqnh5ca.BAM
+873f289ee02d6fac  Baldurs Gate 2.bg2/override/wqnh5a2.BAM
+bff08e6a35585b34  Baldurs Gate 2.bg2/override/wqnh5a9.BAM
+9a4f227d72c7891f  Baldurs Gate 2.bg2/override/wqnh5sa.BAM
+79ad5ff2ec20b024  Baldurs Gate 2.bg2/override/wqnh5a5.BAM
+c107f48ddec78bdb  Baldurs Gate 2.bg2/override/wqnh5ss.BAM
+6b76ce71d6b5fc20  Baldurs Gate 2.bg2/override/wqnh5a3.BAM
+1760feb6bfe3dc90  Baldurs Gate 2.bg2/override/wqsh4a2.BAM
+552b739f89e224d4  Baldurs Gate 2.bg2/override/wqnh5g1.BAM
+82f3ed97906ddb23  Baldurs Gate 2.bg2/override/wqnh5sx.BAM
+40b8b821ba571775  Baldurs Gate 2.bg2/override/wqsh4a3.BAM
+770aa930aa9eeaf4  Baldurs Gate 2.bg2/override/wqsh4a6.BAM
+fc0c6869f29aa7f9  Baldurs Gate 2.bg2/override/wqsh4a4.BAM
+53774be94b57a197  Baldurs Gate 2.bg2/override/wqsh4a7.BAM
+5f16aa0dbcc8af33  Baldurs Gate 2.bg2/override/wqsh4a8.BAM
+09d4c1f21a488a45  Baldurs Gate 2.bg2/override/wqsh4a5.BAM
+a7bc3035b3a6853b  Baldurs Gate 2.bg2/override/wqsh4a9.BAM
+4b424d0c54a72743  Baldurs Gate 2.bg2/override/wqsh4ca.BAM
+e002a77b5caa8235  Baldurs Gate 2.bg2/override/wqsh4a1.BAM
+740822dc37487d77  Baldurs Gate 2.bg2/override/wqsh4sa.BAM
+8a9f4275af5c8c60  Baldurs Gate 2.bg2/override/wqsh4ss.BAM
+5f975435868b8546  Baldurs Gate 2.bg2/override/wqsh4sx.BAM
+3327977653f79408  Baldurs Gate 2.bg2/override/wqsh5a1.BAM
+f6533a0fe5c9d048  Baldurs Gate 2.bg2/override/wqsh4g1.BAM
+0aed6b8f77334dfa  Baldurs Gate 2.bg2/override/wqsh5a2.BAM
+9326c99e3bf6be8e  Baldurs Gate 2.bg2/override/wqsh5a5.BAM
+a0dba3a62bd20b28  Baldurs Gate 2.bg2/override/wqsh5a4.BAM
+815a8072afaf86ee  Baldurs Gate 2.bg2/override/wqsh5g1.BAM
+9e9f9f322a02ac84  Baldurs Gate 2.bg2/override/wqsh5a6.BAM
+cd81f238e4cda669  Baldurs Gate 2.bg2/override/wqsh5a9.BAM
+68afcaca6d3e5b8d  Baldurs Gate 2.bg2/override/wqsh5a8.BAM
+2ff5023316d8a904  Baldurs Gate 2.bg2/override/wqsh5ca.BAM
+d0bacfee65801036  Baldurs Gate 2.bg2/override/wqsh5a3.BAM
+d9767eed7b040a3a  Baldurs Gate 2.bg2/override/wqsh5a7.BAM
+d2e3fc59c0f82cfd  Baldur's Gate.bg1/Music/Bd2/Bd2a1.ACM
+b8af155d25fde0fd  Baldurs Gate 2.bg2/override/wqsh5ss.BAM
+481c9163e3c59979  Baldurs Gate 2.bg2/override/wqsh5sx.BAM
+0e35aaa88b75030c  Baldurs Gate 2.bg2/override/wqsh5sa.BAM
+9ac904c30bc9217d  Baldur's Gate.bg1/Music/Bd2/Bd2a2.ACM
+1c4298657ab66692  Baldur's Gate.bg1/Music/Bd2/Bd2a3.ACM
+b4619849c9275a99  Baldur's Gate.bg1/Music/Bd2/Bd2b1.ACM
+aa642a6049149ec0  Baldur's Gate.bg1/Music/Bd2/Bd2b2b.ACM
+aeff585514225e68  Baldur's Gate.bg1/Music/Bd2/Bd2c1.ACM
+f385a2317ab0220d  Baldur's Gate.bg1/Music/Bd2/Bd2c2.ACM
+a462829d2c65aa4a  Baldur's Gate.bg1/Music/Bd2/Bd2b2.ACM
+6e36757df3f1e59c  Baldur's Gate.bg1/Music/Bd2/Bd2c3.ACM
+fab644cb5a04bb14  Baldur's Gate.bg1/Music/Bd2/Bd2c4.ACM
+5bd54c37c6acd1f0  Baldur's Gate.bg1/Music/Bd2/Bd2e1.ACM
+968afc977faddb33  Baldur's Gate.bg1/Music/Bd2/Bd2d2.ACM
+2e8d751f0865ba55  Baldur's Gate.bg1/Music/Bd2/Bd2d1.ACM
+5237ce160bc4d2a7  Baldur's Gate.bg1/Music/Bd2/Bd2e3.ACM
+a78cd2530dc12b92  Baldur's Gate.bg1/Music/Bd2/Bd2d3.ACM
+16f2fe55a8ba39c3  Baldur's Gate.bg1/Music/Bd2/Bd2e2.ACM
+be8565a6da48e4df  Baldur's Gate.bg1/Music/Bd2/Bd2endd1.ACM
+dbdc9ed5c830cf30  Baldur's Gate.bg1/Music/Bd2/Bd2e4.ACM
+6622748718dcbd94  Baldur's Gate.bg1/Music/Bd2/Bd2d4.ACM
+e468156a71fef678  Baldur's Gate.bg1/Music/Bd2/Bd2endb2.ACM
+7f83ed462a6f8707  Baldur's Gate.bg1/Music/Bd2/Bd2endb1.ACM
+f2d36711125902de  Baldur's Gate.bg1/Music/Bd2/Bd2ende1.ACM
+ed3afd88854983d6  Baldur's Gate.bg1/Music/Bd2/Bd2enda1.ACM
+c67982e3a7158c18  Baldur's Gate.bg1/Music/Bd2/Bd2f1.ACM
+0e0432527468b8e6  Baldur's Gate.bg1/Music/Bd2/Bd2enda2.ACM
+03ba18bcd87832c8  Baldur's Gate.bg1/Music/Bd2/Bd2endg3.ACM
+bef2ef5d2590d276  Baldur's Gate.bg1/Music/Bd2/Bd2g2b.ACM
+c9e07150edaae8c7  Baldur's Gate.bg1/Music/Bd2/Bd2g3.ACM
+b38a91152f005879  Baldur's Gate.bg1/Music/Bd2/Bd2f3.ACM
+baa3551d1d03807c  Baldur's Gate.bg1/Music/Bd2/Bd2f2.ACM
+dd02afbf49284b11  Icewind Dale.iwd/Music/B3/B3a2.acm
+6c1e246257f21e8c  Icewind Dale.iwd/Music/B3/B3a1.acm
+cc3de45d64d000eb  Baldur's Gate.bg1/Music/Bd2/Bd2g1a.ACM
+eb9339b2067db329  Baldur's Gate.bg1/Music/Bd2/Bd2f4.ACM
+07bfcf5f07992adc  Icewind Dale.iwd/Music/B3/B3c.acm
+7063b773ae220ed8  Icewind Dale.iwd/Music/B3/B3f.acm
+f78377875c1fa7ac  Icewind Dale.iwd/Music/B3/B3g.acm
+b5ea5374b122bac4  Icewind Dale.iwd/Music/B3/B3e.acm
+74b77d0ecd0d66d5  Icewind Dale.iwd/Music/B3/B3endZ2.acm
+516ed56044f13578  Icewind Dale.iwd/Music/B3/B3d.acm
+60cd3e3398fd5649  Icewind Dale.iwd/Music/B3/B3b.acm
+aee57364d9d272f1  Icewind Dale.iwd/Music/B3/B3endZ.acm
+6c422007e5fd0642  Icewind Dale.iwd/Music/B3/B3h.acm
+ef65a327c7cef812  Icewind Dale.iwd/Music/B3/B3j.acm
+2256a22a79ea95d7  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_02.wav
+cd413feae2af01fe  Icewind Dale.iwd/Music/B3/B3endZ3.acm
+70b1148306f96123  Icewind Dale.iwd/Music/B3/B3m.acm
+3673359623f9e391  Icewind Dale.iwd/Music/B3/B3l.acm
+72c850ba811482fc  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_01.wav
+152a30a133020257  Icewind Dale.iwd/Music/B3/B3i.acm
+f196f508a64ecbca  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_07.wav
+ff24531a3992a51e  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_04.wav
+40634b96660c4b11  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_06.wav
+5ece097ce6096ef5  Icewind Dale.iwd/Music/B3/B3k.acm
+9a91a7b0ff8a72db  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_03.wav
+214b24643cdeefb9  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_05.wav
+b5bad3774f652f88  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_12.wav
+a54b908dbe07acad  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_09.wav
+f9869b0488ae60e9  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_08.wav
+845779ad1713f1d2  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_11.wav
+07437f74ef23e1b5  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_10.wav
+4b696ecd9cbe8680  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_14.wav
+f57daf8368763074  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_16.wav
+23fcca315d25d8bd  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_19.wav
+aadc99dc5c369ed8  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_21.wav
+3b6f3326275eea9e  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_18.wav
+aa992aa5aedb03f6  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_20.wav
+520d8a66e283f11a  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_15.wav
+46ce46e3313324e9  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_23.wav
+43d28781f6d14f11  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_17.wav
+96fcd2ed961d8c58  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_22.wav
+9cea3e69a5251f61  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_26.wav
+8a03116bb6d07c0a  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_25.wav
+d97eed2502fbf9e4  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_24.wav
+413cf865e9c32c84  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_29.wav
+58c4c87cac29a007  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_32.wav
+4773ae497c10e3db  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_30.wav
+b8e48a228dede7ea  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_28.wav
+34fda61ffd66d1c1  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_34.wav
+102366c45c1d4cee  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_35.wav
+69ec79af740ad0d7  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_33.wav
+1d09426a76a0faa9  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_27.wav
+e9fe73eb60c29503  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_36.wav
+09c0a7bc0535cc6f  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_39.wav
+c4e6aa0646b6036e  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_31.wav
+0b2d4b9f803e51f1  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_40.wav
+264ff67eb159656b  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_37.wav
+dea20f09200ed2c5  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_38.wav
+184f60470f66a769  Icewind Dale.iwd/Music/B4/B4b1.acm
+bfc3a2d93ac82923  Icewind Dale.iwd/Music/B4/B4a1.acm
+0c48891dc5364efd  Icewind Dale.iwd/Music/B4/B4b2.acm
+4f27aa3919d7eb1d  media/maps/Baldur's Gate.jpg
+5d9c076c9b779c39  Icewind Dale.iwd/Music/B4/B4b4.acm
+1426a76628f89308  Icewind Dale.iwd/Sounds/Female_Fighter_2/HeFC_13.wav
+138d399154df61cc  Icewind Dale.iwd/Music/B4/B4b3.acm
+831f0f8cb8a4b964  Icewind Dale.iwd/Music/B4/B4c4.acm
+37c4131d2f60c7aa  Icewind Dale.iwd/Music/B4/B4c1.acm
+024e7c19b6329879  Icewind Dale.iwd/Music/B4/B4c3.acm
+1de34c265a8a2527  Icewind Dale.iwd/Music/B4/B4c2.acm
+2902e29d4571c71e  Icewind Dale.iwd/Music/B4/B4a2.acm
+67949474ce9b99b5  Icewind Dale.iwd/Music/B4/B4e1.acm
+c7419d562d58a3c3  Icewind Dale.iwd/Music/B4/B4d3.acm
+7fd1dbe92820175a  Icewind Dale.iwd/Music/B4/B4e3.acm
+ac95489d06d341da  Icewind Dale.iwd/Music/B4/B4d1.acm
+ee12aaf4715d0a69  Icewind Dale.iwd/Music/B4/B4endA2.acm
+341cf4b1eee89d6e  Icewind Dale.iwd/Music/B4/B4d2.acm
+f02414b92ed63b7d  Icewind Dale.iwd/Music/B4/B4e2.acm
+14133bee652d8cbf  Icewind Dale.iwd/Music/B4/B4endB1.acm
+9288f19f398311c0  Baldur's Gate.bg1/Music/Bf1/BF1endD.ACM
+acffd73ea02aa0fa  Icewind Dale.iwd/Music/B4/B4e4.acm
+5ff28ffdb1478418  Icewind Dale.iwd/Music/B4/B4endA1.acm
+a923b6a1922d7ec1  Baldur's Gate.bg1/Music/Bf1/BF1endE.ACM
+1cf4a66e1aba4266  Baldur's Gate.bg1/Music/Bf1/Bf1a1.ACM
+069d85f3221d4781  Baldur's Gate.bg1/Music/Bf1/Bf1a2.ACM
+bfeee5e84e02541b  Baldur's Gate.bg1/Music/Bf1/BF1endA.ACM
+2d65b6a7cc7958b4  Baldur's Gate.bg1/Music/Bf1/BF1endC.ACM
+c54e7927b20ac552  Baldur's Gate.bg1/Music/Bf1/BF1endB.ACM
+efde732b055bb5ce  Baldur's Gate.bg1/Music/Bf1/Bf1b2.ACM
+4e647835a4739d5b  Baldur's Gate.bg1/Music/Bf1/Bf1a3.ACM
+10225e614803566a  Baldur's Gate.bg1/Music/Bf1/Bf1d1.ACM
+99cbda80e92d609f  Baldur's Gate.bg1/Music/Bf1/Bf1b1.ACM
+8959a31f361f0662  Baldur's Gate.bg1/Music/Bf1/Bf1c1.ACM
+b9a227a688c9de8a  Baldur's Gate.bg1/Music/Bf1/Bf1e2.ACM
+9f7d722949e11b2f  Baldur's Gate.bg1/Music/Bf1/BF1endF.ACM
+bfad3a18f9170ff8  Baldur's Gate.bg1/Music/Bf1/BF1endG.ACM
+2ff41802dbfc45c5  Baldur's Gate.bg1/Music/Bf1/Bf1d2.ACM
+fbb26f20c2a64c80  Baldur's Gate.bg1/Music/Bf1/Bf1g2.ACM
+e630eec8cdf3a28a  Baldur's Gate.bg1/Music/Bf1/Bf1g3.ACM
+ccb2c801fb549c87  Baldur's Gate.bg1/Music/Bf1/Bf1g1.ACM
+3f595709054cba60  Baldur's Gate.bg1/Music/Bf1/Bf1f2.ACM
+e4939c8c3ab5f68f  Baldur's Gate.bg1/Music/Bf1/Bf1i1.ACM
+9251f3434534547e  Baldur's Gate.bg1/Music/Bf1/Bf1f3.ACM
+2bcc794c6876e4c0  Baldur's Gate.bg1/Music/Bf1/Bf1f1.ACM
+707760d2de745ca3  Baldur's Gate.bg1/Music/Bf1/Bf1h2.ACM
+251633d5f0342afb  Baldur's Gate.bg1/Music/Bf1/Bf1h1.ACM
+71a14a34c2eca475  Baldur's Gate.bg1/Music/Bf1/Bf1j1.ACM
+9ae80132368a03e5  Baldur's Gate.bg1/Music/Bf1/Bf1i2.ACM
+190acb7bbdfb7f41  Baldur's Gate.bg1/Music/Bf1/Bf1i3.ACM
+28dbde2a11685f3b  Baldur's Gate.bg1/Music/Bf1/Bf1j4.ACM
+29f779a47c5dfe98  Baldur's Gate.bg1/Music/Bf1/Bf1j3.ACM
+09831312d33a1cdd  Baldur's Gate.bg1/Music/Bf1/Bf1j2.ACM
+1e3f996eaae7008e  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_03.wav
+12f7d76561aac7e6  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_01.wav
+dd8db7b79aa9de0b  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_02.wav
+056b0d9dd67cd657  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_04.wav
+35826fadc3e2af9f  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_05.wav
+446510fb7f23b6b6  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_06.wav
+e582f760d2563888  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_09.wav
+5763956e716529f7  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_08.wav
+204b2436354b4aed  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_10.wav
+834ec6380a59e783  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_11.wav
+f62b0f486a39d831  Baldur's Gate.bg1/Music/Bf1/Bf1j5.ACM
+692c48c9b7a3a43f  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_16.wav
+df5ac84f59da195c  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_12.wav
+ad967fc661a91dcf  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_13.wav
+a721c7a919d98d34  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_17.wav
+b6bf3b0738a453a6  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_15.wav
+8e4de711bc00a8f5  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_18.wav
+4b18c22cff3a2ed3  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_23.wav
+2372d0a4b4525242  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_20.wav
+8c7d7d9c12c81404  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_14.wav
+f635557cfd3697bf  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_07.wav
+13d77463c0a6bb5e  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_21.wav
+d8b5d0a71e91c01d  Baldur's Gate.bg1/Music/Bf1/Bf1e1.ACM
+3876cbf6fe812c46  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_24.wav
+b0ac9983709b69a6  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_22.wav
+6e50ccf2d3d3f08e  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_26.wav
+966ee4827143e8dc  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_25.wav
+575780ee7bacea8c  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_27.wav
+2332b6224db87895  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_29.wav
+19b004632e9c684b  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_28.wav
+b078db9bcf49897c  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_31.wav
+15673fe409cc8036  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_33.wav
+0d78a0f63a1edbfa  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_32.wav
+0f833ec85537663e  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_19.wav
+09c8d4ca1a07d6f6  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_36.wav
+d1aa07ea1b8bbbdc  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_34.wav
+c251f9940193597b  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_39.wav
+bebe5809ba00e79c  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_35.wav
+af04c98cfda1cbfb  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_38.wav
+1e363dffdf18204e  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_37.wav
+e34963066e3a5cf0  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_40.wav
+00593c96e0ec74fd  Baldurs Gate 2.bg2/script compiler/ACTION.IDS
+9aa038da0dbd6971  Icewind Dale.iwd/Sounds/Female_Fighter_3/HeFF_30.wav
+aefe0d6c36ad38ca  media/marquee/Baldur's Gate.png
+80eafa88b900841c  Baldurs Gate 2.bg2/script compiler/Animate.ids
+4b470e4434f1606e  Baldurs Gate 2.bg2/script compiler/AStyles.ids
+e350bfd59e689914  media/marquee/Baldurs Gate 2.png
+0391e109c242d5b0  Baldurs Gate 2.bg2/script compiler/AreaType.IDS
+8dc0cc334fcd18a0  Baldurs Gate 2.bg2/script compiler/Align.ids
+b2a099d5a6f5660c  Baldurs Gate 2.bg2/script compiler/Alignment.ids
+9e47c621828bfc28  Baldurs Gate 2.bg2/script compiler/Boolean.ids
+d04b5c428b5ba2f5  Baldurs Gate 2.bg2/script compiler/Chase.ids
+78fb9db111db9bb6  Baldurs Gate 2.bg2/script compiler/Class.ids
+1691cbc8a50c11e7  Baldurs Gate 2.bg2/script compiler/DMGTYPE.IDS
+c6bd5b154a6e3d30  media/marquee/Icewind Dale.png
+0f419ed5f2e9c49c  Baldurs Gate 2.bg2/script compiler/DIFFLEV.IDS
+5f00fc098cc33408  Baldurs Gate 2.bg2/script compiler/EA.ids
+cd72081afce3e6bb  Baldurs Gate 2.bg2/script compiler/Compile.bat
+887576533fadea6b  Baldurs Gate 2.bg2/script compiler/Gender.ids
+b3f85888b42c7de5  Baldurs Gate 2.bg2/script compiler/Happy.ids
+63ad07ec966b1ee0  Baldurs Gate 2.bg2/script compiler/HatedRace.ids
+638acc767c286ae1  Baldurs Gate 2.bg2/script compiler/General.ids
+3312afcaafc18314  Baldurs Gate 2.bg2/script compiler/HotKey.ids
+b5ba978e287785a5  Baldurs Gate 2.bg2/script compiler/GTimes.ids
+c5cbbfa3e05666b9  Baldurs Gate 2.bg2/script compiler/KIT.IDS
+9f0b73b75dbe749d  Baldurs Gate 2.bg2/script compiler/INSTANT.IDS
+9d3ee64e4bd14577  Baldurs Gate 2.bg2/script compiler/Modal.IDS
+75bd2ffb786348a5  Baldurs Gate 2.bg2/script compiler/MusicList.IDS
+46f5482d4498434f  Baldurs Gate 2.bg2/script compiler/MFlags.ids
+eba120404f9a953d  Baldurs Gate 2.bg2/script compiler/NPC.ids
+386319dc2198c877  Baldurs Gate 2.bg2/script compiler/OBJECT.IDS
+0a32ef79fc22d4a8  Baldurs Gate 2.bg2/script compiler/Projectl.IDS
+db7508e56c45eef2  Baldurs Gate 2.bg2/script compiler/ProfType.IDS
+3bb88066c4e0bc25  Baldurs Gate 2.bg2/script compiler/SNDSLOT.IDS
+97529a5b66fe19aa  Baldurs Gate 2.bg2/script compiler/Reaction.ids
+af0647212df8c068  Baldurs Gate 2.bg2/script compiler/SVTRIOBJ.IDS
+eb14869759cd0cad  Baldurs Gate 2.bg2/script compiler/School.IDS
+d5fa8fb7cd879b6d  Baldurs Gate 2.bg2/script compiler/Scripting Quick Reference.doc
+a19c600efff4d37e  Baldurs Gate 2.bg2/script compiler/Scroll.ids
+6998f55140f56d78  Baldurs Gate 2.bg2/script compiler/SecType.IDS
+6360f5f3aa6441ce  Baldurs Gate 2.bg2/script compiler/Slots.ids
+835f45196f497905  Baldurs Gate 2.bg2/script compiler/Specific.ids
+d0ab5d7d75a0c5b4  Baldurs Gate 2.bg2/script compiler/characterkits.ids
+9ee9c384c4cfc53e  Baldurs Gate 2.bg2/script compiler/Spell.ids
+7f9b1fee7e51b18f  Baldurs Gate 2.bg2/script compiler/Stats.ids
+6174efb278f684be  Baldurs Gate 2.bg2/script compiler/Time.ids
+9b23e0b4616e1b49  Baldurs Gate 2.bg2/script compiler/TRIGGER.IDS
+ad68a6565e3d5d4e  Baldurs Gate 2.bg2/script compiler/TimeODay.ids
+6defc688b530fca6  Baldurs Gate 2.bg2/script compiler/damages.ids
+e4f8e078d25a29ee  Baldurs Gate 2.bg2/script compiler/jourType.IDS
+c19227024d92875c  Baldurs Gate 2.bg2/script compiler/nodecode.ids
+68f459894c2e31a6  Baldurs Gate 2.bg2/script compiler/scrlev.ids
+419d1cad1b22cfbf  Baldurs Gate 2.bg2/script compiler/state.ids
+f013b7975b45ca17  Baldurs Gate 2.bg2/script compiler/race.ids
+f030abd1970facbc  Baldur's Gate.bg1/Music/Bf2/Bf2a1.ACM
+59927c637d9f9098  Baldurs Gate 2.bg2/script compiler/soundOff.ids
+3c379b8d5137cbcd  Baldurs Gate 2.bg2/script compiler/weather.ids
+3161253b85728264  Baldur's Gate.bg1/Music/Bf2/Bf2a4.ACM
+407dbc8f47bbd1cf  Baldur's Gate.bg1/Music/Bf2/Bf2b2.ACM
+e9f6cb58719d5746  Baldur's Gate.bg1/Music/Bf2/Bf2b3.ACM
+50e7274b37347106  Baldur's Gate.bg1/Music/Bf2/Bf2a2.ACM
+517195dc3feb3abc  Baldur's Gate.bg1/Music/Bf2/Bf2b4.ACM
+5c6f3e557b62d6c2  Baldur's Gate.bg1/Music/Bf2/Bf2c2.ACM
+9099fde94a232b5c  Baldur's Gate.bg1/Music/Bf2/Bf2a3.ACM
+0ee8425a17f6773b  Baldur's Gate.bg1/Music/Bf2/Bf2c1.ACM
+08215006c6be5de9  Baldur's Gate.bg1/Music/Bf2/Bf2c3.ACM
+761a00301461833a  Baldur's Gate.bg1/Music/Bf2/Bf2d1.ACM
+2008c6af8f6e6324  Baldur's Gate.bg1/Music/Bf2/Bf2d2.ACM
+9256a00c68b0ed9d  Baldurs Gate 2.bg2/script compiler/AICompile.exe
+9bde0e7e1f903ee3  Baldur's Gate.bg1/Music/Bf2/Bf2d4.ACM
+0dbbddeb28baff16  Baldur's Gate.bg1/Music/Bf2/Bf2c4.ACM
+08d9df21a81988ee  Baldur's Gate.bg1/Music/Bf2/Bf2e1.ACM
+7f83ed462a6f8707  Baldur's Gate.bg1/Music/Bf2/Bf2enda3.ACM
+34004baafd2ccd12  Baldur's Gate.bg1/Music/Bf2/Bf2d3.ACM
+c7f6e6dc44664c59  Baldur's Gate.bg1/Music/Bf2/Bf2enda4.ACM
+3ca1526a7c0e53e0  Baldur's Gate.bg1/Music/Bf2/Bf2b1.ACM
+954862a627a654d2  Baldur's Gate.bg1/Music/Bf2/Bf2endc1.ACM
+708b43a53dc5211a  Baldur's Gate.bg1/Music/Bf2/Bf2e2.ACM
+6398fb99009e42b2  Baldur's Gate.bg1/Music/Bf2/Bf2endd2.ACM
+a4c2a8d3ec71dd6b  Baldur's Gate.bg1/Music/Bf2/Bf2endd1.ACM
+0e0432527468b8e6  Baldur's Gate.bg1/Music/Bf2/Bf2enda2.ACM
+c56d0775ca058762  Baldur's Gate.bg1/Music/Bf2/Bf2endf3.ACM
+64d861d3fda98f7f  Baldur's Gate.bg1/Music/Bf2/Bf2endf2.ACM
+449f7a447062b407  Baldur's Gate.bg1/Music/Bf2/Bf2enda1.ACM
+1d49894de28ee96a  Baldur's Gate.bg1/Music/Bf2/Bf2endg3.ACM
+c758441fc1a03a14  Baldur's Gate.bg1/Music/Bf2/Bf2endf1.ACM
+a4773bccd2001d0d  Baldur's Gate.bg1/Music/Bf2/Bf2f2.ACM
+e468156a71fef678  Baldur's Gate.bg1/Music/Bf2/Bf2endd4.ACM
+5cdc395bfb82b45b  Baldur's Gate.bg1/Music/Bf2/Bf2f4.ACM
+66c3235cb5a73e4e  Baldur's Gate.bg1/Music/Bf2/Bf2f3.ACM
+07adf1fe6c353648  Baldur's Gate.bg1/Music/Bf2/Bf2f1.ACM
+04c82f853bab02ef  Baldur's Gate.bg1/Music/Bf2/Bf2g1.ACM
+0b55790c90561626  Baldur's Gate.bg1/Music/Bf2/Bf2h1.ACM
+2527eb53bfa34304  Baldur's Gate.bg1/Music/Bf2/Bf2endg4.ACM
+fc9f719b250ee4ef  Baldur's Gate.bg1/Music/Bf2/Bf2h3.ACM
+bcec397ec883ac08  Baldur's Gate.bg1/Music/Bf2/Bf2g2.ACM
+8fd922f2f09e10f8  Baldur's Gate.bg1/Music/Bf2/Bf2g3.ACM
+5fa3192692264bf3  Baldur's Gate.bg1/Music/Bf2/Bf2g4.ACM
+f056c98afcfdfcb8  Baldur's Gate.bg1/Music/Bf2/Bf2h2.ACM
+53fec02a3c025ee7  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_01.wav
+0f820d4d0e4f8ff9  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_04.wav
+13f268c6350829e3  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_05.wav
+0d592d2e0204c729  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_03.wav
+818bcbaa5b2791f5  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_06.wav
+b8f08c411fdc94bd  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_07.wav
+707532ca65f0c450  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_10.wav
+5164c4185b97591c  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_11.wav
+45e7a9723b716f09  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_09.wav
+82bb5e46d7162ded  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_12.wav
+a0d6b4c1cab27f72  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_08.wav
+a35ee16ed725fb7d  Baldur's Gate.bg1/Music/Bf2/Bf2h4.ACM
+33819e8b377f7541  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_16.wav
+9eded49cd62aad16  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_14.wav
+4b0b89336d3429bc  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_15.wav
+d3b54618c5fa9a0a  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_17.wav
+bd6cd316333ca619  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_21.wav
+693a5a221a980747  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_20.wav
+e38683df6f285c56  Icewind Dale.iwd/Music/Theme/themea.acm
+164690a050adaf6a  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_23.wav
+863a2ba6b34cd082  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_13.wav
+bdb7c4dc12e719a9  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_19.wav
+50b8569c9e8e1d15  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_25.wav
+b931805aa2f14d20  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_24.wav
+5a7730e132bd1353  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_18.wav
+dff35a8eef62873d  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_27.wav
+3e380d4c63efc903  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_26.wav
+cbf7964f4e24064b  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_28.wav
+d4ebf4ae23eddfcb  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_02.wav
+a7240daf10313562  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_22.wav
+6c7de6ad30059a9f  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_29.wav
+26a75cff22e7d143  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_31.wav
+47ce9f527c35eedc  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_34.wav
+9229f69eeed031aa  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_33.wav
+5aa9fd7d7e9bbff3  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_30.wav
+19caa26b37945e01  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_32.wav
+529031d97aee45f4  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_35.wav
+758629237a361094  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_37.wav
+b38e25c707d2ea74  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_36.wav
+1f1f83f85b0702be  Baldurs Gate 2.bg2/music/BC1/BC1B1.acm
+4e124f5f8ea5ae8e  Baldurs Gate 2.bg2/music/BC1/BC1C1.acm
+0c68aa5a2438bc7d  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_40.wav
+51da649d36648e70  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_39.wav
+f42367a679880024  Icewind Dale.iwd/Sounds/Female_Fighter_4/HaFF_38.wav
+ce63d686168f9f0c  Baldurs Gate 2.bg2/music/BC1/BC1A1.acm
+a2a800bc6de95942  Baldurs Gate 2.bg2/music/BC1/BC1J1.acm
+a50aa15fc8d28acf  Baldurs Gate 2.bg2/music/BC1/BC1H1.acm
+f9818b5a287a326c  Baldurs Gate 2.bg2/music/BC1/BC1G1.acm
+c1a5f20fed6ec3e0  Baldurs Gate 2.bg2/music/BC1/BC1E2.acm
+2a37cf44e9b4eb20  Baldurs Gate 2.bg2/music/BC1/BC1E1.acm
+984b46987991d53e  Baldurs Gate 2.bg2/music/BC1/BC1ZA.acm
+a84b1c3c38d7699b  Baldurs Gate 2.bg2/music/BC1/BC1F1.acm
+2641471009ec97f1  Baldurs Gate 2.bg2/music/BC1/BC1D1.acm
+c47dc4193f4eb3e6  Baldurs Gate 2.bg2/music/BC1/BC1ZD.acm
+2f23d4ddf0bf73e3  Baldurs Gate 2.bg2/scripts/aGen.bs
+d887c3157ce7c024  Baldurs Gate 2.bg2/music/BC1/BC1ZJ.acm
+592258c8da81691d  Baldurs Gate 2.bg2/music/BC1/BC1ZG.acm
+973cfa54e4bcd848  media/thumbnails/Baldur's Gate.png
+1b70e6bb1978a5d8  Baldurs Gate 2.bg2/scripts/arang.bs
+ccd257f0dc02964b  Baldurs Gate 2.bg2/music/BC1/BC1ZH.acm
+fd26e7347c04e523  Baldurs Gate 2.bg2/scripts/cautious.bs
+2a917b05820f6f27  Baldurs Gate 2.bg2/scripts/cleric1.bs
+e53222d3c50f72a2  Baldurs Gate 2.bg2/scripts/cleric2.bs
+5a84c113e13c4c45  Baldurs Gate 2.bg2/scripts/default.bs
+57fdac5ca8e5b54f  Baldurs Gate 2.bg2/scripts/cleric3.bs
+c1ee1618723561a8  Baldurs Gate 2.bg2/scripts/cleric4.bs
+25e157708f8b577e  Baldurs Gate 2.bg2/scripts/apass.bs
+0c98492d1b4ea3c3  Baldurs Gate 2.bg2/scripts/control.bs
+f08721509474d134  Baldurs Gate 2.bg2/scripts/fighter1.bs
+b5d331391ecf5e0e  Baldurs Gate 2.bg2/scripts/fighter3.bs
+c6092eb32a4590b7  Baldurs Gate 2.bg2/scripts/fighter4.bs
+3406da141f99b2d2  Baldurs Gate 2.bg2/scripts/fighter2.bs
+6ee24865ef8933b7  media/thumbnails/Baldurs Gate 2.png
+63ce44cba59b904b  Baldurs Gate 2.bg2/scripts/mage1.bs
+51c586d9e1dcc58e  media/thumbnails/Icewind Dale.png
+8d6536cd8fee2140  Baldurs Gate 2.bg2/scripts/none.bs
+3b28e0cb482485cc  Baldurs Gate 2.bg2/scripts/mage4.bs
+7fb5b54b370a607f  Baldurs Gate 2.bg2/scripts/thief1.bs
+d8e25b98fdb17b8b  Baldurs Gate 2.bg2/scripts/thief2.bs
+4b898198ccdaeed0  Baldurs Gate 2.bg2/scripts/mage3.bs
+6c275559ce1eb88b  Baldurs Gate 2.bg2/scripts/mage2.bs
+6dba2a61929df5de  Baldurs Gate 2.bg2/scripts/thief3.bs
+0808cd038648a66d  Baldur's Gate.bg1/Music/Bl1/Bl1a1.ACM
+70f330138a0ac8f3  Baldur's Gate.bg1/Music/Bl1/Bl1a3.ACM
+34e6be3e3c8240b2  Baldur's Gate.bg1/Music/Bl1/Bl1b1.ACM
+07e7375a004ccf37  Baldurs Gate 2.bg2/scripts/thief4.bs
+3c9635c94ef96ded  Baldur's Gate.bg1/Music/Bl1/Bl1b3.ACM
+00059b007abe68e3  Baldur's Gate.bg1/Music/Bl1/Bl1a4.ACM
+f913f15684e87143  Baldur's Gate.bg1/Music/Bl1/Bl1c1.ACM
+772d80169e6746e9  Baldur's Gate.bg1/Music/Bl1/Bl1b4.ACM
+1124b93eab9f6f01  Baldur's Gate.bg1/Music/Bl1/Bl1b2.ACM
+bacf1bf90365651d  Baldur's Gate.bg1/Music/Bl1/Bl1c2.ACM
+20585531708212bc  Baldur's Gate.bg1/Music/Bl1/Bl1c3.ACM
+1b0dbfb9ae9fded5  Baldur's Gate.bg1/Music/Bl1/Bl1c4.ACM
+29850d41ecc872e2  Baldur's Gate.bg1/Music/Bl1/Bl1d2.ACM
+28fd870dba84bcef  Baldur's Gate.bg1/Music/Bl1/Bl1e2.ACM
+a2121c6bbfcd7450  Baldur's Gate.bg1/Music/Bl1/Bl1d1.ACM
+2fce6a59ff82e299  Baldur's Gate.bg1/Music/Bl1/Bl1e1.ACM
+23e14b969c56993a  Baldur's Gate.bg1/Music/Bl1/Bl1d3.ACM
+30fc9b426d590576  Baldur's Gate.bg1/Music/Bl1/Bl1enda1.ACM
+1d49894de28ee96a  Baldur's Gate.bg1/Music/Bl1/Bl1enda4.ACM
+6f7c504a5ee4280b  Baldur's Gate.bg1/Music/Bl1/Bl1e3.ACM
+a5ab1d86b34ab2f0  Baldur's Gate.bg1/Music/Bl1/Bl1e4a.ACM
+1eb13602e489fb4e  Baldur's Gate.bg1/Music/Bl1/Bl1endb1.ACM
+bcf529295cc60ef4  Baldur's Gate.bg1/Music/Bl1/Bl1endc1.ACM
+d5bd27887c984c89  Baldur's Gate.bg1/Music/Bl1/Bl1endb2.ACM
+8e4150bd53e5ea79  Baldur's Gate.bg1/Music/Bl1/Bl1endb3.ACM
+a13001a17acec215  Baldur's Gate.bg1/Music/Bl1/Bl1f1a.ACM
+68b2ffc6f50c3de3  Baldur's Gate.bg1/Music/Bl1/Bl1f2.ACM
+acbf958e997c0205  Baldur's Gate.bg1/Music/Bl1/Bl1g1.ACM
+71acf8a96a764b83  Baldur's Gate.bg1/Music/Bl1/Bl1ende4.ACM
+e0698cc0f27e6ca3  Baldur's Gate.bg1/Music/Bl1/Bl1f4.ACM
+04a0add61bdcd843  Baldur's Gate.bg1/Music/Bl1/Bl1f3.ACM
+b8cbf9c5a7afc0f4  Baldur's Gate.bg1/Music/Bl1/Bl1g2.ACM
+0ce353919a3801f1  Baldur's Gate.bg1/Music/Bl1/Bl1g3.ACM
+2418aa4835bbe891  Baldur's Gate.bg1/Music/Bl1/Bl1h2.ACM
+dfbeee0234d3ae1c  Baldur's Gate.bg1/Music/Bl1/Bl1h1.ACM
+de2e6a06f784536d  Baldurs Gate 2.bg2/music/BC2/BC2A1.acm
+a9951a9676fe2d80  Baldurs Gate 2.bg2/music/BC2/BC2C1.acm
+dbcd83010d646c37  Icewind Dale.iwd/Music/chap0/chap0A.acm
+bb0cc608aff901d4  Baldurs Gate 2.bg2/music/BC2/BC2A2.acm
+f805c8a20d01d544  Baldur's Gate.bg1/Music/Bl1/Bl1xa4.ACM
+0dddf16348fd9d64  Baldurs Gate 2.bg2/music/BC2/BC2G1.acm
+9b3b9d9e76efc654  Baldurs Gate 2.bg2/music/BC2/BC2J1.acm
+629f6745a3fb83f4  Baldurs Gate 2.bg2/music/BC2/BC2H1.acm
+7a3c46424af240d8  Baldurs Gate 2.bg2/music/BC2/BC2B1.acm
+9f9c40fe3260847e  Baldurs Gate 2.bg2/music/BC2/BC2E1.acm
+b294004f4ae328b7  Baldurs Gate 2.bg2/music/BC2/BC2D1.acm
+593043f414d6375c  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_01.wav
+e951d4a67a2c6086  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_03.wav
+8e86f2156fe44832  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_02.wav
+f005689a8f01b9b0  Baldurs Gate 2.bg2/music/BC2/BC2K1.acm
+a0c3c6690fb68206  Baldurs Gate 2.bg2/music/BC2/BC2Z.acm
+bb306fe664a8991a  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_04.wav
+2e0bfb57cd261c70  media/videos/Baldur's Gate.mp4
+f562a65bdb642617  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_05.wav
+a67d4d653a90ddcf  Baldurs Gate 2.bg2/music/BC2/BC2F1.acm
+06450a6b980f89ce  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_06.wav
+0719381c1ea2f79d  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_08.wav
+25c87dfe3a51db31  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_11.wav
+669f926a0cfd08a3  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_09.wav
+35ba130ecdc3035a  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_15.wav
+2c3e02084b5205d6  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_12.wav
+232caf528240f5f0  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_14.wav
+70b4725b2f80263f  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_17.wav
+be0fdc69544a6870  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_13.wav
+c79c187c95a875e3  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_19.wav
+acc0211be6b5edec  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_07.wav
+c85d52a5a673b18b  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_20.wav
+f88d3901ff906661  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_21.wav
+1f74f66d0d2c905d  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_10.wav
+676aa71d9be9d4e0  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_18.wav
+5f3718be5725df32  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_16.wav
+15c33cbf9c24bb78  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_24.wav
+cd65d5b6e9f7fb78  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_27.wav
+d309403d7112997e  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_28.wav
+14ded4e16a671ad0  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_26.wav
+06bf7cc7f56372f1  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_22.wav
+026dd50eead6e012  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_23.wav
+84e0391921a4293a  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_29.wav
+1e9c1bdcdb75ec32  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_30.wav
+fa3cb9bc9a3d2cef  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_31.wav
+137b3190db4b2a13  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_34.wav
+17de6286c9e332f4  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_33.wav
+8d150d7fe9a72364  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_35.wav
+8390c9d02232b58b  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_32.wav
+0e71c27cdb034680  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_36.wav
+e527dc985d0e92f0  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_39.wav
+424d020a7ce2dad4  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_25.wav
+5feeee27e096c56b  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_37.wav
+0021908653729c61  Baldurs Gate 2.bg2/sounds/Female11.wav
+02a45ded13e402b2  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_38.wav
+a634c4afd5217e3e  Icewind Dale.iwd/Sounds/Female_Fighter_5/HFF_40.wav
+f7b044c589e02a3d  Baldurs Gate 2.bg2/sounds/Female12.wav
+a019c7bd3c6c8a72  Baldurs Gate 2.bg2/sounds/Female10.wav
+c81fe804f7002e27  Baldurs Gate 2.bg2/sounds/Female13.wav
+0bb68499fae168ac  Baldurs Gate 2.bg2/sounds/Female19.wav
+cb08f94518c8d02a  Baldurs Gate 2.bg2/sounds/Female17.wav
+a4e1003426d4dc23  Baldurs Gate 2.bg2/sounds/Female14.wav
+961dbc2a0c1e495c  Baldurs Gate 2.bg2/sounds/Female15.wav
+2334e3c483a9c50b  Baldurs Gate 2.bg2/sounds/Female16.wav
+451248ea65a2cc70  Baldurs Gate 2.bg2/sounds/Female18.wav
+f8abba69906dfca5  Baldurs Gate 2.bg2/sounds/Female1_.wav
+2913d4a585f823e0  Baldurs Gate 2.bg2/sounds/Female1d.wav
+57330877ee197262  Baldurs Gate 2.bg2/sounds/Female1e.wav
+0f7f1c768cf8fdff  Baldurs Gate 2.bg2/sounds/Female1c.wav
+4a9fc7f7527f76ba  Baldurs Gate 2.bg2/sounds/Female1b.wav
+6eb99694e52a2f12  Baldurs Gate 2.bg2/sounds/Female1g.wav
+b734273b719f7610  Baldurs Gate 2.bg2/sounds/Female1h.wav
+2c74cc41f96a78b9  Baldurs Gate 2.bg2/sounds/Female1i.wav
+b625b6b6cfbbf674  Baldurs Gate 2.bg2/sounds/Female1j.wav
+e25db62d17a629ff  Baldurs Gate 2.bg2/sounds/Female1a.wav
+a0c28c3db6928e06  Baldurs Gate 2.bg2/sounds/Female1k.wav
+f8ad6c241862ba92  Baldurs Gate 2.bg2/sounds/Female1m.wav
+b2f65ddb1671e04f  Baldurs Gate 2.bg2/sounds/Female1s.wav
+753640e9f12548a2  Baldurs Gate 2.bg2/sounds/Female1f.wav
+6ecac369d9bbcbe6  Baldurs Gate 2.bg2/sounds/Female1l.wav
+75de239d8e3e8a9c  Baldurs Gate 2.bg2/sounds/Female1t.wav
+c1d0cfbed6a9b4ad  Baldurs Gate 2.bg2/sounds/Female1y.wav
+214bd88e973fd518  Baldurs Gate 2.bg2/sounds/Female1z.wav
+f5ec92d782a76a8c  Baldurs Gate 2.bg2/sounds/Female1v.wav
+812e50d73dccde69  Baldurs Gate 2.bg2/sounds/Female20.wav
+44d51eda71ae1672  Baldurs Gate 2.bg2/sounds/Female1x.wav
+6be18aeca806e8c2  Baldurs Gate 2.bg2/sounds/Female1u.wav
+c8906792b227724d  Baldurs Gate 2.bg2/sounds/Female21.wav
+76a4d3ae509e4d99  Baldurs Gate 2.bg2/sounds/Female22.wav
+e85d5d95820804e8  Baldurs Gate 2.bg2/sounds/Female23.wav
+f7dd7e7603b60249  Baldurs Gate 2.bg2/sounds/Female27.wav
+ec197f5e196def4d  Baldurs Gate 2.bg2/sounds/Female26.wav
+d9cf9949f57ce9f0  Baldurs Gate 2.bg2/sounds/Female24.wav
+fe96a4345dc38dce  Baldurs Gate 2.bg2/sounds/Female25.wav
+168450acb9d99bd0  Baldurs Gate 2.bg2/sounds/Female28.wav
+2c98bb3da1ab8d5f  Baldurs Gate 2.bg2/sounds/Female2c.wav
+f8d6a240b7453ed7  Baldurs Gate 2.bg2/sounds/Female2b.wav
+6cc632fad48f7c58  Baldurs Gate 2.bg2/sounds/Female2a.wav
+11512d40778c01e9  Baldurs Gate 2.bg2/sounds/Female29.wav
+7e0948b866833169  Baldurs Gate 2.bg2/sounds/Female2e.wav
+67144ac8dccae676  Baldurs Gate 2.bg2/sounds/Female2f.wav
+3be37891a03a88b3  Baldurs Gate 2.bg2/sounds/Female2d.wav
+0d0feecc103a6a63  Baldurs Gate 2.bg2/sounds/Female2_.wav
+52e78a4818cfdeb1  Baldurs Gate 2.bg2/sounds/Female2l.wav
+59b1a1d7639d9ed2  Baldurs Gate 2.bg2/sounds/Female2j.wav
+89ada04cde827c35  Baldurs Gate 2.bg2/sounds/Female2i.wav
+b5c53ac5e914616a  Baldurs Gate 2.bg2/sounds/Female2h.wav
+fe0b9bda159f540d  Baldurs Gate 2.bg2/sounds/Female2g.wav
+5e4a20bc9c5811d2  Baldurs Gate 2.bg2/sounds/Female2m.wav
+5f65ade29e9a5473  Baldurs Gate 2.bg2/sounds/Female2u.wav
+6ab05f992b2380d4  Baldurs Gate 2.bg2/sounds/Female2y.wav
+fe68f39c73c3b19b  Baldurs Gate 2.bg2/sounds/Female2x.wav
+1597fe7eec9ffcda  Baldurs Gate 2.bg2/sounds/Female2z.wav
+df423fc96fda7b36  Baldurs Gate 2.bg2/sounds/Female30.wav
+1c66ba5ae0b71916  Baldurs Gate 2.bg2/sounds/Female2s.wav
+bd3612c1c28c35c9  Baldurs Gate 2.bg2/sounds/Female31.wav
+778fd248e8cd59a0  Baldurs Gate 2.bg2/sounds/Female2v.wav
+cecdee9867dbbfd9  Baldurs Gate 2.bg2/sounds/Female2k.wav
+ff01ae58c91c67df  Baldurs Gate 2.bg2/sounds/Female33.wav
+041e77a7a186527c  Baldurs Gate 2.bg2/sounds/Female35.wav
+831cd51c4a6aed21  Baldurs Gate 2.bg2/sounds/Female34.wav
+6442a750517915a8  Baldurs Gate 2.bg2/sounds/Female2t.wav
+75b126a70c34026c  Baldurs Gate 2.bg2/sounds/Female37.wav
+57c6c166f49d56da  Baldurs Gate 2.bg2/sounds/Female38.wav
+c469cf18d8c03dd5  Baldurs Gate 2.bg2/sounds/Female3a.wav
+29b06965fde82e52  Baldurs Gate 2.bg2/sounds/Female39.wav
+455b43b3cf13da7d  Baldurs Gate 2.bg2/sounds/Female32.wav
+4a4625f6fb30de7f  Baldurs Gate 2.bg2/sounds/Female36.wav
+3ad32bf7537b14e4  Baldurs Gate 2.bg2/sounds/Female3e.wav
+033246aa57d8732b  Baldurs Gate 2.bg2/sounds/Female3b.wav
+b29850519d75fa8f  Baldurs Gate 2.bg2/sounds/Female3c.wav
+80ed6ed1c44ba19c  Baldurs Gate 2.bg2/sounds/Female3f.wav
+658d1ff9b4f33fb5  Baldurs Gate 2.bg2/sounds/Female3_.wav
+bb7cc1e1c8e30b97  Baldurs Gate 2.bg2/sounds/Female3j.wav
+2e3bdade2419559f  Baldurs Gate 2.bg2/sounds/Female3i.wav
+382593f45b926799  Baldurs Gate 2.bg2/sounds/Female3k.wav
+272a630a4cd1ce92  Baldurs Gate 2.bg2/sounds/Female3h.wav
+5f00dd0d860e7adf  Baldurs Gate 2.bg2/sounds/Female3d.wav
+5ebb2b087e5c29b7  Baldurs Gate 2.bg2/sounds/Female3l.wav
+2496f536f2e48cb9  Baldurs Gate 2.bg2/sounds/Female3g.wav
+f75faa09eee12797  Baldurs Gate 2.bg2/sounds/Female3v.wav
+11d746832648ce11  Baldurs Gate 2.bg2/sounds/Female3s.wav
+f396ac4bbcb51c0c  Baldurs Gate 2.bg2/sounds/Female3u.wav
+f67f0855775015ca  Baldurs Gate 2.bg2/sounds/Female3m.wav
+f8d4d84dca72f2ed  Baldurs Gate 2.bg2/sounds/Female3y.wav
+ce54526448f949c7  Baldurs Gate 2.bg2/sounds/Female3t.wav
+5dbb6dcaef72bea2  Baldurs Gate 2.bg2/sounds/Female3x.wav
+2039cc1d30e0f2a1  Baldurs Gate 2.bg2/sounds/Female41.wav
+e673f2165ceef477  Baldurs Gate 2.bg2/sounds/Female43.wav
+1f21f1de98c5e6c9  Baldurs Gate 2.bg2/sounds/Female3z.wav
+96349e813fa7821e  Baldurs Gate 2.bg2/sounds/Female44.wav
+73ba6038373e228f  Baldurs Gate 2.bg2/sounds/Female42.wav
+df8da9377ab7536d  Baldurs Gate 2.bg2/sounds/Female40.wav
+3997338a1a21104e  Baldurs Gate 2.bg2/sounds/Female45.wav
+a4903e9f09a55f88  Baldurs Gate 2.bg2/sounds/Female49.wav
+300f28073ce8c61b  Baldurs Gate 2.bg2/sounds/Female46.wav
+ceef1e86dab01238  Baldurs Gate 2.bg2/sounds/Female48.wav
+96808856f124e38f  Baldurs Gate 2.bg2/sounds/Female4a.wav
+1644022a8c61898c  Baldurs Gate 2.bg2/sounds/Female47.wav
+d99f303e4af9c681  Baldurs Gate 2.bg2/sounds/Female4_.wav
+0996a859458f7e81  Baldurs Gate 2.bg2/sounds/Female4d.wav
+1c1aa67683b4087b  Baldurs Gate 2.bg2/sounds/Female4f.wav
+9c32056c03820f7e  Baldurs Gate 2.bg2/sounds/Female4c.wav
+ba87188c0a33d991  Baldurs Gate 2.bg2/sounds/Female4e.wav
+d3193dedef0143e6  Baldurs Gate 2.bg2/sounds/Female4i.wav
+eb23682de66be713  Baldurs Gate 2.bg2/sounds/Female4h.wav
+b1531c9c90a0ddc1  Baldurs Gate 2.bg2/sounds/Female4g.wav
+1df584cc1576e935  Baldurs Gate 2.bg2/sounds/Female4l.wav
+d0cf7dee7fd8fa89  Baldurs Gate 2.bg2/sounds/Female4k.wav
+cb318066beb9bf6c  Baldurs Gate 2.bg2/sounds/Female4b.wav
+1075cb2b11805418  Baldurs Gate 2.bg2/sounds/Female4m.wav
+83e79f1b3517fef0  Baldurs Gate 2.bg2/sounds/Female4s.wav
+eb6050fd24a63aa0  Baldurs Gate 2.bg2/sounds/Female4j.wav
+c80c257ecaab41ff  Baldurs Gate 2.bg2/sounds/Female4t.wav
+575bebb5692cfe9e  Baldurs Gate 2.bg2/sounds/Female4x.wav
+4298dc08067565a3  Baldurs Gate 2.bg2/sounds/Female4z.wav
+7ed61506f9369afa  Baldurs Gate 2.bg2/sounds/Male0010.wav
+9dd97db7c962a4f9  Baldurs Gate 2.bg2/sounds/Female4y.wav
+38113ae7e300b3d9  Baldurs Gate 2.bg2/sounds/Male0011.wav
+a9902244d646ca2a  Baldurs Gate 2.bg2/sounds/Female4v.wav
+ffb6c7a7214e9dc4  Baldurs Gate 2.bg2/sounds/Female4u.wav
+727360cfcf92a817  Baldurs Gate 2.bg2/sounds/Male0012.wav
+2ea487d853d8f58d  Baldurs Gate 2.bg2/sounds/Male0014.wav
+2eb4fb7d70cd0811  Baldurs Gate 2.bg2/sounds/Male0015.wav
+da41c23c2bd33ac5  Baldurs Gate 2.bg2/sounds/Male0013.wav
+19fc37e0aad9b39f  Baldurs Gate 2.bg2/sounds/Male0016.wav
+dd794722b2bb6866  Baldurs Gate 2.bg2/sounds/Male0018.wav
+57f5e9058d88d654  Baldurs Gate 2.bg2/sounds/Male0017.wav
+dca884fe2134db8e  Baldurs Gate 2.bg2/sounds/Male0019.wav
+e5fe5bd39ec30a07  Baldurs Gate 2.bg2/sounds/Male001a.wav
+b8299a82a5c0f86f  Baldurs Gate 2.bg2/sounds/Male001b.wav
+a11349d184d001d8  Baldurs Gate 2.bg2/sounds/Male001e.wav
+bbdd4e17d6a287aa  Baldurs Gate 2.bg2/sounds/Male001f.wav
+8051b56df1642131  Baldurs Gate 2.bg2/sounds/Male001g.wav
+281a5a3dc2b30d4a  Baldurs Gate 2.bg2/sounds/Male001i.wav
+d44b3f70c4578e11  Baldurs Gate 2.bg2/sounds/Male001_.wav
+152f363d1fa12040  Baldurs Gate 2.bg2/sounds/Male001h.wav
+10e122ad78b996cb  Baldurs Gate 2.bg2/sounds/Male001d.wav
+4a6c6d587b2a243a  Baldurs Gate 2.bg2/sounds/Male001c.wav
+3c486473ef88ba49  Baldurs Gate 2.bg2/sounds/Male001t.wav
+397c3be3c9740d15  Baldurs Gate 2.bg2/sounds/Male001s.wav
+1668dc7715558ebb  Baldurs Gate 2.bg2/sounds/Male001v.wav
+38b7890a79db8369  Baldurs Gate 2.bg2/sounds/Male001l.wav
+d3300a00dddb4665  Baldurs Gate 2.bg2/sounds/Male001m.wav
+32ffd7eaf9a116a9  Baldurs Gate 2.bg2/sounds/Male001u.wav
+363b07c077ad983a  Baldurs Gate 2.bg2/sounds/Male001k.wav
+0b0e527be963261c  Baldurs Gate 2.bg2/sounds/Male001j.wav
+a28dc144c672263e  Baldurs Gate 2.bg2/sounds/Male001x.wav
+7ae928f59f96696b  Baldurs Gate 2.bg2/sounds/Male0021.wav
+aa4c1129d6271ded  Baldurs Gate 2.bg2/sounds/Male001y.wav
+38d95638d5bc7e05  Baldurs Gate 2.bg2/sounds/Male0023.wav
+3afa417ec4d898f8  Baldurs Gate 2.bg2/sounds/Male001z.wav
+60d9a506003e4e1b  Baldurs Gate 2.bg2/sounds/Male0024.wav
+1a42005c35a42257  Baldurs Gate 2.bg2/sounds/Male0022.wav
+d22497dec128f043  Baldurs Gate 2.bg2/sounds/Male0026.wav
+d6544e04f4f8b004  Baldurs Gate 2.bg2/sounds/Male0027.wav
+4f1b61c269700f84  Baldurs Gate 2.bg2/sounds/Male0028.wav
+826da2e5885b4a9e  Baldurs Gate 2.bg2/sounds/Male002a.wav
+6eca25ea4bdecfac  Baldurs Gate 2.bg2/sounds/Male002_.wav
+bc6f97148c7a9642  Baldurs Gate 2.bg2/sounds/Male0029.wav
+4c0c1be2985b4ad2  Baldurs Gate 2.bg2/sounds/Male002b.wav
+31a48aab4a1cf8ab  Baldurs Gate 2.bg2/sounds/Male0025.wav
+1ae6858725b2d116  Baldurs Gate 2.bg2/sounds/Male002d.wav
+278072878510bacc  Baldurs Gate 2.bg2/sounds/Male002g.wav
+1aca75fcfe7976ea  Baldurs Gate 2.bg2/sounds/Male002h.wav
+f0be7f95cc6fa85d  Baldurs Gate 2.bg2/sounds/Male002f.wav
+8985f1f47f1d4359  Baldurs Gate 2.bg2/sounds/Male002c.wav
+bac05b07a66c2ee4  Baldurs Gate 2.bg2/sounds/Male002e.wav
+bf96b26a7e2f68e2  Baldurs Gate 2.bg2/sounds/Male002j.wav
+55d7a7719882f8f9  Baldurs Gate 2.bg2/sounds/Male002k.wav
+b358d348aedd5d19  Baldurs Gate 2.bg2/sounds/Male002i.wav
+83d951e8dc3cad5a  Baldurs Gate 2.bg2/sounds/Male002m.wav
+b7e694562d578514  Baldurs Gate 2.bg2/sounds/Male002l.wav
+c3f381d98505e205  Baldurs Gate 2.bg2/sounds/Male002s.wav
+fdfecef13200d129  Baldurs Gate 2.bg2/sounds/Male002t.wav
+d440345c532efd23  Baldurs Gate 2.bg2/sounds/Male002z.wav
+e554b5893f127142  Baldurs Gate 2.bg2/sounds/Male002u.wav
+f6bc266a08567cfe  Baldurs Gate 2.bg2/sounds/Male002x.wav
+48e6686ca21ea2e5  Baldurs Gate 2.bg2/sounds/Male002v.wav
+32aee1e895afa8c0  Baldurs Gate 2.bg2/sounds/Male002y.wav
+6fac0ac78795425c  Baldurs Gate 2.bg2/sounds/Male0030.wav
+8601ee83df361727  Baldurs Gate 2.bg2/sounds/Male0031.wav
+a05268b5e8f92753  Baldurs Gate 2.bg2/sounds/Male0033.wav
+3da54bb0d35c40f9  Baldurs Gate 2.bg2/sounds/Male0034.wav
+16c7be8c1bdaffff  Baldurs Gate 2.bg2/sounds/Male0036.wav
+f5daf4ac3a66b74a  Baldurs Gate 2.bg2/sounds/Male0037.wav
+cc338f11d83d95ad  Baldurs Gate 2.bg2/sounds/Male0035.wav
+9a37656fdcc69090  Baldurs Gate 2.bg2/sounds/Male0032.wav
+1dffbe5bee02ffeb  Baldurs Gate 2.bg2/sounds/Male0039.wav
+d010e6fd8a5817db  Baldurs Gate 2.bg2/sounds/Male003_.wav
+adb47651a3b7334c  Baldurs Gate 2.bg2/sounds/Male003a.wav
+a7fddc49f6e3819b  Baldurs Gate 2.bg2/sounds/Male003b.wav
+97c7856f29ff57b0  Baldurs Gate 2.bg2/sounds/Male003d.wav
+231928ba8e7f3ce6  Baldurs Gate 2.bg2/sounds/Male003c.wav
+604fb076844be5f2  Baldurs Gate 2.bg2/sounds/Male003e.wav
+e00fe993ba0078f9  Baldurs Gate 2.bg2/sounds/Male0038.wav
+d8ee4f54a36fb5b8  Baldurs Gate 2.bg2/sounds/Male003f.wav
+bc7446201a17625e  Baldurs Gate 2.bg2/sounds/Male003g.wav
+0b27ee241e2aae3a  Baldurs Gate 2.bg2/sounds/Male003h.wav
+e0779ef2fe06d615  Baldurs Gate 2.bg2/sounds/Male003j.wav
+ec363754ed80b61a  Baldurs Gate 2.bg2/sounds/Male003i.wav
+1c73ccba5a51e57c  Baldurs Gate 2.bg2/sounds/Male003k.wav
+5ae1902bf419d7d9  Baldurs Gate 2.bg2/sounds/Male003l.wav
+7fe7872694c7faec  Baldurs Gate 2.bg2/sounds/Male003s.wav
+9ab191da93862516  Baldurs Gate 2.bg2/sounds/Male003t.wav
+e487a72d0e9393ef  Baldurs Gate 2.bg2/sounds/Male003u.wav
+42c1c4d54d899677  Baldurs Gate 2.bg2/sounds/Male003v.wav
+a10905640a9c01cf  Baldurs Gate 2.bg2/sounds/Male003m.wav
+cc699c9d28f221e9  Baldurs Gate 2.bg2/sounds/Male003y.wav
+3bddc05477da9c94  Baldurs Gate 2.bg2/sounds/Male0040.wav
+0d697b753c90952f  Baldurs Gate 2.bg2/sounds/Male003z.wav
+51f53cb963fd3cc6  Baldurs Gate 2.bg2/sounds/Male0041.wav
+3c39264c08ada2e0  Baldurs Gate 2.bg2/sounds/Male0042.wav
+e65d634374a08418  Baldurs Gate 2.bg2/sounds/Male003x.wav
+94ed657e58739813  Baldurs Gate 2.bg2/sounds/Male0043.wav
+819c4d38918afb1d  Baldurs Gate 2.bg2/sounds/Male0044.wav
+70a85e1f0fc273a1  Baldurs Gate 2.bg2/sounds/Male0045.wav
+5c741f477b8c1033  Baldurs Gate 2.bg2/sounds/Male0048.wav
+68dbec79a5e41f17  Baldurs Gate 2.bg2/sounds/Male0046.wav
+2629ef14963bc992  Baldurs Gate 2.bg2/sounds/Male0047.wav
+4b5cd24bcb484916  Baldurs Gate 2.bg2/sounds/Male0049.wav
+8100783e21eb8c44  Baldurs Gate 2.bg2/sounds/Male004a.wav
+043e1b0dc48fc3f1  Baldurs Gate 2.bg2/sounds/Male004_.wav
+a7eb862d5af8c429  Baldurs Gate 2.bg2/sounds/Male004b.wav
+300806eec15f89dc  Baldurs Gate 2.bg2/sounds/Male004d.wav
+bb85f40b39f897d4  Baldurs Gate 2.bg2/sounds/Male004f.wav
+8628ddc4c9c0f093  Baldurs Gate 2.bg2/sounds/Male004h.wav
+c236f22a44faf2b0  Baldurs Gate 2.bg2/sounds/Male004i.wav
+833cd78c9ed2c991  Baldurs Gate 2.bg2/sounds/Male004c.wav
+4a77814a76320640  Baldurs Gate 2.bg2/sounds/Male004j.wav
+f3ee254df2617658  Baldurs Gate 2.bg2/sounds/Male004g.wav
+6b1edbd64c42fe7a  Baldurs Gate 2.bg2/sounds/Male0020.wav
+c0eec5b10bcad6fb  Baldurs Gate 2.bg2/sounds/Male004m.wav
+88615ea75dfcae02  Baldurs Gate 2.bg2/sounds/Male004k.wav
+02c72b4e2582b97a  Baldurs Gate 2.bg2/sounds/Male004l.wav
+5752209e85193269  Baldurs Gate 2.bg2/sounds/Male004e.wav
+f761497ad650689f  Baldurs Gate 2.bg2/sounds/Male004v.wav
+e31220b7df8f6faf  Baldurs Gate 2.bg2/sounds/Male004x.wav
+a00ae65b7f73d1e2  Baldurs Gate 2.bg2/sounds/Male004y.wav
+fee4c5eace76c51b  Baldurs Gate 2.bg2/sounds/Male004z.wav
+73945164fbbf76f9  Baldurs Gate 2.bg2/sounds/Male004t.wav
+a189722d04a18e41  Baldurs Gate 2.bg2/sounds/Male0050.wav
+8d5f179457d4db35  Baldurs Gate 2.bg2/sounds/Male004s.wav
+d230c4c877b75efe  Baldurs Gate 2.bg2/sounds/Male0051.wav
+fa41e1fe54aba37f  Baldurs Gate 2.bg2/sounds/Male0052.wav
+cae7050cc1c82d2c  Baldurs Gate 2.bg2/sounds/Male004u.wav
+8f82d4b9cb404571  Baldurs Gate 2.bg2/sounds/Male0055.wav
+016948d359d6afd8  Baldurs Gate 2.bg2/sounds/Male0056.wav
+846f899143da177a  Baldurs Gate 2.bg2/sounds/Male0059.wav
+2bafe4c4cdaa655d  Baldurs Gate 2.bg2/sounds/Male0054.wav
+3de94563bbcac9b5  Baldurs Gate 2.bg2/sounds/Male0058.wav
+5e24e5af0c5c1a77  Baldurs Gate 2.bg2/sounds/Male0053.wav
+e329b94218fbf84a  Baldurs Gate 2.bg2/sounds/Male0057.wav
+c569cb2dd355897a  Baldurs Gate 2.bg2/sounds/Male005b.wav
+d06751d260fb6b15  Baldurs Gate 2.bg2/sounds/Male005f.wav
+2388b4a06450f4e3  Baldurs Gate 2.bg2/sounds/Male005d.wav
+21b8ea6869abb23e  Baldurs Gate 2.bg2/sounds/Male005_.wav
+59c686a146bad501  Baldurs Gate 2.bg2/sounds/Male005e.wav
+fd8ca944da686952  Baldurs Gate 2.bg2/sounds/Male005c.wav
+18795218b9c9201f  Baldurs Gate 2.bg2/sounds/Male005g.wav
+892ad23b0b39e1a8  Baldurs Gate 2.bg2/sounds/Male005j.wav
+303f1335fba58fcf  Baldurs Gate 2.bg2/sounds/Male005a.wav
+2eb53c0384737bc5  Baldurs Gate 2.bg2/sounds/Male005h.wav
+a142d683ab5a3c3f  Baldurs Gate 2.bg2/sounds/Male005i.wav
+6e83f9ae6ed49c49  Baldurs Gate 2.bg2/sounds/Male005l.wav
+49c0a3e9ba6edcfd  Baldurs Gate 2.bg2/sounds/Male005k.wav
+aa14913f539fb136  Baldurs Gate 2.bg2/sounds/Male005m.wav
+e35f84b791c1976f  Baldurs Gate 2.bg2/sounds/Male005u.wav
+29598289ea3e6c37  Baldurs Gate 2.bg2/sounds/Male005t.wav
+86767de1aa3b8b11  Baldurs Gate 2.bg2/sounds/Male005s.wav
+e43f5d7c3c450ef8  Baldurs Gate 2.bg2/sounds/Male005x.wav
+1b87474fb99b56f0  Baldurs Gate 2.bg2/sounds/Male005z.wav
+12450e4084740558  Baldurs Gate 2.bg2/sounds/Male005v.wav
+6fcf31f3bd1bf560  Baldur's Gate.bg1/Music/Bl2/BL2endA.ACM
+6c750a981dae481d  Baldurs Gate 2.bg2/sounds/Male005y.wav
+79dfa8341251f381  Baldur's Gate.bg1/Music/Bl2/Bl2a1.ACM
+8f41c60fcbb7d8e4  Baldur's Gate.bg1/Music/Bl2/Bl2a2.ACM
+eebc19e8a3d941eb  Baldur's Gate.bg1/Music/Bl2/BL2endC.ACM
+c7dec3bddbb3e5ed  Baldur's Gate.bg1/Music/Bl2/BL2endE.ACM
+c404af59cf394c40  Baldur's Gate.bg1/Music/Bl2/Bl2a4.ACM
+0b11ab7aa02a6378  Baldur's Gate.bg1/Music/Bl2/Bl2b1.ACM
+5ccb1226c0edf08e  Baldur's Gate.bg1/Music/Bl2/BL2endD.ACM
+96fa17bbeb3a6986  Baldur's Gate.bg1/Music/Bl2/Bl2a3.ACM
+f6666792bf676a33  Baldur's Gate.bg1/Music/Bl2/Bl2b2.ACM
+435ad73785e90738  Baldur's Gate.bg1/Music/Bl2/Bl2b3.ACM
+56369c51ba01b810  Baldur's Gate.bg1/Music/Bl2/Bl2c1.ACM
+3b65d15781c523f4  Baldur's Gate.bg1/Music/Bl2/BL2endB.ACM
+b02420398ff11714  Baldur's Gate.bg1/Music/Bl2/Bl2c2.ACM
+b7f74859a725bcee  Baldur's Gate.bg1/Music/Bl2/Bl2c4.ACM
+4ce7aa114dc9b729  Baldur's Gate.bg1/Music/Bl2/Bl2c3.ACM
+120603b55699a0db  Baldur's Gate.bg1/Music/Bl2/Bl2b4.ACM
+0c0dde4a22024539  Baldur's Gate.bg1/Music/Bl2/Bl2g3.ACM
+ffa329bc09b6788e  Baldur's Gate.bg1/Music/Bl2/Bl2f1.ACM
+9648d866b4a81665  Baldur's Gate.bg1/Music/Bl2/Bl2e1.ACM
+bbfc737ced291315  Baldur's Gate.bg1/Music/Bl2/Bl2g1.ACM
+1fc833fe18af8bc6  Baldur's Gate.bg1/Music/Bl2/Bl2d1.ACM
+c228d3078b255868  Baldur's Gate.bg1/Music/Bl2/Bl2d2.ACM
+42588a5cc7ed9fe8  Baldur's Gate.bg1/Music/Bl2/Bl2h1.ACM
+9757f033e8c95c9f  Baldur's Gate.bg1/Music/Bl2/Bl2h2.ACM
+fb36b0a1c5b0d735  Baldur's Gate.bg1/Music/Bl2/Bl2f2.ACM
+76cd78a2bc53d8af  Baldur's Gate.bg1/Music/Bl2/Bl2h4.ACM
+24a9f3a06dee1941  Baldur's Gate.bg1/Music/Bl2/Bl2h3.ACM
+b0908df666093544  Baldur's Gate.bg1/Music/Bl2/Bl2h5.ACM
+a3e5ec0b7e568364  Baldur's Gate.bg1/Music/Bl2/Bl2h6.ACM
+eaaa7b2c446b6895  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_01.wav
+7fd2d13d369873a8  Baldur's Gate.bg1/Music/Bl2/Bl2g2.ACM
+6270d4ee8c923693  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_02.wav
+bd01613ae83351d0  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_05.wav
+8c76c40a52322c7a  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_09.wav
+a55ece94e3ce9501  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_08.wav
+48b9548af8f76207  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_06.wav
+bc284c2c0c80efec  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_10.wav
+5b4af46686ca8e4c  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_07.wav
+7e2ec095c0f5841d  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_03.wav
+186b38d8f83fdf1a  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_04.wav
+ff0f9bfca7831ee2  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_11.wav
+12ce3d0539b90630  Icewind Dale.iwd/Music/chap1/chap1A.acm
+655331110429f822  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_13.wav
+89d0fea7156b0ef9  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_15.wav
+29c19034cb75e8c9  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_21.wav
+829232475f8e017a  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_17.wav
+8e52c6bbf67696a6  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_14.wav
+5b710fc7aa874278  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_19.wav
+de190854aef4af59  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_16.wav
+a428b5ae8f1b50f5  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_20.wav
+626f099e26da674e  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_12.wav
+c13b4b5e2f3b1855  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_22.wav
+2e6166fac54cea45  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_25.wav
+aab540d50051c356  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_23.wav
+9db503ee95c7e797  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_24.wav
+56d8de9529827844  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_18.wav
+d868135c9e89a1d2  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_28.wav
+577a99c1f08e4463  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_29.wav
+f4189775489e26de  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_30.wav
+06eb0ac98e1aed1a  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_31.wav
+6ed1a8f3ffdb6d3e  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_35.wav
+ba77b3459e0c42ca  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_34.wav
+85b9fed46307bab1  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_32.wav
+ecb55e2f356ffeb1  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_26.wav
+247e92b1d14457e2  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_33.wav
+f44f3244c32e4dc1  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_36.wav
+d9991875abe0a184  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_27.wav
+38e7113df8d24a7c  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_39.wav
+c19186718c615ac3  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_37.wav
+3622fef63ca65b34  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_38.wav
+a0a89f925b767d94  Baldurs Gate 2.bg2/music/BD1/BD1B3.acm
+2fc6c4b5e27563c5  Icewind Dale.iwd/Sounds/Female_Mage_1/DFC_40.wav
+efbbfe2159799428  Baldurs Gate 2.bg2/music/BD1/BD1A.acm
+24cdee19efc0fa1b  Baldurs Gate 2.bg2/music/BD1/BD1D2.acm
+8352967770cf92a9  Baldurs Gate 2.bg2/music/BD1/BD1D1.acm
+6ee97bd9d20560e6  Baldurs Gate 2.bg2/music/BD1/BD1C1.acm
+c74694007adde80b  Baldurs Gate 2.bg2/music/BD1/BD1F1.acm
+47b607adab710795  Baldurs Gate 2.bg2/music/BD1/BD1B1.acm
+39329413b5d1e162  Baldurs Gate 2.bg2/music/BD1/BD1G1.acm
+610622a04304da41  Baldurs Gate 2.bg2/music/BD1/BD1B2.acm
+c8da04b24632fff7  Baldurs Gate 2.bg2/music/BD1/BD1F2.acm
+f2a54c9d6068898d  Baldurs Gate 2.bg2/music/BD1/BD1H1.acm
+37b77c78d072c856  Baldurs Gate 2.bg2/music/BD1/BD1E2.acm
+6425d1a8b477272a  Baldurs Gate 2.bg2/music/BD1/BD1H2AA.acm
+52d1e8b89930cac8  Baldurs Gate 2.bg2/music/BD1/BD1E1.acm
+bf7ce51064ecbf7f  Baldurs Gate 2.bg2/music/BD1/BD1ZB.acm
+6bb4c9cecd5b783a  Baldurs Gate 2.bg2/music/BD1/BD1G2.acm
+984b46987991d53e  Baldurs Gate 2.bg2/music/BD1/BD1ZA.acm
+8f730f9509f36b4a  Baldurs Gate 2.bg2/music/BD1/BD1ZE1.acm
+0f8bf434cc5f88ec  Baldur's Gate.bg1/Music/Bp1/Bp1b1.ACM
+d0803fc647a3328b  Baldur's Gate.bg1/Music/Bp1/Bp1b3.ACM
+df938c5d082274c1  Baldur's Gate.bg1/Music/Bp1/Bp1a1.ACM
+7d2599b9f442e74c  Baldur's Gate.bg1/Music/Bp1/Bp1a2.ACM
+88fef33bf37112d0  Baldur's Gate.bg1/Music/Bp1/Bp1a3.ACM
+e791ccf145c80f95  Baldur's Gate.bg1/Music/Bp1/Bp1b2.ACM
+01b7e6313a13141e  Baldur's Gate.bg1/Music/Bp1/Bp1c1.ACM
+667ed0f45b97387b  Baldur's Gate.bg1/Music/Bp1/Bp1d2.ACM
+284ae2e37f045031  Baldur's Gate.bg1/Music/Bp1/Bp1d1.ACM
+b5704b05ef2dae5c  Baldurs Gate 2.bg2/music/BD1/BD1ZH2.acm
+c3092339f72ea326  Baldur's Gate.bg1/Music/Bp1/Bp1d3.ACM
+96c5f0b006189035  Baldur's Gate.bg1/Music/Bp1/Bp1c2.ACM
+03d4076bbe62a458  Baldur's Gate.bg1/Music/Bp1/Bp1enda1.ACM
+72565e1fb993e587  Baldur's Gate.bg1/Music/Bp1/Bp1enda2.ACM
+614f0929451d2665  Baldur's Gate.bg1/Music/Bp1/Bp1endd1.ACM
+6899770df72f716f  Baldur's Gate.bg1/Music/Bp1/Bp1endz1.ACM
+3e2cb7890de50251  Baldur's Gate.bg1/Music/Bp1/Bp1endb2.ACM
+84f3229e4fc18fe0  Baldur's Gate.bg1/Music/Bp1/Bp1endd2.ACM
+dc75be7373feda75  Baldur's Gate.bg1/Music/Bp1/Bp1endc2.ACM
+29c96e914f91c2bf  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_01.wav
+150bc3efe3aadb78  Baldur's Gate.bg1/Music/Bp1/Bp1endb1.ACM
+c23a2a87d0fd2a96  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_03.wav
+701470ed0ac7cbb0  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_04.wav
+11a56b3115b6a5ba  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_06.wav
+62f7bf04fe104cae  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_05.wav
+77574478874fb2d0  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_09.wav
+ccbfcb3348ff5e08  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_11.wav
+7b7e7c9ca09355c0  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_07.wav
+95b2a565911cd7c1  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_12.wav
+966fef717d1d4380  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_10.wav
+e3092e32ebcb1194  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_15.wav
+da14afe8d4fa5824  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_16.wav
+989e471895bdf00d  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_08.wav
+ea10b0871ec651e7  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_14.wav
+de841c56f6a9d4f0  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_18.wav
+6a0db1464eade898  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_13.wav
+bd17293c2238bcf2  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_20.wav
+8d82812f382e76b5  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_21.wav
+e850de925b319d11  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_22.wav
+00fc7b7ff8f91eb2  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_17.wav
+804463fbcb88165a  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_02.wav
+31d444e800fa0748  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_19.wav
+c0749ea777fa26be  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_24.wav
+3596036999b6038a  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_26.wav
+53bba98d84247c1c  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_28.wav
+bc98a5250fcbdeeb  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_23.wav
+b52f9e6b4c611a7d  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_27.wav
+f50536cd609cb466  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_25.wav
+8d1387a7fc62cd76  Icewind Dale.iwd/Music/mx1000/mx1000a.acm
+236d8ac0b19ae8a5  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_29.wav
+2a28c05e09f5ae52  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_33.wav
+469e164c54f0f0c5  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_34.wav
+b9ac178acbcccfb7  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_36.wav
+5ddb7792b6c5a142  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_30.wav
+a9fb9c4f1635b87d  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_37.wav
+0fae1e4705db427b  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_32.wav
+825e698b00e8512a  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_38.wav
+ea60bbd79e563914  Baldurs Gate 2.bg2/music/BD2/BD2B1.acm
+45b65387f7634082  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_31.wav
+7779f337b2edc95d  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_35.wav
+a8253df992e5fe85  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_40.wav
+7807d4fd8c3203da  Icewind Dale.iwd/Sounds/Female_Mage_2/EFM_39.wav
+570014ea13ffc152  Baldurs Gate 2.bg2/music/BD2/BD2D1.acm
+86007a7544f24f5b  Baldurs Gate 2.bg2/music/BD2/BD2E1.acm
+7f5fb55edc12065e  Baldurs Gate 2.bg2/music/BD2/BD2E2.acm
+348c9a8f201cab92  Baldurs Gate 2.bg2/music/BD2/BD2B2.acm
+0c67f0d679f2cd8b  Baldurs Gate 2.bg2/music/BD2/BD2C1.acm
+158e595dd00678f2  Baldurs Gate 2.bg2/music/BD2/BD2D2.acm
+e38ae90c293e14ec  Baldurs Gate 2.bg2/music/BD2/BD2ZB.acm
+fbab4095d19d5526  Baldurs Gate 2.bg2/music/BD2/BD2F2.acm
+8dc86b0c30635876  Baldurs Gate 2.bg2/music/BD2/BD2C2.acm
+e3e90be7fb19685d  Baldurs Gate 2.bg2/music/BD2/BD2F1.acm
+f44248d349cca550  Baldurs Gate 2.bg2/music/BD2/BD2A.acm
+bcd54ed740800cc8  Baldurs Gate 2.bg2/music/BD2/BD2ZF.acm
+edf6e806d88bb6ff  Baldurs Gate 2.bg2/music/BD2/BD2ZA.acm
+57a4127bbd1ef800  Baldur's Gate.bg1/Music/Bp2/Bp2b1.ACM
+29dda82dc885769d  Baldurs Gate 2.bg2/music/BD2/BD2ZC.acm
+1131b2cd654f7871  Baldur's Gate.bg1/Music/Bp2/Bp2c1.ACM
+ad075cbaec1d55c6  Baldur's Gate.bg1/Music/Bp2/Bp2a1.ACM
+71afef1c2894da0a  Baldurs Gate 2.bg2/music/BD2/BD2ZG2.acm
+3bed55fdb4b1dc24  Baldur's Gate.bg1/Music/Bp2/Bp2d3.ACM
+b61158ba07337b22  Baldur's Gate.bg1/Music/Bp2/Bp2d2.ACM
+f4e42eeebb0012ac  Baldur's Gate.bg1/Music/Bp2/Bp2a2.ACM
+ec773f4317cafc3a  Baldur's Gate.bg1/Music/Bp2/Bp2d4.ACM
+a1526bb8898c94f2  Baldur's Gate.bg1/Music/Bp2/Bp2b2.ACM
+e81a5e865700f386  Baldur's Gate.bg1/Music/Bp2/Bp2e3.ACM
+1b5bdba05058ccc9  Baldur's Gate.bg1/Music/Bp2/Bp2c2.ACM
+8ba2ac9af517c49d  Baldur's Gate.bg1/Music/Bp2/Bp2a3.ACM
+7e7baa8bcd30c2ff  Baldur's Gate.bg1/Music/Bp2/Bp2e4.ACM
+0be2f56969fdf52b  Baldur's Gate.bg1/Music/Bp2/Bp2e2.ACM
+cd2e490f7716db4e  Baldur's Gate.bg1/Music/Bp2/Bp2e1.ACM
+73431a98085d6979  Baldur's Gate.bg1/Music/Bp2/Bp2enda1.ACM
+9a2a5d536c8dcb37  Baldur's Gate.bg1/Music/Bp2/Bp2d1.ACM
+81c49758a2565719  Baldur's Gate.bg1/Music/Bp2/Bp2e5.ACM
+3d84968f07330908  Baldur's Gate.bg1/Music/Bp2/Bp2endc1.ACM
+c8c557be1c29a324  Baldur's Gate.bg1/Music/Bp2/Bp2endd1.ACM
+1eb13602e489fb4e  Baldur's Gate.bg1/Music/Bp2/Bp2endd2.ACM
+9f3f04223771c82d  Baldur's Gate.bg1/Music/Bp2/Bp2endh1.ACM
+b91252d64f8a6bcc  Baldur's Gate.bg1/Music/Bp2/Bp2endd3.ACM
+ab2f78eaf53492eb  Baldur's Gate.bg1/Music/Bp2/Bp2endf1.ACM
+3f904c3a1696039c  Baldur's Gate.bg1/Music/Bp2/Bp2endh3.ACM
+58cd8dcc3c068e1b  Baldur's Gate.bg1/Music/Bp2/Bp2f2.ACM
+3078b730783ccd10  Baldur's Gate.bg1/Music/Bp2/Bp2f3.ACM
+3384f3b6e098992e  Baldur's Gate.bg1/Music/Bp2/Bp2endg4.ACM
+5d68ea880effa148  Baldur's Gate.bg1/Music/Bp2/Bp2f4.ACM
+15cad2605be285e5  Baldur's Gate.bg1/Music/Bp2/Bp2g3.ACM
+0d13a2f46bd4fcca  Baldur's Gate.bg1/Music/Bp2/Bp2f1.ACM
+d44819c6dca6f70c  Baldur's Gate.bg1/Music/Bp2/Bp2g4.ACM
+43df4d4ee3ba91f0  Baldur's Gate.bg1/Music/Bp2/Bp2endc2.ACM
+09b3f91413a14bf8  Baldur's Gate.bg1/Music/Bp2/Bp2endf4.ACM
+803c92468ed5e5d2  Baldur's Gate.bg1/Music/Bp2/Bp2endz1.ACM
+9b3aefea53ffe0d3  Baldur's Gate.bg1/Music/Bp2/Bp2g2.ACM
+c0ec897eae47a9ce  Baldur's Gate.bg1/Music/Bp2/Bp2g1.ACM
+a046f255522b3e6a  Baldur's Gate.bg1/Music/Bp2/Bp2h1.ACM
+a5121d6d453e7e22  Baldur's Gate.bg1/Music/Bp2/Bp2h3.ACM
+e2f22715ee8c3fe0  Baldur's Gate.bg1/Music/Bp2/Bp2xa1.ACM
+d068be3a8b080ad0  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_02.wav
+e2db19cef408b3b4  Baldur's Gate.bg1/Music/Bp2/Bp2h2.ACM
+1ab432a99df7bca8  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_01.wav
+69817ee987257767  Baldur's Gate.bg1/Music/Bp2/Bp2z1.ACM
+18d4618214f2197e  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_03.wav
+8b018406cd920156  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_05.wav
+df9b441c4a214e55  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_06.wav
+4711075a063b76b5  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_08.wav
+99ece47c0a45b241  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_07.wav
+098dadf8e0db9d89  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_09.wav
+8b0b214c94bf33fb  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_10.wav
+b18cd07e301db9c2  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_11.wav
+e9d2877173023161  Icewind Dale.iwd/Music/mx1001/Mx1001a.acm
+ad0762c20cd45ff8  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_13.wav
+dcee418c8da5e180  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_18.wav
+dfb19536105519c5  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_12.wav
+025c7cb805ba5e11  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_17.wav
+7945c56dd4d46f0f  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_16.wav
+e156272e622289ea  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_19.wav
+57045c86f9841dc5  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_14.wav
+48e85c48f4626a91  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_15.wav
+069c8733ba82080a  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_22.wav
+95a05a5f3b3e4643  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_23.wav
+24d162742d79c3a2  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_24.wav
+dd1e8e47446550ce  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_25.wav
+8696a03daadbb42f  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_26.wav
+8e628d6b54502183  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_27.wav
+f1a7b0c9b93b5136  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_21.wav
+fbce96299e017706  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_28.wav
+d9da70a76b9adb27  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_29.wav
+ce1400983c96d69b  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_20.wav
+b80bd54eb701080d  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_33.wav
+d0c292c0fb7f38e0  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_32.wav
+104bb4996d663a9a  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_31.wav
+7e688af56097f95f  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_30.wav
+728a2840fbec50a9  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_34.wav
+14767d0750c8a09c  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_38.wav
+9a30bd6b3e216221  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_39.wav
+8d44657dfbb40333  Baldurs Gate 2.bg2/music/BD3/BD3A2.acm
+f7030f010485d566  Baldurs Gate 2.bg2/music/BD3/BD3A1.acm
+0c9fb395e4a92e5f  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_37.wav
+72ddc8308ed96504  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_36.wav
+928c962b201270e4  Baldurs Gate 2.bg2/music/BD3/BD3B1.acm
+ebfbf5ae06e24363  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_35.wav
+29cc8512a4b6a8b3  Baldurs Gate 2.bg2/music/BD3/BD3B2.acm
+87035f4c33a4eaf4  Baldurs Gate 2.bg2/music/BD3/BD3C2.acm
+a38c0c560d4036e7  Baldurs Gate 2.bg2/music/BD3/BD3C1.acm
+eae0970af953cd91  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_04.wav
+e93b33ec794cbf48  Baldurs Gate 2.bg2/music/BD3/BD3C3B.acm
+58197d0656fa7f88  Icewind Dale.iwd/Sounds/Female_Mage_3/GFC_40.wav
+b4bfa39513ba7672  Baldurs Gate 2.bg2/music/BD3/BD3D1.acm
+aa69b5f6d6927091  Baldurs Gate 2.bg2/music/BD3/BD3F1A.acm
+19f0791707183ed1  Baldurs Gate 2.bg2/music/BD3/BD3F2.acm
+a4cf41022c3922fb  Baldur's Gate.bg1/Music/Bw1/Bw1a1.ACM
+4fec890354e75661  Baldur's Gate.bg1/Music/Bw1/Bw1a3.ACM
+e895b0d2729b4cb7  Baldurs Gate 2.bg2/music/BD3/BD3C3A.acm
+99b942d2d7611b95  Baldur's Gate.bg1/Music/Bw1/Bw1b1.ACM
+a821c2fbf50c2606  Baldurs Gate 2.bg2/music/BD3/BD3G1.acm
+233792c0d3f96a72  Baldur's Gate.bg1/Music/Bw1/Bw1a4.ACM
+85497ac92094e02f  Baldurs Gate 2.bg2/music/BD3/BD3G2.acm
+d860b8e1a42693e3  Baldur's Gate.bg1/Music/Bw1/Bw1b2.ACM
+5b03c44c3db15180  Baldurs Gate 2.bg2/music/BD3/BD3E1.acm
+7e51a75ffebb2fa6  Baldur's Gate.bg1/Music/Bw1/Bw1c2.ACM
+c5e90a36e70492be  Baldur's Gate.bg1/Music/Bw1/Bw1b4.ACM
+0a0aac2291d6856c  Baldur's Gate.bg1/Music/Bw1/Bw1c1.ACM
+662df02595f36075  Baldur's Gate.bg1/Music/Bw1/Bw1c3.ACM
+6a6715e55939f10f  Baldur's Gate.bg1/Music/Bw1/Bw1b3.ACM
+82fa4888646518e3  Baldur's Gate.bg1/Music/Bw1/Bw1d1.ACM
+604ef9ba6b6d8688  Baldur's Gate.bg1/Music/Bw1/Bw1c4.ACM
+9f2c3c624e27864f  Baldurs Gate 2.bg2/music/BD3/BD3Z.acm
+3dfc0564361208b3  Baldur's Gate.bg1/Music/Bw1/Bw1e2.ACM
+1fe83d5969fea66b  Baldur's Gate.bg1/Music/Bw1/Bw1e3.ACM
+9de958ae040e2009  Baldur's Gate.bg1/Music/Bw1/Bw1e4.ACM
+fcd0853094ff34c1  Baldur's Gate.bg1/Music/Bw1/Bw1d3.ACM
+7f23e87cdd7a4ad1  Baldur's Gate.bg1/Music/Bw1/Bw1enda1.ACM
+1d49894de28ee96a  Baldur's Gate.bg1/Music/Bw1/Bw1endd3.ACM
+5788a29a9c831356  Baldur's Gate.bg1/Music/Bw1/Bw1d2.ACM
+13bcdf0289e734a1  Baldur's Gate.bg1/Music/Bw1/Bw1d4.ACM
+c52ff701a21c7160  Baldur's Gate.bg1/Music/Bw1/Bw1endb2.ACM
+4b918f16798540b2  Baldur's Gate.bg1/Music/Bw1/Bw1e1.ACM
+c56d0775ca058762  Baldur's Gate.bg1/Music/Bw1/Bw1endd4.ACM
+d49f551558c930dd  Baldur's Gate.bg1/Music/Bw1/Bw1endb1.ACM
+b70f18d8931bcb83  Baldur's Gate.bg1/Music/Bw1/Bw1endf1.ACM
+92c3dcd366d1431b  Baldur's Gate.bg1/Music/Bw1/Bw1enda3.ACM
+cc1e15a63e043388  Baldur's Gate.bg1/Music/Bw1/Bw1f1.ACM
+ebc846d6178788f3  Baldur's Gate.bg1/Music/Bw1/Bw1endb4.ACM
+f2b1bcc92ccba86b  Baldur's Gate.bg1/Music/Bw1/Bw1g12.ACM
+02b753f946459b75  Baldur's Gate.bg1/Music/Bw1/Bw1ende1.ACM
+0de55958b9c4ea26  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_01.wav
+7b66796ea1474712  Baldur's Gate.bg1/Music/Bw1/Bw1f2.ACM
+cfe7befb902b61ad  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_02.wav
+941a1c5c9d89b010  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_03.wav
+63876e571f080482  Baldur's Gate.bg1/Music/Bw1/Bw1endf2.ACM
+b7b158fa361da6da  Baldur's Gate.bg1/Music/Bw1/Bw1h2.ACM
+3dd7cc6333bd80e9  Baldur's Gate.bg1/Music/Bw1/Bw1h1.ACM
+6ab2efff1c074b7b  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_08.wav
+6822a99c0b0cf204  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_09.wav
+cba256d9b605e907  Baldur's Gate.bg1/Music/Bw1/Bw1ende2.ACM
+6055fd6880014fd7  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_11.wav
+b809e224ed0c89b6  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_10.wav
+5e0df7728dd1dd55  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_04.wav
+e5808ec99354560d  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_06.wav
+83259bf9bdb49eee  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_05.wav
+c350b81af5864a4b  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_12.wav
+078fe7d35a424272  Icewind Dale.iwd/Music/mx1004/mx1004a.acm
+848098064252da1a  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_14.wav
+c41f0a8fdd642e2f  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_07.wav
+68ff34ad24275c35  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_15.wav
+540bf1ad833f6d99  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_19.wav
+a09e4e9ff69c19e8  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_18.wav
+b100d9f03754af74  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_17.wav
+7b8fcb05745ab30b  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_13.wav
+3d6d76eba26cc3e1  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_20.wav
+03bf22e2706eff04  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_16.wav
+0339c10c0c94cc61  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_28.wav
+00fcb9b766c80643  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_26.wav
+cc8a0c55260aaa38  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_24.wav
+c3b2ba202df3f0d6  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_25.wav
+12e977dda5e20ea8  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_23.wav
+5acf6973e12e2d16  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_29.wav
+44801f67b945bc80  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_32.wav
+f693fa441448637f  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_27.wav
+fc306fc1a38b3ad7  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_21.wav
+8c685eb116f5bc90  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_30.wav
+c532c56af00d577e  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_33.wav
+c16be8280f8b73e6  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_34.wav
+622518b3bdb69fec  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_38.wav
+88f11826be9695b1  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_31.wav
+6992f3eaea7f1290  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_36.wav
+b88745c06d152e45  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_39.wav
+d854c05bf7a441f0  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_35.wav
+feec22c7a13250b9  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_37.wav
+cc44ce54e4c7f919  Baldurs Gate 2.bg2/music/BF1/BF1C2.acm
+1679913edb6c5a89  Baldurs Gate 2.bg2/music/BF1/BF1B1.acm
+c53c0acf34aaf28f  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_40.wav
+59ee680bdd30e256  Baldurs Gate 2.bg2/music/BF1/BF1D1.acm
+9548055ad01d0b7b  Baldurs Gate 2.bg2/music/BF1/BF1C1.acm
+647bdfcc08901a7a  Baldurs Gate 2.bg2/music/BF1/BF1E2.acm
+a62fd2def70b0783  Baldurs Gate 2.bg2/music/BF1/BF1A.acm
+a8029b01fb11d23f  Baldurs Gate 2.bg2/music/BF1/BF1E1.acm
+d804d3563183f60b  Baldurs Gate 2.bg2/music/BF1/BF1B2.acm
+695b4f3f8353d019  Icewind Dale.iwd/Sounds/Female_Mage_4/HeFM_22.wav
+a5f2640cf99e57e6  Baldurs Gate 2.bg2/music/BF1/BF1C3.acm
+d6c695ff8f95642a  Baldurs Gate 2.bg2/music/BF1/BF1H1.acm
+f59145b26efd2a55  Baldurs Gate 2.bg2/music/BF1/BF1F1.acm
+ac719fe93c7a416a  Baldurs Gate 2.bg2/music/BF1/BF1G1.acm
+a7c07f2e0750b57f  Baldurs Gate 2.bg2/music/BF1/BF1F2.acm
+9fb7237c8f3740ca  Baldurs Gate 2.bg2/music/BF1/BF1Z.acm
+ed9f74358d433652  Baldurs Gate 2.bg2/music/BF1/BF1H2.acm
+3ede9d6d44271214  Baldurs Gate 2.bg2/music/BF1/BF1ZC.acm
+d0fe8ff2e7af12a2  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_01.wav
+35795b7ad8f16fa3  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_02.wav
+1ff619f0688d5489  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_03.wav
+cf1fb96ae916eb3e  Baldurs Gate 2.bg2/music/BF1/BF1ZB.acm
+6da7425660c37271  Icewind Dale.iwd/Music/mx1100/mx1100a.acm
+cff98cdeae1e030f  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_04.wav
+2ede6b4d164213d8  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_06.wav
+64c004a99afb1191  Baldurs Gate 2.bg2/music/BF1/BF1F3.acm
+2052bf48e7a28a55  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_08.wav
+d1c1348485c4265b  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_07.wav
+e67307efe9fe72c3  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_09.wav
+a12899c4ebb105a4  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_12.wav
+732a4b942d49afda  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_11.wav
+14287889dcd26694  Baldur's Gate.bg1/Music/CDay1/CDay1a.ACM
+5b48fe30f6610c2d  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_14.wav
+94d2269c63b54483  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_10.wav
+d16c8327d0bf1f68  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_16.wav
+6eadb3200c09e40f  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_13.wav
+be583dac221dc579  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_15.wav
+3efb629107d7b72e  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_18.wav
+d1b1e984258bc18e  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_19.wav
+04b0944314383c4b  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_17.wav
+93d38e04913c17d2  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_21.wav
+9a5b15f27bd773b4  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_20.wav
+710cebdeb96e9cc8  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_22.wav
+9e7edd9f192e0612  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_05.wav
+db83407bd5f76167  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_23.wav
+1698faa9373ffccb  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_24.wav
+49c07497b7774e3c  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_25.wav
+f8b5409b209332c9  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_26.wav
+e49936ddef67ce32  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_33.wav
+93bad255f2f11b4a  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_29.wav
+e0e5adf85d117fb3  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_28.wav
+a9321efbb3ecbc00  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_30.wav
+546ad264b30ef24a  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_34.wav
+b90872d917a7be97  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_35.wav
+2850d2bf4f7d6c11  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_37.wav
+55234a3b66b821a5  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_32.wav
+230b6cde23cdd48d  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_36.wav
+0c5e630327fd9ee2  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_39.wav
+7edd32cbfbe4bc83  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_40.wav
+39d65ef82984fb8a  Baldurs Gate 2.bg2/script compiler/source/arang.baf
+aa4c17d8bcc87c05  Baldurs Gate 2.bg2/script compiler/source/apass.baf
+08c0b28270525a0f  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_27.wav
+b2c730d70d500ce8  Baldurs Gate 2.bg2/script compiler/source/aGen.baf
+1d465b57fb31f420  Baldurs Gate 2.bg2/script compiler/source/cautious.baf
+951336fcb57e8adf  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_38.wav
+19968c13bc258228  Baldurs Gate 2.bg2/script compiler/source/cleric1.baf
+2f6daff93c8c03d7  Icewind Dale.iwd/Sounds/Female_Mage_5/HFM_31.wav
+ed9d1440e02f2d8d  Baldurs Gate 2.bg2/script compiler/source/cleric3.baf
+8f732070aed8ebe2  Baldurs Gate 2.bg2/script compiler/source/cleric2.baf
+fd0440c6bd27f6eb  Baldurs Gate 2.bg2/script compiler/source/control.baf
+392e512ea8009f0d  Baldurs Gate 2.bg2/script compiler/source/cleric4.baf
+5dc2fa2e9d4f8636  Baldurs Gate 2.bg2/script compiler/source/default.baf
+908b5e793693de5b  Baldurs Gate 2.bg2/script compiler/source/fighter1.baf
+7f92889c29f523af  Baldurs Gate 2.bg2/script compiler/source/fighter2.baf
+adcc4ed0d231e10a  Baldurs Gate 2.bg2/script compiler/source/fighter4.baf
+99604608bf53a741  Baldurs Gate 2.bg2/script compiler/source/mage4.baf
+bf876e85b61bf505  Baldurs Gate 2.bg2/script compiler/source/fighter3.baf
+1c0b4a7fa8fd55c1  Baldurs Gate 2.bg2/script compiler/source/mage2.baf
+7f79fb639ca4050f  Baldurs Gate 2.bg2/script compiler/source/mage1.baf
+2fc349353ba0f982  Baldurs Gate 2.bg2/script compiler/source/mage3.baf
+e4b43d5bb923b575  Baldurs Gate 2.bg2/script compiler/source/thief3.baf
+d284a65c9f3071db  Baldurs Gate 2.bg2/script compiler/source/thief1.baf
+2baac07854e937da  Baldurs Gate 2.bg2/script compiler/source/thief2.baf
+7a92177c08ea73b0  Baldurs Gate 2.bg2/music/BF2/BF2A.acm
+56cb505ec0f2d6d8  Baldurs Gate 2.bg2/script compiler/source/thief4.baf
+d76391fbd2281864  Baldurs Gate 2.bg2/music/BF2/BF2C2.acm
+15ba2de5bfbe9742  Baldurs Gate 2.bg2/music/BF2/BF2B1.acm
+f5132febbeb72409  Baldurs Gate 2.bg2/music/BF2/BF2B2.acm
+16007e687fb5dbfc  Baldurs Gate 2.bg2/music/BF2/BF2E1.acm
+4d49ca9636e3fd7d  Baldurs Gate 2.bg2/music/BF2/BF2F1.acm
+c540012d2ce279eb  Baldurs Gate 2.bg2/music/BF2/BF2F2.acm
+3adec49fba0dfb82  Baldurs Gate 2.bg2/music/BF2/BF2D1.acm
+1c8e79592145cac5  Baldurs Gate 2.bg2/music/BF2/BF2C1.acm
+d15ad9a87c263e99  Baldurs Gate 2.bg2/music/BF2/BF2J2.acm
+c81a06cf8e26f3c9  Baldurs Gate 2.bg2/music/BF2/BF2J3.acm
+fe6d07bba28b8796  Baldurs Gate 2.bg2/music/BF2/BF2J1.acm
+c55237e5e7c4c756  Baldurs Gate 2.bg2/music/BF2/BF2D2.acm
+0d8906c12f0b9c7f  Baldurs Gate 2.bg2/music/BF2/BF2ZA.acm
+0a0c2c74e19de606  Baldurs Gate 2.bg2/music/BF2/BF2ZF1.acm
+67a0cae2bb1d6c86  Baldurs Gate 2.bg2/music/BF2/BF2Z.acm
+6fda77229ada7573  Baldurs Gate 2.bg2/music/BF2/BF2ZF2.acm
+d8c7a7a6ad0e7a6f  Baldurs Gate 2.bg2/music/BF2/BF2ZJ3.acm
+49ca3b78aab05f40  Baldurs Gate 2.bg2/music/BJR/BJRA.acm
+91e3ba3bd6b16910  Baldurs Gate 2.bg2/music/BJR/BJRB2.acm
+5149e56b4a44afb1  Baldur's Gate.bg1/Music/CDay2/CDay2a.ACM
+eeebc56a122f5962  Baldurs Gate 2.bg2/music/BJR/BJRC1.acm
+73b2e4fc1cb64693  Baldurs Gate 2.bg2/music/BJR/BJRB1.acm
+2877ecbd9e8229ef  Icewind Dale.iwd/Music/mx1201/Mx1201a.acm
+67b9924f59590a55  Baldurs Gate 2.bg2/music/BJR/BJRC2.acm
+1548f79490a87329  Baldurs Gate 2.bg2/music/BF2/BF2ZJ1.acm
+5095f6f3978dca93  Baldurs Gate 2.bg2/music/BJR/BJRE2.acm
+1d77544af1b71ed3  Baldurs Gate 2.bg2/music/BJR/BJRG1.acm
+0a224a70b7116109  Baldurs Gate 2.bg2/music/BJR/BJRH1.acm
+b3b8f74113e5458a  Baldurs Gate 2.bg2/music/BJR/BJRD1.acm
+129a5ff5e2a26370  Baldurs Gate 2.bg2/music/BJR/BJRE1.acm
+c70b83203666c52c  Baldurs Gate 2.bg2/music/BJR/BJRH2.acm
+affdfdd7b903430a  Baldurs Gate 2.bg2/music/BJR/BJRF1.acm
+a993300b91676bd1  Baldurs Gate 2.bg2/music/BJR/BJRZ.acm
+6426bba15f2068fd  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_04.wav
+aa26d2065d4a6285  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_05.wav
+7c7f269b35f94314  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_06.wav
+68c820f3f5bbafa7  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_03.wav
+ce34490ff85c5a36  Baldurs Gate 2.bg2/music/BJR/BJRF2.acm
+f858642bebd4b516  Baldurs Gate 2.bg2/music/BJR/BJRZB.acm
+4d93c05116138650  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_01.wav
+920c24ff392c8673  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_02.wav
+ba6c087832e930dd  Baldurs Gate 2.bg2/music/BJR/BJRD2.acm
+9ef25a5cf7c0f46e  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_07.wav
+de67b9a333a5d636  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_10.wav
+929d5a470c7730de  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_09.wav
+45f174316d983cf2  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_08.wav
+27fb09969491d4d6  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_14.wav
+a7399408ca270907  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_13.wav
+8171f65697d713d0  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_11.wav
+fb53ebca268725de  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_17.wav
+a0fdb4ffae873033  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_12.wav
+c83cb0402407a8ad  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_16.wav
+cd2051aa59e2373a  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_18.wav
+86e90626ce016535  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_15.wav
+1f010ee457215738  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_20.wav
+37d9697df2ce27e8  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_19.wav
+0ea0cdb1e4344967  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_22.wav
+aa87778c94022436  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_27.wav
+3049c4a22a14631b  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_24.wav
+c82d6c396afdf38b  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_28.wav
+2a003920e8d58d33  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_29.wav
+58aa885dab7df473  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_21.wav
+2a06b83ebeaebb7e  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_25.wav
+3406ed93a90fbf9c  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_30.wav
+4632350ef6171ec7  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_26.wav
+7528ba0e8795a319  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_34.wav
+d5e48c20287d617e  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_33.wav
+523ca41232024df6  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_36.wav
+29c52bdf3a4da847  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_32.wav
+8043d34a6839d0e8  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_31.wav
+3bc2f8b3bc5ccd24  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_37.wav
+efdc4555b4fffe0a  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_38.wav
+62c2f986d78da3aa  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_40.wav
+1c70694a5a1acd78  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_23.wav
+8a64c4b59164acf8  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_35.wav
+c52ec05a008f0160  Icewind Dale.iwd/Sounds/Female_Thief_1/HaFT_39.wav
+0fb6bc0c1c904e4b  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_02.wav
+63d8dbe2d89fbeb7  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_01.wav
+84f6d933bcddd6d4  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_04.wav
+a0efede983e76ce0  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_03.wav
+b88cb1610c4648d6  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_05.wav
+e9efbc6dc77db990  Baldur's Gate.bg1/Music/CNite/CNitea.ACM
+2b69916c50571c39  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_07.wav
+aa67e55b989ee7cc  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_08.wav
+4f1596cf589fe1c7  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_09.wav
+0d07ee89ddef4e82  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_10.wav
+84acdb0ca0395327  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_06.wav
+b88ac6b957e56d2e  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_12.wav
+8e177598a723ea3d  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_14.wav
+6d225f3804f421b6  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_15.wav
+ae6115369d51b9b5  Icewind Dale.iwd/Music/mx2100/mx2100b.acm
+1eb4a1b848d80016  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_13.wav
+15fde11783b526f6  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_16.wav
+fca188961c98b5be  Icewind Dale.iwd/Music/mx2100/mx2100a.acm
+434c231566da48d2  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_17.wav
+ecd03284cd88bb68  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_20.wav
+5dfc2211c7fbe7f4  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_23.wav
+099f1bd68e83cd1e  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_22.wav
+3e14e33935d365cc  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_25.wav
+853d17b3ddb4b547  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_26.wav
+3dea14b26bc646f9  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_11.wav
+ab6148699f774fab  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_18.wav
+90ef2467b87b0951  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_24.wav
+35182760979d9e94  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_29.wav
+a9244e6241728cb6  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_21.wav
+c8af833ab70ddcb3  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_28.wav
+460aa35112f74256  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_31.wav
+680f2202e527a5c0  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_34.wav
+80fae66ad87e28bd  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_33.wav
+9684ed69b938bc29  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_19.wav
+706914a978e438b1  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_32.wav
+7d0ec46fc1c25573  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_27.wav
+3de95bbb4afc6479  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_35.wav
+e755080a1ad384c4  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_30.wav
+db1579b00b3c0abc  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_38.wav
+916b70797c61d21a  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_40.wav
+b261468010ed93e2  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_37.wav
+88986fae3515b82c  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_39.wav
+f7defd07cb901f2a  Baldurs Gate 2.bg2/music/BM1/BM1C1.acm
+4ed8e4540239e61d  Baldurs Gate 2.bg2/music/BM1/BM1B2.acm
+07544cecc467a802  Icewind Dale.iwd/Sounds/Female_Thief_2/HFT_36.wav
+ecacd3436661e427  Baldurs Gate 2.bg2/music/BM1/BM1C2.acm
+f7278a25f8f35788  Baldurs Gate 2.bg2/music/BM1/BM1A.acm
+bb71573baac9d792  Baldurs Gate 2.bg2/music/BM1/BM1E1.acm
+6ef2028651b9413b  Baldurs Gate 2.bg2/music/BM1/BM1D2.acm
+d13bf2c9742d9ff0  Baldurs Gate 2.bg2/music/BM1/BM1B1.acm
+4cdf793fe2b87531  Baldurs Gate 2.bg2/music/BM1/BM1D1.acm
+1444c66563ce7983  Baldurs Gate 2.bg2/music/BM1/BM1J1.acm
+0c96e19e8f17d4ca  Baldur's Gate.bg1/Music/Chants/Chantsa.ACM
+21b9de2f0c982571  Baldurs Gate 2.bg2/music/BM1/BM1H1.acm
+20802c81b692d63e  Baldurs Gate 2.bg2/music/BM1/BM1F1.acm
+f85851a799b26174  Baldurs Gate 2.bg2/music/BM1/BM1G1.acm
+03ab87cc3174c092  Baldurs Gate 2.bg2/music/BM1/BM1J2.acm
+d4938c9faa7ede2a  Baldurs Gate 2.bg2/music/BM1/BM1ZA.acm
+21027e01a327c311  Baldurs Gate 2.bg2/music/BM1/BM1ZB.acm
+6be0fce7a1d44c57  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_02.wav
+65d0dbee562de1b3  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_03.wav
+8fc7c5199f7197dd  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_04.wav
+8e61a1d42d406f0c  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_05.wav
+02e40b1d311a9aa5  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_09.wav
+0f4cec3d67705282  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_06.wav
+8a7636d31e10fe8d  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_01.wav
+7aafe81a11f1dcce  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_07.wav
+80c1a52adc8b7c20  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_08.wav
+3612c483ed157605  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_11.wav
+e1826cdcac8ec525  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_10.wav
+e45cc8c5850718e4  Icewind Dale.iwd/Music/mx2112/mx2112a.acm
+5b817b63382a70a4  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_12.wav
+f448d7f295221a6f  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_15.wav
+32db7752874148cb  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_18.wav
+5bc194e99b0b7db4  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_14.wav
+a5d086539d397380  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_20.wav
+ac59671da55d7e6c  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_19.wav
+5f9ca5bd63fcb31a  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_22.wav
+63adcad4821062c1  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_25.wav
+7e23bcfd89f46b97  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_24.wav
+3c98b1fd1bedf8b1  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_16.wav
+30c4378a224a00ab  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_28.wav
+bfb7211be3d67caf  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_27.wav
+164b01000f63ba9d  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_13.wav
+0a416a835cba805a  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_21.wav
+04600b25411a07e2  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_17.wav
+fb7428b8eced47df  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_34.wav
+b424da42bef0f140  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_32.wav
+0f928a9ecf9efa7a  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_31.wav
+66b944152c493961  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_35.wav
+aa69582d669c10b1  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_36.wav
+f795eccd3fb1a191  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_23.wav
+4a7fb2e126d8aef9  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_39.wav
+f898c683a48815c5  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_30.wav
+1b316bd57fbb276d  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_29.wav
+725d190e81219493  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_33.wav
+6c92fbca4645316a  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_37.wav
+12b3295cdc2122c3  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_38.wav
+a4bab7b0618ee964  Baldurs Gate 2.bg2/music/BM2/BM2A.acm
+c1623e11cee94f67  Baldurs Gate 2.bg2/music/BM2/BM2B1.acm
+c203fe4fafb3385a  Baldurs Gate 2.bg2/music/BM2/BM2B2.acm
+336525b25bab0b13  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_40.wav
+178e57821aee3b71  Baldurs Gate 2.bg2/music/BM2/BM2C1.acm
+ddc626ef1778db87  Baldurs Gate 2.bg2/music/BM2/BM2D1.acm
+b7b09e19255c53fd  Baldurs Gate 2.bg2/music/BM2/BM2C2.acm
+5a6aac8b312e5a41  Baldurs Gate 2.bg2/music/BM2/BM2G1.acm
+c1335aef70896b85  Icewind Dale.iwd/Sounds/Male_Fighter_1/DMC_26.wav
+47994fb0ced510fd  Baldurs Gate 2.bg2/music/BM2/BM2M1.acm
+499a77546900318e  Baldurs Gate 2.bg2/music/BM2/BM2F1.acm
+633d2358bd55e2ba  Baldurs Gate 2.bg2/music/BM2/BM2E1.acm
+20dbf043876b1a27  Baldurs Gate 2.bg2/music/BM2/BM2H1J1.acm
+249181373949b7f8  Baldurs Gate 2.bg2/music/BM2/BM2ZA.acm
+1202c6c147b504fb  Baldurs Gate 2.bg2/music/BM2/BM2N1.acm
+9cd57653fe9d8048  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_03.wav
+633cc876c47f3b8d  Baldurs Gate 2.bg2/music/BM2/BM2K1.acm
+66160fd82238c10b  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_01.wav
+08e96a51b5902c6c  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_02.wav
+f2987bf53fd582a6  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_04.wav
+49e0bc3936ef2668  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_06.wav
+1e466487351324a2  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_08.wav
+8de67adbc3fdedf0  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_07.wav
+a2457dd677eb9939  Baldur's Gate.bg1/Music/Dream/Dreama.ACM
+e2a233ab4d151ff0  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_12.wav
+272f99bb01b4b546  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_09.wav
+20702ebedd1a1b12  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_10.wav
+b7a38d8f4a2072c7  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_05.wav
+348acdc585c48b37  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_11.wav
+5f20b288e5b435c0  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_13.wav
+5ec357039b3b4f3a  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_14.wav
+28171299b1a9520a  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_15.wav
+f32a303a7580c220  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_17.wav
+11461439095c5811  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_16.wav
+5d488b5c838acc9b  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_18.wav
+608b99594389425f  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_20.wav
+1ebefe809cbc8ed5  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_21.wav
+932e44c4e34fca99  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_22.wav
+2d06bfe36bb36b25  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_23.wav
+6f6fbcedf4685ea5  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_25.wav
+1b19ac7f291daf73  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_24.wav
+194591baaaba6271  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_26.wav
+269959ef9e49b2f1  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_19.wav
+002bd91ab06a52f1  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_27.wav
+aa94fa1a2aa81474  Baldurs Gate 2.bg2/music/BM2/BM2ZB.acm
+3174bb63571d2c74  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_32.wav
+2c103747cdbcbc17  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_29.wav
+d20f50b0b99e8d46  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_33.wav
+6ae01eb7fa17f958  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_28.wav
+fe045457c6b6611a  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_34.wav
+4f178e4bb9756ce1  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_30.wav
+80b422ac0c68c799  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_31.wav
+7eaa795acaba80fc  Icewind Dale.iwd/Music/mx3000/mx3000a.acm
+19a3e03d1532cdc0  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_37.wav
+4fcee3415da8c4b1  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_38.wav
+e0b2424425890eb1  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_40.wav
+ac00ebe9f8668039  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_39.wav
+da4570ce909b10b7  Baldurs Gate 2.bg2/music/BP1/BP1B1.acm
+f08551b468ce2c10  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_36.wav
+0f11f2854f059fef  Icewind Dale.iwd/Sounds/Male_Fighter_2/DMF_35.wav
+11177ed2394adb13  Baldurs Gate 2.bg2/music/BP1/BP1D1.acm
+893a3db81dc0d241  Baldurs Gate 2.bg2/music/BP1/BP1C1.acm
+0a3e0e7c51a52403  Baldurs Gate 2.bg2/music/BP1/BP1E1.acm
+32ecdc6e5b9dc8dd  Baldurs Gate 2.bg2/music/BP1/BP1E2.acm
+49c9d82e0068602f  Baldurs Gate 2.bg2/music/BP1/BP1B2.acm
+c7b37b4f12ce416f  Baldurs Gate 2.bg2/music/BP1/BP1F1.acm
+09a62ef6527ebda4  Baldurs Gate 2.bg2/music/BP1/BP1F2.acm
+3709836f14a25442  Baldurs Gate 2.bg2/music/BP1/BP1G1.acm
+b397f9b0ab0a2f21  Baldurs Gate 2.bg2/music/BP1/BP1G2.acm
+239a04a849a03326  Baldurs Gate 2.bg2/music/BP1/BP1A.acm
+864737c939c3795a  Baldurs Gate 2.bg2/music/BP1/BP1C2.acm
+d12639f4042152c6  Baldurs Gate 2.bg2/music/BP1/BP1H2.acm
+e65e84a63c86aeb3  Baldurs Gate 2.bg2/music/BP1/BP1H3.acm
+71eed78f66650c85  Baldurs Gate 2.bg2/music/BP1/BP1ZA.acm
+8f04d1031d6d7922  Baldurs Gate 2.bg2/music/BP1/BP1ZB.acm
+d941a1de3a82ffd2  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_04.wav
+80b6d02946e863e7  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_02.wav
+34f71dff6a9eb603  Baldurs Gate 2.bg2/music/BP1/BP1H1.acm
+76cfe873cbf20072  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_05.wav
+a4e45cc72ec4a7b4  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_03.wav
+e1aa96f43832a6bb  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_01.wav
+f0a622c75a9c395d  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_08.wav
+2b098bd92c4cdd51  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_09.wav
+6190449c92ce0857  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_10.wav
+9ac6b3cf71cd2eb8  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_12.wav
+f3c3eb58ef4e44d9  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_11.wav
+1c050cba32f3db2d  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_13.wav
+812eef70c900bb8d  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_15.wav
+038fab14ba2a8240  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_17.wav
+b420c43b53639ffa  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_07.wav
+c0452bedc4bcf981  Icewind Dale.iwd/Music/mx3501/mx3501a.acm
+4bc5d15eb53efdad  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_16.wav
+8c809d2084667d07  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_19.wav
+42f5ecaa63d7bcda  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_14.wav
+5ef6039937972dff  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_20.wav
+310151b971977f90  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_22.wav
+aba62c76eca15f52  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_18.wav
+c0c95c4980edd197  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_23.wav
+e7b76819d8fe3571  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_24.wav
+cba6962367cf3d03  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_06.wav
+77524b93487f8626  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_21.wav
+726e912f1a35a8ac  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_26.wav
+d3478c4045ab5f1b  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_25.wav
+305ca11124597a73  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_27.wav
+abba448608ef5b47  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_29.wav
+465fbbbf8f5fc20f  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_30.wav
+64291e89074a08b6  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_28.wav
+f32dcbb607884bfd  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_31.wav
+7189df79f9cd6ca8  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_34.wav
+5bc71d79efaee715  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_32.wav
+fe25015bb339c19b  Baldur's Gate.bg1/Music/Dung1/Dung1a.ACM
+377cd93fcac315ed  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_36.wav
+48f3e4bdcff25340  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_40.wav
+aad57fc574f84e20  Baldurs Gate 2.bg2/music/BP2/BP2B1.acm
+ed54dedf61b5e7fd  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_38.wav
+76c343020fd7041a  Baldurs Gate 2.bg2/music/BP2/BP2B2.acm
+0d5015433d35ada3  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_39.wav
+9e4c6703d4885107  Baldurs Gate 2.bg2/music/BP2/BP2C1.acm
+e1c079392ccea184  Baldurs Gate 2.bg2/music/BP2/BP2C2.acm
+c80e79369f49f573  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_35.wav
+3fe316c9bd618e14  Baldurs Gate 2.bg2/music/BP2/BP2D2.acm
+fd014a058e4b763e  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_33.wav
+be7e9124f6ef767f  Baldurs Gate 2.bg2/music/BP2/BP2A.acm
+fe13b04c6e41914c  Icewind Dale.iwd/Sounds/Male_Fighter_3/HMF_37.wav
+2316ed824cb6194c  Baldurs Gate 2.bg2/music/BP2/BP2G1A.acm
+e746d6348af02142  Baldurs Gate 2.bg2/music/BP2/BP2E2.acm
+9cf80be94593223e  Baldurs Gate 2.bg2/music/BP2/BP2D1.acm
+43bcf37022fe52d0  Baldurs Gate 2.bg2/music/BP2/BP2E1.acm
+8c8a2f216a09f4fe  Baldurs Gate 2.bg2/music/BP2/BP2H1A.acm
+1025d1080eaba5d7  Baldurs Gate 2.bg2/music/BP2/BP2H2.acm
+8cfc2bd6520edf48  Baldurs Gate 2.bg2/music/BP2/BP2H3.acm
+4adc3cbf7556c62e  Baldurs Gate 2.bg2/music/BP2/BP2J2.acm
+78c84260ca632136  Baldurs Gate 2.bg2/music/BP2/BP2F1.acm
+0374ae029d2de8d9  Baldurs Gate 2.bg2/music/BP2/BP2J1.acm
+6fda77229ada7573  Baldurs Gate 2.bg2/music/BP2/BP2ZA.acm
+6808ea4eb590f7fc  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_02.wav
+ab79ce3193da1aee  Baldurs Gate 2.bg2/music/BP2/BP2K1.acm
+468105461855bc83  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_01.wav
+f71524a724df2524  Baldurs Gate 2.bg2/music/BP2/BP2Z.acm
+d049ad8f8663c39e  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_04.wav
+357ec2f23f3b5d96  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_05.wav
+795cabb458ba8f27  Icewind Dale.iwd/Music/mx3503/Mx3503a.acm
+6835aec0ce90c57c  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_07.wav
+2fb38baf4b49595d  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_08.wav
+334889493c887349  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_06.wav
+b860133631a42ffb  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_10.wav
+83e1bfb460e9610e  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_13.wav
+16308758cff03ad2  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_14.wav
+84cd2f4c5e6745a7  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_17.wav
+487107494d9eb94b  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_09.wav
+047ed9ba5447fdde  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_03.wav
+f4643c845714868d  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_16.wav
+3ca5e48c84cc65de  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_12.wav
+817695285a697126  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_18.wav
+55c16d04fc410d55  Baldur's Gate.bg1/Music/Dung2/Dung2a.ACM
+46a627c3b30c31ab  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_11.wav
+4808de66013b7bb4  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_19.wav
+fc42a0e7a092a4bd  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_20.wav
+9354124ba0ff429e  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_21.wav
+2eb4f0ba00741ba2  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_15.wav
+1e0e8adefded83d6  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_22.wav
+02bbc7e795185b71  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_23.wav
+70bc1cae86e15845  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_24.wav
+38529fd5262b0554  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_25.wav
+4a016824446431e1  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_27.wav
+9eb30d27027d82bc  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_28.wav
+0fcfd003098599eb  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_30.wav
+3ee6917e2ca5e8c2  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_29.wav
+a8f509adf83747d7  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_31.wav
+d9a1e27bea7b42af  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_33.wav
+290701a1a1bb0186  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_32.wav
+d455e76d2ca8f7f2  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_34.wav
+bee5d0f1eaa9ac36  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_35.wav
+c178c5ea4e7af160  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_26.wav
+4a37325ff88bffa4  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_40.wav
+66d4410757df901c  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_36.wav
+840104871a6b7423  Baldurs Gate 2.bg2/music/BRD/BRDA1.acm
+ce8265c80a7d4a8a  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_38.wav
+98cb295405786d4b  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_37.wav
+4f97d1fa94f6b90b  Baldurs Gate 2.bg2/music/BRD/BRDA2.acm
+cea81ee8f055d302  Baldurs Gate 2.bg2/music/BRD/BRDB1.acm
+b48e7fde55299c45  Baldurs Gate 2.bg2/music/BRD/BRDC1.acm
+e66cc1c3852b32df  Baldurs Gate 2.bg2/music/BRD/BRDC2.acm
+db56cf1a7dadb48d  Icewind Dale.iwd/Sounds/Male_Fighter_4/HeMF_39.wav
+4ff7b1948e7c2fca  Baldurs Gate 2.bg2/music/BRD/BRDG.acm
+3dcc674f78110c0c  Baldurs Gate 2.bg2/music/BRD/BRDF1.acm
+90e4d55171772895  Baldurs Gate 2.bg2/music/BRD/BRDB2.acm
+d3b2e5aa70ee4fcc  Baldurs Gate 2.bg2/music/BRD/BRDD1.acm
+3fe489db14f5c63d  Baldurs Gate 2.bg2/music/BRD/BRDD2.acm
+14666c2cbdfad78c  Baldurs Gate 2.bg2/music/BRD/BRDE1.acm
+5e2ae7f5bc0f9696  Baldurs Gate 2.bg2/music/BRD/BRDE2.acm
+4e044e707471a30c  Baldurs Gate 2.bg2/music/BRD/BRDG1.acm
+1ed36fd50555837e  Baldurs Gate 2.bg2/music/BRD/BRDH2.acm
+9d4af60d3a0e52ef  Baldurs Gate 2.bg2/music/BRD/BRDG2.acm
+be6bea8126c56593  Baldurs Gate 2.bg2/music/BRD/BRDH1.acm
+9f2c3c624e27864f  Baldurs Gate 2.bg2/music/BRD/BRDZC.acm
+b0155ada2a60f6f5  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_01.wav
+a993300b91676bd1  Baldurs Gate 2.bg2/music/BRD/BRDZE.acm
+fa013658d0848d8b  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_02.wav
+6b866c2ad34f0f61  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_03.wav
+c2e40254316893ea  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_04.wav
+40efe30ac54aed18  Baldurs Gate 2.bg2/music/BRD/BRDZB.acm
+2d84dae5528e0e7c  Baldurs Gate 2.bg2/music/BRD/BRDZG.acm
+e277f0c240415b68  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_07.wav
+c0f401a9fa5eed18  Icewind Dale.iwd/Music/mx3600/mx3600a.acm
+6b7246c52218f2eb  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_05.wav
+c5c72aa32557d93e  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_08.wav
+dd8a2d98eee1797d  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_11.wav
+0f95ebb638d25a26  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_06.wav
+f88b6e19064786ea  Baldurs Gate 2.bg2/music/BRD/BRDZA.acm
+ecd7286efef6fadc  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_14.wav
+755a2d2d4465fe6f  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_12.wav
+fa010f90ecb62cb4  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_10.wav
+69c507c30750ba3f  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_09.wav
+416b2f43eed1f856  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_16.wav
+55ad796895f25699  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_13.wav
+a1e8d7f43a242241  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_17.wav
+c37e8ee6abc182a0  Baldur's Gate.bg1/Music/Dung3/Dung3a.ACM
+9ebc27ba2ce12612  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_19.wav
+ff27de9d000222a1  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_20.wav
+f94ff0bd5b8fafaf  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_23.wav
+aee60e04a6f019a5  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_24.wav
+14fbc08ce28d526f  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_15.wav
+80719b64ce81f750  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_26.wav
+7b14fb6cc7dc5558  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_21.wav
+b82fd295a5928229  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_18.wav
+cd6fc9f27f66c716  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_22.wav
+3f5e62b02aa374b4  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_31.wav
+a6cbf94ae993e537  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_29.wav
+54c9d5c4480af032  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_33.wav
+b4a91d5b00af0181  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_35.wav
+984b0ce7a447f125  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_25.wav
+f25c35c5ce288285  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_28.wav
+5128cf36bccfabc9  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_27.wav
+d1904dac6466341f  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_30.wav
+b78f9de8ee5f4f66  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_32.wav
+c65b99de0a492796  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_38.wav
+97a280c5f92adef9  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_37.wav
+7827c62e917ac75a  Baldurs Gate 2.bg2/music/BSD/BSDA1.acm
+abe9e8681d7c5f55  Baldurs Gate 2.bg2/music/BSD/BSDB1.acm
+d73ce0edacfee0f2  Baldurs Gate 2.bg2/music/BSD/BSDA2.acm
+e984a78f470f8745  Baldurs Gate 2.bg2/music/BSD/BSDB2.acm
+f1b3db92a3ce6f5a  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_39.wav
+faac0e5e8757da43  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_40.wav
+f51456ac94732a11  Baldurs Gate 2.bg2/music/BSD/BSDA3.acm
+9d7364a326b0c6b8  Baldurs Gate 2.bg2/music/BSD/BSDC1.acm
+d7664ca144602b08  Baldurs Gate 2.bg2/music/BSD/BSDC3.acm
+15a54412ddffa88d  Baldurs Gate 2.bg2/music/BSD/BSDC2.acm
+8ded41bced04fcce  Baldurs Gate 2.bg2/music/BSD/BSDD2.acm
+2bbd68585aa8d029  Baldurs Gate 2.bg2/music/BSD/BSDD1.acm
+7c2be87132c4f81b  Baldurs Gate 2.bg2/music/BSD/BSDD3.acm
+50b6ac833a1301d8  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_34.wav
+be70392da5b6dacb  Icewind Dale.iwd/Sounds/Male_Fighter_5/EMF_36.wav
+0c56e8b152d005bf  Baldurs Gate 2.bg2/music/BSD/BSDZ.acm
+5efc0f8e8f956d47  Baldurs Gate 2.bg2/music/BSD/BSDE1.acm
+ca497f21ceb05f54  Baldurs Gate 2.bg2/music/BSD/BSDB3.acm
+faca8b0eb10a404a  Baldurs Gate 2.bg2/music/BSD/BSDF1.acm
+398634a34cbec5d3  Baldurs Gate 2.bg2/music/BSD/BSDF2A.acm
+0a9b2ec0fddc8a2e  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_01.wav
+c76c5f7cc14d017b  Baldurs Gate 2.bg2/music/BSD/BSDE2.acm
+02b8a277a360de87  Baldurs Gate 2.bg2/music/BSD/BSDZD.acm
+478f67490796eeb6  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_02.wav
+d3a4189652d1ca05  Baldurs Gate 2.bg2/music/BSD/BSDZF2.acm
+1f739b46508a4682  Icewind Dale.iwd/Music/mx3601/mx3601a.acm
+6f612a9090ca6fc0  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_07.wav
+67a6e80ecb8b62a7  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_05.wav
+7ed50fb653478e05  Baldurs Gate 2.bg2/music/BSD/BSDZA3.acm
+fac209ec2fdc3743  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_04.wav
+97275ec5c92d5809  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_06.wav
+c2f6307bcb313a32  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_09.wav
+665d01a301986949  Baldurs Gate 2.bg2/music/BSD/BSDZF1.acm
+83c58dbdc92f58fe  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_08.wav
+f41f5719049a63fb  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_11.wav
+9a3cd2d10f1c0a51  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_10.wav
+04fc5be2c2ba7f90  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_12.wav
+1f4617941ef202b6  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_16.wav
+cd7d1774e377c9a1  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_13.wav
+10cf793c65833031  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_14.wav
+21172375973f11aa  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_17.wav
+14f43bbd92969e36  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_15.wav
+6c6cda82fe900561  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_18.wav
+13270158bf783b88  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_21.wav
+f94385eda401f09f  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_23.wav
+ae558a1eb018303d  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_19.wav
+9a112cde95e4fd2c  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_20.wav
+f51f56e155caa8bc  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_22.wav
+63caae596c3979bb  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_26.wav
+63f30938763ea9d0  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_28.wav
+a9722ca2ad6c4ce0  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_25.wav
+bca10b0cf2d2167e  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_24.wav
+070b780ec48aa37c  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_27.wav
+bb27012017dfc75a  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_32.wav
+457835d6c557aafd  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_33.wav
+bfb6eef65350de8b  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_31.wav
+0563f9ef53f93f55  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_03.wav
+1692939a1360e1e6  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_29.wav
+e9638271d3553752  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_30.wav
+139a642316f6d710  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_38.wav
+3b049df13c3996cb  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_36.wav
+8e7cc45c0c2730b6  Baldur's Gate.bg1/Music/FDay/FDaya.ACM
+9eb196bba6a86b46  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_37.wav
+c5d00a79bb86711f  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_39.wav
+4bc3b5934a11c1e4  Baldurs Gate 2.bg2/music/BST/BSTA.acm
+f149c8c29c483958  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_40.wav
+e37c26c4641de7e5  Baldurs Gate 2.bg2/music/BST/BSTC2.acm
+b072712e36bcd0fc  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_35.wav
+7719f340fc9ac3d0  Baldurs Gate 2.bg2/music/BST/BSTF1.acm
+6587510eea73715f  Baldurs Gate 2.bg2/music/BST/BSTC1.acm
+62164e21c318eaf3  Baldurs Gate 2.bg2/music/BST/BSTF2.acm
+75e3121aa33cbdfe  Baldurs Gate 2.bg2/music/BST/BSTD1.acm
+622376f110fbb6c5  Baldurs Gate 2.bg2/music/BST/BSTD2.acm
+5252c813ba147d70  Baldurs Gate 2.bg2/music/BST/BSTH1.acm
+66ea8f4f0aa82fc2  Icewind Dale.iwd/Sounds/Male_Mage_1/EMM_34.wav
+c44c2d7f7ae752f2  Baldurs Gate 2.bg2/music/BST/BSTG1.acm
+ec82de1c5bc911e5  Baldurs Gate 2.bg2/music/BST/BSTJ1.acm
+b99fcea4d2305e5d  Baldurs Gate 2.bg2/music/BST/BSTH2.acm
+249181373949b7f8  Baldurs Gate 2.bg2/music/BST/BSTZA.acm
+c47dc4193f4eb3e6  Baldurs Gate 2.bg2/music/BST/BSTZB.acm
+9f2c3c624e27864f  Baldurs Gate 2.bg2/music/BST/BSTZG1.acm
+e41caa07a765e4f8  Icewind Dale.iwd/Music/mx3603/mx3603a.acm
+8f04d1031d6d7922  Baldurs Gate 2.bg2/music/BST/BSTZG2.acm
+5592c778d0866704  Baldurs Gate 2.bg2/music/BST/BSTB.acm
+4bbe85fdae888e66  Baldurs Gate 2.bg2/music/BST/BSTG2.acm
+760f39995d711817  Baldurs Gate 2.bg2/music/BST/BSTZH2.acm
+b92b063fef2f48f7  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_02.wav
+1417b9a7baae9014  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_04.wav
+0e4892d19bec25da  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_03.wav
+40efe30ac54aed18  Baldurs Gate 2.bg2/music/BST/BSTZC.acm
+1b50e79f64e3dd5e  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_08.wav
+96be12ca289bac57  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_09.wav
+9ad24a9fb0ed8667  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_10.wav
+8b4de443665739e2  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_06.wav
+17842a10a6a875d7  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_07.wav
+7eb26372a6f0b7a4  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_05.wav
+93684be11bc373b8  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_12.wav
+097bd702d9fa12a8  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_11.wav
+052fabadf25720cf  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_13.wav
+9ef4a3f5d59d5399  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_01.wav
+0163a21cef5c5ef7  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_16.wav
+db4bb78e6b7a9034  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_15.wav
+7f54f02b0e1d7b65  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_17.wav
+4167375738f7936e  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_18.wav
+e0f142337635ac63  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_19.wav
+bd334f212dc14428  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_20.wav
+1052677104e170c1  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_14.wav
+d1b550b006abd899  Baldur's Gate.bg1/Music/FNite/FNitea.ACM
+3cc8cad0630a1f93  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_22.wav
+548d9b210b7f78cf  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_23.wav
+8c951d8ea51aec64  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_24.wav
+d36a7418e27d6b87  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_26.wav
+b4397a8d5d7a3372  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_28.wav
+599954e53a411a05  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_29.wav
+c21af970db84816a  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_34.wav
+86ca40d4b71d82a8  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_35.wav
+f5526467cc4e6022  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_21.wav
+dc9006363faff0eb  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_33.wav
+632aaea34406770f  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_27.wav
+ad4ce03818fae12b  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_25.wav
+9638e2117ec693a1  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_32.wav
+a1bb8ff6b160023c  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_31.wav
+2ebd16f3baf768d0  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_30.wav
+7679a29b5bb90e7f  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_36.wav
+09fcc2c698407729  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_37.wav
+3e87d03dd692d81a  Baldurs Gate 2.bg2/music/Blank/BLANKA.acm
+99d682014db3e5a3  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_02.wav
+770ebb518f8d4830  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_40.wav
+c7191314a61e38a9  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_03.wav
+436765e1db705108  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_05.wav
+3e234ebe35ef12a1  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_38.wav
+c26ba372588d9460  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_06.wav
+9e2f35fbddc6aae0  Icewind Dale.iwd/Sounds/Male_Mage_2/GMM_39.wav
+65bbcba0b4099f94  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_01.wav
+92604e8b8ce87c62  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_07.wav
+4e2cee2ea38778b3  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_10.wav
+5f393a7462a0edf2  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_04.wav
+1212bd2e395b7025  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_09.wav
+864beac9a71f7829  Baldur's Gate.bg1/Music/Fort/Forta.ACM
+6dc3e9a2666b9782  Icewind Dale.iwd/Music/mx4001/mx4001a.acm
+404ad8b8fda9dfc7  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_15.wav
+e481771c10845926  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_14.wav
+3e86ccfe09babd4e  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_17.wav
+bf8764a476b05dc0  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_11.wav
+ef9fa04cc2fa8b72  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_08.wav
+cc715f3851525ad1  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_18.wav
+ca861ec46310cf9d  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_16.wav
+19a51bebc68efc4f  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_12.wav
+5fa1821f441b6ac7  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_13.wav
+64ed4f66e3fe69bd  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_22.wav
+7f00322f777acb19  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_19.wav
+63c1d66fc893dc04  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_21.wav
+8a8157147c22b0bd  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_25.wav
+ce159097688b4b51  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_24.wav
+cedd77c8fb126d5c  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_20.wav
+15f00f6c21e5bc0d  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_28.wav
+007c25691a11f832  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_32.wav
+7a557621dda4246a  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_23.wav
+ed1d08d6b0283524  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_27.wav
+aec92d09cca5702e  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_26.wav
+a6f06b594aa4820c  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_29.wav
+c91122a1a41a055b  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_33.wav
+eafffa43c7ff284e  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_30.wav
+168f879981ab60bb  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_31.wav
+bd0013e2b2422809  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_34.wav
+afea61de83e7692a  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_35.wav
+5fbe87cfb272845d  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_39.wav
+c3646b9bc6b8d606  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_38.wav
+4d95dcf2cd5c7019  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_37.wav
+3a0307a38a09d248  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_40.wav
+f6035f3d68cb2553  Icewind Dale.iwd/Sounds/Male_Mage_3/GMT_36.wav
+a96125de457c8ea4  Icewind Dale.iwd/Music/mx4005/Mx4005a.acm
+fa847d063db95a4b  Baldurs Gate 2.bg2/music/Harp_v6/harp_v6a.acm
+edd08f85848baa67  Baldurs Gate 2.bg2/music/Harp_v2/harp_v21c.acm
+e135ce435467a6c2  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_01.wav
+5a62622bbe8caf80  Baldurs Gate 2.bg2/music/Harp_v2/harp_v2b.acm
+48d11748615790c6  Baldurs Gate 2.bg2/music/Harp_v6/harp_v6b.acm
+652a13e497f67b15  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_03.wav
+6ef3122f6a6cb686  Baldur's Gate.bg1/Music/PDay/PDaya.ACM
+2d0ac52d495451cb  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_04.wav
+6007564c31a79701  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_05.wav
+6adbed20675f0534  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_06.wav
+376da780a083cd4e  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_09.wav
+2441575b566483be  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_10.wav
+10c9949d716d8f02  Baldurs Gate 2.bg2/music/Harp_v2/harp_v2a.acm
+4096aa124e1f8860  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_08.wav
+ed3107df3fa9688a  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_07.wav
+179b605fb47ad258  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_02.wav
+9feb3a797ab12348  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_13.wav
+ae227e74d0949d6e  Baldurs Gate 2.bg2/music/Harp_v6/harp_v6c.acm
+a833e81cc63d3654  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_11.wav
+2d68dc5419f53b65  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_14.wav
+afe54971647f62fc  Icewind Dale.iwd/Music/mx5000/mx5000a.acm
+29ac47b5a38c78e7  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_15.wav
+592c8b97bd454863  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_16.wav
+fc62aff5cb6270e2  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_12.wav
+5038bffba0ccb2eb  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_17.wav
+b31d71418cfa5244  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_18.wav
+a2fb2b956c991ce5  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_20.wav
+7217fb41abf98e2d  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_21.wav
+33b0af6ec32f2d41  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_24.wav
+0a3364d71a05b994  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_25.wav
+090a675606ef69c4  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_26.wav
+3eaf43d10a2beea6  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_19.wav
+658ee30f94802305  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_23.wav
+fbf14e31471d5abf  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_29.wav
+7b3f518dd1e852eb  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_28.wav
+e4e06ed569c2d686  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_22.wav
+ebc9ec3bd1087121  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_27.wav
+fd8dc5958b745fb3  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_30.wav
+0bf2ab5fa7b8dd7e  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_32.wav
+63efd4a07c754ad6  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_34.wav
+6dccb2b43476f03f  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_35.wav
+01b6754f1213d281  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_31.wav
+a3477777abc74b49  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_36.wav
+809d7e61d282931b  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_33.wav
+06350a79bad90a8c  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_37.wav
+3eef4e5dc8f5008a  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_40.wav
+30f1cb5caa97356e  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_39.wav
+00132beda7428a8a  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_02.wav
+22abdac267bf7e10  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_01.wav
+55018e92e24067a1  Icewind Dale.iwd/Sounds/Male_Mage_4/HMC_38.wav
+77d4236201a80934  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_04.wav
+7e9a8d6676fd6f0f  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_03.wav
+a948caead56fb7d3  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_06.wav
+a3f2b47d7e9d3a73  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_08.wav
+929d18f26b14ecd0  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_09.wav
+64434be4213245c7  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_07.wav
+2c5301e8a09ab051  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_10.wav
+f5b8c7fa76a1106f  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_11.wav
+3a79dd288d01207d  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_13.wav
+083f7d8b1366bfde  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_15.wav
+b20ae40e3f0f8bbb  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_14.wav
+844222e665b54035  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_16.wav
+4492410015f626eb  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_12.wav
+781b7d96cb713005  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_19.wav
+fba775919553e508  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_20.wav
+566ccda89ae9313b  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_22.wav
+4760b265d6b2a0fd  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_21.wav
+d9e32404ec1dfcb3  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_17.wav
+822d2a845830654b  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_18.wav
+a712122a1a032ffb  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_27.wav
+191afba6460ccf8e  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_28.wav
+5a5c56f49d895775  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_23.wav
+1d2dc53f2de86c27  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_26.wav
+4386b9b4cf2c8470  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_24.wav
+326d8c42743914a9  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_29.wav
+f0edc45f2074dd94  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_30.wav
+4c74de0cb83f1ff8  Baldur's Gate.bg1/Music/PNite/PNitea.ACM
+c36efe61ce34fc9d  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_25.wav
+8ea6a23a9ef3de6a  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_34.wav
+af3efa52bdd30363  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_35.wav
+13490ef54e98c5ee  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_32.wav
+b88e6e78379d8967  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_33.wav
+37e9bcaa0293d8c2  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_37.wav
+262ab4cedc1bed58  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_36.wav
+ebd4600c8fc22a70  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_38.wav
+40113afc5ba2e3a9  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_39.wav
+72a9d1e4bb12e599  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_31.wav
+c6b7fa52abf8ed1c  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_01.wav
+e16241728e903bde  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_02.wav
+bdbf83cb468cb0da  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_40.wav
+b7fcb58cace46955  Icewind Dale.iwd/Sounds/Male_Mage_5/HaMF_05.wav
+190465a9dae23024  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_03.wav
+24f0b1d5122cec69  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_06.wav
+7072d1c4a9f81d13  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_04.wav
+e306788ec82f463a  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_08.wav
+655fa9a37481ab7d  Baldurs Gate 2.bg2/music/MX0011/MX0011a.acm
+0884766d7143e2d3  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_10.wav
+b426a975b61bb934  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_07.wav
+3bf4168983b82bdc  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_05.wav
+8106a81b2568304f  Baldur's Gate.bg1/Music/TDay1/TDay1a.ACM
+45909db9a9a8117d  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_09.wav
+5bc253a46357f873  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_14.wav
+831c3951bbd6b72c  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_13.wav
+9b8eff974644ccf6  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_12.wav
+1dec1c39219b1a9b  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_15.wav
+70f32b901da97916  Icewind Dale.iwd/Music/mx5001/mx5001a.acm
+62097b9b81aac84f  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_16.wav
+cd0e341be168f706  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_18.wav
+d24ddf293e2d54d9  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_19.wav
+519d4a0e85d49bde  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_20.wav
+2b1703e8ecf2ed2e  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_17.wav
+7fd9e0b0423153d3  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_22.wav
+bf6db3e0bca108b3  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_23.wav
+ffe2a89d72e5312e  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_11.wav
+2a3df77759605f08  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_21.wav
+d51f3fa00d7d4973  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_24.wav
+fb4200e6b705c873  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_29.wav
+76edefa9e0f5d402  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_30.wav
+66adfd7fa0b25779  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_28.wav
+7ddfd3a60e15c119  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_25.wav
+38fc9b7ea04384ff  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_27.wav
+212e144d0074d87b  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_31.wav
+e64b51cd35970539  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_32.wav
+b16e0c932ce63adf  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_26.wav
+4e754ee21bef8690  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_33.wav
+304da3b35ac4acb8  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_34.wav
+28eb20fe86e0a260  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_40.wav
+cf3fb7d0be685067  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_35.wav
+cf470c0936c65003  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_39.wav
+0a426aa5b80deac1  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_36.wav
+3b968972025637eb  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_38.wav
+54d3c774bc5c67ae  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_01.wav
+cacdfd04bc4248ec  Icewind Dale.iwd/Sounds/Male_Thief_1/EMT_37.wav
+680f376fcb2c7918  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_04.wav
+2f26f7b756660072  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_03.wav
+911ba5669b6fd6c5  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_02.wav
+cea89ec7c6d98382  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_05.wav
+9153c478498e223e  Icewind Dale.iwd/Music/mx5101/mx5101a.acm
+437628cd373de5c1  Baldur's Gate.bg1/Music/TDay2/TDay2a.ACM
+c101764497f8df4f  Icewind Dale.iwd/Music/mx6000/mx6000a.acm
+00c34786733a3e66  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_07.wav
+ba0f79eac78cd0ec  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_06.wav
+394c823f7058e36b  Baldurs Gate 2.bg2/music/MX0602/MX0602a.acm
+5d390d3f7977e6e5  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_11.wav
+36dfdeed4997c24c  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_08.wav
+9ff8ed4fde5e9647  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_12.wav
+b1a579f8ed846dd2  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_10.wav
+a33c978b34ed693a  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_13.wav
+28d09499b5334ee3  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_15.wav
+7a1e95fd79984366  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_14.wav
+fd5d880be27158ce  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_16.wav
+668517c2827812aa  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_18.wav
+b73138e66f3b1992  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_09.wav
+b231a457d1c5ab2d  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_17.wav
+1064d9635b18eb9f  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_19.wav
+1368e2dfdb7d1674  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_22.wav
+f6ac14edd4f3bb46  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_24.wav
+93795096dd003e3b  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_23.wav
+8bd3d1b9784378ae  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_21.wav
+f3baf16c018e7898  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_20.wav
+f2af06788a3992c7  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_25.wav
+e2590b5246f06908  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_26.wav
+d78960e4c3558637  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_29.wav
+fd72457ea7004114  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_31.wav
+f744965fa2033102  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_28.wav
+a05682768f25b0d8  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_34.wav
+1200babf3962274e  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_27.wav
+1311d064b51fbf49  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_32.wav
+88cba88296dd4c8d  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_33.wav
+40f0ce6848e4e293  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_30.wav
+6d493d9cede0b342  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_40.wav
+2c96c8c6030ed53e  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_38.wav
+b268464c35ce0de9  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_36.wav
+4410aa3879fc5f9d  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_37.wav
+a0d5512127e4bcf8  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_35.wav
+a5c387ff4b8edf4f  Icewind Dale.iwd/Sounds/Male_Thief_2/HeMT_39.wav
+0dee9469af4ec430  Baldurs Gate 2.bg2/music/MX1200/MX1200a.acm
+bc91652f396d8897  Baldur's Gate.bg1/Music/TNite/TNitea.ACM
+550c8cd1f2ceb2c3  Baldurs Gate 2.bg2/music/MX1300/MX1300a.acm
+78f0615f630708c9  Baldurs Gate 2.bg2/music/MX1201/MX1201a.acm
+3d5485fb1b8a466f  Icewind Dale.iwd/Music/mx6001/mx6001a.acm
+1f745ae1c719f957  Icewind Dale.iwd/Music/mx6002/mx6002a.acm
+4d4d8c4909380f6e  Baldurs Gate 2.bg2/music/MX1304/MX1304a.acm
+7067ccb3b718a500  Icewind Dale.iwd/Music/mx6003/mx6003a.acm
+e1b6247445a36175  Baldur's Gate.bg1/Music/Tav1/Tav1a.acm
+065ee61d11935d92  Baldur's Gate.bg1/Music/Tav3/Tav3a.acm
+67f716fb0adacc6a  Baldur's Gate.bg1/Music/Tav2/Tav2a.acm
+58ba0cc7ecb0f1cf  Baldur's Gate.bg1/Music/Tav4/Tav4a.acm
+e853bcad6c2eae25  Baldurs Gate 2.bg2/music/MX1500/MX1500a.acm
+7eaa795acaba80fc  Icewind Dale.iwd/Music/mx6005/mx6005a.acm
+14e0b07741a3f7a5  Baldurs Gate 2.bg2/music/MX1600/MX1600a.acm
+9a3698c9034eb934  Baldur's Gate.bg1/Music/Temple/Templea.ACM
+cd76c72b96dccc7e  Icewind Dale.iwd/Music/mx7001/mx7001a.acm
+0351317868e9bf14  Icewind Dale.iwd/Music/mx7000/mx7000a.acm
+f485873a28815f4a  Icewind Dale.iwd/Music/mx7004/mx7004a.acm
+b5e2484f5c7154a5  Baldur's Gate.bg1/Music/Theme/Themea.ACM
+d0d15ecefeccdae4  Baldurs Gate 2.bg2/music/Mx0013/MX0013a.acm
+6048ae37c41ef311  Baldurs Gate 2.bg2/music/Mx0012/MX0012a.acm
+722ff49d0d0b7507  Baldurs Gate 2.bg2/music/Mx0015/mx0015a.ACM
+ce7819a9f3150edb  Icewind Dale.iwd/Music/mx8001/mx8001a.acm
+c41447a0a59ef6a9  Icewind Dale.iwd/Music/mx8004/mx8004a.acm
+1c397dc0ec9d8cf4  Baldurs Gate 2.bg2/music/Mx0020/MX0020a.acm
+e913283a0747e820  Icewind Dale.iwd/Music/mx9000/mx9000a.acm
+66a70642a190e0ab  Icewind Dale.iwd/Music/mx8009/mx8009a.acm
+6771ae35000663fe  Icewind Dale.iwd/Music/mx8012/mx8012a.acm
+814b9adf5a66552a  Baldurs Gate 2.bg2/music/Mx0021/MX0021a.acm
+aa3d3d26f6575b27  Baldurs Gate 2.bg2/music/Mx0202/MX0202a.acm
+b1189aee397149dc  Baldurs Gate 2.bg2/music/Mx0313/MX0313a.acm
+7b5d1c557981f0af  Icewind Dale.iwd/Music/mx8005/mx8005a.acm
+767f036cdf3c6f8d  Baldurs Gate 2.bg2/music/Mx0300/MX0300a.acm
+f9cd19329f3f46cb  Baldurs Gate 2.bg2/music/Mx0204/MX0204a.acm
+5925efb58734f9d7  Baldurs Gate 2.bg2/music/Mx0406/mx0406a.ACM
+ffb3a7e317fb12ff  Baldurs Gate 2.bg2/music/Mx0400/MX0400a.acm
+e6622cdf136a9923  Baldurs Gate 2.bg2/music/Mx0400n/MX0400na.acm
+078856b4261558ee  Baldurs Gate 2.bg2/music/Mx0414/MX0414a.acm
+2ce4b24e0775d6ff  Baldurs Gate 2.bg2/music/Mx0404/MX0404a.acm
+41c863ad3a491792  Baldurs Gate 2.bg2/music/Mx0410/MX0410a.acm
+927b7e04cd1f682b  Baldurs Gate 2.bg2/music/Mx0516/MX0516a.acm
+c7dc1825bdcaaa50  Baldurs Gate 2.bg2/music/Mx0900/MX0900a.acm
+c2964c86c08d9372  Baldurs Gate 2.bg2/music/Mx1900/MX1900a.acm
+c2245cb13f52a522  Baldurs Gate 2.bg2/music/Mx0500/MX0500a.acm
+4e8387ef0404922b  Baldurs Gate 2.bg2/music/Mx0700/MX0700a.acm
+3d2258c5143565a9  Baldurs Gate 2.bg2/music/Mx0512/MX0512a.acm
+852d61805cf89aa7  Baldurs Gate 2.bg2/music/Mx2000/MX2000a.acm
+dcc20618e8c1fba7  Baldurs Gate 2.bg2/music/Mx1100/MX1100a.acm
+ecf589272c98112f  Baldurs Gate 2.bg2/music/Mx2300/MX2300a.acm
+f994fc07663f1cd8  Baldurs Gate 2.bg2/music/MxThief/MxThiefA.acm
+76cc9329a6cc5c70  Baldurs Gate 2.bg2/music/MxKhali/MxKhaliA.acm
+1025cbbc6af974da  Baldurs Gate 2.bg2/music/MxKalah/MxKalahA.acm
+9c5db7d8a796cf05  Baldurs Gate 2.bg2/music/Mx1400/MX1400a.acm
+26b678dd871062e8  Baldurs Gate 2.bg2/music/Mx2100/MX2100a.acm
+c8522827d6764278  Baldurs Gate 2.bg2/music/MxAnom/MxAnomA.acm
+6fbb849a0ab2f805  Baldurs Gate 2.bg2/music/MxAerie/MxAerieA.acm
+e1f6ade4e5de8a98  Baldurs Gate 2.bg2/music/MxJahir/MxJahirA.acm
+e1b6247445a36175  Baldurs Gate 2.bg2/music/Tav1/Tav1a.acm
+cf71bffcedebb407  Baldurs Gate 2.bg2/music/Theme/themeB.acm
+67f716fb0adacc6a  Baldurs Gate 2.bg2/music/Tav2/Tav2a.acm
+58ba0cc7ecb0f1cf  Baldurs Gate 2.bg2/music/Tav4/Tav4a.acm
+065ee61d11935d92  Baldurs Gate 2.bg2/music/Tav3/Tav3a.acm
+1728c0c9254303d8  Baldurs Gate 2.bg2/music/Theme/themec.acm
+4f59afe5d117c833  Baldurs Gate 2.bg2/music/MxVicon/MxViconA.acm
+d980a16feb9e8412  Baldurs Gate 2.bg2/music/Theme/themea.acm
+c0567de730dbd877  Baldurs Gate 2.bg2/music/Theme/themed.acm

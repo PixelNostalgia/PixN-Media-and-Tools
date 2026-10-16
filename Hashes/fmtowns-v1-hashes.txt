@@ -1,0 +1,616 @@
+6b9576ed0ca37ff4  4D Sports Boxing (1991)(Distinctive Software)(Jp-En).chd
+1c7f8d955c357a80  AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).chd
+e06e9429bb341bc1  Bubble Bobble (1993)(Ving)(Jp-En).chd
+691506ef23354e3b  Afterburner 2 (1989)(Sega)(Jp-En).chd
+102a5c5a9c463afa  Afterburner (1987)(Sega)(Jp-En).chd
+58daf1bb7023a82a  Blandia (1994)(Ving)(Jp-En)[mp3 source].chd
+38a4651c92b1a7ca  Advantage Tennis (1992)(Fujitsu)(Jp-En).chd
+9654107d7915a07a  Afterburner 3 (1992)(Sega)(Jp).chd
+e67e604b08060fea  Chase HQ (1991)(Ving)(Jp-En).chd
+6db09dd06e72f2bd  Castles (1992)(Victor)(Jp-En).chd
+3cf6faa310b03082  Dungeon Master (1987)(FTL)(Jp-En).chd
+ea2ea20ccf335bfa  Drakkhen (1990)(Fujitsu)(Jp-En).chd
+5a3072e1fc52356c  Genocide Squared (1993)(Zoom)(Jp-En).chd
+140be264cd8f71e8  Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).chd
+89661ebbdb322411  Final Blow (1990)(Ving)(Jp-En).chd
+d273a6ef085c1b06  Lemmings (1991)(Psygnosis)(Jp-En).chd
+df0e0ce07bb3c9e7  LibbleRabble (1993)(Namco)(Jp-En).chd
+b364710e41f48d1f  Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).chd
+33933df68f3ab4e5  Evolution (1989)(System Sacom)(Jp-En).chd
+7c032b5e5c958e5a  Flying Shark (1993)(Ving)(Jp-En).chd
+b048b24a87ac580f  Image Fight (1990)(Ving)(Jp-En).chd
+2d5326ed855ab2f9  Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).chd
+9c9abc5575b9598d  Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).chd
+79b42193caef28c6  Populous (1990)(Imagineer)(Jp-En).chd
+2be7b11b331e8c6d  Galaxy Force II (1990)(CSK)(Jp-En).chd
+e93caa3c04eb6bb8  Power Monger (1992)(Imagineer)(Jp-En).chd
+1738403eb7a441b5  Marble Madness (1991)(Homedata)(Jp-En).chd
+e1892cabc29930ea  Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].chd
+75aaabf9bc393613  Loom (1991)(LucasFilm)(Jp-En).chd
+6b8fe2a84e3717cb  Mad Stalker (1994)(Family Soft)(Jp-En).chd
+003c90fc06a4cb6e  Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].chd
+4d4e0acbba3250c1  Raiden Densetsu (1991)(Kid Corp)(Jp-En).chd
+be93b556e5e500b4  Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).chd
+f55a134058e8367c  Rainbow Islands Extra (1992)(Ving)(Jp-En).chd
+9c952ef7e6c22c3e  Queen Of Duellist, The (199x)(Agumix)(Jp-En).chd
+1a6444d2b9438d5c  Pu-Li-Ru-La (1994)(Ving)(Jp-En).chd
+be900b32b8cccd84  Rayxanber (1990)(Datawest)(Jp-En).chd
+6382e2db0826721b  Muscle Bomber (1994)(CapCom).chd
+740c39ad3b17fa15  Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].chd
+25cc935a1a17e954  Scavenger 4 (1994)(Psygnosis)(Jp-En).chd
+c4abcbc5b86ad80a  Strike Commander Plus (1994)(Origin)(Jp-En).chd
+7df1adbee493f9f9  Shadow of the Beast (1994)(Psygnosis)(Jp-En).chd
+77320596baf70133  Sim City (1990)(Maxis)(Jp-En).chd
+a402a7394eab2297  Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).chd
+b93515792c3fc346  Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).chd
+d7a6a40634e666bd  Splatterhouse (1992)(Ving)(Jp-En).chd
+ce677601dad25abf  Super Shooting Towns (199x)(-)(Jp-En).chd
+a8e11781a8ebade9  Turbo Outrun (1988)(Sega)(Jp).chd
+99e159b85d2a9cb9  Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).chd
+3f4221e03adf8ac3  gamelist_ARRM.xml
+35668704a6684ab0  media/marquee/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+cf042506c04079fa  media/marquee/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).png
+1e7eaf58395b4b91  media/marquee/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+f42524f6f8a2c2d3  Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).chd
+e31d65581bc1dcad  media/marquee/Afterburner (1987)(Sega)(Jp-En).png
+fecacec902ddcb3c  Super Street Fighter II (1993)(Capcom)(Jp-En).chd
+c7c7bc23a2f023c7  media/marquee/Afterburner 2 (1989)(Sega)(Jp-En).png
+5dfb2d0ebda6e042  media/marquee/Afterburner 3 (1992)(Sega)(Jp).png
+0488b0f33ea81695  media/marquee/Bubble Bobble (1993)(Ving)(Jp-En).png
+d68f03e9cd7d4fa4  media/marquee/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+c2bc57bf01a31c3f  media/marquee/Castles (1992)(Victor)(Jp-En).png
+db7b6fcb05da9be9  media/marquee/Drakkhen (1990)(Fujitsu)(Jp-En).png
+e205d7d9713ed527  media/marquee/Dungeon Master (1987)(FTL)(Jp-En).png
+0eb58ee6dc8893a9  media/marquee/Chase HQ (1991)(Ving)(Jp-En).png
+bd75ba204ccf18cc  media/marquee/Evolution (1989)(System Sacom)(Jp-En).png
+26fe4a884175cafe  media/marquee/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+9ddba5a3420824ac  media/marquee/Final Blow (1990)(Ving)(Jp-En).png
+502e82e90a638a66  media/marquee/Genocide Squared (1993)(Zoom)(Jp-En).png
+0e8054d44e134904  media/marquee/Galaxy Force II (1990)(CSK)(Jp-En).png
+9ae77fa3c3fb0a26  media/marquee/Flying Shark (1993)(Ving)(Jp-En).png
+a55a87f7437b92e9  media/marquee/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+58f248e0adb4e2d5  media/marquee/Image Fight (1990)(Ving)(Jp-En).png
+06e6502e0f759911  media/marquee/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].png
+9da915c31e454be8  media/marquee/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+29cfb148235fcf65  Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).chd
+023b6f6215a421bf  media/marquee/Lemmings (1991)(Psygnosis)(Jp-En).png
+63492fe27ad901d9  media/marquee/LibbleRabble (1993)(Namco)(Jp-En).png
+69b5e9d015314197  media/marquee/Loom (1991)(LucasFilm)(Jp-En).png
+ebad9bcf206afd95  media/marquee/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+8e458e526efa584f  media/marquee/Marble Madness (1991)(Homedata)(Jp-En).png
+4cdbfce8fdb0864e  media/marquee/Mad Stalker (1994)(Family Soft)(Jp-En).png
+2a8b4dd2fec733fe  media/marquee/Populous (1990)(Imagineer)(Jp-En).png
+b4c6509cdcfd103e  media/marquee/Muscle Bomber (1994)(CapCom).png
+d5f4658ebc4250a9  media/marquee/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+d24c7a1bf6666caf  media/marquee/Power Monger (1992)(Imagineer)(Jp-En).png
+60b9c2a82d27b534  media/marquee/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+aeef4870258e9002  media/marquee/Raiden Densetsu (1991)(Kid Corp)(Jp-En).png
+ef159eea4445f4a0  media/marquee/Rayxanber (1990)(Datawest)(Jp-En).png
+20e568dc1ee72771  media/marquee/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+70c24faffa3086a5  media/marquee/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+8155e1f53a78b637  media/marquee/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+3d1b4bc99b466bdc  media/marquee/Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).png
+4aac89cbb29bb75d  media/marquee/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+ea998e00ef18e4bd  media/marquee/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+79b3caee8a75c6c7  media/marquee/Sim City (1990)(Maxis)(Jp-En).png
+1c2c11015b1c12ea  media/marquee/Strike Commander Plus (1994)(Origin)(Jp-En).png
+c5a79ad51e43069f  media/marquee/Super Shooting Towns (199x)(-)(Jp-En).png
+4bd1edce347d2417  media/marquee/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+9ff57cd8b58f992d  media/marquee/Turbo Outrun (1988)(Sega)(Jp).png
+6c29ae5dddaa0d7e  media/marquee/Splatterhouse (1992)(Ving)(Jp-En).png
+d480301308b40887  media/marquee/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+eb55807cecfa24ae  media/marquee/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+5edbdc0b977edd7e  media/marquee/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).png
+8009c23e3c419283  media/marquee/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+a5d1a9ead8034143  media/marquee/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+a809f8b0c7720895  media/marquee/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+6040910cebfe7c27  media/marquee/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).png
+ff35e86b9e8bdfdf  Viewpoint (1993)(Ving)(Jp-En)[mp3 source].chd
+97306b94a64af214  Wing Commander+Secret Missions (1990)(Origin)(Jp-En).chd
+f565c7c5f9a5d38f  media/marquee/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+60cb7e8f0041472b  media/marquee/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+fa622d23bb39c9fb  media/cartridges/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+a707518e7eabd0ab  media/cartridges/Afterburner (1987)(Sega)(Jp-En).png
+f4687882eff6c054  media/cartridges/Dungeon Master (1987)(FTL)(Jp-En).png
+2fca0afb81bd5aae  media/cartridges/Chase HQ (1991)(Ving)(Jp-En).png
+d6798f0b8c3e0872  media/cartridges/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+6558627dba4af2f5  media/cartridges/Castles (1992)(Victor)(Jp-En).png
+e4dc926947dc0f2a  media/cartridges/Afterburner 3 (1992)(Sega)(Jp).png
+1b7e5575a817ba4a  media/cartridges/Drakkhen (1990)(Fujitsu)(Jp-En).png
+3945b82002534142  media/cartridges/Galaxy Force II (1990)(CSK)(Jp-En).png
+8b3d63d1eec61c26  media/cartridges/Genocide Squared (1993)(Zoom)(Jp-En).png
+5dbbcdc7b2543ee4  media/cartridges/Image Fight (1990)(Ving)(Jp-En).png
+79c82d4ea45c3d11  media/cartridges/Lemmings (1991)(Psygnosis)(Jp-En).png
+79ae33836bcb81d5  media/cartridges/Flying Shark (1993)(Ving)(Jp-En).png
+85266d9ebea927d3  media/cartridges/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+a7971559c39d78f9  media/cartridges/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+abee6051d2ea227e  media/cartridges/Loom (1991)(LucasFilm)(Jp-En).png
+e75c1a433cdf9542  media/cartridges/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+7685b283b95c9325  media/cartridges/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+bf15d40409ba99db  media/cartridges/Populous (1990)(Imagineer)(Jp-En).png
+72319f923d52854d  media/cartridges/Mad Stalker (1994)(Family Soft)(Jp-En).png
+319c658dd95de7d1  media/cartridges/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+c5b86a46a9e6da43  media/cartridges/Raiden Densetsu (1991)(Kid Corp)(Jp-En).png
+d4e43d465c10ae6d  media/cartridges/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+b56c252f9ece05df  media/cartridges/Rayxanber (1990)(Datawest)(Jp-En).png
+5c994bb619926b80  media/cartridges/Splatterhouse (1992)(Ving)(Jp-En).png
+6ff28cc5904ab2b3  media/cartridges/Sim City (1990)(Maxis)(Jp-En).png
+80755beb7911cbee  media/cartridges/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+017dc8d92f0b3761  media/cartridges/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+92d8de25bf8f8af4  media/cartridges/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+cd5aebec51635490  media/cartridges/Turbo Outrun (1988)(Sega)(Jp).png
+098c08cb6f7f3fbb  media/cartridges/Super Shooting Towns (199x)(-)(Jp-En).png
+27ba068d4380e0cd  media/cartridges/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+391e1753901e8dc4  media/cartridges/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+ea91128fb2f50c31  media/cartridges/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+0501c067cd594a7f  Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).chd
+668809d3bcf3ff69  media/cartridges/Strike Commander Plus (1994)(Origin)(Jp-En).png
+971a8db627607355  media/cartridges/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+9ebaae0f965905ea  media/cartridges/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+a8ecbfc59e838024  media/cartridges/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+311d383df341cd09  Ultima VI - The False Prophet (1990)(Origins)(Jp-En).chd
+56e390640947ad00  media/manuals/Evolution (1989)(System Sacom)(Jp-En).pdf
+03d0080770ed62b3  media/manuals/Drakkhen (1990)(Fujitsu)(Jp-En).pdf
+b2c2cbaf7330eb6a  media/manuals/Loom (1991)(LucasFilm)(Jp-En).pdf
+a33d95afb870227a  media/box2d/Advantage Tennis (1992)(Fujitsu)(Jp-En).jpg
+c92c857e78d6f60b  media/box2d/Blandia (1994)(Ving)(Jp-En)[mp3 source].jpg
+c24875dbc3c08d12  media/box2d/Afterburner (1987)(Sega)(Jp-En).jpg
+772a18a98c829f34  media/box2d/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+6765f192b3ccfe28  media/box2d/Afterburner 3 (1992)(Sega)(Jp).jpg
+5a4bb3da4ceb40e7  media/box2d/Bubble Bobble (1993)(Ving)(Jp-En).jpg
+e17271760bb1580d  media/box2d/Castles (1992)(Victor)(Jp-En).jpg
+6d2962fd7311897e  media/box2d/Chase HQ (1991)(Ving)(Jp-En).jpg
+37949259b4201a18  media/box2d/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).jpg
+781eabfeb4f0fd49  media/box2d/Evolution (1989)(System Sacom)(Jp-En).jpg
+b3acd12aff3bdcf0  media/box2d/Drakkhen (1990)(Fujitsu)(Jp-En).jpg
+eb7735aee0fbab82  media/box2d/Dungeon Master (1987)(FTL)(Jp-En).jpg
+3a3cf6d47cf27978  media/box2d/Final Blow (1990)(Ving)(Jp-En).jpg
+d080a715e4885f73  media/box2d/Image Fight (1990)(Ving)(Jp-En).jpg
+370df1ffb42d2749  media/box2d/Genocide Squared (1993)(Zoom)(Jp-En).png
+32263030f62f5b09  media/box2d/Flying Shark (1993)(Ving)(Jp-En).jpg
+db02310dc46cfd28  media/box2d/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).jpg
+2b5ed6f6b61993b8  media/box2d/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).jpg
+4af6758fe9192368  media/box2d/Galaxy Force II (1990)(CSK)(Jp-En).jpg
+2c5099c2d95a7715  media/box2d/LibbleRabble (1993)(Namco)(Jp-En).jpg
+531281e92846fdff  media/box2d/Marble Madness (1991)(Homedata)(Jp-En).jpg
+e7f5631cd78e6b63  media/box2d/Loom (1991)(LucasFilm)(Jp-En).jpg
+e2fca2015fdf6600  media/manuals/Power Monger (1992)(Imagineer)(Jp-En).pdf
+3e11ee9db07bba44  media/manuals/Lemmings (1991)(Psygnosis)(Jp-En).pdf
+ec2046533ff04855  media/box2d/Muscle Bomber (1994)(CapCom).jpg
+0bd78ec335be1221  media/box2d/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].jpg
+5e18f0dcdab09d35  media/box2d/Pu-Li-Ru-La (1994)(Ving)(Jp-En).jpg
+dd081db4bc656fba  media/box2d/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+1258d392e19dbdda  media/box2d/Lemmings (1991)(Psygnosis)(Jp-En).jpg
+c733cca7386d34c9  media/box2d/Raiden Densetsu (1991)(Kid Corp)(Jp-En).jpg
+9e399eb816c9750e  media/box2d/Populous (1990)(Imagineer)(Jp-En).jpg
+4e9fb86f3398cb79  media/box2d/Power Monger (1992)(Imagineer)(Jp-En).jpg
+e8c763d146874128  media/box2d/Mad Stalker (1994)(Family Soft)(Jp-En).jpg
+9ef611872537b3d1  media/box2d/Queen Of Duellist, The (199x)(Agumix)(Jp-En).jpg
+ed26ec125ecaf5e0  media/manuals/Castles (1992)(Victor)(Jp-En).pdf
+ad4df5745639b538  media/box2d/Rainbow Islands Extra (1992)(Ving)(Jp-En).jpg
+a00e74bf2aaffd2b  media/box2d/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].jpg
+6292fdf85a21f67e  media/box2d/Shadow of the Beast (1994)(Psygnosis)(Jp-En).jpg
+5c4a69670d4b1ada  media/box2d/Scavenger 4 (1994)(Psygnosis)(Jp-En).jpg
+e97283b7050d7263  media/box2d/Splatterhouse (1992)(Ving)(Jp-En).jpg
+67c980906dcc2658  media/box2d/Rayxanber (1990)(Datawest)(Jp-En).jpg
+7c4e0b18c22d6b77  media/box2d/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).jpg
+1cf6a016f7aef3a2  media/box2d/Turbo Outrun (1988)(Sega)(Jp).jpg
+de9fcdc2db137119  media/box2d/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).jpg
+242eb8dd12b8550e  media/box2d/Strike Commander Plus (1994)(Origin)(Jp-En).jpg
+57715b2bea0a7f89  media/box2d/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].jpg
+bf88023bd6b84c2e  media/box2d/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+c09f96689647fce4  media/box2d/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).jpg
+1bc3660133c7a5ec  media/box2d/Sim City (1990)(Maxis)(Jp-En).jpg
+d9ec64a354756a2f  media/manuals/Sim City (1990)(Maxis)(Jp-En).pdf
+58d76ca3e94e97df  media/box2d/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).jpg
+c6df8f76a513b1e3  media/fanarts/Castles (1992)(Victor)(Jp-En).jpg
+e7ef3b0e033354dc  media/fanarts/Advantage Tennis (1992)(Fujitsu)(Jp-En).jpg
+061424801f5beda1  media/box2d/Super Shooting Towns (199x)(-)(Jp-En).jpg
+2b838a3f8fd61bba  media/fanarts/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).jpg
+2a9b66825cc1ab7c  media/box2d/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).jpg
+546ef4efd4d9d272  media/fanarts/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).jpg
+dc9e171bc326bf1c  media/fanarts/Chase HQ (1991)(Ving)(Jp-En).jpg
+f85fcdff1743f6c8  media/fanarts/Bubble Bobble (1993)(Ving)(Jp-En).jpg
+45c3570cb84b8501  media/box2d/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).jpg
+98cd4c67bc404a99  media/fanarts/Final Blow (1990)(Ving)(Jp-En).jpg
+9be20a47d74d2061  media/fanarts/Dungeon Master (1987)(FTL)(Jp-En).jpg
+e711f2f61ac40bbd  media/fanarts/Galaxy Force II (1990)(CSK)(Jp-En).jpg
+14644290d375aba1  media/fanarts/Genocide Squared (1993)(Zoom)(Jp-En).jpg
+994c0b4ea869fc71  media/fanarts/Lemmings (1991)(Psygnosis)(Jp-En).jpg
+86458d6ff7f28287  media/fanarts/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+4d348878338dbc23  media/fanarts/Flying Shark (1993)(Ving)(Jp-En).jpg
+527942ed1bef4797  media/fanarts/LibbleRabble (1993)(Namco)(Jp-En).jpg
+fadd16d475b12ddf  media/fanarts/Image Fight (1990)(Ving)(Jp-En).jpg
+2a1c35d8bed7ce1e  media/fanarts/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].jpg
+e75e7759354493a2  media/fanarts/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).jpg
+6a2f2a22289c4a11  media/fanarts/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+4d7c69a4e9cc6b68  media/fanarts/Power Monger (1992)(Imagineer)(Jp-En).jpg
+6fca707fa07122ba  media/fanarts/Marble Madness (1991)(Homedata)(Jp-En).jpg
+7c6dda3df0627148  media/fanarts/Loom (1991)(LucasFilm)(Jp-En).jpg
+85e21019764a8e59  media/fanarts/Drakkhen (1990)(Fujitsu)(Jp-En).png
+c23052086fb1261b  media/fanarts/Pu-Li-Ru-La (1994)(Ving)(Jp-En).jpg
+4ca5e0f3e40e9f97  media/fanarts/Rayxanber (1990)(Datawest)(Jp-En).jpg
+b6220e2e08ea6e01  media/fanarts/Muscle Bomber (1994)(CapCom).png
+a679b71ffa2f87af  media/fanarts/Shadow of the Beast (1994)(Psygnosis)(Jp-En).jpg
+b73a772806e6adf9  media/fanarts/Queen Of Duellist, The (199x)(Agumix)(Jp-En).jpg
+2988adb1dd385be4  media/fanarts/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).jpg
+ac97b0555322c940  media/fanarts/Sim City (1990)(Maxis)(Jp-En).jpg
+b7ba29cf06ef69c3  media/fanarts/Scavenger 4 (1994)(Psygnosis)(Jp-En).jpg
+b25e57e81eee7cca  media/fanarts/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).jpg
+5ad39538a2a72951  media/fanarts/Turbo Outrun (1988)(Sega)(Jp).jpg
+92e28f0d1f8ad0c1  media/fanarts/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).jpg
+893d4a82ca24dd2a  media/fanarts/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].jpg
+00cd6ca72070d4d1  media/fanarts/Splatterhouse (1992)(Ving)(Jp-En).jpg
+c2bc5b5c52c29689  media/fanarts/Super Street Fighter II (1993)(Capcom)(Jp-En).jpg
+9eda813c205ffb58  media/images/Afterburner (1987)(Sega)(Jp-En).png
+3b0dd6a2329dc874  media/images/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).png
+7eb54991b256a0b7  media/images/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+4d78914b94a3d1c5  media/images/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+f87fdcf49dbaaf37  media/images/Afterburner 2 (1989)(Sega)(Jp-En).png
+d8c846adba46b9e7  media/fanarts/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).jpg
+efeee61555ac4a90  media/images/Afterburner 3 (1992)(Sega)(Jp).png
+204e8f6e58e99027  media/images/Castles (1992)(Victor)(Jp-En).png
+3d801ed13aa126cf  media/images/Bubble Bobble (1993)(Ving)(Jp-En).png
+b38e740488dd1581  media/images/Chase HQ (1991)(Ving)(Jp-En).png
+68dd17979d1e8692  media/images/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+c44091cfcbae03e1  media/images/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+dfcf5eb989c7cca4  media/images/Final Blow (1990)(Ving)(Jp-En).png
+2a12429799737634  media/images/Flying Shark (1993)(Ving)(Jp-En).png
+7cf7a77330a1094a  media/images/Evolution (1989)(System Sacom)(Jp-En).png
+e37a1474798c27b7  media/images/Drakkhen (1990)(Fujitsu)(Jp-En).png
+689717035f408f4c  media/images/Dungeon Master (1987)(FTL)(Jp-En).png
+935f61ed898d29e3  media/images/Image Fight (1990)(Ving)(Jp-En).png
+9477ae070cedb7c5  media/images/Galaxy Force II (1990)(CSK)(Jp-En).png
+c01b0c2eb5d3ad67  media/images/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].png
+9de4ce14c5813bf9  media/images/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+318c22a444a78a14  media/images/LibbleRabble (1993)(Namco)(Jp-En).png
+fd2d35cc8cab289a  media/images/Loom (1991)(LucasFilm)(Jp-En).png
+eb723394fd0525f7  media/images/Genocide Squared (1993)(Zoom)(Jp-En).png
+c0c6ad2b53f0b276  media/images/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+26848d3727c298fe  media/images/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+3fe49983103a0835  media/images/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+1aaa3f23a2be38b5  media/images/Lemmings (1991)(Psygnosis)(Jp-En).png
+c1d9fc9f9c4cde3c  media/images/Mad Stalker (1994)(Family Soft)(Jp-En).png
+060fedb1c98d6416  media/images/Populous (1990)(Imagineer)(Jp-En).png
+6ded0828ab17edc1  media/images/Marble Madness (1991)(Homedata)(Jp-En).png
+5599a1ecbbd7cc99  media/images/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+ce6e1a1f6f520e91  media/images/Muscle Bomber (1994)(CapCom).png
+517150f203c28fd1  media/images/Power Monger (1992)(Imagineer)(Jp-En).png
+2495c0251d8e8d51  media/images/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+5303b8df062e9a44  media/images/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+3b17497b2766acd5  media/images/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+0c204d04f575289f  media/images/Raiden Densetsu (1991)(Kid Corp)(Jp-En).png
+f9227774b9050998  media/images/Rayxanber (1990)(Datawest)(Jp-En).png
+b69c2826e3a7ee96  media/images/Strike Commander Plus (1994)(Origin)(Jp-En).png
+f714e443ae3e3017  media/images/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+382ed840223a8cee  media/images/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+6e83f3846d955ff6  media/images/Super Shooting Towns (199x)(-)(Jp-En).png
+000c6bb854a9f0de  media/images/Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).png
+0caf9b86ee11c3ad  media/images/Sim City (1990)(Maxis)(Jp-En).png
+f46170deebf9edc9  media/images/Splatterhouse (1992)(Ving)(Jp-En).png
+c017bb54f30eee42  media/images/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+a7da463cd92681c4  media/images/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+95df68bc62b9b44b  media/images/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+9b18a4d4438b9f55  media/images/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+65c1628614a0ca55  media/images/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).png
+20e795ff88db6068  media/images/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).png
+2a7cc53eb418f810  media/images/Turbo Outrun (1988)(Sega)(Jp).png
+82528379894ed984  media/images/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+6275e71907eb3df4  media/images/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+dbe3c98fa272392f  media/boxback/Dungeon Master (1987)(FTL)(Jp-En).jpg
+022ff019a564eed1  media/images/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+179b683954e80fc5  media/boxback/Drakkhen (1990)(Fujitsu)(Jp-En).jpg
+2b672653691fb618  media/boxback/Afterburner (1987)(Sega)(Jp-En).jpg
+315344b70c395881  media/boxback/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).jpg
+6b13cc8948daae65  media/boxback/Afterburner 3 (1992)(Sega)(Jp).jpg
+d36e97b375cfd23c  media/boxback/Chase HQ (1991)(Ving)(Jp-En).jpg
+e2593dd8de1a0a7b  media/boxback/Final Blow (1990)(Ving)(Jp-En).jpg
+4b2440c19afbc290  media/images/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+fa500441d866be73  media/boxback/Flying Shark (1993)(Ving)(Jp-En).png
+a0623c37f9c5b8ca  media/boxback/Image Fight (1990)(Ving)(Jp-En).jpg
+62aeab3d99bd9241  media/boxback/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+3dc8f5a214453e49  media/boxback/LibbleRabble (1993)(Namco)(Jp-En).jpg
+3a90452f8f865be7  media/boxback/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).jpg
+0400c37f66bcf306  media/boxback/Loom (1991)(LucasFilm)(Jp-En).jpg
+b1a84cecf5cb1e38  media/boxback/Genocide Squared (1993)(Zoom)(Jp-En).png
+4d07e5e9ac947eac  media/boxback/Galaxy Force II (1990)(CSK)(Jp-En).jpg
+55511a033f0c1f5a  media/boxback/Rayxanber (1990)(Datawest)(Jp-En).jpg
+340901f0892541e8  media/boxback/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).jpg
+e16396af6addfe19  media/boxback/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).jpg
+f2988bb031cdd52f  media/boxback/Populous (1990)(Imagineer)(Jp-En).jpg
+441d5161c4b91df8  media/boxback/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).jpg
+8f17c0823b24ec02  media/boxback/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+c37d8bcafd9ef6c3  media/boxback/Strike Commander Plus (1994)(Origin)(Jp-En).jpg
+b4a36cd19621bfd8  media/boxback/Mad Stalker (1994)(Family Soft)(Jp-En).jpg
+d4982f06bbe33879  media/boxback/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].jpg
+3e258223b233b2f9  media/boxback/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).jpg
+5b240a9dac3f6740  media/boxback/Super Street Fighter II (1993)(Capcom)(Jp-En).jpg
+ea7b83a83d6b0a67  media/boxback/Sim City (1990)(Maxis)(Jp-En).jpg
+abf384ffa2c986f2  media/boxback/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+c0ced22bcf230e75  media/boxback/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).jpg
+536fd32a820293ac  media/boxback/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+f849f72e964ce62c  media/boxback/Turbo Outrun (1988)(Sega)(Jp).png
+b31fa143ee28bb72  media/boxback/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+9eda813c205ffb58  media/mix/Afterburner (1987)(Sega)(Jp-En).png
+7eb54991b256a0b7  media/mix/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+4d78914b94a3d1c5  media/mix/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+c44091cfcbae03e1  media/mix/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+da1f112844844450  media/boxback/Splatterhouse (1992)(Ving)(Jp-En).png
+1c37e6277a211fea  media/boxback/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).jpg
+3d801ed13aa126cf  media/mix/Bubble Bobble (1993)(Ving)(Jp-En).png
+3b0dd6a2329dc874  media/mix/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).png
+f87fdcf49dbaaf37  media/mix/Afterburner 2 (1989)(Sega)(Jp-En).png
+204e8f6e58e99027  media/mix/Castles (1992)(Victor)(Jp-En).png
+efeee61555ac4a90  media/mix/Afterburner 3 (1992)(Sega)(Jp).png
+dfcf5eb989c7cca4  media/mix/Final Blow (1990)(Ving)(Jp-En).png
+7cf7a77330a1094a  media/mix/Evolution (1989)(System Sacom)(Jp-En).png
+b38e740488dd1581  media/mix/Chase HQ (1991)(Ving)(Jp-En).png
+2a12429799737634  media/mix/Flying Shark (1993)(Ving)(Jp-En).png
+68dd17979d1e8692  media/mix/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+e37a1474798c27b7  media/mix/Drakkhen (1990)(Fujitsu)(Jp-En).png
+689717035f408f4c  media/mix/Dungeon Master (1987)(FTL)(Jp-En).png
+9de4ce14c5813bf9  media/mix/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+eb723394fd0525f7  media/mix/Genocide Squared (1993)(Zoom)(Jp-En).png
+9477ae070cedb7c5  media/mix/Galaxy Force II (1990)(CSK)(Jp-En).png
+fd2d35cc8cab289a  media/mix/Loom (1991)(LucasFilm)(Jp-En).png
+935f61ed898d29e3  media/mix/Image Fight (1990)(Ving)(Jp-En).png
+1aaa3f23a2be38b5  media/mix/Lemmings (1991)(Psygnosis)(Jp-En).png
+c01b0c2eb5d3ad67  media/mix/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].png
+318c22a444a78a14  media/mix/LibbleRabble (1993)(Namco)(Jp-En).png
+6ded0828ab17edc1  media/mix/Marble Madness (1991)(Homedata)(Jp-En).png
+c0c6ad2b53f0b276  media/mix/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+c1d9fc9f9c4cde3c  media/mix/Mad Stalker (1994)(Family Soft)(Jp-En).png
+ce6e1a1f6f520e91  media/mix/Muscle Bomber (1994)(CapCom).png
+26848d3727c298fe  media/mix/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+060fedb1c98d6416  media/mix/Populous (1990)(Imagineer)(Jp-En).png
+3fe49983103a0835  media/mix/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+2495c0251d8e8d51  media/mix/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+517150f203c28fd1  media/mix/Power Monger (1992)(Imagineer)(Jp-En).png
+5303b8df062e9a44  media/mix/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+0c204d04f575289f  media/mix/Raiden Densetsu (1991)(Kid Corp)(Jp-En).png
+5599a1ecbbd7cc99  media/mix/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+382ed840223a8cee  media/mix/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+f9227774b9050998  media/mix/Rayxanber (1990)(Datawest)(Jp-En).png
+f46170deebf9edc9  media/mix/Splatterhouse (1992)(Ving)(Jp-En).png
+0caf9b86ee11c3ad  media/mix/Sim City (1990)(Maxis)(Jp-En).png
+b69c2826e3a7ee96  media/mix/Strike Commander Plus (1994)(Origin)(Jp-En).png
+a7da463cd92681c4  media/mix/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+3b17497b2766acd5  media/mix/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+000c6bb854a9f0de  media/mix/Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).png
+c017bb54f30eee42  media/mix/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+f714e443ae3e3017  media/mix/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+6275e71907eb3df4  media/mix/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+95df68bc62b9b44b  media/mix/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+4b2440c19afbc290  media/mix/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+022ff019a564eed1  media/mix/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+9b18a4d4438b9f55  media/mix/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+6e83f3846d955ff6  media/mix/Super Shooting Towns (199x)(-)(Jp-En).png
+2a7cc53eb418f810  media/mix/Turbo Outrun (1988)(Sega)(Jp).png
+20e795ff88db6068  media/mix/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).png
+65c1628614a0ca55  media/mix/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).png
+597407e71d0b81e3  media/thumbnails/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+f76df71e9d0f5512  media/thumbnails/4D Sports Driving (1992)(Distinctive Software)(Jp-En).png
+82528379894ed984  media/mix/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+95203e48c676fe64  media/thumbnails/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+1d82706b8792cb19  media/thumbnails/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+19535e59e6aa9b1c  media/thumbnails/Afterburner 3 (1992)(Sega)(Jp).png
+db27df01369230cd  media/thumbnails/Bubble Bobble (1993)(Ving)(Jp-En).png
+c38d6b507f0b7579  media/thumbnails/Drakkhen (1990)(Fujitsu)(Jp-En).png
+add9c68b1a72ed17  media/thumbnails/Galaxy Force II (1990)(CSK)(Jp-En).png
+a0d5853d173ccec8  media/thumbnails/Evolution (1989)(System Sacom)(Jp-En).png
+b17080bad9d47cbe  media/thumbnails/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+c128b6e249be496f  media/thumbnails/Flying Shark (1993)(Ving)(Jp-En).png
+d9bc3b0339ffbb91  media/thumbnails/Castles (1992)(Victor)(Jp-En).png
+a9dc00f13543e634  media/thumbnails/Afterburner (1987)(Sega)(Jp-En).png
+415d99dee918f2c0  media/thumbnails/Dungeon Master (1987)(FTL)(Jp-En).png
+334e587bc9dc24dc  media/thumbnails/Image Fight (1990)(Ving)(Jp-En).png
+e49fc91ebb9fc76c  media/thumbnails/Final Blow (1990)(Ving)(Jp-En).png
+b51a47a0ee6a4ea5  media/thumbnails/Genocide Squared (1993)(Zoom)(Jp-En).png
+7696cf52eca99e45  media/thumbnails/Lemmings (1991)(Psygnosis)(Jp-En).png
+5d40180736a3f4e0  media/thumbnails/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+eaa82747d85a9607  media/thumbnails/Loom (1991)(LucasFilm)(Jp-En).png
+2de839bf257648c4  media/thumbnails/Marble Madness (1991)(Homedata)(Jp-En).png
+9a2ffe68b64001d7  media/thumbnails/New Zealand Story, The (1989)(Ving)(Jp-En).png
+74ca5bdf636f9bad  media/thumbnails/Mad Stalker (1994)(Family Soft)(Jp-En).png
+d74e80736347bde3  media/thumbnails/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].png
+a496675c44ea760c  media/thumbnails/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+b956d49c84b85f69  media/thumbnails/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+0288a21edd5796a2  media/thumbnails/LibbleRabble (1993)(Namco)(Jp-En).png
+de91034712ff688c  media/thumbnails/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+e4f87268e494a6b8  media/thumbnails/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+29e2e89abbc4961f  media/thumbnails/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+05b9ce87d43a9ceb  media/thumbnails/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+f741db349dfb3003  media/thumbnails/Rayxanber (1990)(Datawest)(Jp-En).png
+116414ffc716c800  media/thumbnails/Prince of Persia (1992)(Riverhill Soft)(Jp).png
+ea9ed41a65372271  media/thumbnails/Power Monger (1992)(Imagineer)(Jp-En).png
+1918c89cf8f0cd71  media/thumbnails/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+cccf55efddbe7493  media/thumbnails/Splatterhouse (1992)(Ving)(Jp-En).png
+365a90b2d43b9183  media/thumbnails/Sim City (1990)(Maxis)(Jp-En).png
+b2c4415bed0dc589  media/thumbnails/Super Shooting Towns (199x)(-)(Jp-En).png
+e933c383828db75e  media/thumbnails/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+3ecd55d287a25c79  media/thumbnails/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+2cb31030b42ae4ea  media/thumbnails/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+ce221a3a594a27b9  media/thumbnails/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+6088629709b51b10  media/thumbnails/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+a269be4fd4964680  media/thumbnails/Turbo Outrun (1988)(Sega)(Jp).png
+5e721ba47f99b174  media/thumbnails/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+95e6989c78ba8268  media/thumbnails/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+9921eb4276abed1a  media/thumbnails/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+669270cf95c2d522  media/thumbnails/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+a354220423396a86  media/thumbnails/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).png
+dc56c9232722f176  media/screenshots/Advantage Tennis (1992)(Fujitsu)(Jp-En).jpg
+0cf1be0d2748a049  media/screenshots/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+367e30ce19182a90  media/screenshots/4D Sports Driving (1992)(Distinctive Software)(Jp-En).png
+4b7cc955b6ba1c43  media/thumbnails/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).png
+02f459639a4ed88a  media/screenshots/Afterburner 2 (1989)(Sega)(Jp-En).png
+3baa16700d7d282d  media/screenshots/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).png
+efbf44374b32513a  media/screenshots/Chase HQ (1991)(Ving)(Jp-En).png
+386d8be70a14a62a  media/screenshots/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+e5761351b930fb65  media/screenshots/Afterburner (1987)(Sega)(Jp-En).png
+5da05e9268dce97c  media/screenshots/Drakkhen (1990)(Fujitsu)(Jp-En).jpg
+16737e13142f9a2a  media/screenshots/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+1e0424b3baaa5350  media/screenshots/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+0ab19e4ca6da060e  media/screenshots/Afterburner 3 (1992)(Sega)(Jp).png
+6dd2eb25875279db  media/screenshots/Bubble Bobble (1993)(Ving)(Jp-En).png
+387496987e623d1d  media/screenshots/Dungeon Master (1987)(FTL)(Jp-En).png
+244f89495bd9c8f5  media/screenshots/Castles (1992)(Victor)(Jp-En).png
+5fac04215c6379eb  media/screenshots/Galaxy Force II (1990)(CSK)(Jp-En).png
+1494142f8206c18e  media/screenshots/Evolution (1989)(System Sacom)(Jp-En).png
+d3b76701f04954d4  media/screenshots/Drakkhen (1990)(Fujitsu)(Jp-En).png
+ea05cb1d80259ced  media/screenshots/Flying Shark (1993)(Ving)(Jp-En).png
+02cd71befdc7004a  media/screenshots/Final Blow (1990)(Ving)(Jp-En).png
+ab6385aad8004f0d  media/screenshots/Genocide Squared (1993)(Zoom)(Jp-En).png
+cb6fbe19cc54b23e  media/screenshots/Image Fight (1990)(Ving)(Jp-En).png
+aebaf36c7a306b22  media/screenshots/Loom (1991)(LucasFilm)(Jp-En).png
+8f3a98a44437b2a0  media/screenshots/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+b7bd650198abb5ea  media/screenshots/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].png
+3ce20ce0eeb41827  media/screenshots/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+5b3c39b56d34fd58  media/screenshots/LibbleRabble (1993)(Namco)(Jp-En).png
+5efe533e2f9ec03f  media/screenshots/Mad Stalker (1994)(Family Soft)(Jp-En).png
+49b909e4d1eecec6  media/screenshots/Lemmings (1991)(Psygnosis)(Jp-En).png
+5d918940eef5e30c  media/screenshots/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].jpg
+d1567e18713ec654  media/screenshots/New Zealand Story, The (1989)(Ving)(Jp-En).png
+c602c53fed8f7141  media/screenshots/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+354b736ba9e9b2b9  media/screenshots/Muscle Bomber (1994)(CapCom).png
+dddabbcd23840c84  media/screenshots/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+3163ac58069a31cc  media/screenshots/Populous (1990)(Imagineer)(Jp-En).png
+bba89116fdb6039f  media/screenshots/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+a7eca56ad1e218a7  media/screenshots/Prince of Persia (1992)(Riverhill Soft)(Jp).png
+8b1b2348cdf6bdba  media/screenshots/Marble Madness (1991)(Homedata)(Jp-En).png
+946416e830f1bcb8  media/screenshots/Power Monger (1992)(Imagineer)(Jp-En).png
+d214172792997c68  media/screenshots/Rayxanber (1990)(Datawest)(Jp-En).png
+0a35ce804b4ac653  media/screenshots/Raiden Densetsu (1991)(Kid Corp)(Jp-En).png
+ef6645353a4514e7  media/screenshots/RAC Rally (1995)(Victor)(En).png
+0d42e9813e078ca1  media/screenshots/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+d8ffe914498056ec  media/screenshots/Scavenger 4 (1994)(Psygnosis)(Jp-En).png
+0b7176254b697756  media/screenshots/Shadow of the Beast (1994)(Psygnosis)(Jp-En).png
+bf73ad4c48defb8a  media/screenshots/Puyo Puyo (1994)(CRI)(Jp).png
+f0fa3460a756651c  media/screenshots/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+29c81ac75fbd91c0  media/screenshots/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+05a810022b5de923  media/screenshots/Strike Commander Plus (1994)(Origin)(Jp-En).png
+54cea273853b3ed0  media/screenshots/Sim City (1990)(Maxis)(Jp-En).png
+b3f2a45bb8bb2f28  media/screenshots/Splatterhouse (1992)(Ving)(Jp-En).png
+8472f328d9e51492  media/screenshots/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+90f28e69a938dffa  media/screenshots/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+14d51c03ab5ab593  media/screenshots/Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).png
+b264817dce14b3f3  media/screenshots/Super Shooting Towns (199x)(-)(Jp-En).png
+1c409fb1b6285bf5  media/screenshots/Turbo Outrun (1988)(Sega)(Jp).png
+4913e1e1f15ca2a3  media/screenshots/Syndicate (1994)(Bullfrog)(US).png
+8c84bbc9629b150f  media/screenshots/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+58f43c81ef5ee26c  media/screenshots/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+36a18111138d80ab  media/screenshots/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).png
+f19289c059e3a84e  media/screenshots/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+bab01f116069f910  media/titles/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).png
+14bd5ca9f07eb5bc  media/screenshots/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+26fcd36aac2426fd  media/screenshots/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).png
+e0578738156d5983  media/titles/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).png
+4893a61c2e34ef8e  media/titles/Afterburner (1987)(Sega)(Jp-En).png
+53bef5e838cd0a94  media/titles/Afterburner 2 (1989)(Sega)(Jp-En).png
+1a32366a70c67f23  media/screenshots/Volfied (1991)(Ving)(Jp-En).png
+67e50985a0136c81  media/screenshots/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+39a0ae84405fe2be  media/screenshots/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).png
+3dc9e4ac85a7e103  media/titles/Advantage Tennis (1992)(Fujitsu)(Jp-En).png
+f79222187ae708a7  media/titles/Bubble Bobble (1993)(Ving)(Jp-En).png
+6a1448ff55e6738d  media/titles/Dungeon Master (1987)(FTL)(Jp-En).png
+1fd1a4c2f1603620  media/titles/Blandia (1994)(Ving)(Jp-En)[mp3 source].png
+d048a43e2d3493f3  media/titles/Afterburner 3 (1992)(Sega)(Jp).png
+bb5e9d0047a1fe82  media/titles/Castles (1992)(Victor)(Jp-En).png
+56c6416746f14688  media/titles/Evolution (1989)(System Sacom)(Jp-En).png
+2f67e749e5204d23  media/titles/Drakkhen (1990)(Fujitsu)(Jp-En).png
+0fa10592148f9f28  media/titles/Genocide Squared (1993)(Zoom)(Jp-En).png
+4c48544d70e109e3  media/titles/Image Fight (1990)(Ving)(Jp-En).png
+8ec245d3623ab21e  media/titles/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).png
+1314881acc060f88  media/titles/Galaxy Force II (1990)(CSK)(Jp-En).png
+74c98ee0580996a6  media/titles/Flying Shark (1993)(Ving)(Jp-En).png
+027e1c526bf3eb70  media/titles/Final Blow (1990)(Ving)(Jp-En).png
+a4d24627df64dc6b  media/titles/Lemmings (1991)(Psygnosis)(Jp-En).png
+6c2569b628d72baf  media/titles/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).png
+f3b0eb17cac3d4df  media/titles/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).png
+ea201a58fc190a02  media/titles/Loom (1991)(LucasFilm)(Jp-En).png
+f594bfcf89bc03b0  media/titles/Pu-Li-Ru-La (1994)(Ving)(Jp-En).png
+c7d4c19aca0289d5  media/titles/Marble Madness (1991)(Homedata)(Jp-En).png
+11cc8d56499ef568  media/titles/Queen Of Duellist, The (199x)(Agumix)(Jp-En).png
+a42813f6aa72f81b  media/titles/Populous (1990)(Imagineer)(Jp-En).png
+63a4fc0db5fe6445  media/titles/LibbleRabble (1993)(Namco)(Jp-En).png
+62707f09609d62f4  media/titles/Power Monger (1992)(Imagineer)(Jp-En).png
+eaa4994faa1fd957  media/titles/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).png
+9c2dbe7f96bce570  media/titles/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].png
+21c619c4aa621013  media/titles/Mad Stalker (1994)(Family Soft)(Jp-En).png
+b04a3c63fa25d303  media/titles/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].png
+d8a6beaa7fe5456d  media/titles/Super Shooting Towns (199x)(-)(Jp-En).png
+ecb463b039f51749  media/titles/Scavenger 4 (1994)(Psygnosis)(Jp-En).jpg
+12faeae8e3a7546b  media/titles/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).png
+7a696c88e607d960  media/titles/Rainbow Islands Extra (1992)(Ving)(Jp-En).png
+e5a6e61d4a8fa1a9  media/titles/Splatterhouse (1992)(Ving)(Jp-En).jpg
+564ba18447730e87  media/titles/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].png
+d8a55722c09d58ba  media/titles/Super Street Fighter II (1993)(Capcom)(Jp-En).png
+c97cc9db89e9aa1f  media/titles/Sim City (1990)(Maxis)(Jp-En).png
+2961b638fd28ab6d  media/titles/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).png
+5937b11fa6465d57  media/titles/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).png
+736b54cfcf463b21  media/titles/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).png
+75308c7c147a9c63  media/titles/Turbo Outrun (1988)(Sega)(Jp).png
+a35505e5c87b3a23  media/titles/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).png
+89723308426a0513  media/videos/AD&D Dragons of Flame (1992)(PonyCanyon)(Jp-En).mp4
+e0e5c924148c1a1c  media/videos/4D Sports Driving (1992)(Distinctive Software)(Jp-En).mp4
+9ecdef29aad56a35  media/titles/Rayxanber (1990)(Datawest)(Jp-En).png
+c2f8ed706f3bc43e  media/videos/4D Sports Boxing (1991)(Distinctive Software)(Jp-En).mp4
+161c5800147ded5d  media/videos/Advantage Tennis (1992)(Fujitsu)(Jp-En).mp4
+0e9c466c7a6e1d08  media/videos/Afterburner 3 (1992)(Sega)(Jp).mp4
+1f41860e4a83af5b  media/videos/Castles (1992)(Victor)(Jp-En).mp4
+7449beb571ccd14e  media/videos/Bubble Bobble (1993)(Ving)(Jp-En).mp4
+a48c747aa4a0347d  media/videos/Afterburner 2 (1989)(Sega)(Jp-En).mp4
+d0280136b83af145  media/videos/Afterburner (1987)(Sega)(Jp-En).mp4
+03c93898cd5fc973  media/videos/Drakkhen (1990)(Fujitsu)(Jp-En).mp4
+8ad5e6b0bf2c92f0  media/videos/Blandia (1994)(Ving)(Jp-En)[mp3 source].mp4
+e9e8f4e497df9808  media/videos/Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En).mp4
+8f5715e2037a53b9  media/videos/Dungeon Master (1987)(FTL)(Jp-En).mp4
+fa98f2545823c0ce  media/videos/Evolution (1989)(System Sacom)(Jp-En).mp4
+b4a6b0804b8bedef  media/videos/Chase HQ (1991)(Ving)(Jp-En).mp4
+056fecd7627ffe65  media/videos/Flying Shark (1993)(Ving)(Jp-En).mp4
+ed5fe179b1072ba0  media/videos/Final Blow (1990)(Ving)(Jp-En).mp4
+c09dfbc9d6741056  media/videos/Genocide Squared (1993)(Zoom)(Jp-En).mp4
+40a78d38f77863a3  media/videos/Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En).mp4
+91419274dc5ce67e  media/videos/Galaxy Force II (1990)(CSK)(Jp-En).mp4
+2a209a64c5d7787c  media/videos/Image Fight (1990)(Ving)(Jp-En).mp4
+14e5969d8131055a  media/videos/Lemmings (1991)(Psygnosis)(Jp-En).mp4
+ceb7be6d07615c96  media/videos/Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En).mp4
+5624bfc5063917e5  media/videos/Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source].mp4
+45b5170d86a7ddc0  media/videos/LibbleRabble (1993)(Namco)(Jp-En).mp4
+7728d5c8a8b07a82  media/videos/Monkey Island 2 - LeChuck's Revenge (1991)(LucasFilm)(Jp-En).mp4
+eeaab0516a90c16c  media/videos/Mad Stalker (1994)(Family Soft)(Jp-En).mp4
+7546377e80adf447  media/videos/Loom (1991)(LucasFilm)(Jp-En).mp4
+747f991f53a97a96  media/videos/Marble Madness (1991)(Homedata)(Jp-En).mp4
+f45a78579d4a5b8b  media/videos/Muscle Bomber (1994)(CapCom).mp4
+77c6a3df883cc86a  media/videos/Populous (1990)(Imagineer)(Jp-En).mp4
+bd772e0a85c8a9ec  media/videos/New Zealand Story, The (1989)(Ving)(Jp-En).mp4
+1cc72a86c7134625  media/videos/Operation Wolf (1990)(Ving)(Jp-En)[mp3 source].mp4
+97410db92e9e3330  media/videos/Power Monger (1992)(Imagineer)(Jp-En).mp4
+fbd404e34bfb6e32  media/videos/Prince of Persia (1992)(Riverhill Soft)(Jp).mp4
+c8b0755afd7db603  media/videos/Puyo Puyo (1994)(CRI)(Jp).mp4
+2010d2080475049e  media/videos/Pu-Li-Ru-La (1994)(Ving)(Jp-En).mp4
+088d27d1544d29d0  media/videos/Queen Of Duellist, The (199x)(Agumix)(Jp-En).mp4
+134c2a982e781c4e  media/videos/RAC Rally (1995)(Victor)(En).mp4
+034fc9e2cdf05f35  media/videos/Rainbow Islands Extra (1992)(Ving)(Jp-En).mp4
+45b7754754f1bf83  media/videos/Raiden Densetsu (1991)(Kid Corp)(Jp-En).mp4
+caa6c8d648932b1e  media/videos/Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En).mp4
+f1ae9eb421f017bb  media/videos/Scavenger 4 (1994)(Psygnosis)(Jp-En).mp4
+6343357587720ced  media/videos/Rayxanber (1990)(Datawest)(Jp-En).mp4
+0a4912bdbe8931e3  media/videos/Sim City (1990)(Maxis)(Jp-En).mp4
+6e42ec8bb514f27f  media/videos/Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En).mp4
+704a841fdb4c5515  media/videos/Strike Commander Plus (1994)(Origin)(Jp-En).mp4
+1a26ef995e76962f  media/videos/Shadow of the Beast (1994)(Psygnosis)(Jp-En).mp4
+2f42bf1c89a67e0c  media/videos/Splatterhouse (1992)(Ving)(Jp-En).mp4
+6936d1d941532497  media/videos/Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source].mp4
+582869adb27e9e67  media/videos/Super Shooting Towns (199x)(-)(Jp-En).mp4
+09b63d34363d5c13  media/videos/Super Street Fighter II (1993)(Capcom)(Jp-En).mp4
+5558195ff31f9287  media/videos/Syndicate (1994)(Bullfrog)(US).mp4
+ea7814656397ab89  media/videos/Ultima Trilogy 1-3 (1990)(Origins)(Jp-En).mp4
+aec828416e14bcbd  media/videos/Ultima VI - The False Prophet (1990)(Origins)(Jp-En).mp4
+8af31082a9bef66c  media/videos/Turbo Outrun (1988)(Sega)(Jp).mp4
+eef10682e9861e62  media/videos/Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En).mp4
+564495fb29733058  media/videos/Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En).mp4
+8cbb9a1acd7ac4a9  media/videos/Volfied (1991)(Ving)(Jp-En).mp4
+057c69b06f427b7b  media/videos/Wing Commander+Secret Missions (1990)(Origin)(Jp-En).mp4
+93c3ed2eef69ad7d  media/videos/Viewpoint (1993)(Ving)(Jp-En)[mp3 source].mp4
+7d71e2fe92c49b2e  media/videos/Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En).mp4
+6277be23d5c71336  media/videos/Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En).mp4

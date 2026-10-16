@@ -1,0 +1,65 @@
+11a5c6e7a60ea716  soniccd/SData.bin
+47a4990be8d6fd0b  soniccd/Udata.bin
+8f07ba3fac71b5d9  soniccd/ogg.dll
+4e7eabcb81c68c93  _info.txt
+531ef9b478d2c90c  soniccd/glew32.dll
+96d1739abcfdd28a  Sonic 2.son/SData.bin
+b12185f420d5913c  Sonic 2.son/settings.ini
+47a4990be8d6fd0b  Sonic 2.son/UData.bin
+ef8c10c84f6c227f  _readme.txt
+d299e672596bda36  Sonic 1.son/SData.bin
+f3c07de384ac67c5  soniccd/settings.ini
+47a4990be8d6fd0b  Sonic 1.son/UData.bin
+8e6e3c76a655ac66  soniccd/RSDKv3_64.exe
+b12185f420d5913c  Sonic 1.son/settings.ini
+38b5cdfebd3f623b  soniccd/SDL2.dll
+47a4990be8d6fd0b  sonic1/UData.bin
+d299e672596bda36  sonic1/SData.bin
+98fe72d913d562c5  Sonic 2.son/Data.rsdk
+f58bb8c6bd6e2b0b  sonic1/RSDKv4_64.exe
+92a9bee9012671dc  sonic1/settings.ini
+14ff7a8647231954  Sonic 1.son/Data.rsdk
+8f07ba3fac71b5d9  sonic1/ogg.dll
+d120e72c4f4584e5  soniccd/Data.rsdk
+b6ce35a97d9c7c16  sonic1/vorbis.dll
+531ef9b478d2c90c  sonic1/glew32.dll
+11a5c6e7a60ea716  Sonic CD.scd/SData.bin
+47a4990be8d6fd0b  Sonic CD.scd/Udata.bin
+8f07ba3fac71b5d9  Sonic CD.scd/ogg.dll
+531ef9b478d2c90c  Sonic CD.scd/glew32.dll
+0e233fdfdb67115e  Sonic CD.scd/settings.ini
+38b5cdfebd3f623b  sonic1/SDL2.dll
+38b5cdfebd3f623b  Sonic CD.scd/SDL2.dll
+ed1ad7d37241055d  sonic2/SData.bin
+f58bb8c6bd6e2b0b  sonic2/RSDKv4_64.exe
+14ff7a8647231954  sonic1/Data.rsdk
+92a9bee9012671dc  sonic2/settings.ini
+47a4990be8d6fd0b  sonic2/UData.bin
+8f07ba3fac71b5d9  sonic2/ogg.dll
+8e6e3c76a655ac66  Sonic CD.scd/RSDKv3_64.exe
+531ef9b478d2c90c  sonic2/glew32.dll
+e3fb5f2f155997cf  media/box2d/Sonic CD.png
+38b5cdfebd3f623b  sonic2/SDL2.dll
+855ad4facd66be83  media/box2d/Sonic 1.png
+b6ce35a97d9c7c16  sonic2/vorbis.dll
+c0779fd9cc872396  media/marquee/Sonic CD.png
+9ba94d17ef743c8f  media/box2d/Sonic 2.png
+4165b5098102884b  media/fanarts/Sonic 1.jpg
+65c215d9ec4322e4  media/marquee/Sonic 1.png
+babc21a3bfad6f27  media/marquee/Sonic 2.png
+3d8aa1dde9e97cf8  media/images/Sonic 2.jpg
+a6321aa90a7f54b2  media/images/Sonic CD.jpg
+d0678377ddb13095  media/fanarts/Sonic 2.jpg
+9d4c70b4a35f1891  media/images/Sonic 1.jpg
+010f0cf6c39d366b  media/thumbnails/Sonic 2.png
+46977a5930140d3e  media/titles/Sonic 2.png
+f3e1de65934e8489  media/thumbnails/Sonic 1.png
+3ffc58a925a3abbd  media/titles/Sonic CD.jpg
+316ac141bd337b9f  media/thumbnails/Sonic CD.png
+df928bf4dfbe3e82  media/fanarts/Sonic CD.jpg
+2ad90a700b1f1be9  media/titles/Sonic 1.png
+d120e72c4f4584e5  Sonic CD.scd/Data.rsdk
+98fe72d913d562c5  sonic2/Data.rsdk
+8bfba563ac1c192c  media/videos/Sonic 1.mp4
+8fafc4beeaf1926e  media/videos/Sonic 2.mp4
+ab5a7a07bde87a77  media/videos/Sonic CD.mp4

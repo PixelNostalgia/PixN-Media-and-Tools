@@ -1,0 +1,29 @@
+2d06800538d394c2  Sonic Mania.sman
+2d06800538d394c2  SaveData.bin
+de5f15ab6daf7941  Achievements.bin
+44a5bcda3f2cf328  log.txt
+5ee15b848b1f1012  _info.txt
+40e4664161698f1a  Settings.ini
+e6efaff595067d65  media/fanarts/Sonic Mania.jpg
+e6efaff595067d65  media/fanarts/Data.jpg
+d761ad79bd826517  media/marquee/Sonic Mania.png
+136add1c1d1eebe3  media/thumbnails/Data.png
+136add1c1d1eebe3  media/thumbnails/Sonic Mania.png
+b88412afef7116b1  game.dll
+74039263a6bed4a1  media/spine/Data.png
+d761ad79bd826517  media/marquee/Data.png
+14ac3136d1fa75cc  media/images/Sonic Mania.png
+74039263a6bed4a1  media/spine/Sonic Mania.png
+c36be66536f7ae82  media/boxback/Sonic Mania.jpg
+2381b14dd7aed290  media/cartridges/Sonic Mania.png
+c36be66536f7ae82  media/boxback/Data.jpg
+e626ce7e1602af1a  media/titles/Data.png
+14ac3136d1fa75cc  media/images/Data.png
+e626ce7e1602af1a  media/titles/Sonic Mania.png
+f6a15739ff560df8  media/box2d/Sonic Mania.png
+f6a15739ff560df8  media/box2d/Data.png
+2381b14dd7aed290  media/cartridges/Data.png
+6d53740652ebf677  media/videos/Data.mp4
+eb3b0ba274427c25  RSDKv5U_x64.exe
+6d53740652ebf677  media/videos/Sonic Mania.mp4
+53f774c5f3ab25f2  Data.rsdk

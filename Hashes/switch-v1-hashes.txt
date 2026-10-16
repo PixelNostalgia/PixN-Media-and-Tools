@@ -1,0 +1,340 @@
+ece95296e27afed6  Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).xci
+0198231daa7792de  Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).xci
+73122e5423876a00  Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).xci
+cfcce80c53e8b3ec  Ninja Five-O [01006E5019C4C800] [v196608] (US).nsp
+4b435528573241c7  Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).xci
+a8d4155e076a695a  Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).xci
+97a8b5fc3a3300b8  LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).xci
+76834a9cd85b519c  Ninja Five-O [01006E5019C4C000] [v0] (US).nsp
+47da9b0f53ea7ae0  Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).xci
+a60509c79ac9f90a  Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).nsp
+55536c8d8110c76f  Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).xci
+434989448f110f27  Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).xci
+b521331b60ca9df8  Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).xci
+6a6c3e77feb7a6c7  Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).xci
+7195208e9db9fdd5  Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).xci
+cbbb60cbb6a9519f  Super Mario 3D World + Bowser's Fury.xci
+9e6a36ebbd68b42f  Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).xci
+c9683003543179f8  Super Mario Bros. Wonder.xci
+4df14756eb230c1d  Pokemon Legends Arceus.xci
+7c159a9adec60254  Teenage Mutant Ninja Turtles Shredders Revenge.xci
+17f8473061ee8226  Toki [0100F3400A432000] + (v65536 UPD).xci
+cb38706b2e6064c4  X-Out Resurfaced [010048501F73E000] [v0] (US).nsp
+af0e63b81a9ec12b  Legend of Zelda The Tears of the Kingdom.xci
+a87f781c6bf9f27b  Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.xci
+6055a381de7c355f  media/maps/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).jpg
+3725dc2f5dc923da  media/maps/Pokemon Legends Arceus.jpg
+87f4b1966b92cf5a  media/boxback/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).png
+82211a3f0cf150a7  media/boxback/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).png
+79e8e0d78dd2e8f8  media/boxback/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).png
+bdc44473324690a6  media/boxback/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).png
+229cf4a8057246b3  media/boxback/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).png
+e0ad31c950fbb786  media/boxback/Legend of Zelda The Tears of the Kingdom.png
+bc68b5d1bf616a16  media/boxback/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).png
+20bea3b390216bbf  media/boxback/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).png
+8b9df97e4ef640dc  media/boxback/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).png
+e8de6a45dd9863af  media/boxback/Ninja Five-O [01006E5019C4C000] [v0] (US).png
+22a484a7ba8bdbae  media/boxback/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+763f7d72a3cb4d3b  media/boxback/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).png
+828ca66451c03194  media/boxback/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).png
+0e0557654d547164  media/boxback/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).png
+38692963c2852b61  media/boxback/Pokemon Legends Arceus.png
+f8722ac269b85f8c  media/boxback/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).png
+f9709af4b7a6ac08  media/boxback/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).png
+f83cb09220099b5d  media/boxback/Super Mario 3D World + Bowser's Fury.png
+f06652d79634a70e  media/boxback/Super Mario Bros. Wonder.png
+449778dc0c70556a  The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).xci
+9ae13537d7074ff3  media/boxback/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).png
+c0754728f5cb6fb0  media/boxback/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+ac7e7c1eb56a8c84  media/boxback/Teenage Mutant Ninja Turtles Shredders Revenge.jpg
+159c866bd432b64f  media/boxback/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).png
+6fed7efd83da1219  media/boxback/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).png
+3ed25cfaa07e153d  media/boxback/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).png
+f1bd7115e1adf26d  media/boxback/Toki [0100F3400A432000] + (v65536 UPD).jpg
+2982f92759aa88b7  media/boxback/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.png
+b290e5a75c3b1bdb  media/boxback/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).png
+31c4ea4a71c1c281  media/boxback/X-Out Resurfaced [010048501F73E000] [v0] (US).png
+fe9d7f7ad5a4d9c9  media/fanarts/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).jpg
+5687b13b415cabcf  media/boxback/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).png
+adc58e081adb36fb  media/fanarts/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).jpg
+14fac7424588a83f  media/fanarts/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).jpg
+354c4afa68853219  media/fanarts/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).jpg
+0f5ba9d08c0684cb  media/fanarts/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).jpg
+5ac9cf220fffff85  media/fanarts/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).jpg
+f401ce5be07b8fc7  media/fanarts/Legend of Zelda The Tears of the Kingdom.jpg
+48c0c17a5c7773c0  media/fanarts/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).jpg
+e9fa6c74c02dee91  media/fanarts/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).jpg
+d32d323efda0d3df  media/fanarts/Ninja Five-O [01006E5019C4C000] [v0] (US).jpg
+39bf41cdadfffdea  media/fanarts/Ninja Five-O [01006E5019C4C800] [v196608] (US).jpg
+c91d45fa55b8a8e5  media/fanarts/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).jpg
+4d6cecaecc9d3afe  media/fanarts/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).jpg
+baaf91e90bc59e2d  media/fanarts/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).jpg
+5e5a3bb1bfab598a  media/fanarts/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).jpg
+fc175971c418d97a  media/fanarts/Pokemon Legends Arceus.jpg
+54cbfaf4c09c4300  media/fanarts/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).jpg
+e18bf11465a4fab4  media/fanarts/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).jpg
+5fbfbe48a7e6e30e  media/fanarts/Super Mario 3D World + Bowser's Fury.jpg
+464590753d777103  media/fanarts/Super Mario Bros. Wonder.jpg
+acc87712b9d7d2e9  media/fanarts/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).jpg
+175dee5d32543253  media/fanarts/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.jpg
+c37ae2d0260610be  media/fanarts/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).jpg
+be845cf6ba18ac01  media/fanarts/Teenage Mutant Ninja Turtles Shredders Revenge.jpg
+74122d50d96dbf45  media/fanarts/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).jpg
+cc28e8311b2ab8f7  media/fanarts/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).jpg
+fdc466f22121b5a8  media/fanarts/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.jpg
+d95f5debc10820e6  media/fanarts/Toki [0100F3400A432000] + (v65536 UPD).jpg
+08d50c5828ae3d1b  media/fanarts/X-Out Resurfaced [010048501F73E000] [v0] (US).jpg
+73a697037a84e4fd  media/fanarts/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).jpg
+8b3b63c1ee2a3bf4  media/fanarts/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).jpg
+36f4f532fe29deb6  media/box2d/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).png
+992e8d7bf0a6a9d9  media/box2d/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).png
+0c52b25ebda615e6  media/box2d/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).png
+8c5b5b69e2f5e067  media/box2d/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).png
+e70fb5b5ea58a1b2  media/box2d/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).png
+0057f7e110cfff2c  The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).xci
+a98999f78de57821  media/box2d/Legend of Zelda The Tears of the Kingdom.png
+b8b9c38f780badb9  media/box2d/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).png
+5c9357ef2e68793d  media/box2d/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).png
+a42b6dc785f915c5  media/box2d/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).png
+9611bf3362b12d61  media/box2d/Ninja Five-O [01006E5019C4C000] [v0] (US).png
+33a6251c1c019c01  media/box2d/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+9611bf3362b12d61  media/box2d/Ninja Five-O [01006E5019C4C800] [v196608] (US).png
+cd6c4fd571d1140f  media/box2d/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).png
+9de1b6c12299bcf8  media/box2d/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).png
+2155ba07a3615f36  media/box2d/Pokemon Legends Arceus.png
+9b907040ee2ac9de  media/box2d/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).png
+ec356b917cbe0cf7  media/box2d/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).png
+59acbd52fdbe2d73  media/box2d/Super Mario 3D World + Bowser's Fury.png
+b3260810c3794bad  media/box2d/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).png
+f03856f9daddd4f0  media/box2d/Super Mario Bros. Wonder.png
+9870318c40f934a4  media/box2d/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).png
+61005ddd71094f93  media/box2d/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+3e4f05a7e6bbbb4f  media/box2d/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).png
+1d1aa0dc1a79c257  media/box2d/Teenage Mutant Ninja Turtles Shredders Revenge.png
+fe4d072680b6a9e3  media/box2d/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).png
+9a4124b32814c993  media/box2d/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).png
+eb079a4042e4af81  media/box2d/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.png
+a505b882a85752ce  media/box2d/Toki [0100F3400A432000] + (v65536 UPD).png
+38ceaebdcc5ea564  media/box2d/X-Out Resurfaced [010048501F73E000] [v0] (US).png
+cea58278710bb1e2  media/images/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).jpg
+bc1d1b58a9465651  media/box2d/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).png
+60ae92c1849d0623  media/box2d/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).png
+baef20bce5a21770  media/images/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).jpg
+103302bf7517ac75  media/images/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).jpg
+8a1727658c95b53e  media/images/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).jpg
+588be33cc6d80cc0  media/images/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).jpg
+f9e372680ddeae9a  media/images/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).jpg
+1fe882c14c3fe843  media/images/Legend of Zelda The Tears of the Kingdom.jpg
+bd393adb0f459b22  media/images/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).jpg
+e92a9927245d7f43  media/images/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).jpg
+4d11c21c2038217f  media/images/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).jpg
+2a49eb25fa0880fd  media/images/Ninja Five-O [01006E5019C4C000] [v0] (US).jpg
+62b35d1b8b7351dd  media/images/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).jpg
+d6a8c163a54cd0d7  media/images/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).jpg
+2a49eb25fa0880fd  media/images/Ninja Five-O [01006E5019C4C800] [v196608] (US).jpg
+bc00c21355fd7200  media/images/Pokemon Legends Arceus.jpg
+ea5b1a94da2af2bd  media/images/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).jpg
+4714657805c6d376  media/images/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).jpg
+6f603ac7eef30de7  media/images/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).jpg
+878d0388903c11da  media/images/Super Mario 3D World + Bowser's Fury.jpg
+6a06c4e76c922e3e  media/images/Super Mario Bros. Wonder.jpg
+50edd38322e79001  media/images/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).jpg
+12dff2debadb787b  media/images/Teenage Mutant Ninja Turtles Shredders Revenge.jpg
+8980d47d2684ff22  media/images/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).jpg
+4bbcdf64590da4f5  media/images/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+24d23bc05e674d95  media/images/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).jpg
+4d269f26e66bfaeb  media/images/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).jpg
+03e4f03083bcf6b8  media/images/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.jpg
+678f4ffa34911725  media/images/Toki [0100F3400A432000] + (v65536 UPD).jpg
+2127b9d4d88bc693  media/images/X-Out Resurfaced [010048501F73E000] [v0] (US).jpg
+37fcdb1facb2261e  media/images/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).jpg
+f40fa2c4ad932a3a  media/images/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).jpg
+2e782ac1b9990795  media/cartridges/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).png
+01da3bd7665d2993  media/cartridges/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).png
+5b39dba6c96a5d35  media/cartridges/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).png
+255feb34b68d45df  media/cartridges/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).png
+eabcfe87ebf6572a  media/cartridges/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).png
+b7c19358801c4bc2  media/cartridges/Legend of Zelda The Tears of the Kingdom.png
+bdb7cdb99f07f00a  media/cartridges/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).png
+d05ed764a9c51e47  media/cartridges/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).png
+db05b2f4853ee476  media/cartridges/Ninja Five-O [01006E5019C4C000] [v0] (US).png
+e4e8079a05565cae  media/cartridges/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).png
+cb8f4d0a5c20744a  media/cartridges/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).png
+3c5ba0e66e38b918  media/cartridges/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+0ced0b27703045da  media/cartridges/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).png
+ff885aabd3deabd4  media/cartridges/Pokemon Legends Arceus.png
+8e4da4ad5f2439a5  media/cartridges/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).png
+aa1f53f4a64140c4  media/cartridges/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).png
+5ae03b7cdad98131  media/cartridges/Super Mario 3D World + Bowser's Fury.png
+00074d5e072a7c26  media/cartridges/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).png
+871bfb43fd0243e3  media/cartridges/Super Mario Bros. Wonder.png
+104f9ac69012b171  media/cartridges/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).png
+ad1a8c22826ec918  media/cartridges/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+a385413caef82aae  media/cartridges/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).png
+17ce2e2832ad54b0  media/cartridges/Teenage Mutant Ninja Turtles Shredders Revenge.png
+735dfe30ebf92f2f  media/cartridges/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).png
+d75eb9c1d8fd1950  media/cartridges/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.png
+9abc94c8bbfed27d  media/cartridges/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).png
+577d44580c94bc78  media/cartridges/Toki [0100F3400A432000] + (v65536 UPD).png
+1c4407a6624a20eb  media/cartridges/X-Out Resurfaced [010048501F73E000] [v0] (US).png
+18f7925c4d839573  media/cartridges/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).png
+5aa59953b097e20c  media/cartridges/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).png
+cd3a6bf7ef442b0d  media/marquee/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).png
+fddcc69a62e4afab  media/marquee/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).png
+010536105483d7b7  media/marquee/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).png
+3ea423c6170522ea  media/marquee/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).png
+5cefa120b791279e  media/marquee/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).png
+c428af46acfa7bf3  media/marquee/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).png
+0296a7056f6feed0  media/marquee/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).png
+846b12af5e8bbd15  media/marquee/Legend of Zelda The Tears of the Kingdom.png
+9eccd586a90d5f5e  media/marquee/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).png
+c3bc9995e3e5199d  media/marquee/Ninja Five-O [01006E5019C4C800] [v196608] (US).png
+c3bc9995e3e5199d  media/marquee/Ninja Five-O [01006E5019C4C000] [v0] (US).png
+8020ef04ba29c05a  media/marquee/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).png
+3833ef2757c5586a  media/marquee/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).png
+f39886d5047acda9  media/marquee/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).png
+bc5aa37be7c515cd  media/marquee/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+e34c6f667f8a63ff  media/marquee/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).png
+a2a532cf5aad83bf  media/marquee/Pokemon Legends Arceus.png
+bfa864921f549d81  media/marquee/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).png
+af6d757976b6f9d4  media/marquee/Super Mario 3D World + Bowser's Fury.png
+bdb3500ef2a8318c  media/marquee/Super Mario Bros. Wonder.png
+1e6ff838f7f85e26  media/marquee/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).png
+cc46243454826027  media/marquee/Teenage Mutant Ninja Turtles Shredders Revenge.png
+043d01a013746214  media/marquee/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).png
+d3a7bfd5abe7d77f  media/marquee/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).png
+e5de5da39d7530a4  media/marquee/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+01a305fec7835d46  media/marquee/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.png
+a678c1b51fcfcf8f  media/marquee/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).png
+254741cde1073f4b  media/marquee/Toki [0100F3400A432000] + (v65536 UPD).png
+4b912535d806bb65  media/marquee/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).png
+51165df61fd5b2db  media/marquee/X-Out Resurfaced [010048501F73E000] [v0] (US).png
+037b4f6668ffd0f9  media/screenshots/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).jpg
+5bfad6e3eea5ee8e  media/marquee/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).png
+c9e052a5981ef171  media/screenshots/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).jpg
+549dceec1c0b1683  media/screenshots/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).jpg
+3cba7139455d6069  media/screenshots/Legend of Zelda The Tears of the Kingdom.jpg
+0afc206ea956e648  media/screenshots/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).jpg
+fcea93ba210bdcec  media/screenshots/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).jpg
+d6e65c5d9b41e9d8  media/screenshots/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).jpg
+6b06baf901495517  media/screenshots/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).jpg
+5ea0aab5de858f5e  media/screenshots/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).jpg
+549c49fa42af38c7  media/screenshots/Ninja Five-O [01006E5019C4C000] [v0] (US).jpg
+6d80e52d62854e4a  media/screenshots/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).jpg
+829a24840cd71481  media/screenshots/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).jpg
+549c49fa42af38c7  media/screenshots/Ninja Five-O [01006E5019C4C800] [v196608] (US).jpg
+a548c6cab1a34d36  media/screenshots/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).jpg
+38261da947545f64  media/screenshots/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).jpg
+dcaec6fd051565c2  media/screenshots/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).jpg
+e10b72d7de3b5cf7  media/screenshots/Pokemon Legends Arceus.jpg
+a5c553a64e6ccc31  media/screenshots/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).jpg
+bea87e9ff132294b  media/screenshots/Super Mario Bros. Wonder.jpg
+878d0388903c11da  media/screenshots/Super Mario 3D World + Bowser's Fury.jpg
+2d1b33cd590b2683  media/screenshots/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).jpg
+a459947e548a4684  media/screenshots/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).jpg
+4bbcdf64590da4f5  media/screenshots/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+2690f13cba5dca89  media/screenshots/Teenage Mutant Ninja Turtles Shredders Revenge.jpg
+8e02cc9faed49566  media/screenshots/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).jpg
+ec20582bf9e3f6e4  media/screenshots/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.jpg
+b4e7e26638501418  media/screenshots/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).jpg
+7e1fa68e6e1a7df6  media/screenshots/Toki [0100F3400A432000] + (v65536 UPD).jpg
+7464a101d63372d2  media/screenshots/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).jpg
+bffc7488c5aff813  media/screenshots/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).jpg
+0be261a994c53a37  media/screenshots/X-Out Resurfaced [010048501F73E000] [v0] (US).jpg
+478517735e353e4b  media/thumbnails/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).png
+83fdb5c431ea1e65  media/thumbnails/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).png
+db0235e65c35a296  media/thumbnails/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).png
+588f45d448bc233b  media/thumbnails/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).png
+5988b4b3cab3dbea  media/thumbnails/Legend of Zelda The Tears of the Kingdom.png
+057ffdbc01356f81  media/thumbnails/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).png
+2e48a9ebf1d187ec  media/thumbnails/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).png
+b50c2000a34372ad  media/thumbnails/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).png
+66811209cca41570  media/thumbnails/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).png
+f472de4c2e0458e3  media/thumbnails/Ninja Five-O [01006E5019C4C000] [v0] (US).png
+2322c10c4f0109c3  media/thumbnails/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+f472de4c2e0458e3  media/thumbnails/Ninja Five-O [01006E5019C4C800] [v196608] (US).png
+3cfa5b3fab88e2d9  media/thumbnails/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).png
+92eda51dc6800f11  media/thumbnails/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).png
+8847a5a34331ef6d  media/thumbnails/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).png
+74d63f1180cac7b1  media/thumbnails/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).png
+2a7cd1605873b84d  media/thumbnails/Pokemon Legends Arceus.png
+9571c75b7d539a0a  media/thumbnails/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).png
+da5917d60d563a1b  media/thumbnails/Super Mario Bros. Wonder.png
+ca5e2612854a7a75  media/thumbnails/Super Mario 3D World + Bowser's Fury.png
+6f362143794f5984  media/thumbnails/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).png
+f300489176e937f3  media/thumbnails/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).png
+dce023c7afebfda5  media/thumbnails/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.png
+51e6f264b31ddc35  media/thumbnails/Teenage Mutant Ninja Turtles Shredders Revenge.png
+24ac68d9fa096fa0  media/thumbnails/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).png
+5abdb5d55cffd180  media/thumbnails/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.png
+baf803b85205b148  media/thumbnails/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).png
+ed2402503e076151  media/thumbnails/Toki [0100F3400A432000] + (v65536 UPD).png
+ddd4c90dddfd637a  media/thumbnails/X-Out Resurfaced [010048501F73E000] [v0] (US).png
+394a7c4bc36d67ea  media/thumbnails/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).png
+c0a7e77efd0e074c  media/titles/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).jpg
+4fe60fd1c32d24c8  media/thumbnails/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).png
+ae79036b60f4ac5f  media/titles/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).jpg
+69b192c2ece824a0  media/titles/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).jpg
+1c1ed44b2404d837  media/titles/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).jpg
+f46f55d0bd115b78  media/titles/Legend of Zelda The Tears of the Kingdom.jpg
+f4cc5fb517fbe5f4  media/titles/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).jpg
+98076b3fe08f2c40  media/titles/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).jpg
+9a8f565ae7ea22ce  media/titles/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).jpg
+a8057875dbc50de9  media/titles/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).jpg
+1a65fdfdd62e13c5  media/titles/Ninja Five-O [01006E5019C4C000] [v0] (US).jpg
+1a65fdfdd62e13c5  media/titles/Ninja Five-O [01006E5019C4C800] [v196608] (US).jpg
+43567be63090d2e6  media/titles/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).jpg
+9dbe83876dd463dc  media/titles/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).jpg
+dc483fb129bd9786  media/titles/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).png
+36f48e4ff34bd716  media/titles/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).jpg
+eae0a866160d954f  media/titles/Pokemon Legends Arceus.jpg
+dc8af0b54b55b84e  media/titles/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).jpg
+e29aad8a3a2f0a71  media/titles/Super Mario 3D World + Bowser's Fury.jpg
+ad4beed713b0ac77  media/titles/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).jpg
+1da81e5095740e97  media/titles/Super Mario Bros. Wonder.jpg
+1f567e6d196ce83c  media/titles/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).jpg
+60cf3e108e8fa0ee  media/titles/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.jpg
+7402387cbd13863f  media/titles/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).jpg
+87f45086c7a325d3  media/titles/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).jpg
+6db54c6006c60623  media/titles/Teenage Mutant Ninja Turtles Shredders Revenge.jpg
+8d91c1f8fb092402  media/titles/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.jpg
+a1d89b5d4a9d3fdd  media/titles/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).jpg
+2ca4dbab854644e3  media/titles/X-Out Resurfaced [010048501F73E000] [v0] (US).jpg
+5be8d24701f2fbd9  media/titles/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).jpg
+b90117618572b676  media/titles/Toki [0100F3400A432000] + (v65536 UPD).jpg
+790e84da46934a4a  media/titles/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).jpg
+50e4fe381fb1bf7a  media/videos/Animal Crossing New Horizons [01006F8002326000] [v2.0.6 + 3 DLC] (Europe) (En,Fr).mp4
+339adb8445cfa096  media/videos/Donkey Kong Country Tropical Freeze [0100C1F0051B6000] + (v1.0.2 v131072 UPD).mp4
+67bc736c4a4c8825  media/videos/Fire Emblem Three Houses [010055D009F78000][v131072] (1G+1U+12D).mp4
+81d6e65aaf2a4fbc  media/videos/Kirby and the Forgotten Land [01004D300C5AE000] [v1.0.0] (Europe) (En,Fr).mp4
+791e64f291727e05  media/videos/LEGO City Undercover [01003A30012C0000] + (v1.0.1 v131702 UPD).mp4
+5da68522591a0f87  media/videos/Legend of Zelda The Tears of the Kingdom.mp4
+5be91de4f62f7e8c  media/videos/Luigi's Mansion 3 [0100DCA0064A6000] [v1.4.0 + 2 DLC] (Europe) (En,Fr).mp4
+c228dda8b6abf9ab  media/videos/Mario Kart 8 Deluxe [0100152000022000] + (v589824 UPD) (eshop).mp4
+3c6937fa0a9dd87e  media/videos/Metroid Dread [010093801237C000] [v2.1.0] (Europe) (En,Fr).mp4
+338d47c0a7f7075c  media/videos/Ninja Five-O [01006E5019C4C000] [v0] (US).mp4
+66247e27bc2f4bed  media/videos/Nintendo World Championships NES Edition [0100AD10185F8000] [v1.1.1] (Europe) (En,Fr).mp4
+481ff418773f910e  media/videos/Paper Mario - The Thousand-Year Door [0100ECD018EBE000] [v1.0.1] (Europe) (En,Fr).mp4
+92d5fc4cdf247d74  media/videos/Paper Mario The Origami King [0100A3900C3E2000] [v1.0.1] (Europe) (En,Fr).mp4
+5c1e0687d8e75d92  media/videos/Pocky & Rocky Reshrined [01000AF015596000] [v1.0.1] (Europe) (En,Fr).mp4
+71ba041c02df409c  media/videos/Pokemon Legends Arceus.mp4
+00cdd3679e77b1b2  media/videos/Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).mp4
+5b76c1069e280333  media/videos/Risky Chronicles and the Curse of Destiny [010023401DCAE000] [v0] (US).mp4
+16d37009b108cf3b  media/videos/Super Mario Bros. Wonder.mp4
+aafab702e6e51a95  media/videos/Super Mario 3D World + Bowser's Fury.mp4
+50cf63a0a296fc26  media/videos/Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).mp4
+50f229e359558585  media/videos/Super Mario Odyssey [0100000000010000] + (v262144 UPD) 4.0.0 patched.mp4
+b0a6ee6bc07e16bf  media/videos/Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).mp4
+5357b0738af62bba  media/videos/Teenage Mutant Ninja Turtles Shredders Revenge.mp4
+d191113bbf4f30d1  media/videos/The Legend of Zelda - Echoes of Wisdom [01008CF01BAAC800] [v1.0.2] (Europe) (En,Fr).mp4
+56337338e5f77211  media/videos/The Legend of Zelda - Link's Awakening [01006BB00C6F0000] [v1.0.1] (Europe) (En,Fr).mp4
+b8c81f01a0729003  media/videos/The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.mp4
+c269d5ae99ad1a87  media/videos/Toki [0100F3400A432000] + (v65536 UPD).mp4
+a32dca4baf3e6e6d  media/videos/X-Out Resurfaced [010048501F73E000] [v0] (US).mp4
+5ab63d195fcdaa26  media/videos/Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).mp4
+b07d7f2ff2b8637d  media/videos/Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).mp4
+f8821552e6c281e0  Splatoon 3 [0100C2500FC20000] [v9.2.0 + 3 DLC] (Europe) (En,Fr).xci
+f7724aebdbfd558f  Yoshi's Crafted World [01006000040C2000] [v65536] (1G+1U).xci
+d0f8bb93df11d6c1  Super Smash Bros Ultimate [01006A800016E000][v720896] (1G+1U+33D).xci
+a8535099cebcb37f  The Legend of Zelda Breath of the Wild [01007EF00011E000] + (v786432 UPD) + (2 DLC) 3.0.1 patched.xci
+e0cfb3d828f263f1  Xenoblade Chronicles 2 [0100E95004038000] + (v917504 UPD) + (7 DLC).xci

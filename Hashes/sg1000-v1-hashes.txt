@@ -1,0 +1,910 @@
+2a9dd001bba66ec2  Bomberman Special (Taiwan) (English Logo) (Unl).zip
+c0007abe92dec796  Bomb Jack (Japan, Australia) (Ja).zip
+6d6d97861b2376f7  Black Onyx, The (Japan).zip
+5cf70f60a3132ec5  Castle, The (Japan).zip
+8a4b6f0463fd2752  C_So! (Japan).zip
+b30c066cfea28272  Bank Panic (Japan).zip
+131b4304c0d1d4be  Chack'n Pop (Japan).zip
+49016a80bd327567  Champion Billiards (Japan).zip
+7094d254fcbf4d57  Borderline (Japan, Europe).zip
+50c6dd9b0e36cd68  Cabbage Patch Kids (Taiwan) (Unl).zip
+c615f10003ca60c9  Champion Boxing (Japan).zip
+0749a215ab999b40  Champion Kendou (Japan).zip
+8a80fbbd7fe6bc38  Champion Ice Hockey (Japan).zip
+503b2102bca55330  Champion Baseball (Japan).zip
+db001cda40ef08f1  Champion Tennis (Japan).zip
+3635fd2aea2d4d56  Champion Golf (Japan).zip
+8164d6202758100d  Championship Lode Runner (Japan).zip
+de850c985ff3e1da  Champion Soccer (Japan).zip
+30ea3f155c7331d6  Congo Bongo (Japan, Europe) (Alt).zip
+471f77bd212e5b3a  Drol (Japan, Australia) (Ja).zip
+542cd22eace5ca0b  Exerion (Japan, Europe, Australia, New Zealand) (En).zip
+850b9cbda79a26d9  Circus Charlie (Korea) (Unl).zip
+d46c6c366ceff866  Dragon Wang (Japan) (Alt).zip
+6118a450e4c075eb  Elevator Action (Japan).zip
+7a91f5d8bec36a13  Dokidoki Penguin Land (Japan).zip
+24693da1f33dfc8c  Flicky (Japan).zip
+19f945ecfdf49b34  Choplifter (Japan, Australia) (Ja).zip
+b7af5b377c27c0aa  Champion Pro Wrestling (Japan).zip
+c6dc649c736ca421  GP World (Japan).zip
+493fdd4db9acfb40  Golgo 13 (Japan).zip
+291a91f7140a0fa8  Girl's Garden (Japan).zip
+4794c6a1a3fab903  Hustle Chumy (Japan).zip
+42faaba9dec89ced  Hang-On II (Japan).zip
+646d82c2476722c0  Home Mahjong (Japan).zip
+d7a0d2fc36480e62  Hyper Sports (Japan).zip
+868800554fc3330d  King's Valley (Taiwan) (Unl).zip
+38670f500a67832e  H.E.R.O. (Japan).zip
+7f1c8437fda132e3  Gulkave (Japan).zip
+3f8ba20ad7bd12f8  Knightmare (Taiwan) (Unl).zip
+05b6c37651d85fd4  Mahjong (Japan).zip
+24df61f9724278bf  Lode Runner (Japan, Europe).zip
+eea3bd9335dfa47f  Magical Kid Wiz (Taiwan) (Unl).zip
+3d02c999ee861f38  N-Sub (Japan, Europe, Australia, New Zealand) (Ja).zip
+40e826301141f2a5  Monaco GP (Japan).zip
+c6dffaeaedd0b419  Ninja Princess (Japan).zip
+9abb9f825017a604  Legend of Kage, The (Taiwan) (Unl).zip
+a0c6ebc39b642694  Pacar (Japan, Europe, Australia, New Zealand) (En).zip
+d784883abeb72a96  Pachinko (Japan).zip
+fb2c4f40f8bff23d  Ping Pong (Taiwan) (Unl).zip
+5a709418ff38834d  Pachinko II (Japan).zip
+b28466060961f4e5  Magical Tree (Taiwan) (Unl).zip
+807006720c674040  Othello (Japan).zip
+3bc444512e47c479  Orguss (Japan, Europe, Australia, New Zealand) (En).zip
+8c2e6e6f33d88610  Safari Hunting (Japan).zip
+f39a9b522190b996  Pop Flamer (Japan, Europe, Australia, New Zealand) (En).zip
+c028928047c0962f  Rally-X (Taiwan) (English Logo) (Unl).zip
+482c508fdc6c5be9  Sega-Galaga (Japan).zip
+80080cac8f95f2f0  Pitfall II - The Lost Caverns (Japan).zip
+b34e94987d449f84  Safari Race (Japan, Europe, Australia, New Zealand) (Ja).zip
+7bf189acfeeaccf0  Rock n' Bolt (Japan).zip
+6a6477f5ae27b3f3  Shinnyushain Tooru Kun (Japan).zip
+09d70424f849c681  Serizawa Hachidan no Tsumeshogi (Japan).zip
+cf8e193266136482  Pippols (Taiwan) (Unl).zip
+f93e1a3186e7b357  Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).zip
+0922bc2ebfcd1468  Sega Flipper (Japan, Europe).zip
+a9801b0426021052  Soukoban (Japan, Australia) (Ja).zip
+7846ec8357202886  Space Invaders (Japan).zip
+adf88c1d15270985  Road Fighter (Taiwan) (English Logo) (Unl).zip
+3779a234c2378f7b  Star Force (Japan).zip
+ff03920bdf455987  TwinBee (Taiwan) (Unl).zip
+c077727e33dadb97  Wonder Boy (Japan).zip
+8e6895babc1e310d  Space Mountain (Japan).zip
+82477bc75dfda3e2  Star Jacker (Japan, Europe).zip
+ee2696a52662e03f  Space Slalom (Japan).zip
+cefb6e879fea7ade  Yie Ar Kung-Fu II (Taiwan) (Unl).zip
+405f289dca4a796a  Zaxxon (Japan).zip
+3e2559b982b6ad10  Super Tank (Japan).zip
+a0a706a2d484dde7  Zippy Race (Japan, Australia) (Ja).zip
+2705b27d01670e49  Yamato (Japan, Europe, Australia, New Zealand) (En).zip
+7b758a78aba4e4ac  Tank Battalion (Taiwan) (Unl).zip
+3b0a931f262b8051  Yie Ar Kung-Fu (Taiwan) (Unl).zip
+7eebbbd9a28b0c79  gamelist_ARRM.xml
+b256d5cefc7cbea3  media/boxback/Black Onyx, The (Japan).png
+244e5f13dbc32f33  media/boxback/Borderline (Japan, Europe).png
+b5b686ed652dea83  media/boxback/Castle, The (Japan).png
+e20bdbcc3089e52f  media/boxback/C_So! (Japan).png
+fc0f8f140ad1d917  media/boxback/Bank Panic (Japan).png
+745e538235774dd4  media/boxback/Bomb Jack (Japan, Australia) (Ja).jpg
+81ad5dc22c2b2666  media/boxback/Champion Baseball (Japan).png
+c1147168d8ecf6fd  media/boxback/Champion Golf (Japan).png
+de62b1645847bf01  media/boxback/Champion Billiards (Japan).jpg
+875c488c24d854e5  Zoom 909 (Japan).zip
+8f4c074b4fd5ab28  media/boxback/Champion Ice Hockey (Japan).png
+51517b007158b8a3  media/boxback/Champion Boxing (Japan).png
+f0daab1093388971  media/boxback/Champion Pro Wrestling (Japan).png
+ea28c8db4b583328  media/boxback/Champion Tennis (Japan).png
+18687388a7629838  media/boxback/Circus Charlie (Korea) (Unl).jpg
+0954953d90ee1bc4  media/boxback/Chack'n Pop (Japan).jpg
+0fd5a9ecb1c0f557  media/boxback/Championship Lode Runner (Japan).png
+fe3605b174eee0cd  media/boxback/Champion Kendou (Japan).png
+995174e67fb50dc7  media/boxback/Dokidoki Penguin Land (Japan).png
+7a5c01f38b08fce6  media/boxback/Congo Bongo (Japan, Europe) (Alt).png
+63bb6d4a47766cab  media/boxback/Champion Soccer (Japan).png
+0f660cadd08f3029  media/boxback/Elevator Action (Japan).png
+e3f418221b7cc521  media/boxback/Dragon Wang (Japan) (Alt).png
+b7bf5c3e497e1d18  media/boxback/Drol (Japan, Australia) (Ja).jpg
+05fc849d434b8095  media/boxback/Flicky (Japan).png
+d7abbf69a2967f5c  media/boxback/GP World (Japan).png
+dd8f6d2a48b61a76  media/boxback/Gulkave (Japan).png
+75cc5cf23c9b9138  media/boxback/Girl's Garden (Japan).png
+e9975ac40d149173  media/boxback/Exerion (Japan, Europe, Australia, New Zealand) (En).jpg
+42a1394d7074e454  media/boxback/Choplifter (Japan, Australia) (Ja).jpg
+a30e3323bb5a6d71  media/boxback/Home Mahjong (Japan).png
+f7a289036fa298d3  media/boxback/Hang-On II (Japan).png
+adf272b62b9df1e7  media/boxback/H.E.R.O. (Japan).jpg
+3d485679e7e3d22c  media/boxback/Monaco GP (Japan).png
+4e22fd113b89397e  media/boxback/Mahjong (Japan).png
+e85b8db6cfa47f9f  media/boxback/Lode Runner (Japan, Europe).png
+4717c665eacac1b1  media/boxback/Golgo 13 (Japan).jpg
+294ed16accbb439c  media/boxback/Hyper Sports (Japan).jpg
+b51d1dbc1515bb24  media/boxback/Orguss (Japan, Europe, Australia, New Zealand) (En).jpg
+afd68dcc2130cc98  media/boxback/Ninja Princess (Japan).png
+047633a5a4434ecf  media/boxback/Hustle Chumy (Japan).jpg
+c77f76f37ed75191  media/boxback/Pachinko (Japan).png
+3b92682d71185432  media/boxback/Pachinko II (Japan).png
+237713f0c431859c  media/boxback/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).jpg
+97f99ca4ff7192ff  media/boxback/Pitfall II - The Lost Caverns (Japan).png
+7f6006eb580d27db  media/boxback/Pacar (Japan, Europe, Australia, New Zealand) (En).jpg
+bd126e73380211a3  media/boxback/Safari Hunting (Japan).png
+0adcd211286be3ab  media/boxback/Sega-Galaga (Japan).png
+7de1ce3d66d93be0  media/boxback/Othello (Japan).jpg
+cb12db9ec111a092  media/boxback/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).jpg
+69d5fba04bd9a6e8  media/boxback/Serizawa Hachidan no Tsumeshogi (Japan).png
+177808e368921a9e  media/boxback/Sega Flipper (Japan, Europe).png
+95a31a80950c9382  media/boxback/Shinnyushain Tooru Kun (Japan).png
+7b237e1e3c2c6f49  media/boxback/Space Slalom (Japan).png
+0bcb324058a84665  media/boxback/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).jpg
+61ac8ff0b703372e  media/boxback/Rock n' Bolt (Japan).png
+b7884d24a75226a0  media/boxback/Star Jacker (Japan, Europe).png
+fee134c0f9839c9a  media/boxback/Space Mountain (Japan).png
+6521248433d28da8  media/boxback/Star Force (Japan).png
+c630681061325cbe  media/boxback/Wonder Boy (Japan).png
+4d61510d7572cdcc  media/boxback/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).jpg
+849f06e60993df32  media/boxback/Super Tank (Japan).jpg
+d2ddcb8cf7a35f10  media/boxback/Space Invaders (Japan).jpg
+a4c50894c32be3b2  media/boxback/Soukoban (Japan, Australia) (Ja).jpg
+ff2d16b0806cefa8  media/boxback/Zaxxon (Japan).jpg
+c0c068d1d4e60c7e  media/boxback/Zoom 909 (Japan).png
+ca9b5a2eb0bf4ab3  media/boxback/Yamato (Japan, Europe, Australia, New Zealand) (En).jpg
+1adc42045d7d498b  media/fanarts/Bank Panic (Japan).jpg
+80b630b21ced0be5  media/boxback/Zippy Race (Japan, Australia) (Ja).jpg
+31f4c64b5913d230  media/fanarts/Bomberman Special (Taiwan) (English Logo) (Unl).png
+7e3ce693ec5e1e8e  media/fanarts/Circus Charlie.jpg
+8bbb38978931bce5  media/fanarts/Bomb Jack (Japan, Australia) (Ja).jpg
+19322159cba843dc  media/fanarts/Championship Lode Runner (Japan).jpg
+8906c0097992a45e  media/fanarts/Chack'n Pop.jpg
+1997d267bc23a4e1  media/fanarts/Exerion.jpg
+5ecc2fa7c40cb5e9  media/fanarts/Elevator Action (Japan).jpg
+9f01c4ffd44e341b  media/fanarts/Congo Bongo (Japan, Europe) (Alt).jpg
+7f8adf8bcef44202  media/fanarts/Choplifter (Japan, Australia) (Ja).png
+ae3201d5437155cf  media/fanarts/Flicky (Japan).jpg
+1d9b403192e928b9  media/fanarts/Golgo 13 (Japan).png
+4356716d676d8fdd  media/fanarts/H.E.R.O. (Japan).png
+82a749160cc47977  media/fanarts/Lode Runner (Japan, Europe).jpg
+cd5012d29bc913e1  media/fanarts/Hang-On II (Japan).jpg
+6cab7042f93364bb  media/fanarts/GP World (Japan).jpg
+2712a412c12e2efa  media/fanarts/Pippols.jpg
+408f47c528ea6ebd  media/fanarts/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).jpg
+908f6fbc2a1ea2df  media/fanarts/Ninja Princess.jpg
+290dafe3efcab7e7  media/fanarts/Monaco GP (Japan).jpg
+15ac9059792bd05b  media/fanarts/Road Fighter.jpg
+45b8d2aa3a4dc4bf  media/fanarts/Tank Battalion.jpg
+9c03eeb9ab260a5b  media/fanarts/Pitfall II - The Lost Caverns (Japan).jpg
+c0a55b59ef04cd9c  media/fanarts/Sega-Galaga.jpg
+454624aadb799eef  media/fanarts/Yie Ar Kung-Fu II.jpg
+15e86886ced6e053  media/fanarts/The Legend of Kage.jpg
+90039d66380fb32e  media/marquee/Borderline (Japan, Europe).png
+326ea8e8fe09aac1  media/marquee/Bomberman Special (Taiwan) (English Logo) (Unl).png
+1ac2fdeed97688b2  media/marquee/Bank Panic (Japan).png
+89c042a6f874fa81  media/marquee/Black Onyx, The (Japan).png
+7094d603cca43ff5  media/fanarts/Wonder Boy (Japan).jpg
+7203c5502ea788d8  media/marquee/C_So! (Japan).png
+9dff30dbb6aa0d0e  media/marquee/Champion Golf (Japan).png
+ff3c2a792c8004ec  media/marquee/Champion Billiards (Japan).png
+eb03842ee73725c5  media/marquee/Bomb Jack (Japan, Australia) (Ja).png
+6d5f4d4aed5508b5  media/marquee/Champion Baseball (Japan).png
+6dd9f32a29686108  media/marquee/Castle, The (Japan).png
+dbc6fff85124aa23  media/marquee/Chack'n Pop (Japan).png
+60b79581c5c2ea9d  media/marquee/Cabbage Patch Kids (Taiwan) (Unl).png
+58e74b6663a5ea56  media/marquee/Champion Boxing (Japan).png
+40f3c916ab27f62a  media/marquee/Champion Pro Wrestling (Japan).png
+77dee0691ef1fe09  media/marquee/Champion Kendou (Japan).png
+e1d5ddb8892da085  media/marquee/Circus Charlie (Korea) (Unl).png
+64bc5f16f767a615  media/marquee/Congo Bongo (Japan, Europe) (Alt).png
+b0ace2d70402d72d  media/marquee/Choplifter (Japan, Australia) (Ja).png
+988e4b5fbd0b3cd5  media/marquee/Champion Ice Hockey (Japan).png
+c42fc203984191b8  media/marquee/Dragon Wang (Japan) (Alt).png
+b3d884cbeafe148e  media/marquee/Dokidoki Penguin Land (Japan).png
+76db54705651a776  media/marquee/Champion Tennis (Japan).png
+c0f18dbe9a2f6e18  media/marquee/Championship Lode Runner (Japan).png
+02e54e83db3eed26  media/marquee/Champion Soccer (Japan).png
+ae4822507c6624ac  media/marquee/Gulkave (Japan).png
+4bbfde19c67cffc5  media/marquee/Golgo 13 (Japan).png
+296f878db1ad9eb8  media/marquee/H.E.R.O. (Japan).png
+08c44eab39588702  media/marquee/Hang-On II (Japan).png
+a897ee3e0252b781  media/marquee/Hustle Chumy (Japan).png
+97c5b5e4c140aeee  media/marquee/Home Mahjong (Japan).png
+93f8471a2bf25f5f  media/marquee/Exerion (Japan, Europe, Australia, New Zealand) (En).png
+cb91fa88ba286742  media/marquee/Hyper Sports (Japan).png
+4aba2ad1b47e5a3b  media/marquee/Elevator Action (Japan).png
+95ef54030e0d037e  media/marquee/Drol (Japan, Australia) (Ja).png
+179dfbe4dc5c0a85  media/marquee/Flicky (Japan).png
+baf4e6e59fec4620  media/marquee/GP World (Japan).png
+ef235c025e2ad494  media/marquee/Lode Runner (Japan, Europe).png
+6b318f60a0760222  media/marquee/Girl's Garden (Japan).png
+7f5c25ca96bbb1be  media/marquee/Magical Tree (Taiwan) (Unl).png
+e3ad767b473fe1ae  media/marquee/Legend of Kage, The (Taiwan) (Unl).png
+1c4891910ddc7c4c  media/marquee/King's Valley (Taiwan) (Unl).png
+85f944a5df2cf303  media/marquee/Magical Kid Wiz (Taiwan) (Unl).png
+5eeb80303f3dd1f2  media/marquee/Monaco GP (Japan).png
+3903e4cbd01b0336  media/marquee/Mahjong (Japan).png
+c879cac92f8a6c8b  media/marquee/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).png
+ad8e6ba640f7871a  media/marquee/Ninja Princess (Japan).png
+6989066f58351dba  media/marquee/Orguss (Japan, Europe, Australia, New Zealand) (En).png
+06737cf7228720ae  media/marquee/Pachinko II (Japan).png
+8aa642fc1c27ce73  media/marquee/Knightmare (Taiwan) (Unl).png
+9b5174078ea5abf7  media/marquee/Pitfall II - The Lost Caverns (Japan).png
+6cfaf23db0e19070  media/marquee/Othello (Japan).png
+e569db59f50bfb07  media/marquee/Ping Pong (Taiwan) (Unl).png
+f78cce622618a0aa  media/marquee/Pacar (Japan, Europe, Australia, New Zealand) (En).png
+6014932f8d80b3c3  media/marquee/Pippols (Taiwan) (Unl).png
+bded8edc36b5c475  media/marquee/Rally-X (Taiwan) (English Logo) (Unl).png
+931344621c41f6a7  media/marquee/Pachinko (Japan).png
+5b9e90d4c0de3f47  media/marquee/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+b8aae0f5b8a202e7  media/marquee/Safari Hunting (Japan).png
+b146050925c358f3  media/marquee/Road Fighter (Taiwan) (English Logo) (Unl).png
+01b64565b4597951  media/marquee/Serizawa Hachidan no Tsumeshogi (Japan).png
+3a0b41b1eb65ea61  media/marquee/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).png
+4a1a7d8791b863d7  media/marquee/Sega-Galaga (Japan).png
+fb2a2fdff1da3e21  media/marquee/Shinnyushain Tooru Kun (Japan).png
+2127fdfa63a9b4ac  media/marquee/Sega Flipper (Japan, Europe).png
+37d2fd13ea05fd6d  media/marquee/Rock n' Bolt (Japan).png
+1bd87ad59e045319  media/marquee/Space Mountain (Japan).png
+43a3a788a7e96c92  media/marquee/Space Invaders (Japan).png
+13a98058e381a89b  media/marquee/Soukoban (Japan, Australia) (Ja).png
+6a34a8e45acb5596  media/marquee/Space Slalom (Japan).png
+0041da28366f5b3a  media/marquee/Star Force (Japan).png
+ca3dd0701942b68d  media/marquee/Super Tank (Japan).png
+0a97e18336da7313  media/marquee/Tank Battalion (Taiwan) (Unl).png
+f8c9472a1e4627da  media/marquee/TwinBee (Taiwan) (Unl).png
+26bf5ee671e1ad23  media/marquee/Yamato (Japan, Europe, Australia, New Zealand) (En).png
+b47a588740fbed8a  media/marquee/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+3a499c7b379dbc59  media/marquee/Zaxxon (Japan).png
+d7de73643b04c0dd  media/marquee/Wonder Boy (Japan).png
+0f632024b54199d4  media/marquee/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).png
+009fb684ea075d6e  media/marquee/Zoom 909 (Japan).png
+a09fde5fc56e3a7c  media/marquee/Star Jacker (Japan, Europe).png
+9d816c86ddf040d2  media/marquee/Zippy Race (Japan, Australia) (Ja).png
+4854748c8a6e026d  media/marquee/Yie Ar Kung-Fu II (Taiwan) (Unl).png
+7e8e99417d0856ba  media/manuals/Borderline (Japan, Europe)_(jp).pdf
+b1bbd85ad6f949ab  media/manuals/Castle, The (Japan)_(jp).pdf
+549701d162151910  media/manuals/Champion Baseball (Japan)_(jp).pdf
+2d2f19e506a3074f  media/manuals/Bank Panic (Japan)_(jp).pdf
+a1d67969924f7326  media/manuals/Champion Billiards_(jp).pdf
+2b4fed7f0777c3a3  media/manuals/Black Onyx, The (Japan)_(jp).pdf
+98fff8b170331efd  media/manuals/Bomb Jack_(jp).pdf
+a39a952cc301a558  media/manuals/Chack'n Pop_(jp).pdf
+b97c5f863fac6888  media/manuals/Champion Soccer (Japan)_(jp).pdf
+82f002e9cfbad1ef  media/manuals/C_So! (Japan)_(jp).pdf
+47be26da9ed4792f  media/manuals/Champion Boxing (Japan)_(jp).pdf
+d7baaf0131ff0a14  media/manuals/Champion Ice Hockey (Japan)_(jp).pdf
+153b12a45c67fd78  media/manuals/Champion Golf (Japan)_(jp).pdf
+205402b1364f1d55  media/manuals/Dragon Wang (Japan) (Alt)_(jp).pdf
+b8bddff4a453f4bd  media/manuals/Champion Kendou (Japan)_(jp).pdf
+bc1e8e5dc88c791b  media/manuals/Champion Tennis (Japan)_(jp).pdf
+af112bcf8bdea8c2  media/manuals/Congo Bongo_(au).pdf
+30e7a80613025bc8  media/manuals/Champion Pro Wrestling (Japan)_(jp).pdf
+9440afd71ceda18e  media/manuals/Exerion_(au).pdf
+7e0ad54403fa6a2e  media/manuals/Drol_(jp).pdf
+0d83cc3d912827c7  media/manuals/Choplifter_(jp).pdf
+977a2583561bbc39  media/manuals/Elevator Action (Japan)_(jp).pdf
+5d7f98354ce7834b  media/manuals/Championship Lode Runner (Japan)_(jp).pdf
+46d932eb2c54b94f  media/manuals/Dokidoki Penguin Land (Japan)_(jp).pdf
+5d1bcfe65b08eda7  media/manuals/Hang-On II (Japan)_(jp).pdf
+c41baa9eec38403a  media/manuals/Golgo 13_(jp).pdf
+d49d45db27469bcc  media/manuals/Flicky (Japan)_(jp).pdf
+8c1ef065d7da0757  media/manuals/Hustle Chumy_(jp).pdf
+72a21b976a8b86ad  media/manuals/Hyper Sports_(jp).pdf
+b7cfe5dcc388aefc  media/manuals/Mahjong (Japan)_(jp).pdf
+640fc8b353bcdcf3  media/manuals/H.E.R.O._(jp).pdf
+3f3e2d5afb2ad7cc  media/manuals/GP World (Japan)_(jp).pdf
+b42c015f1e8dc838  media/manuals/Gulkave (Japan)_(jp).pdf
+1c3991eae328c7ee  media/manuals/Girl's Garden (Japan)_(jp).pdf
+2480086738892fd3  media/manuals/Orguss_(jp).pdf
+f22909b1f55a7efb  media/manuals/N-Sub_(au).pdf
+c9828c49e016d558  media/manuals/Othello_(jp).pdf
+68cede129e47e0c3  media/manuals/Monaco GP (Japan)_(jp).pdf
+2f7a32c15d6eaa7e  media/manuals/Pitfall II - The Lost Caverns (Japan)_(jp).pdf
+ade9e20514f05c29  media/manuals/Pachinko (Japan)_(jp).pdf
+180b8651cb3fd58c  media/manuals/Pachinko II (Japan)_(jp).pdf
+c0cc496244a8d518  media/manuals/Pacar_(au).pdf
+399ed0e7edbcb00e  media/manuals/Pop Flamer_(au).pdf
+227faf5a053dce2e  media/manuals/Home Mahjong (Japan)_(jp).pdf
+51e1d1323c815024  media/manuals/Ninja Princess (Japan)_(jp).pdf
+37995cc99b56588e  media/manuals/Safari Race_(jp).pdf
+2e033fe095f1c521  media/manuals/Safari Hunting (Japan)_(eu).pdf
+cbb6570a1d98e0da  media/manuals/Sega-Galaga (Japan)_(jp).pdf
+3bbaabb8d953ee17  media/manuals/Serizawa Hachidan no Tsumeshogi (Japan)_(jp).pdf
+6c68002e06c0babd  media/manuals/Shinnyushain Tooru Kun (Japan)_(jp).pdf
+dd70f8ba2b6110fa  media/manuals/Sindbad Mystery_(au).pdf
+4799fd99c15601f8  media/manuals/Rock n' Bolt (Japan)_(jp).pdf
+a22fd7b06ba6f126  media/manuals/Sega Flipper (Japan, Europe)_(eu).pdf
+c313eb2fed295e6b  media/manuals/Space Mountain (Japan)_(jp).pdf
+ffa3cb9de20864c3  media/manuals/Space Slalom (Japan)_(jp).pdf
+b03b97202b0b4a89  media/manuals/Space Invaders_(jp).pdf
+1e46a7be039d34be  media/manuals/Yamato_(jp).pdf
+fe9156cd57c13139  media/manuals/Star Jacker (Japan, Europe)_(jp).pdf
+c7be150193348078  media/manuals/Zaxxon_(jp).pdf
+a9d5863e3f87aae7  media/cartridges/Bank Panic (Japan).png
+dca13090bdc4f4f8  media/cartridges/Black Onyx, The (Japan) (Translated En).png
+3ba29ed0018fd0e9  media/manuals/Super Tank_(jp).pdf
+77a01e00f5bf3d33  media/cartridges/Black Onyx, The (Japan).png
+a2ddd6f15258044a  media/manuals/Star Force (Japan)_(jp).pdf
+340d0523d303e5e5  media/manuals/Zippy Race_(jp).pdf
+c5b267f104d17dd5  media/cartridges/Bomb Jack (Japan).png
+f29b1ae5245bdfc5  media/cartridges/Bomberman Special (Taiwan) (English Logo) (Unl).jpg
+d106386be5941669  media/cartridges/C_So! (Japan).png
+57191c3f6248a08c  media/cartridges/Bomb Jack (Japan, Australia) (Ja).png
+7e2462523d3ee336  media/manuals/Lode Runner (Japan, Europe)_(eu).pdf
+7887bfe6b91eb126  media/cartridges/Borderline (Japan, Europe).png
+6d8edd69735328c8  media/cartridges/Castle, The (Japan).png
+7bc34f94fb26fa9a  media/cartridges/Chack'n Pop (Japan) (Translated En).png
+bd47649b7dca19e7  media/cartridges/Chack'n Pop (Japan).jpg
+87328499e69943e3  media/cartridges/Champion Billiards (Japan).jpg
+d932c3c27658f297  media/cartridges/Champion Baseball (Japan).png
+468680cd47ac92b0  media/cartridges/Champion Billiards (Japan).png
+38af8184b04b8587  media/cartridges/Champion Boxing (Japan).png
+30fea00b2668ae56  media/cartridges/Champion Golf (Japan).png
+8e74c9bfe269db79  media/cartridges/Champion Ice Hockey (Japan).png
+bfda1e860422ec52  media/cartridges/Challenge Derby (Japan).png
+d1ccdf0ef0c3e8af  media/cartridges/Champion Pro Wrestling (Japan).png
+b2c137721af717ae  media/cartridges/Champion Kendou (Japan).png
+9578d5d30aa97205  media/cartridges/Championship Lode Runner (Japan).png
+4e959621216ba5ab  media/cartridges/Champion Tennis (Japan).png
+5466d4bd2ccb3995  media/cartridges/Champion Soccer (Japan).png
+7ccca01468af412d  media/cartridges/Congo Bongo (Japan, Europe) (Alt).png
+da15691a57d42cad  media/cartridges/Choplifter (Japan, Australia) (Ja).jpg
+ac0e9dd24af44d8d  media/cartridges/Dokidoki Penguin Land (Japan).png
+6085091569c7f661  media/cartridges/Dragon Wang (Japan) (Alt).png
+0ef69a86810b708c  media/cartridges/Choplifter (Japan).png
+91696cf77f8fc17b  media/manuals/Zoom 909 (Japan)_(jp).pdf
+dfc3947b48c1408c  media/cartridges/Congo Bongo (Japan, Europe).png
+07baf71535173316  media/cartridges/Dragon Wang (Japan).png
+8271c0d101357940  media/cartridges/Drol (Japan).png
+ca88f6c6b3052407  media/cartridges/Exerion (Japan, Europe).png
+291a4f9a31846224  media/cartridges/Drol (Japan, Australia) (Ja).jpg
+6b684a28d23b2a6c  media/cartridges/Elevator Action (Japan).png
+cbd89eee8800ab94  media/cartridges/Girl's Garden (Japan).png
+4351486bcf2be8b3  media/cartridges/GP World (Japan).png
+e9c89bad2849aa50  media/cartridges/Flicky (Japan).png
+ffcb570e2b78f01a  media/cartridges/Golgo 13 (Japan).png
+cf23497b1fdefdb9  media/cartridges/H.E.R.O. (Japan).jpg
+61cef97e903095d3  media/cartridges/Gulkave (Japan).png
+270133981d4df6c4  media/cartridges/Guzzler (Japan).png
+22345bdbda506cbc  media/cartridges/Exerion (Japan, Europe, Australia, New Zealand) (En).jpg
+1999feb9149a59f0  media/cartridges/Golgo 13 (Japan).jpg
+756b62ee638b5813  media/cartridges/H.E.R.O. (Japan).png
+7c958d9d7ef76e75  media/cartridges/Home Mahjong (Japan).png
+2771e6d360343075  media/manuals/Wonder Boy (Japan)_(jp).pdf
+15665fdb02f6fee3  media/manuals/Soukoban_(jp).pdf
+368f8b202840f264  media/cartridges/Hyper Sports (Japan).png
+f2a9d902a4ca6724  media/cartridges/Hustle Chumy (Japan).png
+60e99e17c9e81a24  media/cartridges/Legend of Kage, The (Taiwan) (Unl).png
+cdeed0b81a7236b4  media/cartridges/James Bond 007 (Japan).png
+6bfd024722862399  media/cartridges/Monaco GP (Japan).png
+ffa78f5a35386476  media/cartridges/Hustle Chumy (Japan).jpg
+46abbe31b370156e  media/cartridges/Mahjong (Japan).png
+a1492ca0f68a529b  media/cartridges/Hang-On II (Japan).png
+5b9d336a92d4077e  media/cartridges/Loretta no Shouzou - Sherlock Holmes (Japan).png
+9a3a747efd978e9a  media/cartridges/Ninja Princess (Japan) (Translated En).png
+b52defa372896c65  media/cartridges/Lode Runner (Japan, Europe).png
+52ba0a0833e52660  media/cartridges/N-Sub (Europe).png
+5e98dcd0f87e395d  media/cartridges/Okamoto Ayako no Match Play Golf (Japan).png
+bf5e668d94ba8abc  media/cartridges/Ninja Princess (Japan).png
+07938c94617a5300  media/cartridges/Orguss (Japan, Europe).png
+9e711fa665464603  media/cartridges/Orguss (Japan, Europe, Australia, New Zealand) (En).jpg
+9ad42f979d235388  media/cartridges/Pachinko (Japan).png
+5f4da3540b0d5bda  media/cartridges/Othello (Japan).jpg
+4b9d0530d7d52816  media/cartridges/Othello (Japan).png
+56e625f7ef8759b6  media/cartridges/Pacar (Japan, Europe, Australia, New Zealand) (En).jpg
+5e543323d81825bf  media/cartridges/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).jpg
+4731ab3e5bf29a17  media/cartridges/Pacar (Japan, Europe).png
+1ec8dbc79d47620e  media/cartridges/Pitfall II - The Lost Caverns (Japan).png
+16108b029479804b  media/cartridges/Pachinko II (Japan).png
+382ce9b65291d5f5  media/cartridges/Safari Hunting (Japan).png
+554f2d7fb4b0bd04  media/cartridges/Rock n' Bolt (Japan).png
+b0d2be3e4e0fbf04  media/cartridges/Pop Flamer (Japan, Europe).png
+1e7bba1c438cdc68  media/cartridges/Sega Flipper (Japan, Europe).png
+fc9f64b0d55bbd7e  media/cartridges/Q-bert (Japan).png
+3c3139fc3bb5f7fb  media/cartridges/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).jpg
+a6cdf7bfe3d88608  media/cartridges/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).jpg
+a6fbb2557cfd359f  media/cartridges/Sega-Galaga (Japan).png
+c97270d11e3f536f  media/cartridges/Safari Race (Japan).png
+89018d8918904643  media/cartridges/San-nin Mahjong (Japan).png
+9ff69ff579c06e3e  media/cartridges/Sindbad Mystery (Japan, Europe).png
+163c7348e7888acf  media/cartridges/Serizawa Hachidan no Tsumeshogi (Japan).png
+b5513ce927d32502  media/cartridges/Space Armor (Japan).png
+c1b2bab8c1c0e109  media/cartridges/Soukoban (Japan).png
+a1ddd5b190a840a7  media/cartridges/Shinnyushain Tooru Kun (Japan).png
+1a4386afb9f02fb5  media/cartridges/Space Mountain (Japan).png
+bdfca151ae97e03b  media/cartridges/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).jpg
+da9c48762f261a06  media/cartridges/Star Jacker (Japan, Europe).png
+f756cee8318c55a8  media/cartridges/Space Slalom (Japan).png
+295e64d21777d10b  media/cartridges/Soukoban (Japan, Australia) (Ja).jpg
+5af496ffe6becb72  media/cartridges/Star Force (Japan).png
+6648889e9dfd2a14  media/cartridges/Space Invaders (Japan).png
+ade09318d8833d9b  media/cartridges/Terebi Oekaki (Japan).png
+664481ac1f1cebaa  media/cartridges/Yamato (Japan, Europe).png
+b30933c5660ed9b3  media/cartridges/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+5bcac0ffc9d8b390  media/cartridges/Super Tank (Japan).png
+d971f1d105d837a8  media/cartridges/Space Invaders (Japan).jpg
+092d07e188204d0e  media/cartridges/Zippy Race (Japan).png
+00f241db00d10dff  media/cartridges/Zaxxon (Japan).png
+3c5bf8714b816213  media/cartridges/Super Tank (Japan).jpg
+02cbbf8ce29780c9  media/cartridges/Wonder Boy (Japan).png
+89196e6c60f13db8  media/cartridges/Zaxxon (Japan).jpg
+e9d0078223337673  media/cartridges/Zippy Race (Japan, Australia) (Ja).jpg
+c74d13bc92b062bb  media/bezel/Black Onyx, The (Japan)-bezel.png
+aa52fb9f515ca5f2  media/bezel/Borderline (Japan, Europe)-bezel.png
+762a65c8a95dd4cf  media/cartridges/Zoom 909 (Japan).png
+dfa2922ed2e5d587  media/cartridges/Yamato (Japan, Europe, Australia, New Zealand) (En).jpg
+59e1b5b84fd7cdaa  media/bezel/Bank Panic (Japan)-bezel.png
+47b96c2d9a7c0a10  media/bezel/Champion Boxing (Japan)-bezel.png
+20ee498c50dcfadb  media/bezel/Champion Baseball (Japan)-bezel.png
+d632a4447c7747ea  media/bezel/Champion Golf (Japan)-bezel.png
+49cc19090dfa8f63  media/bezel/Champion Kendou (Japan)-bezel.png
+c851c8c19962d460  media/bezel/Castle, The (Japan)-bezel.png
+8a61e245aaa60cf8  media/bezel/Champion Soccer (Japan)-bezel.png
+4387e8f26f3fa0b3  media/bezel/Champion Ice Hockey (Japan)-bezel.png
+50ee4b03e5da50c0  media/bezel/C_So! (Japan)-bezel.png
+38f12b30aa13c3c2  media/bezel/Champion Pro Wrestling (Japan)-bezel.png
+9527b291a8cbc46d  media/bezel/Champion Tennis (Japan)-bezel.png
+e85e1ea4c084e7e1  media/bezel/Dragon Wang (Japan) (Alt)-bezel.png
+fb426da8c2ff790a  media/bezel/Flicky (Japan)-bezel.png
+50c356c80df9aff9  media/bezel/Elevator Action (Japan)-bezel.png
+ee0e44406ef7812b  media/bezel/Home Mahjong (Japan)-bezel.png
+9a30cea416a2d4b3  media/bezel/Congo Bongo (Japan, Europe) (Alt)-bezel.png
+9d7a456a2ffd18af  media/bezel/Championship Lode Runner (Japan)-bezel.png
+e2637620d6865b85  media/bezel/Dokidoki Penguin Land (Japan)-bezel.png
+db43a16e0667635e  media/bezel/GP World (Japan)-bezel.png
+04cdb9981e82272e  media/bezel/Lode Runner (Japan, Europe)-bezel.png
+eaf488f4e50f5445  media/bezel/Hang-On II (Japan)-bezel.png
+8c641f203dde639d  media/bezel/Gulkave (Japan)-bezel.png
+530488bc09c27029  media/bezel/Girl's Garden (Japan)-bezel.png
+2b167dd16e3ea5a0  media/bezel/Mahjong (Japan)-bezel.png
+60bf90913c3502ff  media/bezel/Monaco GP (Japan)-bezel.png
+5c1cb7c580060d57  media/bezel/Pachinko II (Japan)-bezel.png
+42248aa8cc652fb8  media/bezel/Pachinko (Japan)-bezel.png
+a9f9bf1302a96ca4  media/bezel/Ninja Princess (Japan)-bezel.png
+70862c134771e867  media/bezel/Pitfall II - The Lost Caverns (Japan)-bezel.png
+66a34043a1bc771a  media/bezel/Sega-Galaga (Japan)-bezel.png
+a54832590fc3742b  media/bezel/Safari Hunting (Japan)-bezel.png
+35f40c282e1fecb7  media/bezel/Serizawa Hachidan no Tsumeshogi (Japan)-bezel.png
+3eb9311b63ad38ce  media/bezel/Sega Flipper (Japan, Europe)-bezel.png
+37e35f36090cb505  media/bezel/Rock n' Bolt (Japan)-bezel.png
+bf27f09d36236d8e  media/bezel/Space Mountain (Japan)-bezel.png
+10022b2945ce4a35  media/bezel/Star Force (Japan)-bezel.png
+461fd410a7222c90  media/bezel/Shinnyushain Tooru Kun (Japan)-bezel.png
+f425f94beb63aa27  media/bezel/Wonder Boy (Japan)-bezel.png
+ba56593ba7aa276e  media/bezel/Zoom 909 (Japan)-bezel.png
+84a83b4d63cb73c8  media/bezel/Space Slalom (Japan)-bezel.png
+69c8e74ebdba0963  media/bezel/Star Jacker (Japan, Europe)-bezel.png
+90a334b3f68cc001  media/box2d/Bank Panic (Japan).png
+8b4a08fecf6aeb85  media/box2d/Borderline (Japan, Europe).png
+011bc51badbdf8bf  media/box2d/Bomberman Special (Taiwan) (English Logo) (Unl).jpg
+88994eaaee254c84  media/box2d/Cabbage Patch Kids (Taiwan) (Unl).jpg
+206213a9ad2fb6cd  media/box2d/Black Onyx, The (Japan).png
+fb1ea3a00890a3b4  media/box2d/Champion Baseball (Japan).png
+965b01c8bcff4250  media/box2d/C_So! (Japan).png
+5d34426e73e73473  media/box2d/Bomb Jack (Japan, Australia) (Ja).jpg
+ec484aa655afdb67  media/box2d/Champion Ice Hockey (Japan).png
+b0ad9b657acaed09  media/box2d/Champion Golf (Japan).png
+de72bca50b136878  media/box2d/Champion Billiards (Japan).jpg
+15ce0cd19eab048f  media/box2d/Castle, The (Japan).png
+f32e0b6fe455810b  media/box2d/Champion Boxing (Japan).png
+559a440534e8dff0  media/box2d/Champion Kendou (Japan).png
+d342cf2151e06885  media/box2d/Champion Pro Wrestling (Japan).png
+c0b0c736f1aff552  media/box2d/Chack'n Pop (Japan).jpg
+2f89b8296d40fe84  media/box2d/Champion Tennis (Japan).png
+42d85b253c94eb9b  media/box2d/Congo Bongo (Japan, Europe) (Alt).png
+71397c703804a317  media/box2d/Champion Soccer (Japan).png
+d6eed3308ad58424  media/box2d/Championship Lode Runner (Japan).png
+85ddbf3b74811d6a  media/box2d/Dragon Wang (Japan) (Alt).png
+e510e77a0765fc8a  media/box2d/Circus Charlie (Korea) (Unl).jpg
+6cff4abb48cec327  media/box2d/Elevator Action (Japan).png
+0f956eb6531b40a4  media/box2d/Dokidoki Penguin Land (Japan).png
+4ffe7b5c3ed64711  media/box2d/Flicky (Japan).png
+51164a91433a4fcf  media/box2d/Girl's Garden (Japan).png
+dbdae036ffba2eae  media/box2d/GP World (Japan).png
+59641fe52f705f6a  media/box2d/Gulkave (Japan).png
+b78e8c6e6ee280a9  media/box2d/Drol (Japan, Australia) (Ja).jpg
+fc78cf7044b48a7f  media/box2d/Exerion (Japan, Europe, Australia, New Zealand) (En).jpg
+a56d036646a1382a  media/box2d/Choplifter (Japan, Australia) (Ja).jpg
+48ed8dc73a25dd2d  media/box2d/Hang-On II (Japan).png
+48a46986e0a8d26a  media/box2d/H.E.R.O. (Japan).jpg
+d4af626653f88996  media/box2d/Home Mahjong (Japan).png
+1ece67c5f6736a25  media/box2d/Knightmare (Taiwan) (Unl).png
+4da7a28fbc999d63  media/box2d/Golgo 13 (Japan).jpg
+3f322186137452db  media/box2d/Lode Runner (Japan, Europe).png
+3f3ae5c3847e7f09  media/box2d/King's Valley (Taiwan) (Unl).jpg
+4f492a5171491445  media/box2d/Monaco GP (Japan).png
+fae4fd129045b4cb  media/box2d/Magical Kid Wiz (Taiwan) (Unl).png
+daa224070031504d  media/box2d/Legend of Kage, The (Taiwan) (Unl).png
+67c99c37b1bf95f5  media/box2d/Magical Tree (Taiwan) (Unl).png
+b0bb4a900ff2a257  media/box2d/Hustle Chumy (Japan).jpg
+a0ed757bd60669b0  media/box2d/Mahjong (Japan).png
+9cba399a77c5dfbc  media/box2d/Pacar (Japan, Europe, Australia, New Zealand) (En).jpg
+746d2a48e1d45a70  media/box2d/Orguss (Japan, Europe, Australia, New Zealand) (En).jpg
+f0b2109cdb6c2fe0  media/box2d/Ninja Princess (Japan).png
+32424c1ac917766a  media/box2d/Hyper Sports (Japan).jpg
+92bf9f1ce97ca2d5  media/box2d/Pachinko II (Japan).png
+7a1a9827df6e2c5f  media/box2d/Pachinko (Japan).png
+2b38edb3bf5ac4a7  media/box2d/Ping Pong (Taiwan) (Unl).jpg
+2ef3995ea6309faf  media/box2d/Pippols (Taiwan) (Unl).png
+a034d8694514e201  media/box2d/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).jpg
+fed5d8d76c8ed640  media/box2d/Othello (Japan).jpg
+a46677fec72abc5d  media/box2d/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).jpg
+8d88b3779e0bd3bc  media/box2d/Road Fighter (Taiwan) (English Logo) (Unl).png
+578620ddc0f0ba1e  media/box2d/Rock n' Bolt (Japan).png
+9224922d422f4dab  media/box2d/Pitfall II - The Lost Caverns (Japan).png
+dc2440d58dd8555d  media/box2d/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+ad05032d4fb2f8d4  media/box2d/Rally-X (Taiwan) (English Logo) (Unl).png
+0d0a6b9e71d79f4d  media/box2d/Sega-Galaga (Japan).png
+916353a013d6ab2b  media/box2d/Safari Hunting (Japan).png
+6325221d6aa13f98  media/box2d/Serizawa Hachidan no Tsumeshogi (Japan).png
+9ec92fb2568e6eef  media/box2d/Sega Flipper (Japan, Europe).png
+64d9b29a789db4ee  media/box2d/Shinnyushain Tooru Kun (Japan).png
+5082a4a3c7b03a90  media/box2d/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).jpg
+d4bb76c38a241396  media/box2d/Space Slalom (Japan).png
+73f823dd01249118  media/box2d/Space Mountain (Japan).png
+93c06da6333b5f6f  media/box2d/Star Jacker (Japan, Europe).png
+c62a93583498a7b2  media/box2d/Star Force (Japan).png
+bd8af28fd96967a5  media/box2d/Tank Battalion (Taiwan) (Unl).png
+614787bfa4edc7cc  media/box2d/TwinBee (Taiwan) (Unl).jpg
+0c525f163de75a08  media/box2d/Soukoban (Japan, Australia) (Ja).jpg
+923e09194b82e0a8  media/box2d/Wonder Boy (Japan).png
+c83e4a5370d68c11  media/box2d/Thumbs.db
+0948012a7b9aba38  media/box2d/Space Invaders (Japan).jpg
+6ae1e27da90229a6  media/box2d/Super Tank (Japan).jpg
+a67b4b0085f73faf  media/box2d/Yie Ar Kung-Fu II (Taiwan) (Unl).png
+767ee8f2f3737d0f  media/boxart/Bank Panic (Japan).png
+0b8d62de0078dfa6  media/box2d/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+1d4334ff1e976ed6  media/box2d/Zoom 909 (Japan).png
+6c10b71435b557c1  media/box2d/Zaxxon (Japan).jpg
+09396f8d178e6830  media/box2d/Yamato (Japan, Europe, Australia, New Zealand) (En).jpg
+61c3bb5ffdde929a  media/boxart/Bomb Jack (Japan, Australia) (Ja).png
+1b19bbf477cfae83  media/boxart/Borderline (Japan, Europe).png
+a8e1434ed17df9d1  media/boxart/Cabbage Patch Kids (Taiwan) (Unl).png
+7f6279397b456d28  media/boxart/Bomb Jack (Japan).png
+bbaf5c9d708e75cd  media/boxart/Bomberman Special (Taiwan) (English Logo) (Unl).png
+1d3cfff9db1ec80e  media/box2d/Zippy Race (Japan, Australia) (Ja).jpg
+ae141b5283611607  media/boxart/Black Onyx, The (Japan).png
+0ad6776052028f94  media/boxart/C_So! (Japan).png
+d437cfcc1d5a8645  media/boxart/Champion Baseball (Japan).png
+749cf0cb53497a2a  media/boxart/Champion Boxing (Japan).png
+f7409ff81ff5934f  media/boxart/Castle, The (Japan).png
+1f8c73a7cba2a444  media/boxart/Chack'n Pop (Japan).png
+d57510f431097bd3  media/boxart/Champion Billiards (Japan).png
+34de483492f61134  media/boxart/Champion Ice Hockey (Japan).png
+0ea215262ee22cd6  media/boxart/Champion Pro Wrestling (Japan).png
+a31ad45aa5dc7e02  media/boxart/Champion Kendou (Japan).png
+de6ecf3666300054  media/boxart/Champion Golf (Japan).png
+67173ced180b02b9  media/boxart/Choplifter (Japan, Australia) (Ja).png
+0ca948a53c7d7149  media/boxart/Circus Charlie (Korea) (Unl).png
+5c8e6f41bdbc38a6  media/boxart/Championship Lode Runner (Japan).png
+37fcc49b5c333a34  media/boxart/Choplifter (Japan).png
+0d7f4cfc057cb1ab  media/boxart/Champion Tennis (Japan).png
+1750502596b112fa  media/boxart/Champion Soccer (Japan).png
+2acae157c3b14927  media/boxart/Congo Bongo (Japan, Europe) (Alt).png
+9859ddbfdfc38dfd  media/boxart/Elevator Action (Japan).png
+7df8f2f89593fd08  media/boxart/Dragon Wang (Japan) (Alt).png
+33fe1add5cdf961e  media/boxart/Drol (Japan, Australia) (Ja).png
+bcd289cb67f77c40  media/boxart/Flicky (Japan).png
+ad2c617d4157346d  media/boxart/Dokidoki Penguin Land (Japan).png
+aaa8be88191c9f22  media/boxart/Exerion (Japan, Europe, Australia, New Zealand) (En).png
+3a807d495f1a7e06  media/boxart/GP World (Japan).png
+9def9a846b65b3ef  media/boxart/Golgo 13 (Japan).png
+0d9c192de62bb7d9  media/boxart/H.E.R.O. (Japan).png
+84759ffbe3948583  media/boxart/Girl's Garden (Japan).png
+febf677f14db3033  media/boxart/Hang-On II (Japan).png
+ab26d4b6d98abcb9  media/boxart/Guzzler (Japan).png
+57aa36a9b59f3610  media/boxart/Gulkave (Japan).png
+6424c91c544cef4e  media/boxart/King's Valley (Taiwan) (Unl).png
+5a4d975401223b32  media/boxart/Hustle Chumy (Japan).png
+0ebf2bb8f9379505  media/boxart/Knightmare (Taiwan) (Unl).png
+a3778c60d4052a14  media/boxart/Legend of Kage, The (Taiwan) (Unl).png
+f2df83c9a121806a  media/boxart/Home Mahjong (Japan).png
+141dd637a3cf8008  media/boxart/James Bond 007 (Japan).png
+1077f3efbb75201e  media/boxart/Magical Tree (Taiwan) (Unl).png
+4a02a544471403a1  media/boxart/Magical Kid Wiz (Taiwan) (Unl).png
+f7f710c290c45f28  media/boxart/Loretta no Shouzou - Sherlock Holmes (Japan).png
+8cae7109c3489098  media/boxart/Hyper Sports (Japan).png
+d57905d22b0bb9e5  media/boxart/Lode Runner (Japan, Europe).png
+00fe107c6f9511db  media/boxart/Mahjong (Japan).png
+dfbd9fe4d7887702  media/boxart/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).png
+5260ff034695ec09  media/boxart/Monaco GP (Japan).png
+2410522a38bd5951  media/boxart/Othello (Japan).png
+fdcd7199508636dc  media/boxart/Orguss (Japan, Europe, Australia, New Zealand) (En).png
+015e7452ce40c29c  media/boxart/Pachinko (Japan).png
+5010f8c73d2c37db  media/boxart/Okamoto Ayako no Match Play Golf (Japan).png
+3d5bf8434eed7c99  media/boxart/Pippols (Taiwan) (Unl).png
+0a2d8c6c46e5e687  media/boxart/Ninja Princess (Japan).png
+c37ea6dbe3954e5b  media/boxart/Pacar (Japan, Europe, Australia, New Zealand) (En).png
+a1b9c94125c8aaed  media/boxart/Ping Pong (Taiwan) (Unl).png
+3f0da629b8992036  media/boxart/Rally-X (Taiwan) (English Logo) (Unl).png
+d2e270561ac30502  media/boxart/Pachinko II (Japan).png
+8561e2146d9b8d2e  media/boxart/Pitfall II - The Lost Caverns (Japan).png
+69a1760f5ab0cc53  media/boxart/Road Fighter (Taiwan) (English Logo) (Unl).png
+3fbb62487b57e0cc  media/boxart/Q-bert (Japan).png
+3034c867474985b1  media/boxart/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+486638f476e6b6f5  media/boxart/Safari Hunting (Japan).png
+1dc9b3d611d78a9d  media/boxart/San-nin Mahjong (Japan).png
+045753f4885ae44b  media/boxart/Rock n' Bolt (Japan).png
+c2729a595349d876  media/boxart/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).png
+df0d0dd4cd550862  media/boxart/Sega Flipper (Japan, Europe).png
+b92a6b628a180790  media/boxart/Sega-Galaga (Japan).png
+9e74fedc484496aa  media/boxart/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).png
+ff5f79359c9a3276  media/boxart/Space Mountain (Japan).png
+c220ca45c0f8d1bd  media/boxart/Space Armor (Japan).png
+fc76635083e15119  media/boxart/Serizawa Hachidan no Tsumeshogi (Japan).png
+f8ff55a65c004a0f  media/boxart/Shinnyushain Tooru Kun (Japan).png
+1d9ae74305ee6b7c  media/boxart/Soukoban (Japan, Australia) (Ja).png
+c7cbf07f043c4770  media/boxart/Space Slalom (Japan).png
+6d502d9365de5c2e  media/boxart/Space Invaders (Japan).png
+02d3c7f0a1e55251  media/boxart/Super Tank (Japan).png
+2f72f3d994494d92  media/boxart/Star Force (Japan).png
+4178bfba6296ebb2  media/boxart/Tank Battalion (Taiwan) (Unl).png
+8de74a129e2fda7b  media/boxart/TwinBee (Taiwan) (Unl).png
+78ba417da36af818  media/boxart/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+8b18a930eea83706  media/boxart/Star Jacker (Japan, Europe).png
+d54ce14f513f1322  media/boxart/Yie Ar Kung-Fu II (Taiwan) (Unl).png
+873b9c72ae7312c9  media/boxart/Wonder Boy (Japan).png
+0a22b7ca9e51b2fc  media/boxart/Zaxxon (Japan).png
+1b47ccc8f60e350d  media/screenshots/Bomb Jack (Japan, Australia) (Ja).png
+d566e393ecfbd4bc  media/boxart/Yamato (Japan, Europe, Australia, New Zealand) (En).png
+46706903c5801226  media/boxart/Zippy Race (Japan, Australia) (Ja).png
+55d42e557b4612ff  media/screenshots/Bank Panic (Japan).png
+c49bfcee0f1eaed1  media/screenshots/Black Onyx, The (Japan).png
+42d6d5c80eb46501  media/screenshots/Bomberman Special (Taiwan) (English Logo) (Unl).png
+38bae23f1c446fa0  media/boxart/Thumbs.db
+049fada69688feb8  media/screenshots/Chack'n Pop (Japan).png
+40174adb295cfde2  media/screenshots/Champion Baseball (Japan).png
+c0a83efa112fff95  media/screenshots/Borderline (Japan, Europe).png
+fbbdf2b9ae1d96d3  media/screenshots/Cabbage Patch Kids (Taiwan) (Unl).png
+b5abae9f77f15d7b  media/boxart/Zoom 909 (Japan).png
+e3d4768f71715ee2  media/screenshots/Champion Billiards (Japan).png
+4685b3341d8fd422  media/screenshots/Champion Ice Hockey (Japan).png
+74438c8f7bf63018  media/screenshots/Champion Boxing (Japan).png
+4ba86802005e74ec  media/screenshots/C_So! (Japan).png
+92a1612bd6d3fd34  media/screenshots/Champion Golf (Japan).png
+12617ef8717948ec  media/screenshots/Champion Tennis (Japan).png
+0b12a3b623b055bf  media/screenshots/Choplifter (Japan, Australia) (Ja).png
+ad97d93a457e26d1  media/screenshots/Champion Kendou (Japan).png
+0bbdf7fd61c1f1e7  media/screenshots/Castle, The (Japan).png
+4d5b945dc80272a2  media/screenshots/Championship Lode Runner (Japan).png
+ae4aab5f9d53aa1b  media/screenshots/Dokidoki Penguin Land (Japan).png
+dc5f69f4353f767e  media/screenshots/Champion Pro Wrestling (Japan).png
+9106cf91983a0b2f  media/screenshots/Champion Soccer (Japan).png
+b715ee6c9a12ff30  media/screenshots/Circus Charlie (Korea) (Unl).png
+06091d34ceb29b8f  media/screenshots/Flicky (Japan).png
+6ebfa597eb24e152  media/screenshots/Exerion (Japan, Europe, Australia, New Zealand) (En).png
+fa6d59bdbc915cd9  media/screenshots/Congo Bongo (Japan, Europe) (Alt).png
+f65716cd817d9c9c  media/screenshots/Drol (Japan, Australia) (Ja).png
+0ce883527e8e6c72  media/screenshots/Elevator Action (Japan).png
+e445bfcc0fa203bb  media/screenshots/H.E.R.O. (Japan).png
+eabdae5fe5bd5a5f  media/screenshots/Girl's Garden (Japan).png
+26de8ee5789109f4  media/screenshots/GP World (Japan).png
+13a02f9f26da125e  media/screenshots/Golgo 13 (Japan).png
+bd875987d0573f4c  media/screenshots/Hustle Chumy (Japan).png
+364e416adec2337c  media/screenshots/Gulkave (Japan).png
+3b629e720d257537  media/screenshots/Home Mahjong (Japan).png
+37187da2cccada7b  media/screenshots/Dragon Wang (Japan) (Alt).png
+e9a2e340d1ef0d5e  media/screenshots/Hyper Sports (Japan).png
+352ffef7c304a4b0  media/screenshots/Hang-On II (Japan).png
+0c34b8a6b6cc4e80  media/screenshots/King's Valley (Taiwan) (Unl).png
+3c26654df99909b3  media/screenshots/Knightmare (Taiwan) (Unl).png
+870546ba89cf3316  media/screenshots/Mahjong (Japan).png
+1f202c04de5c595a  media/screenshots/Magical Kid Wiz (Taiwan) (Unl).png
+c6aea12d6369868b  media/screenshots/Lode Runner (Japan, Europe).png
+278ca161993d782a  media/screenshots/Legend of Kage, The (Taiwan) (Unl).png
+e81c2eacc15026bf  media/screenshots/Magical Tree (Taiwan) (Unl).png
+0a324468a273adb5  media/screenshots/Monaco GP (Japan).png
+3432f99fc1ad956f  media/screenshots/Ninja Princess (Japan).png
+b3efbaecf642a469  media/screenshots/Orguss (Japan, Europe, Australia, New Zealand) (En).png
+8bc31814b011fece  media/screenshots/Othello (Japan).png
+bbc96131c5fbe0a4  media/screenshots/Pachinko (Japan).png
+f84f5818e17bcd6a  media/screenshots/Pippols (Taiwan) (Unl).png
+fa014ec250c960b1  media/screenshots/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+bcb81de872797b32  media/screenshots/Pitfall II - The Lost Caverns (Japan).png
+ebc8f9fb8f4df200  media/screenshots/Ping Pong (Taiwan) (Unl).png
+bfd832b293d28961  media/screenshots/Pachinko II (Japan).png
+ce20bf00a59362ef  media/screenshots/Rally-X (Taiwan) (English Logo) (Unl).png
+50ef8b0a79f71398  media/screenshots/Pacar (Japan, Europe, Australia, New Zealand) (En).png
+b829ef3d50a23461  media/screenshots/Safari Hunting (Japan).png
+a586515fe2f089ef  media/screenshots/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).png
+c94813b69d266ad2  media/screenshots/Rock n' Bolt (Japan).png
+556a45d8e9887672  media/screenshots/Road Fighter (Taiwan) (English Logo) (Unl).png
+1b0e1ce312e28f74  media/screenshots/Sega-Galaga (Japan).png
+b5e219a168058956  media/screenshots/Sega Flipper (Japan, Europe).png
+3e8eb93703e62751  media/screenshots/Soukoban (Japan, Australia) (Ja).png
+3e9d8de7f0508a21  media/screenshots/Shinnyushain Tooru Kun (Japan).png
+c4587e699c9ee688  media/screenshots/Space Invaders (Japan).png
+e4c906f716c84707  media/screenshots/Serizawa Hachidan no Tsumeshogi (Japan).png
+a9d306652d9641c2  media/screenshots/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).png
+16c539479404a85a  media/screenshots/Space Mountain (Japan).png
+5a73a18eb336a755  media/screenshots/Star Force (Japan).png
+9b236398e9e7f011  media/screenshots/Space Slalom (Japan).png
+f6f2d3301bfcde1c  media/screenshots/Super Tank (Japan).png
+7d7996d099c1888f  media/screenshots/Star Jacker (Japan, Europe).png
+8f1c365cd53c4f9d  media/screenshots/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).png
+55c3ff7dd662221c  media/screenshots/Tank Battalion (Taiwan) (Unl).png
+cf55adf9b5adb472  media/screenshots/TwinBee (Taiwan) (Unl).png
+b8ddca06739ded4f  media/screenshots/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+ecba24800224ba4e  media/screenshots/Yamato (Japan, Europe, Australia, New Zealand) (En).png
+1c8981ac92c53d02  media/screenshots/Zoom 909 (Japan).png
+262c2e95a0e9b9ea  media/screenshots/Yie Ar Kung-Fu II (Taiwan) (Unl).png
+600a891231304813  media/screenshots/Zippy Race (Japan, Australia) (Ja).png
+214f1b8ee99eb9a9  media/screenshots/Wonder Boy (Japan).png
+ffbb64a3e2e2cba4  media/titles/Bank Panic (Japan).png
+30cdc7dcca464dc4  media/titles/Bomb Jack (Japan, Australia) (Ja).png
+42cb701d02d01b9d  media/titles/Borderline (Japan, Europe).png
+1faeebb4cd0d6e9f  media/titles/Bomberman Special (Taiwan) (English Logo) (Unl).png
+3949007d99874f3f  media/titles/C_So! (Japan).png
+dadb7292449f6320  media/titles/Chack'n Pop (Japan).png
+3f9426bca7e34335  media/titles/Castle, The (Japan).png
+33e97837534f0e4e  media/screenshots/Zaxxon (Japan).png
+ba1ffd9cf5c1108d  media/titles/Cabbage Patch Kids (Taiwan) (Unl).png
+781524bf1d222529  media/titles/Black Onyx, The (Japan).png
+584148915c08735c  media/titles/Champion Billiards (Japan).png
+4d70b11633eda364  media/titles/Champion Golf (Japan).png
+26e4533045b280a4  media/titles/Champion Baseball (Japan).png
+beb9c52ef665031c  media/titles/Champion Kendou (Japan).png
+4df06d419cd98184  media/titles/Champion Boxing (Japan).png
+cff26b9013dc46e9  media/titles/Champion Pro Wrestling (Japan).png
+c3a502fc716c1244  media/titles/Champion Soccer (Japan).png
+c45e05533a06bb16  media/titles/Champion Ice Hockey (Japan).png
+2e6861cc88eafb8c  media/titles/Champion Tennis (Japan).png
+009c0aff995bf51a  media/titles/Championship Lode Runner (Japan).png
+2f605e5026f17a8f  media/titles/Choplifter (Japan, Australia) (Ja).png
+bfbcd9f11e07346d  media/titles/Circus Charlie (Korea) (Unl).png
+57cc85216d0369e7  media/titles/Congo Bongo (Japan, Europe) (Alt).png
+bffa6a256cb71cc8  media/titles/Dragon Wang (Japan) (Alt).png
+a1d34fd2991cddb2  media/titles/GP World (Japan).png
+4839ab33b7172927  media/titles/Drol (Japan, Australia) (Ja).png
+d8235eb1383b6bb0  media/titles/Flicky (Japan).png
+407e061d3feae6c7  media/titles/Girl's Garden (Japan).png
+1d29196929de4c31  media/titles/Elevator Action (Japan).png
+087ba6148b03626a  media/titles/Exerion (Japan, Europe, Australia, New Zealand) (En).png
+45d1ab52d7561a55  media/titles/Dokidoki Penguin Land (Japan).png
+38df71b9a248ebda  media/titles/Golgo 13 (Japan).png
+c58ed8605a2e85e0  media/titles/Gulkave (Japan).png
+730f090fb74f4d1c  media/titles/H.E.R.O. (Japan).png
+e72d1856e046a774  media/titles/Hang-On II (Japan).png
+35fc47ccc5d7a41e  media/titles/Hyper Sports (Japan).png
+cab43c64c349eb23  media/titles/King's Valley (Taiwan) (Unl).png
+be5551c9f29d958e  media/titles/Hustle Chumy (Japan).png
+97cd48c22e094335  media/titles/Legend of Kage, The (Taiwan) (Unl).png
+d14f29195ba2e114  media/titles/Lode Runner (Japan, Europe).png
+decf2e85c44e323d  media/titles/Magical Tree (Taiwan) (Unl).png
+f62b8e449482bf00  media/titles/Ninja Princess (Japan).png
+34a40ffe25ba142c  media/titles/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).png
+9a1f3a643cd961ab  media/titles/Mahjong (Japan).png
+4fc6cb9ff6214a6e  media/titles/Orguss (Japan, Europe, Australia, New Zealand) (En).png
+d2763f04e0bd92d0  media/titles/Othello (Japan).png
+f6a4382bb8e0ce52  media/titles/Pachinko (Japan).png
+fcdf798369931104  media/titles/Pacar (Japan, Europe, Australia, New Zealand) (En).png
+f8a31a5a3acd0d96  media/titles/Ping Pong (Taiwan) (Unl).png
+12777a643ed6f07e  media/titles/Pippols (Taiwan) (Unl).png
+850445f1ba57bb2c  media/titles/Pachinko II (Japan).png
+2880b135e1fa23e7  media/titles/Pitfall II - The Lost Caverns (Japan).png
+ff69399c68af28c7  media/titles/Road Fighter (Taiwan) (English Logo) (Unl).png
+dac8b40790055dbd  media/titles/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+a41cb9e22f6ae058  media/titles/Rally-X (Taiwan) (English Logo) (Unl).png
+78e7552d23caecb6  media/titles/Rock n' Bolt (Japan).png
+9a76349f8f24d855  media/titles/Knightmare (Taiwan) (Unl).png
+5d20369e70dcf18d  media/titles/Home Mahjong (Japan).png
+6df5d7ac8f30b0d2  media/titles/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).png
+187d9e34bcb65e0a  media/titles/Safari Hunting (Japan).png
+656ad37f22e9d2c6  media/titles/Sega-Galaga (Japan).png
+255168ad3dd4cd91  media/titles/Sega Flipper (Japan, Europe).png
+ef0bbc6adde124c2  media/titles/Serizawa Hachidan no Tsumeshogi (Japan).png
+7203b7de8bc4aabe  media/titles/Soukoban (Japan, Australia) (Ja).png
+d9d6a0cadd8acb1c  media/titles/Space Mountain (Japan).png
+4e116f9f2915afca  media/titles/Shinnyushain Tooru Kun (Japan).png
+fbefb3de0e5e6247  media/titles/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).png
+fc298eec04f430ba  media/titles/Space Slalom (Japan).png
+9f0c32139749f7b2  media/titles/Space Invaders (Japan).png
+1f6206022fbc5f41  media/titles/Super Tank (Japan).png
+f8585931e216cfdc  media/titles/Star Jacker (Japan, Europe).png
+e5d16c9c007cb7c9  media/titles/Tank Battalion (Taiwan) (Unl).png
+16ad9afc261d5151  media/titles/Wonder Boy (Japan).png
+152a3893b27c799c  media/titles/Star Force (Japan).png
+7d15518954422738  media/titles/TwinBee (Taiwan) (Unl).png
+829ef8adfffaddd9  media/titles/Yamato (Japan, Europe, Australia, New Zealand) (En).png
+49db6646ece3daed  media/titles/Yie Ar Kung-Fu (Taiwan) (Unl).jpg
+aaa8bfeb305463f1  media/titles/Yie Ar Kung-Fu II (Taiwan) (Unl).png
+2bd99ff3b51c48bc  media/titles/Zippy Race (Japan, Australia) (Ja).png
+f8dd77f176ed3259  media/titles/Zaxxon (Japan).png
+a5ec154cc17d3ff8  media/titles/Yie Ar Kung-Fu (Taiwan) (Unl).png
+cd196c5913ba7bc1  media/titles/Zoom 909 (Japan).png
+c0db2a51e01187a6  media/titles/Magical Kid Wiz (Taiwan) (Unl).png
+7398339a713f3ea9  media/titles/Monaco GP (Japan).png
+5a20aac7f492684a  media/videos/Bomb Jack (Japan).mp4
+2c5e1b8a27e9d537  media/videos/Black Onyx, The (Japan).mp4
+230b4835c10915fb  media/videos/Bank Panic (Japan).mp4
+c4696900d57df25a  media/videos/Borderline (Japan, Europe).mp4
+9de512ed9d7b2620  media/videos/Bomb Jack (Japan, Australia) (Ja).mp4
+ae684b812f6b653a  media/videos/Bomberman Special (Taiwan) (English Logo) (Unl).mp4
+afb90df68e51e356  media/videos/Castle, The (Japan).mp4
+73bc9265ce88d350  media/videos/C_So! (Japan).mp4
+6473091519588ef5  media/videos/Champion Billiards (Japan).mp4
+800f06c308e92f02  media/videos/Chack'n Pop (Japan).mp4
+1924819204374c97  media/videos/Champion Baseball (Japan).mp4
+439e32a3678a5f55  media/videos/Cabbage Patch Kids (Taiwan) (Unl).mp4
+a3a00fdb9be80d91  media/videos/Champion Ice Hockey (Japan).mp4
+ad502017739281a8  media/videos/Champion Tennis (Japan).mp4
+f28ee260f06a807a  media/videos/Championship Lode Runner (Japan).mp4
+2c323acc31d479a7  media/videos/Champion Soccer (Japan).mp4
+3fe8b1f66db835f6  media/videos/Champion Boxing (Japan).mp4
+0d6b318bc181d81c  media/videos/Champion Golf (Japan).mp4
+be93840748f03d07  media/videos/Champion Pro Wrestling (Japan).mp4
+3a030bc80f35b9b4  media/videos/Choplifter (Japan).mp4
+965a76defa8ab351  media/videos/Champion Kendou (Japan).mp4
+d561cbad86bc9c33  media/videos/Congo Bongo (Japan, Europe) (Alt).mp4
+2a3e84e2cdca6ffd  media/videos/Choplifter (Japan, Australia) (Ja).mp4
+eb69f61dec8724cf  media/videos/Dragon Wang (Japan) (Alt).mp4
+4812e885b1e0d0ab  media/videos/Drol (Japan).mp4
+6927dcced09f546b  media/videos/Dokidoki Penguin Land (Japan).mp4
+648cd08e8c4f073b  media/videos/Elevator Action (Japan).mp4
+99db434ba23857ba  media/videos/Exerion (Japan, Europe).mp4
+9408063621b91f5b  media/videos/Drol (Japan, Australia) (Ja).mp4
+689e25b22ca82252  media/videos/Flicky (Japan).mp4
+73b090f97075a755  media/videos/Exerion (Japan, Europe, Australia, New Zealand) (En).mp4
+493eea75b333a01c  media/videos/Girl's Garden (Japan).mp4
+a5638fda050426cc  media/videos/Circus Charlie (Korea) (Unl).mp4
+18b8910e661eaae0  media/videos/Golgo 13 (Japan).mp4
+a5240fad72fc6ac0  media/videos/Gulkave (Japan).mp4
+9ec8c1bbb1397b23  media/videos/GP World (Japan).mp4
+95e971cfd828bb5f  media/videos/Guzzler (Japan).mp4
+b5e8aa8b04bcf2a0  media/videos/Hyper Sports (Japan).mp4
+e223d52c7e3fbaec  media/videos/Home Mahjong (Japan).mp4
+6277a9a5eb333ffa  media/videos/Hang-On II (Japan).mp4
+d172c0ce443d84d3  media/videos/James Bond 007 (Japan).mp4
+b7a753beb0864ff8  media/videos/H.E.R.O. (Japan).mp4
+f1e815657a680cac  media/videos/Hustle Chumy (Japan).mp4
+528f46937036fd4c  media/videos/Knightmare (Taiwan) (Unl).mp4
+fe0d85441e3dd097  media/videos/Lode Runner (Japan, Europe).mp4
+0be3254a5ad845a2  media/videos/King's Valley (Taiwan) (Unl).mp4
+6258ff04370f171f  media/videos/Mahjong (Japan).mp4
+b1a5b2e03337855a  media/videos/Monaco GP (Japan).mp4
+731bdb720ce84a6e  media/videos/Legend of Kage, The (Taiwan) (Unl).mp4
+c34adf363ef0446f  media/videos/Magical Kid Wiz (Taiwan) (Unl).mp4
+68c5b0c675804cd4  media/videos/N-Sub (Japan, Europe, Australia, New Zealand) (Ja).mp4
+3a413950cfbf1082  media/videos/Magical Tree (Taiwan) (Unl).mp4
+1d1624ed12aa600b  media/videos/N-Sub (Europe).mp4
+98fca507c8953136  media/videos/Orguss (Japan, Europe, Australia, New Zealand) (En).mp4
+b34c5bb845899048  media/videos/Othello (Japan).mp4
+1c1789bef3a4666a  media/videos/Orguss (Japan, Europe).mp4
+785f53e12ad1b732  media/videos/Pachinko (Japan).mp4
+9754fe459b751fbb  media/videos/Pachinko II (Japan).mp4
+3aa6b8cf358e46cc  media/videos/Ninja Princess (Japan).mp4
+e733bbf5bc4a76f7  media/videos/Pacar (Japan, Europe).mp4
+8b785100c3d07227  media/videos/Pacar (Japan, Europe, Australia, New Zealand) (En).mp4
+408391a7fcacd70a  media/videos/Q-bert (Japan).mp4
+6686549d2d481e74  media/videos/Pitfall II - The Lost Caverns (Japan).mp4
+41954737bbf6ba4d  media/videos/Ping Pong (Taiwan) (Unl).mp4
+b3858fba6eec0424  media/videos/Pop Flamer (Japan, Europe, Australia, New Zealand) (En).mp4
+21c52cdad8c3b8d5  media/videos/Pop Flamer (Japan, Europe).mp4
+0f90c2605d416045  media/videos/Rock n' Bolt (Japan).mp4
+972665bdef7c3e88  media/videos/Safari Hunting (Japan).mp4
+d9ec61baab1a9ee0  media/videos/Rally-X (Taiwan) (English Logo) (Unl).mp4
+0b1508fa3eb89784  media/videos/Road Fighter (Taiwan) (English Logo) (Unl).mp4
+d771c34f329fb8d2  media/videos/Safari Race (Europe).mp4
+986636760c15af2d  media/videos/Sega Flipper (Japan, Europe).mp4
+b133d7596301e463  media/videos/Serizawa Hachidan no Tsumeshogi (Japan).mp4
+727519d207cac1a9  media/videos/Pippols (Taiwan) (Unl).mp4
+1a6314982dfb196f  media/videos/Sindbad Mystery (Japan, Europe).mp4
+b78c7d30bb79da7f  media/videos/Shinnyushain Tooru Kun (Japan).mp4
+a8f0b03579ba29fd  media/videos/Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).mp4
+fbea0f8b39aa9a23  media/videos/Safari Race (Japan, Europe, Australia, New Zealand) (Ja).mp4
+b3d572ede0929e12  media/videos/Sega-Galaga (Japan).mp4
+f80422a4ef62cf38  media/videos/Space Slalom (Japan).mp4
+0cdf5fde641d9f8a  media/videos/Soukoban (Japan, Australia) (Ja).mp4
+08f28df3f54e71be  media/videos/Soukoban (Japan).mp4
+f96c8636ae519f07  media/videos/Super Tank (Japan).mp4
+fa147876c8c8c372  media/videos/Star Force (Japan).mp4
+1f9503a55948766e  media/videos/Space Invaders (Japan).mp4
+4d8926aad47eaf96  media/videos/Star Jacker (Japan, Europe).mp4
+16de33016bd19206  media/videos/Yie Ar Kung-Fu (Taiwan) (Unl).mp4
+545e10561657b5f8  media/videos/Yamato (Japan, Europe, Australia, New Zealand) (En).mp4
+55d5cc993b5311bb  media/videos/Space Mountain (Japan).mp4
+36da4011c5e0a0b9  media/videos/Wonder Boy (Japan).mp4
+62bcda60729e0a56  media/videos/Tank Battalion (Taiwan) (Unl).mp4
+2ffe090101f395f9  media/videos/Zippy Race (Japan, Australia) (Ja).mp4
+22bfd0bf4c4a1b4f  media/videos/Yamato (Japan, Europe).mp4
+3245c67f0f85ff11  media/videos/Zippy Race (Japan).mp4
+2a4667a18bf6adc6  media/videos/Zaxxon (Japan).mp4
+046fd8d5053d5378  media/videos/TwinBee (Taiwan) (Unl).mp4
+798096510e2630bb  media/videos/Yie Ar Kung-Fu II (Taiwan) (Unl).mp4
+fb0e8462cca5d1fd  media/videos/Zoom 909 (Japan).mp4

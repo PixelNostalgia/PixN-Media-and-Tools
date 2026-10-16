@@ -1,0 +1,37 @@
+2d06800538d394c2  demo/consolehistory.dat
+2d06800538d394c2  base/config.spec
+2d06800538d394c2  d3xp/consolehistory.dat
+2d06800538d394c2  d3xp/config.spec
+abbe869adec78809  Doom 3.boom3
+adf79bb356fe6234  base/doomkey
+c977a1329fa28d58  d3xp/libretro.cfg
+e06ae748ee2bac21  Doom 3 - Resurrection of Evil.boom3
+46d83976173bc082  base/libretro.cfg
+b4c4dc044631a8e4  d3xp/pak001.pk4
+5dd48646573157d7  base/pak005.pk4
+1c78534815d70a8a  base/pak007.pk4
+10558bf7394dc0e1  base/pak008.pk4
+415558a2e539648b  base/pak006.pk4
+adf79bb356fe6234  base/xpkey
+350033c1d3f6aa30  media/marquee/Doom 3 - Resurrection of Evil.png
+d74a6fc6f72a44fe  media/marquee/Doom 3.png
+246f801c9bab9711  media/cartridges/Doom 3.png
+880fba987fef992b  media/fanarts/Doom 3 - Resurrection of Evil.jpg
+e745317b9914e2e2  media/fanarts/Doom 3.png
+584038b4479dc71a  media/box2d/Doom 3.png
+ed2f86aa18903cab  media/images/Doom 3 - Resurrection of Evil.jpg
+9f2306754f753ff1  media/images/Doom 3.jpg
+6b154d80181658dc  media/box2d/Doom 3 - Resurrection of Evil.jpg
+35813ba44739db59  media/boxback/Doom 3.jpg
+fddb9942509c21a4  media/thumbnails/Doom 3 - Resurrection of Evil.png
+281d4a4a20930cdf  media/boxback/Doom 3 - Resurrection of Evil.jpg
+7500b51e85cd0317  media/titles/Doom 3.jpg
+034524cac11b02ae  media/thumbnails/Doom 3.png
+cb38d0e1f0bcf5a1  base/pak001.pk4
+62bd92e7b4285cfd  media/videos/Doom 3.mp4
+eafcf98cc26617f2  media/videos/Doom 3 - Resurrection of Evil.mp4
+7d42e6aeb364d082  base/pak003.pk4
+4e4ac0f8c8395e15  base/pak002.pk4
+8e21e802b20cbf9d  base/pak004.pk4
+2b64de4224d39453  base/pak000.pk4
+1bcaf9b28027d4b4  d3xp/pak000.pk4

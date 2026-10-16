@@ -1,0 +1,192 @@
+616e98f5aa1c80c0  DRIVE.CD
+78746b66027a89b8  BOOTMKR.EXE
+c777692eef1456a1  EULA.txt
+7f5852bd2e3ca04f  CD.ID
+47d0610367e9ccb9  DOS4GW.EXE
+bfaef7659be7b9ba  IMUSE.INI
+696fa5de39163d04  GameuxInstallHelper.dll
+bec0d689c059fecc  JEDI.CFG
+050dadc0387f5a24  DARK.EXE
+6ec165d92e24184b  README.TXT
+2d06800538d394c2  Star Wars - Dark Forces.game
+f0ce7ccbcf43b393  SETUP.EXE
+2d06800538d394c2  Star Wars - Dark Forces.tfe
+07a5a8a9908f6050  LOCAL.MSG
+11069d19381b2149  _info.txt
+1e0a23b46add390f  Support.ico
+f0e87f405dd5c777  IMUSE.EXE
+c4ad2e176accc682  dosbox_DF.conf
+43d5957b5c566a81  dosbox_DF_single.conf
+8fefd459748f55ea  SPRITES.GOB
+4bae5f44db0e09db  gog.ico
+5bf9541c0aa20621  DARK.GOB
+68d0fa8e89213c9c  goggame-1421404433.hashdb
+e1a21305d786b611  dosbox_DF_settings.conf
+8fd9db2f4448acd1  goggame-1421404433.info
+fd3b6b6fcaa075f8  goggame-1421404433.ico
+0223a04d97334be1  unins000.msg
+40a911fbbd1d6f5e  SOUNDS.GOB
+4bf17baac0c91cdc  goggame-1421404433.dll
+ccc494b34374a7d5  TEXTURES.GOB
+e8c7047ce23f9a1b  webcache.zip
+0927d3a6d3d4406a  Manual.pdf
+43a122a7ca2609e6  DOSBOX/SDL.dll
+71e624cd5ea45541  DOSBOX/SDL_net.dll
+72a817af6d11cb2b  unins000.dat
+b777c55000465b0e  LFD/AGENTMNU.LFD
+ed0ed52aaa00b855  DOSBOX/dosbox-0.74.tar.gz
+6c702c0cda46b2f6  LFD/1E.LFD
+cfb0da80bdccbe1c  LFD/ARCFLY.LFD
+dbb850df94b290f3  LFD/AWARD2.LFD
+b5ffc888f47bff70  LFD/ARCEXT.LFD
+b88784746885f16f  LFD/AWARD1.LFD
+de7a5b0d3de05934  LFD/AWARD3.LFD
+b471d4da5c888435  LFD/AWARD4.LFD
+8d880a31758850bd  LFD/BRIEF1.LFD
+0117b98e5d62d7b1  LFD/BOBA.LFD
+52d3b09627d9147e  LFD/DARKLOGO.LFD
+03dcec088cbe36c2  LFD/ENDFLY.LFD
+ea571dc27f93f7b6  unins000.exe
+aa832ed0ad9f7973  LFD/CARGO1.LFD
+466a2069c90562b2  LFD/CARGO3.LFD
+10f91ee28dd31512  LFD/BRIEF2.LFD
+ac8e2f5d01e00325  LFD/DFBRIEF.LFD
+5a6921d579ef3b95  LFD/EXECX.LFD
+1266bdcef03a2dd8  LFD/FTEXTCRA.LFD
+86602e7096b9f8f9  LFD/EXP1XX.LFD
+71d4830177633d82  LFD/EXITNEB.LFD
+a3e02f8f8d9f2b00  LFD/EXECCOMP.LFD
+eccb3c8268ef5836  LFD/EXP3XX.LFD
+f47f2b9adf570f57  LFD/EXP2X.LFD
+7481bda7b02bd2e7  LFD/FULLCRED.LFD
+e1f883e480edec2e  LFD/JABBA1.LFD
+e08d4d7b628a282e  LFD/GROMASX.LFD
+0cf9e31c59fff17e  LFD/JABESCP.LFD
+c3f20de83a65b808  LFD/GROMAS1.LFD
+2ff7f4f8fae62d70  LFD/JABBA2.LFD
+c1478ba37aca7f1e  LFD/HOLOCU.LFD
+364d82edb3e2b168  LFD/LOGO.LFD
+37f14994d4713932  LFD/JABBA3.LFD
+9876a2b6dabd5b65  LFD/MADINE1.LFD
+3d46326aa97c843e  DOSBOX/DOSBox.exe
+893f2df371170b14  LFD/KFLYBY.LFD
+2177d68954e342e3  LFD/JEDISFX.LFD
+fbc156313adde1e0  LFD/STANDARD.LFD
+7f4235ff59126a74  LFD/ROB1.LFD
+a253bebb943da579  LFD/NEB1.LFD
+d54e4b3c05a4c136  LFD/MENU.LFD
+d71295083dbe02ea  LFD/SUCCES.LFD
+c30217652d8aedb9  LFD/PIT.LFD
+78746b66027a89b8  Star Wars - Dark Forces/BOOTMKR.EXE
+1eba3d9424f1eb3e  LFD/ROBOTX.LFD
+2ffd195f88895059  LFD/TUBECOMP.LFD
+3b548258a362c0ef  media/cartridges/Star Wars - Dark Forces.png
+29f4d76568cf1085  media/boxback/Star Wars - Dark Forces.png
+7f5852bd2e3ca04f  Star Wars - Dark Forces/CD.ID
+616e98f5aa1c80c0  Star Wars - Dark Forces/DRIVE.CD
+c777692eef1456a1  Star Wars - Dark Forces/EULA.txt
+050dadc0387f5a24  Star Wars - Dark Forces/DARK.EXE
+bfaef7659be7b9ba  Star Wars - Dark Forces/IMUSE.INI
+47d0610367e9ccb9  Star Wars - Dark Forces/DOS4GW.EXE
+5cca616dc5039dcd  LFD/SWLOGO.LFD
+99181adb33732cfe  media/box2d/Star Wars - Dark Forces.png
+bec0d689c059fecc  Star Wars - Dark Forces/JEDI.CFG
+696fa5de39163d04  Star Wars - Dark Forces/GameuxInstallHelper.dll
+6ec165d92e24184b  Star Wars - Dark Forces/README.TXT
+07a5a8a9908f6050  Star Wars - Dark Forces/LOCAL.MSG
+1e0a23b46add390f  Star Wars - Dark Forces/Support.ico
+f0ce7ccbcf43b393  Star Wars - Dark Forces/SETUP.EXE
+f0e87f405dd5c777  Star Wars - Dark Forces/IMUSE.EXE
+e1a21305d786b611  Star Wars - Dark Forces/dosbox_DF_settings.conf
+0927d3a6d3d4406a  Star Wars - Dark Forces/Manual.pdf
+c4ad2e176accc682  Star Wars - Dark Forces/dosbox_DF.conf
+43d5957b5c566a81  Star Wars - Dark Forces/dosbox_DF_single.conf
+4606916be1aa6f53  Star Wars - Dark Forces/gamelist.xml
+68d0fa8e89213c9c  Star Wars - Dark Forces/goggame-1421404433.hashdb
+5bf9541c0aa20621  Star Wars - Dark Forces/DARK.GOB
+8fefd459748f55ea  Star Wars - Dark Forces/SPRITES.GOB
+fd3b6b6fcaa075f8  Star Wars - Dark Forces/goggame-1421404433.ico
+8fd9db2f4448acd1  Star Wars - Dark Forces/goggame-1421404433.info
+0223a04d97334be1  Star Wars - Dark Forces/unins000.msg
+4bf17baac0c91cdc  Star Wars - Dark Forces/goggame-1421404433.dll
+864f8e0e1daf40c8  media/images/Star Wars - Dark Forces.png
+4bae5f44db0e09db  Star Wars - Dark Forces/gog.ico
+40a911fbbd1d6f5e  Star Wars - Dark Forces/SOUNDS.GOB
+72a817af6d11cb2b  Star Wars - Dark Forces/unins000.dat
+e8c7047ce23f9a1b  Star Wars - Dark Forces/webcache.zip
+7bd96de7c8e93daf  media/marquee/Star Wars - Dark Forces.png
+bd237bee93391e7c  media/fanarts/Star Wars - Dark Forces.jpg
+ef68f9c358ce5e60  media/titles/Star Wars - Dark Forces.png
+ccc494b34374a7d5  Star Wars - Dark Forces/TEXTURES.GOB
+3f314643dff0a1f7  DOSBOX/Documentation/dosbox_AUTHORS.txt
+8592b564bbc11348  DOSBOX/Documentation/dosbox_COPYING.txt
+ffc82b3bd0fa67f2  DOSBOX/Documentation/dosbox_NEWS.txt
+f95e90ce839de79f  DOSBOX/Documentation/dosbox_THANKS.txt
+37a72cb41154697a  DOSBOX/Video Codec/Video Instructions.txt
+ccaa183b68baa3c4  DOSBOX/Documentation/dosbox_INSTALL.txt
+c6ea17cec9c1793a  DOSBOX/Documentation/dosbox_README.txt
+8b20add7ca854900  media/thumbnails/Star Wars - Dark Forces.png
+aca9098545650bf5  DOSBOX/Video Codec/zmbv.inf
+059b265f25f19036  media/videos/Star Wars - Dark Forces.mp4
+71e624cd5ea45541  Star Wars - Dark Forces/DOSBOX/SDL_net.dll
+3d46326aa97c843e  Star Wars - Dark Forces/DOSBOX/DOSBox.exe
+43a122a7ca2609e6  Star Wars - Dark Forces/DOSBOX/SDL.dll
+f26b917b0ca4e5df  DOSBOX/Video Codec/zmbv.dll
+b5ffc888f47bff70  Star Wars - Dark Forces/LFD/ARCEXT.LFD
+6c702c0cda46b2f6  Star Wars - Dark Forces/LFD/1E.LFD
+ed0ed52aaa00b855  Star Wars - Dark Forces/DOSBOX/dosbox-0.74.tar.gz
+b777c55000465b0e  Star Wars - Dark Forces/LFD/AGENTMNU.LFD
+ea571dc27f93f7b6  Star Wars - Dark Forces/unins000.exe
+cfb0da80bdccbe1c  Star Wars - Dark Forces/LFD/ARCFLY.LFD
+dbb850df94b290f3  Star Wars - Dark Forces/LFD/AWARD2.LFD
+b471d4da5c888435  Star Wars - Dark Forces/LFD/AWARD4.LFD
+b88784746885f16f  Star Wars - Dark Forces/LFD/AWARD1.LFD
+de7a5b0d3de05934  Star Wars - Dark Forces/LFD/AWARD3.LFD
+d45e10c244744e77  media/manuals/Star Wars - Dark Forces.pdf
+10f91ee28dd31512  Star Wars - Dark Forces/LFD/BRIEF2.LFD
+8d880a31758850bd  Star Wars - Dark Forces/LFD/BRIEF1.LFD
+1c575f920e0e91a0  DOSBOX/GOGDOSConfig.exe
+03dcec088cbe36c2  Star Wars - Dark Forces/LFD/ENDFLY.LFD
+a3e02f8f8d9f2b00  Star Wars - Dark Forces/LFD/EXECCOMP.LFD
+ac8e2f5d01e00325  Star Wars - Dark Forces/LFD/DFBRIEF.LFD
+5a6921d579ef3b95  Star Wars - Dark Forces/LFD/EXECX.LFD
+466a2069c90562b2  Star Wars - Dark Forces/LFD/CARGO3.LFD
+86602e7096b9f8f9  Star Wars - Dark Forces/LFD/EXP1XX.LFD
+eccb3c8268ef5836  Star Wars - Dark Forces/LFD/EXP3XX.LFD
+0117b98e5d62d7b1  Star Wars - Dark Forces/LFD/BOBA.LFD
+1266bdcef03a2dd8  Star Wars - Dark Forces/LFD/FTEXTCRA.LFD
+f47f2b9adf570f57  Star Wars - Dark Forces/LFD/EXP2X.LFD
+52d3b09627d9147e  Star Wars - Dark Forces/LFD/DARKLOGO.LFD
+c3f20de83a65b808  Star Wars - Dark Forces/LFD/GROMAS1.LFD
+e1f883e480edec2e  Star Wars - Dark Forces/LFD/JABBA1.LFD
+71d4830177633d82  Star Wars - Dark Forces/LFD/EXITNEB.LFD
+aa832ed0ad9f7973  Star Wars - Dark Forces/LFD/CARGO1.LFD
+7481bda7b02bd2e7  Star Wars - Dark Forces/LFD/FULLCRED.LFD
+0cf9e31c59fff17e  Star Wars - Dark Forces/LFD/JABESCP.LFD
+e08d4d7b628a282e  Star Wars - Dark Forces/LFD/GROMASX.LFD
+c1478ba37aca7f1e  Star Wars - Dark Forces/LFD/HOLOCU.LFD
+2ff7f4f8fae62d70  Star Wars - Dark Forces/LFD/JABBA2.LFD
+37f14994d4713932  Star Wars - Dark Forces/LFD/JABBA3.LFD
+364d82edb3e2b168  Star Wars - Dark Forces/LFD/LOGO.LFD
+893f2df371170b14  Star Wars - Dark Forces/LFD/KFLYBY.LFD
+d54e4b3c05a4c136  Star Wars - Dark Forces/LFD/MENU.LFD
+a253bebb943da579  Star Wars - Dark Forces/LFD/NEB1.LFD
+2177d68954e342e3  Star Wars - Dark Forces/LFD/JEDISFX.LFD
+9876a2b6dabd5b65  Star Wars - Dark Forces/LFD/MADINE1.LFD
+fbc156313adde1e0  Star Wars - Dark Forces/LFD/STANDARD.LFD
+c30217652d8aedb9  Star Wars - Dark Forces/LFD/PIT.LFD
+d71295083dbe02ea  Star Wars - Dark Forces/LFD/SUCCES.LFD
+7f4235ff59126a74  Star Wars - Dark Forces/LFD/ROB1.LFD
+3f314643dff0a1f7  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_AUTHORS.txt
+5cca616dc5039dcd  Star Wars - Dark Forces/LFD/SWLOGO.LFD
+ccaa183b68baa3c4  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_INSTALL.txt
+f95e90ce839de79f  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_THANKS.txt
+ffc82b3bd0fa67f2  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_NEWS.txt
+1eba3d9424f1eb3e  Star Wars - Dark Forces/LFD/ROBOTX.LFD
+aca9098545650bf5  Star Wars - Dark Forces/DOSBOX/Video Codec/zmbv.inf
+37a72cb41154697a  Star Wars - Dark Forces/DOSBOX/Video Codec/Video Instructions.txt
+8592b564bbc11348  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_COPYING.txt
+c6ea17cec9c1793a  Star Wars - Dark Forces/DOSBOX/Documentation/dosbox_README.txt
+2ffd195f88895059  Star Wars - Dark Forces/LFD/TUBECOMP.LFD
+f26b917b0ca4e5df  Star Wars - Dark Forces/DOSBOX/Video Codec/zmbv.dll
+1c575f920e0e91a0  Star Wars - Dark Forces/DOSBOX/GOGDOSConfig.exe

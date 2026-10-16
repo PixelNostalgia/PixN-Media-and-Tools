@@ -1,0 +1,181 @@
+d92bf62afc8b57fe  Return to Castle Wolfenstein.rtcw
+f627ef83decb4c90  SDL264.dll
+234ad2e6b4f1cae3  OpenAL64.dll
+59ce1262236abaff  wkey
+c8b1747c5361fe48  Stalingrad/Stalingrad.txt
+5704bbcfd7332e69  Stalingrad/autoexec.cfg
+ae824c1c37d8ef69  Stalingrad/default.cfg
+170d3e27920149cd  renderer_sp_rend2_x64.dll
+7e227d1841631100  renderer_mp_rend2_x64.dll
+7a298283c92737ce  Stalingrad/hunkusage.dat
+d7e72c6b71f78466  ioWolfMP.x64.exe
+ecd2add23ed96374  Stalingrad/sp_stalingrad_easy.pk3
+4df60a73d627d18f  renderer_mp_opengl1_x64.dll
+0216ea08a3b4ba25  Stalingrad/wolfconfig.cfg
+9b832f2de979a0cc  Diversant/Readme.txt
+83895475a62dbb62  Stalingrad/sp_stalingrad_Eng.pk3
+5704bbcfd7332e69  Diversant/autoexec.cfg
+ae824c1c37d8ef69  Diversant/default.cfg
+6d27e26684755fea  Diversant/Saboteur_v1.1.txt
+c9d92f75c6f64a70  Diversant/hunkusage.dat
+46ede9791d499ff5  renderer_sp_opengl1_x64.dll
+92814a01a8df71f1  Diversant/sp_EndEasy..pk3
+94e7c6640d106dce  ioWolfDED.x64.exe
+fc7cbd161c2d32e8  ioWolfSP.x64.exe
+7a76a79f8ce9cf2e  Arkot/hunkusage.dat
+182cf75516cd80f4  Arkot/wolfconfig.cfg
+c07700f0df053c96  Arkot/readme.txt
+33f91ee73e22a61f  Diversant/wolfconfig.cfg
+d3b39562673b0c18  Diversant/sp_saboteur_ENG.pk3
+ba491ee8ad59905b  Age of Horror/autoexec.cfg
+4c07a1bcd6a08cff  Age of Horror/hunkusage.dat
+00fd208f239a4223  Age of Horror/sp_aoh2.pk3
+9a26d1f2b71e05af  Age of Horror/age of horror.txt
+0636275881dd5d89  Age of Horror/sp_aoh4.pk3
+36151afc35369922  Age of Horror/wolfconfig.cfg
+3d9fab6892258bed  Docs/README-MP.txt
+c7227bfe79736f8d  Docs/README.txt
+057b6b1186717f10  Docs/COPYING.txt
+966fa52fff967f67  Docs/iortcw-cvars-new.txt
+34282ba61c6be8a6  Docs/iortcw-command-changes.txt
+281594fc923fe226  Diversant/Diversant.pk3
+24b30ee341153954  Age of Horror/sp_aoh3.pk3
+8bb382f9478016b6  Docs/iortcw-cvars-removed.txt
+0b7f6ea0a5441f84  Ghost of War/Ghosts of War_v1.1.txt
+07d187334c236741  Ghost of War/Levels.txt
+5704bbcfd7332e69  Ghost of War/autoexec.cfg
+ae824c1c37d8ef69  Ghost of War/default.cfg
+f7f0be092703e0da  Docs/README-SP.txt
+dfc8058905b7f5e5  Ghost of War/hunkusage.dat
+13befbb2a321a0a2  Docs/voip-readme.txt
+51ada1578ebcab42  Docs/rend2-readme.txt
+8d1bccd96d5ad3e3  Pharaoh/autoexec.cfg
+aa868876790a45e9  Ghost of War/wolfconfig.cfg
+bef28d2294dd501d  Pharaoh/Pharaoh's Curse.txt
+5879412ca16ce708  Pharaoh/default.cfg
+9b1dcc45f0678fce  Pharaoh/hunkusage.dat
+7887b2cc58cbf8ec  Ghost of War/sp_GOW_Eng.pk3
+1ee41ec2ac08c1cc  Pharaoh/sp_pharaoh_easy.pk3
+fd310adc31cf279d  Pharaoh/sp_pharaoh_ENG.pk3
+b999baf9a5831083  Project 51/Project 51.txt
+33f91ee73e22a61f  Pharaoh/wolfconfig.cfg
+91c4beda16df11a5  Project 51/hunkusage.dat
+8d1bccd96d5ad3e3  Project 51/autoexec.cfg
+aa5e10ada4285d67  Project 51/sp_pro51.pk3
+880330e104dc9889  Ghost of War/ghostsofwar.pk3
+9db58695c164b133  Project 51/sp_pro51_Eng.pk3
+0e75b4f8b07377dc  Time Gate/Readme.txt
+0a5215c5de4a3ac9  Project 51/wolfconfig.cfg
+998b6e1e280c9566  Time Gate/Timegate.txt
+0e302a628e634e7e  Time Gate/Timegate_story.txt
+f0712b2280868f5c  Arkot/arkot.pk3
+d0b6174480287c4c  Time Gate/hunkusage.dat
+8d1bccd96d5ad3e3  Time Gate/autoexec.cfg
+e13a7c7cf469e605  Time Gate/wolfconfig.cfg
+3c8381d1d7824372  Trondheim 1/Readme.txt
+88d1d4f6147f19db  Stalingrad/sp_pak8.pk3
+8d1bccd96d5ad3e3  Trondheim 1/autoexec.cfg
+8b47a53b262e4a7f  Trondheim 1/hunkusage.dat
+9af99b889b2b2de1  Project 51/pro51_v1.1.pk3
+8d1bccd96d5ad3e3  Trondheim 2/autoexec.cfg
+60acbb5c3dfbbed7  Trondheim 2/description.txt
+0873d236338fd1d3  Trondheim 1/description.txt
+30e5ba2a3534857f  Trondheim 1/wolfconfig.cfg
+30e5ba2a3534857f  Trondheim 2/wolfconfig.cfg
+8d1bccd96d5ad3e3  Trondheim 3/autoexec.cfg
+b7ed22ff4c5e5ac7  Trondheim 3/Readme.txt
+259ead376ecbf3df  Age of Horror/sp_aoh.pk3
+7f13ede95a9fec49  Trondheim 3/cross.ico
+2dae8410a21beec3  Trondheim 3/hunkusage.dat
+97ee26d626d516e4  Trondheim 3/description.txt
+405a8189c21752f6  Trondheim 3/wolfconfig.cfg
+8d1bccd96d5ad3e3  main/autoexec.cfg
+912b390d87291c6d  Trondheim 2/redalert.pk3
+77529f0185172f18  Trondheim 1/Trondheim1.pk3
+dcc7029aaa0c65c7  main/hunkusage.dat
+68b6649d5f53580d  main/mp_bin0.pk3
+7ef08a95ed635432  main/mp_rend2_shaders0.pk3
+30e07fffc229ecc4  main/cgame_mp_x64.dll
+ee669497caf78a95  Time Gate/tg.pk3
+5d0444a70398a835  main/cgamex86.dll
+b96ec76e0fb5e866  main/qagamex86.dll
+cac7852e48854612  Pharaoh/sounds_videos.uha
+44bdd7369f625348  main/cgame_sp_x64.dll
+41c8e8114fdf0810  main/qagame_mp_x64.dll
+8e38f39c11c11c24  main/sp_home.pk3
+bcf77bde228633d5  main/sp_pak3.pk3
+a3bb1e19a01f8107  main/qagame_sp_x64.dll
+3d99e4870dbccfd5  Trondheim 3/ironcross.pk3
+f5c12f1139983311  main/sp_rend2_shaders0.pk3
+3d1039c522de16d3  main/sp_pak2.pk3
+b894f3063a463f77  main/ui_sp_x64.dll
+cdfa2102c3202ee4  main/wolfconfig.cfg
+b1cfdbab368007a3  main/ui_mp_x64.dll
+2fd54eeee6adb938  opervors/description.txt
+c77ed2648ec392c2  opervors/opervors_fix.pk3
+6f8078690e4a2310  opervors/opervors.txt
+60890d2b344ebc5a  opervors/hunkusage.dat
+9c05753b97bb0ef1  opervors/readme1st.txt
+90b312c461ee3f8d  opervors/readme.htm
+182cf75516cd80f4  opervors/wolfconfig.cfg
+64aaf9832164a43c  main/sp_pak4.pk3
+ea79790546956d21  Stalingrad/save/current.psw
+7baacd7294391c51  Stalingrad/save/current.svg
+cb1b34294d613fe3  opervors/start.bat
+21466422c47308ea  main/sp_trondheim.pk3
+01fa5a5fd0bd1bc5  Stalingrad/scripts/translation.cfg
+85efd04feef7ac83  Pharaoh/pharaoh.pk3
+825c0f34a2687ea3  Arkot/save/current.svg
+01fa5a5fd0bd1bc5  Diversant/scripts/translation.cfg
+7292b1c61b2ce320  Diversant/save/current.svg
+88e5aec45c577003  Ghost of War/save/current.svg
+ebe186ad14d107f6  Pharaoh/maps/intro_grobnica_b0.rcd
+93650b05979af0a7  Age of Horror/save/current.svg
+10bd6659cb9a3036  Pharaoh/maps/intro_grobnica_b1.rcd
+89cecce688830428  Pharaoh/maps/level1_b0.rcd
+190f8f5d14b7dfc7  Pharaoh/maps/level1_b1.rcd
+4ddbb68d893da7e9  Project 51/save/current.svg
+8df22243509706ef  opervors/sp_opervors.pk3
+f4aa17e76fd565d0  Trondheim 3/save/current.psw
+16a3ada39e19afc0  Pharaoh/save/current.svg
+3ba2d1a46c49f14b  main/save/current.svg
+a3504e4964d0c674  Time Gate/save/current.svg
+0ad7cc203dec7d98  Trondheim 1/save/current.svg
+5d32eb979794f7c3  Trondheim 3/save/current.svg
+41e31b0c806467f4  opervors/opervors_pics/exit_basis.jpg
+1aafab5aa74a4ea0  media/fanarts/Return to Castle Wolfenstein.jpg
+25abaa47a83cbce4  opervors/opervors_pics/intro_basis.jpg
+49eeccd186624a4e  main/vm/ui.mp.qvm
+59c6acbfccd3dd05  main/vm/cgame.mp.qvm
+2b66ada6919946d1  main/vm/qagame.mp.qvm
+fcd1c6f8543342e2  opervors/opervors_pics/tefcw3_basis.jpg
+7f3015d3e91bdc99  opervors/opervors_pics/tefcw4_basis.jpg
+01162b9969416b3b  opervors/opervors_pics/end_basis.jpg
+60622a761f5a2a3c  Stalingrad/save/autosave/demo1.svg
+a4cbcc72a8f7fb38  opervors/opervors_pics/tefcw1_basis.jpg
+71710f37b3d7eb12  opervors/save/current.svg
+6797b0fc24895c9a  opervors/opervors_pics/tefcw2_basis.jpg
+49b97d5c02a1be96  media/marquee/Return to Castle Wolfenstein.png
+0b3810dede650680  media/images/Return to Castle Wolfenstein.jpg
+eefa68bd46116a2c  Stalingrad/save/autosave/cutscene_1.svg
+628cfb422bbb5d5e  Ghost of War/save/autosave/cutscene_1.svg
+7f07deb3fee8c627  Age of Horror/save/autosave/prelude1.svg
+60c53275c7d76090  Age of Horror/save/autosave/prelude2.svg
+48386f309741f15c  Diversant/save/autosave/normandy.svg
+75cbeddc9f8f9e29  Arkot/save/autosave/arcot.svg
+0e1fdebb210f764e  Pharaoh/save/autosave/intro_grobnica.svg
+e8c56d650674e3e2  Pharaoh/save/autosave/level1.svg
+d40fca733e3dca97  media/thumbnails/Return to Castle Wolfenstein.jpg
+1f5f5ceab97b738d  Time Gate/save/autosave/tomb1.svg
+79f8eba926004e3a  Trondheim 1/save/autosave/30s.svg
+11082a1a20d5fdf0  Project 51/save/autosave/pro1.svg
+f79ea9aa55c095c8  Trondheim 3/save/autosave/cutscene1.svg
+935bd4736a07ecd2  Project 51/save/autosave/pro2.svg
+b29cae1c7c738cc5  Trondheim 3/save/autosave/70.svg
+4c68bb925b942e17  opervors/save/autosave/intro.svg
+c0a206fa4db4cb31  Trondheim 1/save/autosave/cutscene1.svg
+d025dbf6f1693d83  main/save/autosave/cutscene1.svg
+8f94cf6ddcb36d35  media/videos/Return to Castle Wolfenstein.mp4
+e7685633bbb13d62  media/manuals/Return to Castle Wolfenstein-manual.pdf
+2ffe6978b18fd163  main/sp_pak1.pk3
+8be5790dbd2563b7  main/pak0.pk3

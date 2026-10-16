@@ -1,0 +1,1442 @@
+2bbfab99d9c548d3  tours/Bowser.txt
+7fee2978359ffe09  tours/Lost Levels.txt
+2d06800538d394c2  smw.game
+e726908d91855e25  tours/Koopa.txt
+ed7ff18394330c08  tours/0smw.txt
+417450e154437dda  tours/Luigi.txt
+355c6232e2f5544d  tours/Flower.txt
+0ce482971ea40aa3  _info.txt
+a4ecdc3f727d4c6f  gamelist_ARRM.xml
+f3db7a9e2fd49350  tours/Mushroom.txt
+d8643acbebd9f5c4  tours/Mario.txt
+941758714f5e5875  tours/Princess.txt
+3a21eb9fb0cc22f4  tours/Yoshi.txt
+c0c2767e826e2a54  tours/Special.txt
+69853652d128cf32  tours/Star.txt
+0a2b53c82bc2a362  worlds/Big JM_Mixed River.txt
+d22e132aa317b800  worlds/Contest_Block World.txt
+7d77ed7e2d77c652  worlds/Contest_Arctic World.txt
+5b754b7e8d041572  worlds/Contest_Castle World.txt
+9ebf1d7d7511300f  worlds/Contest_Bonus World.txt
+768cea7df17a7830  worlds/Contest_Airship World.txt
+2a8b14efa7013332  worlds/KingPepe_Flurry World.txt
+cf7c4ff1933452fd  worlds/Contest_Industrial World.txt
+10df886c62972872  worlds/JJames_Kingdom High.txt
+10a19332407257a2  worlds/Contest_Pirate World.txt
+54dd826fde31375a  worlds/Contest_Ghost House.txt
+ffb2b8a76447ee43  worlds/MrMister_Simple.txt
+16d1e5f0e5149b4b  worlds/ZZworldeditor.txt
+c0853a6fecb70b6e  music/Overrides.txt
+de26c8f865c91e0d  worlds/Contest_Space World.txt
+21d393f225a94487  filters/Simple.txt
+01411cecafdaea8f  worlds/SMB3.txt
+1a3b7d0bb44010bd  worlds/MrMister_MrIsland.txt
+bbb2d407c81046c5  filters/Capture The Flag.txt
+d52bd7d673a2978a  music/Readme.txt
+e2a20348ea7c62ed  maps/4highabove.map
+3b3000c7d7e74f92  maps/2skyfight.map
+a35bf77a3ec10c2d  maps/3blockforts.map
+d8652f6759383c0a  maps/4matsy_Block Piles.map
+417ea48b1be54655  maps/4matsy_Ballistic Boardwalks.map
+2108d58d6ca55648  maps/4matsy_Block! Block!.map
+257e9ac36c93f774  maps/0smw.map
+2f052f2ee62e0323  maps/4matsy_Bouncy Spikes.map
+9c60771848e34393  maps/4matsy_Hanging Cactus Gardens.map
+830d182b287bc0f3  maps/4matsy_Manic Mountain.map
+8a0a9b1835ba0479  maps/4matsy_Down With Donuts.map
+af3fdc9a4a45a99f  maps/4matsy_Death From Above.map
+e4d2d1f18e4e4173  maps/4matsy_Evening Fracas.map
+699a9dfe37883834  maps/4matsy_Mountain King.map
+73f1708f083237e2  maps/4matsy_Cloud Props.map
+72157ace7b06899f  maps/4matsy_Islands of Questionable Support.map
+a5f5b6cea80a8ba0  maps/4matsy_Mishmash.map
+a995e6d7c9ed1a65  maps/4matsy_Prepare to Joust Buzzard Bait.map
+3f9e714599be6e71  maps/4matsy_Splitting Headache.map
+a7d65075d2483d91  maps/4matsy_Heinous Heights.map
+8279abe1d9352f90  maps/4matsy_Suspended Craziness.map
+3f6ad2dd549307a5  maps/4matsy_Rubber Room.map
+c70186339f3db7e8  maps/4matsy_Ninja Gaiden 1 - 1-1.map
+43a58274c613792b  maps/4matsy_Wacky Woods.map
+481b4ee7358e261d  maps/4matsy_wirehenge.map
+d90622b73836804c  maps/4matsy_Traumatic Plains.map
+6c07bdb9791548f9  maps/FTG_Forest Temple.map
+a271bb2ab398682b  maps/Big JM_City Streets.map
+8bf569bac7c81395  maps/5fall.map
+790eb0088ffb66fb  maps/Fu3lman_mbc.map
+c8275c6dfdb23cb6  maps/GG_Boo rondell.map
+1f9d91c4ac8fdbcb  maps/GG_Angry angels.map
+509a62d64e68f98d  maps/4matsy_Zelda 1 - 1st Quest Level 1.map
+1fe8ccb1c463c9af  maps/FTG_Purification.map
+06d01620af44c0a2  maps/GG_Bowsers Castle 2.map
+792065d08fab1141  maps/GG_Bouncy Water.map
+0b7e38e37dd3152c  maps/GG_Cheesy feet jungle.map
+6be1b2351c59c6cd  maps/GG_Cross Fire.map
+a9850b36858f5080  maps/FTG_The Arctic.map
+c4d8af3cfe4bc646  maps/GG_Death Valley.map
+bb2ca2fa9cb4042e  maps/GG_Boos Mansion.map
+69194c6ff9654f3d  maps/GG_Elevating Explosives.map
+dcede18ea62e6305  maps/GG_Fire Fortress.map
+51f5fa879b689976  maps/GG_Foltermethoden.map
+772f928d8c09d69c  maps/GG_Ghost valley.map
+cf3ac05caa2a75b8  maps/GG_Flooded Sledgy area.map
+f884fc0128167c44  maps/GG_From pole to pole.map
+40cc212d1b79468e  maps/GG_Lorry loops.map
+ddc34f3704bca86a  maps/FTG_Galaxy Split.map
+e893518b7dd212a7  maps/GG_Hilltop dodge.map
+16e7a7979341c49b  maps/GG_Hot Spot.map
+92bcecaf73963895  maps/GG_Molemania.map
+fe5f329c33cf6f84  maps/GG_Mushroom valley.map
+cdf0949003a70855  maps/GG_Occupation.map
+68935f14bd57b7a0  maps/GG_Nearby the sky.map
+901219b19bcb475d  maps/GG_Sandy Shelter.map
+21ec87ca01f42661  maps/GG_Plant Fortress.map
+8347c58ccf0782fb  maps/GG_Pirhana Playground.map
+2cf3911b9f21afcf  maps/GG_Phanto Fantastic.map
+5ec6bb9998ed1e6e  maps/GG_Shy Guy Factory 2.map
+b78dc560919ff3c3  maps/GG_Petey summit.map
+8be6256dfcaeec8e  maps/GG_Shy Guy Factory.map
+a56f2098e96a6b60  maps/GG_The hotter the better.map
+8a5d42cc99758bf7  maps/JJames_Blue Twilight.map
+1cd47388c0f44ae3  maps/GG_Triclyde Summit.map
+34cdd69ba84750a1  maps/GG_Warios Castle.map
+4f6592a61701c08f  maps/GG_Submerged.map
+3bc998c30e684efe  maps/GG_Water Fortress.map
+c0005d99ef23deb8  maps/JJames_Plant Infestion.map
+2c6a379295919721  maps/Link901_Digital Doom.map
+a77120f7be163305  maps/Link901_CrazyEyes.map
+3e23031dd2c76f73  maps/JJames_Bullet Bill Air.map
+46b0fbe68ca1f760  maps/Link901_DoomsDay.map
+e84cfea9e3ee2485  maps/JJames_Clocks on Fire.map
+bdfb1f946a39bead  maps/LKA_Burn Yourself.map
+658df74f67920971  maps/Jacobthehero2006_battleblockarea.map
+904785d97d4a9903  maps/LKA_Sky of Fragrant Souls.map
+95e019772d8e3f3c  maps/Link901_MileHigh Madness.map
+adfd24589b05ef64  maps/Link901_Watery Day.map
+ce1644d9a719bb72  maps/MrMister_Azul Montana.map
+ac4d144738111f21  maps/MrMister_Battle City.map
+852bb063c2d0c976  maps/MrMister_Airshipz.map
+0d5bef85b69bf783  maps/MrMister_Boatz.map
+618c293a77a4a4c3  maps/MrMister_Black Hole.map
+1e2b746c94fe90cf  maps/MrMister_Clean Air.map
+056e246aa89b02d6  maps/MrMister_Bonus Room.map
+dce9de2426f0761f  maps/MrMister_Castle Wall.map
+1060f75c2a0c1273  maps/MrMister_Classicka.map
+bd18815e48257b1a  maps/MrMister_Bonus Paradise.map
+c0d0c601e516925f  maps/MrMister_Deep Water Mace.map
+516c2f27d0fd80f4  maps/MrMister_Destroyed Planet.map
+e25f4f2f8202b51d  maps/MrMister_Castle Armada.map
+c6ad5f6fd93cf8a2  maps/MrMister_Crevice Canyon.map
+ddc97c972a3ac79b  maps/MrMister_Bowsers Castle.map
+05ce849814278372  maps/MrMister_Floating Cubes.map
+64018a864213870d  maps/MrMister_Flooded Ghosts.map
+c3ee48bd50fd3021  maps/MrMister_Fluffy Falling.map
+cbdccb3fdd45be40  maps/MrMister_Coal Mine.map
+d2575f57eab12a24  maps/MrMister_Hill.map
+593e53c95e52ce12  maps/MrMister_Flag Pole Jump Forever.map
+bfd27e4bc77f6fc1  maps/MrMister_Forced Switch.map
+0839e2c5d6d162d7  maps/MrMister_Danger Cave.map
+927be89a709825a9  maps/MrMister_Ice Shelf.map
+25cbf9bc2b8789c9  maps/MrMister_Dirty Pipes.map
+ab94a5cf3d320354  maps/MrMister_Icy Fire Castle.map
+28c446bb903c9c5d  maps/MrMister_Flying Fortress.map
+5fc7d868394e6a4d  maps/MrMister_Kirbyish.map
+5be55eed3d7b4aa0  maps/MrMister_Lunar Jungle.map
+46a09ffa3fd41fd5  maps/MrMister_Madness Forest.map
+34c42515c6d1fa4f  maps/MrMister_Scrolling Doom.map
+3598587727215d2a  maps/MrMister_MrMountain.map
+bf94b3cb4c2c7e05  maps/MrMister_Secret Pirate Cove.map
+eedecef4504aa828  maps/MrMister_The Mausoleum.map
+d2c1ba5d8e6a6900  maps/MrMister_Tanx.map
+7600bccbc0fa9c92  maps/MrMister_Introid.map
+d4bbf26a4cd39878  maps/MrMister_Under Pressure.map
+4cf6cf6398911836  maps/MrMister_Lake Blues.map
+6bedef1bb1a22694  maps/Peardian_Tower of the Sun.map
+0b3d61953315c47b  maps/MrMister_dark forest.map
+181b6143d233762b  maps/NMcCoy_1-3.map
+a6c87605fbb6ddc7  maps/Peardian_Frozen Frenzy (MP5).map
+da9a356ce59e634a  maps/MrMister_Snow Top.map
+e3308b4a12134a10  maps/Peardian_Volcanic Rain.map
+6813770c032c9fc4  maps/MrMister_MrIslandBattle.map
+192b5a0905e7ed23  maps/Peardian_dare.map
+26ccca6749653ba8  maps/Peardian_alinos gate.map
+eadc8017ee20e80f  maps/Peardian_arcterra gate.map
+cec3f75a595b0b2f  maps/Peardian_underwater.map
+63a1f8bd08b3830e  maps/Peardian_pianta village - village.map
+34bfb5f17f36c17d  maps/Peardian_snowball fight.map
+f7ad712b93280788  maps/Pikablu_Mushroom Kingdom.map
+a9cdbbb09368d0dc  maps/Peardian_subcon.map
+8af7e867a2e3e23b  maps/Sgraff_Skull Depot.map
+acd69448cc9c67fd  maps/Sgraff_Peach's Castle.map
+153fa10790c2bfd1  maps/SMW Fan_crazy castle.map
+3e1953e08ee193d5  maps/SMW Fan_shipwreck.map
+bfd8e75023cb9189  maps/SMW Fan_crystal caverns.map
+ea4c959bc519bf9b  maps/Sgraff_Haunted Temple.map
+566220ebde332053  maps/Sgraff_Bewarehouse.map
+3eee6b2881aa3d1e  maps/Sgraff_Big Tree.map
+a75b2a30608f2473  maps/Tanuki_Aquatic Ruins.map
+c8061f9aa47af462  maps/Tanuki_Ambitions of the Abyss.map
+2dbefdc684540f92  maps/Tanuki_Der Ewige Garten.map
+d4f4873d313d4461  maps/Tanuki_Dungeon Party.map
+e74b24bfa1f3fa41  maps/Sgraff_Wood Pit.map
+5d70f144c1a09489  maps/Tanuki_Ice Cave.map
+0f7a2eca235f272d  maps/Sgraff_Storage Building.map
+0771239aec6b6abf  maps/Tanuki_Jungle Bridge.map
+9ec045c77671d27c  maps/Tanuki_Desert Canyon.map
+7e1dccf6c1fce21d  maps/Tanuki_FK Base.map
+b11ca6aae45d676c  maps/Tanuki_Map in the Sky.map
+e334fca3d8bb4218  maps/Tanuki_Germany.map
+293e974cffe409f1  maps/Tanuki_Log Balancing.map
+9c761058d9d7dc8e  maps/Tanuki_Canyon with Waterfalls.map
+2b84e679b6eb32dd  maps/Tanuki_Lake Paradox.map
+e72384866c48b0bd  maps/Tanuki_Moby Dick.map
+9bf201e8950ed352  maps/Tanuki_Sky Ruins.map
+eb7d5d4d682db603  maps/Tanuki_Room 824.map
+a2587d57669e1a0e  maps/Xijar_Boo is Back.map
+2ea42d82e5d984d5  maps/Xijar_1986.map
+d82550d3b6658cc9  maps/Tanuki_Scarlet Devil Library.map
+dc9d14ea62447682  maps/Tanuki_Stairway.map
+406a1631c6e30130  maps/Tanuki_Tewi Stage.map
+2d4af3292781ada6  maps/Xijar_Danger Canyon.map
+98ac4183efd69776  maps/Xijar_Derelict.map
+db19daf0c1702577  maps/Xijar_Eighth Platform.map
+392c51e48d5719d9  maps/Tanuki_SpaceIceLavaStuff.map
+61d7e600108f1f44  maps/Xijar_Death Island.map
+2ca23e6bc5cc4f6b  maps/Xijar_Greden.map
+c07b3eb35956c2b1  maps/Xijar_Wonder Winterland.map
+34215df5f33231ee  maps/affe.map
+cb0fe5bdd65ecbb8  maps/Xijar_Rat Race.map
+98d2e860cfebaadd  maps/Zadrave_Mario Fortress.map
+a41fc720c6aa5417  maps/bcatcher_vanilla dome.map
+df82c09663a19121  maps/bcatcher_field day.map
+2bd95ad4322d9204  maps/bcatcher_yoshi island.map
+6350d77b4501c938  maps/bobmanperson_icy hills.map
+a67f532e81d0324e  maps/chaofan_classicon.map
+22ac2c11c470086b  maps/bobmanperson_wood.map
+709b92dacd8dbc9c  maps/cristomarquez_colorpile.map
+a7707ba2d8ad41ad  maps/chomp_chomp beach.map
+ba62ece8e5eca256  maps/cristomarquez_abovethedomes.map
+d17a9af452364fd2  maps/coolman13714_green greens.map
+0476cccfcd5cbc29  maps/clark_hidenseek.map
+a5c9a0b9ae5885d9  maps/cristomarquez_doublevision.map
+fca7ceb704cd55ff  maps/cristomarquez_darkrock.map
+ac29e8fc44a058db  maps/cristomarquez_ghosthouse.map
+18bfa127c2f49f2e  maps/cristomarquez_fortress.map
+e2d6a65a11923165  maps/cristomarquez_greenhill.map
+72a0019e121559e8  maps/cristomarquez_icecube.map
+eefc8f25ebafb8a6  maps/cristomarquez_valley.map
+58c5d310eb1c7683  maps/cristomarquez_warpzone.map
+b1f25d5193672862  maps/cristomarquez_pyramid.map
+7da81feb74ec8a5f  maps/fm_nightvalley.map
+9e43b711fbff77d1  maps/fm_olympianflora.map
+cd6e50fc8820e053  maps/elude_aztec.map
+f4dd3b9d1c587315  maps/eeliottheking_not so cave.map
+95efbb896b07f2fa  maps/hazey_Bubble Bobble 2.map
+cdbfc0fc02738049  maps/gki_castleout.map
+3d7bec7016e35c6a  maps/hazey_Iceland.map
+e635d65fbd5e72f8  maps/ikill4you_king_of_the_hill.map
+ed8ff559d5687c6f  maps/hazey_Jump n Bump.map
+0c46569d3ae5cdf6  maps/hazey_Lava Island.map
+e12b2ac49a97b454  maps/cristomarquez_indoor.map
+19fcb269748f461a  maps/j rok_begging for sumo again.map
+bb9ebc680f11863a  maps/j rok_death to iggy.map
+13ab6a34e5b7c786  maps/j rok_circuit.map
+ede3330131628204  maps/j rok_bring a towel.map
+09d899d3bf3a854f  maps/j rok_asinine.map
+f783f8dbeb253604  maps/j rok_begging for sumo.map
+26bd7b9e18b5151a  maps/j rok_doubledown.map
+cd9ef3f7b2bfc7d7  maps/j rok_fastlane.map
+2f515695d4784a16  maps/j rok_inebriation.map
+c5a8471539353f15  maps/j rok_low bandwidth.map
+bc8f76f268ce81bd  maps/j rok_quzza.map
+815a2696c4b2b0cc  maps/j rok_salty dog.map
+1d4d6a23c42a3f4d  maps/j rok_toshinden.map
+f0fa108360e14eb4  maps/jhero_blockfort.map
+57896cf79ae36f43  maps/justinio_pipes at sea.map
+5d4416ace071576c  maps/mcjimmy_CastleDashle.map
+d77c6cf1a90a8d14  maps/mm64_as seen on tv.map
+5aae8320b56151e6  maps/max_greeny.map
+1da1a5f05d8180c3  maps/mm64_dottedplus.map
+41b73eb7eac663e5  maps/mp1_above the clouds.map
+e39c591fea4e117e  maps/mp1_bottle.map
+eb848820e0ae02ed  maps/mp1_hard to fly.map
+d142cc3150e8b6b0  maps/mp1_double-t.map
+869d271bcbeb045f  maps/j rok_divine intervention.map
+e60076d93c80a249  maps/mp1_iron.map
+b8cb917c0c9ab237  maps/mp1_hello world.map
+e919416a226cfd6b  maps/mp1_quarterblock.map
+4209732d71da998f  maps/mp1_sky realm.map
+07daac4128b49dd2  maps/mpinger_cliff.map
+5e9601a446835d80  maps/mp1_synchro.map
+65f5e0b7b0e7bb89  maps/mpinger_torch.map
+21b11d712e0030d1  maps/mwtk_Van katoen.map
+3e08a853bb2e7aa2  maps/mwtk_Gold.map
+13f9da5fef9a9dff  maps/mpinger_tunnels.map
+48c064e3d1005aeb  maps/mwtk_Wolkje.map
+42d55ec1aa409684  maps/nitsuja_unfeeling.map
+9a1aa0efc571de93  maps/nitsuja_pillars of glory.map
+a958ffffde2795cf  maps/mwtk_WhiteSky.map
+248244beebbd56dd  maps/pikawil_Hyrule Castle.map
+975ae5d97a067207  maps/nitsuja_pipestruck.map
+b812e208c28be2f3  maps/nitsuja_wildlife.map
+fd0ddb1359562c1b  maps/pikawil_Kongo Jungle.map
+6717b94cce86c349  maps/nitsuja_reznor pit.map
+0425bab6e55facec  maps/pikawil_Peach Castle.map
+d7d6e01e3b51e362  maps/pikawil_Onett.map
+5e4e1416e62651fe  maps/pikawil_King of the Hills.map
+807d5818437bd39d  maps/sgraff_Buster_Beetle_s_Tower.map
+e5ac4cf17578c0e4  maps/the errchenator_cliff tower.map
+b12814ede51e3b24  maps/the errchenator_crazy dungeon.map
+f03dd0fb94aacdce  maps/somestrangeflea_dropouts.map
+68c6b90ba7ce86b6  maps/mwtk_symmetrical.map
+38ea90421f201180  maps/tubesteak_coolnights.map
+394e01d79cb9f1fc  maps/pool_what.map
+28513d1bef2056e8  maps/tubesteak_dune.map
+28c99a88e5649f5e  maps/tubesteak_icecap.map
+cfd39b84e149c351  maps/tubesteak_dkjungle.map
+4dd5e243040c2244  maps/tubesteak_lockout.map
+dcf9a64725f7727b  maps/tubesteak_piemont.map
+8314e7204fdd8100  maps/tiechiman_yarg.map
+eb58db96f978e417  maps/tubesteak_rainbowride.map
+6d480450aa812420  maps/tubesteak_skyhigh.map
+02bd18af3d497214  maps/tubesteak_mountain waterfall.map
+c34ce01a660c3583  maps/tubesteak_shipwreck.map
+d096c56681fe24a5  maps/two52_Up In The Hills.map
+be91291773c0173d  maps/tubesteak_treefort.map
+c951cd1e71c99381  maps/two52_chainlink.map
+96ab33a87fac9ee5  maps/tubesteak_thecourtyard.map
+f379df3368d42341  maps/two52_cave.map
+43eb518f48066fc3  maps/two52_manor.map
+a6d7e1c02b93cec1  maps/tubesteak_ssbmjunglejapes.map
+c4132dece7f0c16c  maps/tubesteak_yoshisisland.map
+6771526d8aaf2e19  maps/two52_mountains.map
+186de3c9a521e735  maps/ventuz_bounce2lava.map
+8c71816fd660df1e  maps/username1_sunny hills.map
+2de46957f8c34cb8  maps/will_smw.map
+0f96119ff32b28e4  maps/will_topwar.map
+8efcc18e6643f11e  maps/will_war2.map
+8ca5101909226919  maps/ym7_castor wilds.map
+1bda20276e756ca6  maps/ym7_jungle.map
+de5572f0779c54a0  maps/username1_sunset hills.map
+b157c2fdc3ef9396  maps/ym7_rainbowroadredux.map
+3b9958d290686907  maps/ym7_world1-2.map
+7e4e2324315db0dc  maps/two52_the pit.map
+5da1a17c1a62c11b  worlds/Contest/4matsy_Moonbase Madness.map
+014174c8220797c7  maps/username1_elevated.map
+8ca64cf1801b1306  maps/ym7_Sky Garden.map
+f14c0f9be1794487  worlds/Contest/4matsy_Using ABXY to Fly It.map
+2bc84d5c89b1e708  worlds/Contest/Alec2001_Alecs castle inverted.map
+e1d5867e4f34d78c  worlds/Contest/Alex_Warehouse.map
+a530cc350d0e9eb1  worlds/Contest/Agoat_Industrial Madness.map
+a7debbe49317103a  worlds/Contest/Alex_Abandoned Planet.map
+0c7cf667c7e2cb81  worlds/Contest/Big JM_Grassy Bonus.map
+dc3867d8aa2aedbf  worlds/Contest/Big JM_The Skin Factory.map
+9954bf3fa3d36c33  maps/will_smb2.map
+31fe18b4bc5cc091  worlds/Contest/Big JM_House of Ancients.map
+952ff97b33b66796  worlds/Contest/Chaos_Haunted House.map
+615b256abf05d1e9  worlds/Contest/Chaos_Castle of Chaos.map
+98bcead8a69d4e83  worlds/Contest/DXMachina_DXMcastle.map
+2d13edf676e8afb9  worlds/Contest/Big JM_Castle 72.map
+231aa95b4fb4c00f  worlds/Contest/DarkSpirit_Air Bombers.map
+3c2cf3546792ed52  worlds/Contest/DrHammer_Pirates of the Mushroom Kingdom.map
+59c6a49dba181944  worlds/Contest/FTG_Smelting Pot.map
+754151435c80d650  worlds/Contest/FTG_A Fish Out Of Water.map
+559c2668b325402d  worlds/Contest/Firekirby_Pirate battle.map
+ca84ebeb36a891a3  worlds/Contest/DrHammer_Block Testing Grounds.map
+55103755a82a9d3c  worlds/Contest/GG_G-Guy-'s Polar Base.map
+00052c1e311052b4  worlds/Contest/GG_Vivid Castle.map
+ae60f66df9a9fa30  worlds/Contest/FTG_Wharf_Rats.map
+1d5beb913e70f87b  worlds/Contest/Gadouken_castle!.map
+32ef03f4cf5adb95  worlds/Contest/GG_Store for this and that.map
+c8d2b15f3373e91a  worlds/Contest/GallikYoshi_Lunar Bridge.map
+ff8dea3ff2634d1a  worlds/Contest/FTG_Dark Castle.map
+91632f4f7370a1ed  worlds/Contest/JFrog_Castle o Awesome.map
+f3139d571d1d8246  worlds/Contest/HT_Death Ship.map
+b891a2065fbf0a17  worlds/Contest/GG_On Drugs.map
+884787c0fc795155  worlds/Contest/JJames_Ghostly Hall.map
+473bb913a5f6e048  worlds/Contest/JJames_Orions Belt.map
+449dbf1f351ac515  worlds/Contest/JJames_Bonusful.map
+ee5487b2fd29f6e1  worlds/Contest/JJames_Chain Link Chamber.map
+8d9849b05fcfd0f3  worlds/Contest/JJames_Delivery Line.map
+17b106fa8dba1fe5  worlds/Contest/Jugabro_Childs Play.map
+39ba8976855800e2  worlds/Contest/JJames_Rabbit Hole.map
+00cb2099c2cbb0b6  worlds/Contest/LKA_Nameless Factory.map
+c2b6cc054e1865f4  worlds/Contest/M3_SS Freedom Airship.map
+c5c328a881ef6b6f  worlds/Contest/MC Jimmy_Blastard.map
+350f9a711b8267d1  worlds/Contest/LKA_Galaxy in a Pot.map
+1ed70fb079c4193b  worlds/Contest/MC Jimmy_Only One Will Stand Tall.map
+c43d33940dbe8a18  worlds/Contest/LKA_Unnamed Castle Map.map
+5f6c82943d608021  worlds/Contest/MC Jimmy_FrozenSomething.map
+1b1f68114c1dcc84  worlds/Contest/MegaTailzChao_UnderwaterCastle.map
+b91336208e23d9b2  worlds/Contest/MegaTailzChao_Bonus Cave.map
+89565ff00aa80030  worlds/Contest/MC Jimmy_I guess Ill give it a Chance.map
+1c2d680ef326353c  worlds/Contest/MrMister_Bonus Paradise.map
+e8c51053e1886427  worlds/Contest/MC Jimmy_SpaceMy.map
+7ffb8e026b0800fb  worlds/Contest/MrMister_Flooded Ghosts.map
+37dc79516b9a4f39  worlds/Contest/MegaTailzChao_Friendly Factory.map
+7a2afed1dba7869f  worlds/Contest/MrMister_Ice Shelf.map
+28c446bb903c9c5d  worlds/Contest/MrMister_Flying Fortress.map
+f367245c1025a9a7  worlds/Contest/MrSlayer_Flip Room.map
+1a0168315a1d558a  worlds/Contest/MrMister_Icy Fire Castle.map
+c67f5c184eea7d50  worlds/Contest/NiGHTS_Hazardous Castle.map
+4bc27bad2d0dffbc  worlds/Contest/Nova_Airship Galley.map
+f84619e1c13d3846  worlds/Contest/Night213_Ice Fortress.map
+750d9a3ac2be3d4a  worlds/Contest/Night213_Nights Cruiser.map
+1639e35aa42cafb1  worlds/Contest/Onijustin_blox.map
+c6e1482d32f18b7b  worlds/Contest/Pikaboo_Secret Civilization.map
+d5d62fdfdb623b48  worlds/Contest/Pikaboo_Caution! Moving Parts.map
+7a13e0579eac9b48  worlds/Contest/Night213_Nights Castle.map
+0bbb71d01708e874  worlds/Contest/Onijustin_lunarbase.map
+332c2de3f6bb37be  worlds/Contest/Roxas_Question block.map
+1ac892c4c3f8ecbf  worlds/Contest/Onijustin_AirshipXD.map
+9213517f1c0c687c  worlds/Contest/Roxas_Spacemap.map
+65a65bddbcb30b94  worlds/Contest/Tanuki_In The Air.map
+25e56067c22f9a63  worlds/Contest/Tanuki_Another storm to remote control.map
+bdcd827e65459f43  worlds/Contest/Turndawg107_Piston Panic.map
+f34a640a1b428aca  worlds/Contest/Tanuki_Rotting like a Bonus Room.map
+a303d3e6c399bdcc  worlds/Contest/Twilight_Ghosty.map
+356a48de24cce09d  worlds/Contest/Twilight_Blocking Ground.map
+10a69646eb48ab9e  worlds/Contest/ThunderBro_bonus circus.map
+a9ab9e6c8173af0d  worlds/Contest/Turndawg107_Phendrana Cave.map
+133db666b54192f6  worlds/Contest/Scienstien_Bonus Puzzle.map
+eeb2e30fabc90e15  worlds/Contest/WeeTacos_Familiar Ending.map
+8c7e778a4a2192ef  worlds/Contest/Zekobah_AIRSHIPS IS HEALTTHY EAT DEM!.map
+25ba2b0005dc00a9  worlds/Contest/Zadrave_CarCrusher.map
+d348420d8e36be63  worlds/Contest/WeeTacos_End of the Line.map
+3dcc7db2610ceac0  worlds/Contest/Thunderbro_IndustialZone.map
+148fb306c121d477  worlds/Contest/gadouken_0factory.map
+07b6030c33dd4e0d  worlds/Contest/gadouken_pirates.map
+9c9c9b39307aacb2  worlds/Contest/pottmannen_ghost house.map
+60a1f6973f8b86d7  worlds/Contest/smwfan_Space Pods.map
+d33770a29d00bdfd  worlds/Contest/pottmannen_outer space thingie.map
+fe259c6390ba4c0c  worlds/Contest/jfrog_aisland.map
+d17541460d397681  worlds/Contest/pottmannen_im freezing.map
+7ff2fac536bba4b2  worlds/Contest/gadouken_space.map
+a4a5390c0f713610  worlds/Contest/ssf_air battle.map
+cd4f5227584327bf  worlds/Contest/h4gm4_somemoon.map
+9e7decf61c7ea5d5  worlds/Contest/specialkid_Mt Bananavision!.map
+ce315c8ed444cec8  worlds/Contest/jfrog_ghostship.map
+644fc146ce7b1612  worlds/Contest/ssf_freaky home.map
+230d422bdffc19b5  worlds/Contest/ssf_smworld bonus.map
+81acd161ad12538a  worlds/Contest/talas_PiratesCookie.map
+f2253e968217dff6  worlds/Contest/ssf_Block Mayhem.map
+4e914a94105fb914  worlds/Contest/theBOMB001_Shipboard_.map
+259a1ca1eda6db5e  worlds/Contest/theBOMB001_Big Dipper_.map
+3dd2eb6e9f0f2f43  worlds/Contest/two52_inverted airship.map
+dd5b50dfcbd2ad9f  worlds/Contest/xutawoo_Bonus I Think.map
+d9eded1d7a172f75  worlds/Contest/two52_lunar pool.map
+dcc1c2c291350540  worlds/Contest/theBOMB001_Melting Artic_.map
+963d0f99a2425ea1  worlds/Contest/xutawoo_McMishima-'s.map
+83cb7977a138ea97  worlds/Contest/xutawoo_Pot Luck Castle.map
+cd6dc16971287cc3  worlds/Contest/ylle_another jungle castle.map
+aa513c6d337f3f48  worlds/Contest/ylle_bawnus.map
+b2e2e935dc50e77e  worlds/Flurry World/Flurlin.map
+774ec395fca0a58f  worlds/Flurry World/Dried Out Fortress.map
+24ad59ac58c62f27  worlds/Flurry World/Flurrand.map
+16d27338e417e783  worlds/Flurry World/Entrance to Flurlin.map
+fbbbc94c0852ecf5  worlds/Flurry World/Flurry Beach.map
+295743c188779cbc  worlds/Flurry World/Cirtty.map
+2687dff141dc5863  worlds/Flurry World/Eye lakes.map
+6272886b615b5759  worlds/Flurry World/Front of Castle.map
+43ee4f694dcefff2  worlds/Flurry World/The Icy Sewers.map
+4bd14170680ed68b  worlds/Flurry World/Storage.map
+7b4cde2c7db1111e  worlds/KingdomHigh/JJames_BumpIt.map
+cb4511dd48df092d  worlds/KingdomHigh/JJames_Conveyer World.map
+1af30de670dca5c3  worlds/Flurry World/Flurry Castle.map
+1fa048631583c05c  worlds/KingdomHigh/JJames_Final Air.map
+9c5f915b264d4995  worlds/KingdomHigh/JJames_Desert Hill.map
+f931d99334185414  worlds/KingdomHigh/JJames_From Heat Wave.map
+e9e25da9249f5b72  worlds/KingdomHigh/JJames_Grey Desert.map
+076c2080eb689147  worlds/KingdomHigh/JJames_Haunted Unnerving.map
+5291f3778b391f05  worlds/KingdomHigh/JJames_Grassy Knot.map
+3fbbf614f8930aed  worlds/KingdomHigh/JJames_Breakable Layers.map
+4f86e23b238dabcb  worlds/KingdomHigh/JJames_Battle Hill.map
+31c474f6b6ec7aea  worlds/KingdomHigh/JJames_Ice Floe.map
+0575776ce5a4d702  worlds/KingdomHigh/JJames_Lava Pot.map
+0cd14415509f4fab  worlds/KingdomHigh/JJames_Mountain of Faith.map
+af878b0b46d643e2  worlds/KingdomHigh/JJames_Note Beach.map
+068c2e86bf6dde45  worlds/KingdomHigh/JJames_Piped In.map
+d9a2af0f4e8a6ed2  worlds/KingdomHigh/JJames_Pipe Forest.map
+1cdc66ea2910db09  worlds/KingdomHigh/JJames_Pyramid Vertex.map
+90ec7bbb0482edb4  worlds/KingdomHigh/JJames_Koopa Grounds.map
+822dca6551b9a3a0  worlds/KingdomHigh/JJames_Evil Mask.map
+d4f49946c9127e9f  worlds/KingdomHigh/JJames_Mushpoie.map
+36f14caf4548e5a3  worlds/KingdomHigh/JJames_Resurgance.map
+e3bed3f562b4fafc  worlds/KingdomHigh/JJames_Ring of Rotodisc.map
+3fcdad8531a5e3d3  worlds/KingdomHigh/JJames_Quicksand Ruins.map
+92c17b2a881830e8  worlds/KingdomHigh/JJames_Spike Fortress.map
+839a50ac2575c1c9  worlds/KingdomHigh/JJames_Sunken Ship.map
+402e96adaa3c4169  worlds/KingdomHigh/JJames_River of Magma.map
+a299c2a91f2d8f3e  worlds/KingdomHigh/JJames_Treasure Chest.map
+df463abbe4b443fe  worlds/KingdomHigh/JJames_Topside.map
+bcb2abbdcf760adc  worlds/KingdomHigh/JJames_Transparent Land.map
+fb28322d0cc5f6fd  worlds/KingdomHigh/JJames_Switch Doors.map
+613a3a59ca104879  worlds/MixedRiver/Big JM_Ancient castle.map
+ffd3e651b3655195  worlds/MixedRiver/Big JM_Corrupted Road.map
+c46c041ca1b0213f  worlds/MixedRiver/Big JM_Castle Cavern.map
+a19ce104fd083b48  worlds/MixedRiver/Big JM_Dark mountain.map
+e56b7349137bef33  worlds/MixedRiver/Big JM_Death Castle.map
+d10c4788c8bdbf96  worlds/KingdomHigh/JJames_Submergence.map
+12ab3785623acced  worlds/MixedRiver/Big JM_Grassy Canyon.map
+4507760e24abefe9  worlds/MixedRiver/Big JM_Golden Fort.map
+1cb6832443809e4d  worlds/MixedRiver/Big JM_Guardian Fortress.map
+061837c10915f4cd  worlds/MixedRiver/Big JM_Icy Plateau.map
+5c953e5e069301e3  worlds/MixedRiver/Big JM_Into the darkness.map
+9789471b09db7dc0  worlds/MixedRiver/Big JM_Ice Spire.map
+79c7acffac574046  worlds/MixedRiver/Big JM_Ice Flow.map
+cb79b6ceeb54a0b0  worlds/MixedRiver/Big JM_Plains of old.map
+30d071fbcbd06f60  worlds/MixedRiver/Big JM_Shiver Spire.map
+6418fad36ada07f1  worlds/MixedRiver/Big JM_Green Pastures.map
+de8ec37c9015154e  worlds/MixedRiver/Big JM_Starry Path.map
+f81fa1b4da407f36  worlds/MixedRiver/Big JM_Tower of light.map
+52f09f64a7bd785d  worlds/MrIsland/MrMister_MrIsland1.map
+43386f3188dd4227  worlds/MrIsland/MrMister_MrIsland2.map
+89612031c24110b6  worlds/MrIsland/MrMister_MrIsland4.map
+3eb01de562ffd987  worlds/MixedRiver/Big JM_The Dark Tower.map
+3c506e23e0ec37fe  worlds/MrIsland/MrMister_MrIsland3.map
+ba032f0f0e7cd1fc  worlds/MrIsland/MrMister_MrIsland6.map
+0aa4c305254dafc5  worlds/MrIsland/MrMister_MrIsland5.map
+cf2d9a2307801c7c  worlds/MrIsland/MrMister_MrIslandFort.map
+2e03aede2c2cd9ee  worlds/MixedRiver/Big JM_Forest fun.map
+f2dd594d6ee858d1  worlds/MrIsland/MrMister_MrIslandGhost.map
+47a248cc0fb283bb  worlds/MrIsland/MrMister_MrIslandCastle.map
+dce9de2426f0761f  worlds/Simple/MrMister_Castle Wall.map
+ddc97c972a3ac79b  worlds/Simple/MrMister_Bowsers Castle.map
+6813770c032c9fc4  worlds/MrIsland/MrMister_MrIslandBattle.map
+1060f75c2a0c1273  worlds/Simple/MrMister_Classicka.map
+d2575f57eab12a24  worlds/Simple/MrMister_Hill.map
+7e39e3b803e10187  worlds/Sky World/Smb3 1-hammer.map
+c6ad5f6fd93cf8a2  worlds/Simple/MrMister_Crevice Canyon.map
+cbdccb3fdd45be40  worlds/Simple/MrMister_Coal Mine.map
+64018a864213870d  worlds/Simple/MrMister_Flooded Ghosts.map
+6813770c032c9fc4  worlds/Simple/MrMister_MrIslandBattle.map
+451901c77b92c73e  worlds/Sky World/smb3 5-2.map
+e43ea2b96d541da4  worlds/Sky World/smb3 5-1.map
+af306230ec914b31  worlds/Sky World/Smb3 5-hammer.map
+5238de38526efadd  worlds/Sky World/smb3 5-7.map
+25eb12bfb60421db  worlds/Sky World/smb3 5-3.map
+9a8e65b7f78ad37a  worlds/Sky World/smb3 5-5.map
+e15727206e11a736  worlds/Sky World/smb3 5-4.map
+80d337edf11b6cd6  worlds/Sky World/smb3 5-9.map
+abccd3211159f694  worlds/Sky World/smb3 5-8.map
+d6f8db485da3b6ab  worlds/Sky World/smb3 5-6.map
+6028645ffcb0ae65  worlds/Sky World/smb3 5-airship.map
+5f50c3696d2fe1a6  worlds/Smb3/Big JM_Grassland 1.map
+282520cb954d5652  worlds/Smb3/Big JM_Grassland 2.map
+28500ff73c73acf9  worlds/Smb3/Big JM_Grassland 3.map
+68701e4ab09468ef  worlds/Sky World/smb3 5-tower.map
+d5a4e36fc78e076e  worlds/Smb3/Big JM_Grassland 5.map
+cc69b418ee804fb1  worlds/Sky World/smb3 5-fortress2.map
+65e25db9afa9630c  worlds/Sky World/smb3 5-fortress1.map
+29b599e8c08cec78  sfx/announcer/None.txt
+8771e36d2ca3e052  worlds/screenshots/Readme.txt
+4e57869059408850  worlds/Smb3/Big JM_Grassland fortress.map
+2e86b3bad8f8a71e  worlds/Smb3/Big JM_Grassland airship.map
+2d8920ebdd7e8f57  worlds/Smb3/Big JM_Grassland 4.map
+94406ec221af9422  gfx/docs/b02.png
+0817115b339aab10  gfx/docs/b01.png
+1abff7c345ecb269  worlds/Smb3/Big JM_Grassland 6.map
+9bb98524686735b5  gfx/docs/b05.png
+a4f41133c0b89885  gfx/docs/b03.png
+2ba80e6778e42d25  gfx/docs/b07.png
+248dcc579f5064f3  gfx/docs/b10.png
+d3036688f5f9ca96  gfx/docs/b09.png
+8b954eda030db6f0  gfx/docs/b11.png
+86624d718e725422  gfx/docs/b04.png
+18cce514f3d7574b  gfx/docs/b08.png
+a73ea7af152b249c  gfx/docs/b12.png
+af283700451191a6  gfx/docs/b06.png
+8831f79317e29c7c  gfx/docs/b14.png
+5a00c82ad0a338b2  gfx/docs/i01.png
+8731c2a74111f22a  gfx/docs/i02.png
+c41f5d775a21d3ae  gfx/docs/i05.png
+a29f7cf7abd95211  gfx/docs/i04.png
+4e96ebd01cd397ed  gfx/docs/b13.png
+1f062cd4d273a688  gfx/docs/b15.png
+839664c1694815d5  gfx/docs/i08.png
+2ed4798c9b6e8dc4  gfx/docs/i06.png
+687350cb8f8472c6  gfx/docs/i10.png
+8b619e1e9616ba89  gfx/docs/i11.png
+a22c71cc554aa5ad  gfx/docs/i03.png
+9f265bc8831a51cc  gfx/docs/i09.png
+8c20c9c17bffae9e  gfx/docs/i17.png
+c60468759b9679e6  gfx/docs/i07.png
+18c169a69ce8c19b  gfx/docs/i15.png
+5a8a6a3fbe5f8dd1  gfx/docs/i21.png
+2153f25eec8acf25  gfx/docs/i12.png
+f8301d8b6afc72ca  gfx/docs/i20.png
+45921dc1e1417e66  gfx/docs/i19.png
+c2c9ab59183b7965  gfx/docs/i16.png
+bd4bbe0084fc99a6  gfx/docs/i18.png
+88daf6a22288953c  gfx/docs/i25.png
+816e04efbbb0e417  gfx/docs/i13.png
+b8b7ca66108489eb  gfx/docs/i14.png
+841d3e0895a2a61e  gfx/docs/i22.png
+54eb92efe0a0ed4c  gfx/docs/i24.png
+23d340144a4d26d9  gfx/docs/i23.png
+fb4256803b25d837  gfx/docs/i26.png
+9684d3b538139ec1  gfx/docs/i29.png
+155dd1f4a96f2f6f  gfx/docs/i33.png
+a7fda632e28cc379  gfx/docs/i32.png
+1e1d40d7682b5452  gfx/docs/i27.png
+79ab6059c0ab490d  gfx/docs/i28.png
+09e14d5fc31c8f3e  gfx/docs/i30.png
+6e7edb66d68b40d0  gfx/docs/i31.png
+58758d67a9779aca  gfx/docs/i36.png
+0168296ba874339f  gfx/docs/i37.png
+e8e0c42c8c994f97  gfx/docs/i38.png
+100539cfa90e12be  gfx/docs/i34.png
+d2108e803569e83b  gfx/docs/i40.png
+81d127a3fd7013ee  gfx/docs/i41.png
+491292b6ec97722d  gfx/docs/i35.png
+fdbda76c61e3ae3d  gfx/docs/i42.png
+082b7d9235aa9f46  gfx/docs/i45.png
+c89cf9b995f1898b  gfx/docs/i44.png
+c6fbe1e8e6041aee  gfx/docs/i43.png
+104d643ec59f549f  gfx/docs/i39.png
+ab792c431180d4a4  gfx/docs/i46.png
+78fe94bba0b42693  gfx/docs/i47.png
+ac3e60305fa244d3  gfx/docs/i48.png
+759cc4a65b15d8ba  gfx/docs/i50.png
+5cab2b34fa3e0390  gfx/docs/i49.png
+9f265bc8831a51cc  gfx/docs/m03.png
+bd87504fd3643822  gfx/docs/m07.png
+79b6206b9a2c03cb  gfx/docs/m04.png
+27f04f4c02b7f656  gfx/docs/m02.png
+b121cc22dcbcd478  gfx/docs/i51.png
+aeedf441cd8c8266  gfx/docs/m01.png
+6ac46607a369f435  gfx/docs/m05.png
+f114d5d23c3eb7a8  gfx/docs/m11.png
+d3673adf18da6962  gfx/docs/m06.png
+3eac1bf6c0529abf  gfx/docs/m10.png
+f24d092c814f9e3b  gfx/docs/m12.png
+c3e199f4e2a1160a  gfx/docs/m13.png
+37beb73bbfe6cc25  gfx/docs/m08.png
+30563ec709bb8505  gfx/docs/m09.png
+b6a2f515a7c68eda  gfx/docs/m14.png
+79ab6059c0ab490d  gfx/docs/m19.png
+e6a6d3e538d5ce24  gfx/docs/m16.png
+c41f5d775a21d3ae  gfx/docs/m15.png
+0f55acbd3f8ea541  gfx/docs/m17.png
+51d45b39743d8a1c  gfx/docs/m21.png
+2f12ba564d624e61  gfx/docs/m18.png
+a99ece05a0948e19  gfx/docs/splash.png
+df99574a2bb19ef7  gfx/docs/ss01.png
+c967ec8f4e4c9729  gfx/docs/m20.png
+50dc01457266ab7f  gfx/docs/ss02.png
+1cabef73520f7010  gfx/docs/ss08.png
+67bf7de642e91471  gfx/docs/ss04.png
+65038596a7ade955  gfx/docs/ss09.png
+e8959752f2cc2803  gfx/docs/ss06.png
+b73a2a1bb44261b7  gfx/docs/ss07.png
+d2f16eb2a20d9262  gfx/docs/ss10.png
+163cc787eb4ebf04  gfx/docs/ss11.png
+d5512e135ccc1bc5  gfx/docs/ss12.png
+0bb765f813b3231d  gfx/docs/ss03.png
+fd77731e738f1525  gfx/docs/ss05.png
+05de1ac67eb97eb9  gfx/leveleditor/leveleditor_background_levels.png
+7548124435562d83  gfx/docs/ttypes.png
+05a4a4f7e8bf0317  gfx/docs/ss13.png
+310d6c2d0c1d094f  gfx/leveleditor/leveleditor_eyecandy.png
+d8598e7eafaa84d2  gfx/leveleditor/leveleditor_hidden_marker.png
+cd5b7f4c9a936e0b  gfx/leveleditor/leveleditor_dialog.png
+5d5cd4169c860d13  gfx/leveleditor/leveleditor_mapitems.png
+0722510123e8248a  gfx/leveleditor/leveleditor_maphazard_buttons.png
+9fd3f5c9bfd030c8  gfx/leveleditor/leveleditor_mapnotfound.png
+5fe5c6f30d30ae2c  gfx/leveleditor/leveleditor_noitemspawntile.png
+ffabfe75b6a12b83  gfx/leveleditor/leveleditor_nospawntile.png
+01e904b75ac028fd  gfx/leveleditor/leveleditor_pathtype_buttons.png
+4dbfa562a05d877b  gfx/leveleditor/leveleditor_mapitems_preview.png
+4f93d7c57da5ac13  gfx/leveleditor/leveleditor_powerup_selector.png
+a56b1ef042be0afc  gfx/leveleditor/leveleditor_shade.png
+0ef5325decfbaf8c  gfx/leveleditor/leveleditor_selectedtile.png
+adc650e408bb0356  gfx/leveleditor/leveleditor_mapitems_thumbnail.png
+88ac6f85fcd41fe0  gfx/leveleditor/leveleditor_tile_types.png
+51f53e48ce69a98c  gfx/leveleditor/leveleditor_tileset_levels.png
+bf4f05f40c9ed1b4  gfx/leveleditor/leveleditor_warp_thumbnail.png
+8fe1e0dc36383dfd  gfx/leveleditor/leveleditor_platform_path.png
+958c3d238f4b7e38  gfx/leveleditor/leveleditor_world_path.png
+20acc1c25535c2ee  gfx/leveleditor/leveleditor_warp.png
+06593e53e2f20f6c  gfx/leveleditor/menu_plain_field.png
+369ddb51337b6426  gfx/leveleditor/leveleditor_warp_preview.png
+e5b2862cdba7180c  gfx/leveleditor/leveleditor_platformstarttile.png
+06593e53e2f20f6c  gfx/leveleditor/menu_selectfield.png
+09d0f94387340a0c  gfx/leveleditor/leveleditor_transparent_tiles.png
+1efb93e3c213419c  maps/screenshots/Readme.txt
+66f4dec0322fc9c8  gfx/leveleditor/leveleditor_platform.png
+5e69ad5b0939d5e5  maps/cache/Mapummary.txt
+3f6fe0f096582736  maps/special/two52_special_bombboss_minigame.map
+37e2bd0cf3b78d8f  gfx/leveleditor/vehicle_icons.png
+49d8c0dcb5e54ac7  maps/special/two52_special_bonushouse.map
+605bfe8436a740be  maps/special/two52_special_boxes_minigame.map
+5e7a7932b3553582  maps/special/two52_special_pipe_minigame.map
+5f3be22a3b93385d  media/images/smw.png
+68b18c5a1edd6038  gfx/skins/0smw.bmp
+7eabe2d82deda684  maps/special/two52_special_hammerboss_minigame.map
+ee521778323e5629  gfx/skins/4matsy_BubbleBobble.bmp
+cb1b26cf4997b576  gfx/skins/4matsy_DigDug.bmp
+b664668186c34adc  gfx/skins/4matsy_Dinotorch.bmp
+08310376fa5e724a  gfx/skins/4matsy_Darknut.bmp
+19ca99a97b29e9cb  gfx/skins/4matsy_Fygar.bmp
+b24f763df7bd9f69  gfx/skins/4matsy_Ducker.bmp
+5725c06ddd73f227  maps/special/two52_special_fireboss_minigame.map
+d9596ce1e0f1ac70  gfx/skins/4matsy_Goriya.bmp
+bdca27aa529c2a3f  gfx/skins/4matsy_Mappy.bmp
+9cbd5d63d6800ff5  gfx/skins/4matsy_Moblin.bmp
+19882309f87286cf  gfx/skins/4matsy_Muncher.bmp
+872eaea88b1bda2f  gfx/skins/4matsy_Pacman.bmp
+12040923f7acf250  gfx/skins/4matsy_Pooka.bmp
+99a7755c323d6a99  gfx/skins/BubBob.bmp
+2c7fb3526589d005  gfx/skins/Bahamut.bmp
+14b7321efbd948a9  gfx/skins/4matsy_Vire.bmp
+597f1ca06ab9c2ca  gfx/skins/4matsy_Stalfos.bmp
+bb86e4c57c8e7374  gfx/skins/Classic.bmp
+c4c912748421ad74  gfx/skins/BusterBeetle.bmp
+6e6de3f304640f07  gfx/skins/BlackMage.bmp
+ab570ed4408819e2  gfx/skins/FTG_Monkey.png
+5e502f81602871c5  gfx/skins/FTG_Yoshi.png
+0ac8f0cb10a22c65  gfx/skins/Ghost.bmp
+9493000270588930  gfx/skins/Kooper.bmp
+02d04227b4cbacda  gfx/skins/FTG_Octorok.png
+01098dca1dcd5236  gfx/skins/Link.bmp
+091f29e56408a30b  gfx/skins/Luigi.bmp
+c6824575e481e80e  gfx/skins/Kirby.bmp
+7cd80663abfc33a7  gfx/skins/Marioman64_WaddleDoo.bmp
+7b8d4cd1c09bcd4b  gfx/skins/MontyMole.bmp
+c2331a3149ed8e83  gfx/skins/NMcCoy_nipper.bmp
+0be1aa575c28ebd4  gfx/skins/PacMan.bmp
+84e9dd6c722c1b26  gfx/skins/Ninji.bmp
+143dc00565abbbcf  gfx/skins/Chocobo.bmp
+9414cab315c2245a  gfx/skins/Sgraff_AntiGuy.bmp
+066c6b579d9c4d8b  gfx/skins/Pyoro.bmp
+5b49aadad552df84  gfx/skins/Shyguy.bmp
+4977c8836e20037d  gfx/skins/Snifit.bmp
+f40077a56e197102  gfx/skins/Sonic.bmp
+398bac68b26a9be6  gfx/skins/NinjaKid.bmp
+0adfa1396acb5079  gfx/skins/SuperWario_Bowser.bmp
+39cdd6f34d611f6e  gfx/skins/SuperWario_Blooper.bmp
+ae6795fe49237f75  gfx/skins/Peardian_Zero.bmp
+d6a9d64a9be25526  gfx/skins/Pig.bmp
+908c1e0c170d3731  gfx/skins/Flurry.bmp
+3fa94038ddbbc183  gfx/skins/SuperWario_DK.bmp
+3d058fc0c531a2bb  gfx/skins/SuperWario_Koopa.bmp
+31db29c9ceff8e51  gfx/skins/Spike.bmp
+ce34f256cf58f874  gfx/skins/YoshiMan_Sandbag.bmp
+83918c0bf1ef21ec  gfx/skins/YoshiMan_Tanooki.bmp
+e277f4953e7114b3  gfx/skins/XdragonSB_Samus.bmp
+4bb69feaebf002b7  gfx/skins/ftg_RedMage.bmp
+00687cfe2ad80b96  gfx/skins/ftg_Train.bmp
+86e7d892ee915bd6  gfx/skins/hazey_Bomberman.bmp
+1d0f8dbcd0eb9856  gfx/skins/hazey_Carbuncle.bmp
+827d0a35f36c1b05  gfx/skins/hazey_ChuChuRocket.bmp
+c7cce425055c6146  gfx/skins/Tweeter.bmp
+14dd7897f81b3dea  gfx/skins/Xijar_Cecil.bmp
+6e89a383e0cac3c1  gfx/skins/Xijar_Beetle.bmp
+bc73e790d1b7a1e6  gfx/skins/hazey_HelloKitty.bmp
+a1415e31f7e47268  gfx/skins/WhiteMage.bmp
+89423e3f5908b480  gfx/skins/Wizrobe.bmp
+9ecf85778b6ca1f7  gfx/skins/hazey_Lolo.bmp
+b09ba9d178f83d0f  gfx/skins/hazey_JumpnBump.bmp
+e8eeea1daf57371e  gfx/skins/hazey_RainbowIslands.bmp
+c5b26a32293e495b  gfx/skins/hazey_Trainer.bmp
+f1d408bd35a5cfc5  gfx/skins/link901_Knuckles.bmp
+59f451a92287bb7a  gfx/skins/link901_Tails.bmp
+54a8ed826ee99f0f  gfx/skins/peardian_BabyYoshi.bmp
+71a05c1c760d2b01  gfx/skins/hazey_Megaman.bmp
+74a6c48f1731e924  gfx/skins/peardian_Fawful.bmp
+ba13c63f1498837a  gfx/skins/peardian_GrimLeecher.bmp
+7918f967d4b35de8  gfx/skins/hazey_Pikachu.bmp
+aecbcf2b7ac9172b  gfx/skins/peardian_Gardevoir.bmp
+e25e5086d294d9d3  gfx/skins/sgraff_Boo.bmp
+fbd692495871ac86  gfx/skins/sgraff_Bow.bmp
+243905dfea6862c9  gfx/skins/peardian_PsychoKamek.bmp
+183d2f26ee6a9f6e  gfx/skins/sgraff_Cobrat.bmp
+3befce4d93c82c9a  gfx/skins/peardian_Shroob.bmp
+0783fa956f0d93f4  gfx/skins/sgraff_DinoRex.bmp
+a343c1154876751b  gfx/skins/sgraff_Goomboo.bmp
+f8eb85c66012f6ad  gfx/skins/peardian_Blaziken.bmp
+5e860dfd2742b594  gfx/skins/sgraff_Daisy.bmp
+509d164df72edeb6  gfx/skins/sgraff_HammerMario.bmp
+c2d6b20afab30666  gfx/skins/sgraff_Lakitu.bmp
+5d99c7733a02eb44  gfx/skins/sgraff_Mario.bmp
+b38530e06fda6876  gfx/skins/sgraff_Shaggy.bmp
+766082dbc36401a3  gfx/skins/sgraff_Peach.bmp
+c7835d5e45884329  gfx/skins/sgraff_Luigi.bmp
+951b51f988e783bb  gfx/skins/sgraff_Oldman.bmp
+881606aaf2d553ff  gfx/skins/sgraff_Toad.bmp
+1b8517af98dcdf76  gfx/skins/sgraff_WarioWare.bmp
+c1f37a75fbc7c2a9  gfx/skins/wasabi_Fighterfly.bmp
+bf8a4c2238a570e2  gfx/skins/wasabi_IceHockeyGoalie.bmp
+578d6efa0a14fe1b  gfx/skins/wasabi_IceHockeyFat.bmp
+a0e6e412da25aaa8  gfx/skins/wasabi_IceHockeySkinny.bmp
+0e8ad74c4602ad9d  gfx/skins/wasabi_Goomba.bmp
+d85ca12c28aaa550  gfx/skins/wasabi_IceHockeyMedium.bmp
+1ce2d1d4797ec967  gfx/skins/wasabi_Wario.bmp
+daac98a10a34e08a  gfx/skins/sgraff_HammerBrother.bmp
+5fdb38b27ff495aa  gfx/skins/ym7_Pikachu.bmp
+82c117094ac9d19f  gfx/skins/wasabi_excitebike.bmp
+f158f905e9a78284  gfx/skins/ym7_Grovyle.bmp
+ba5d50872e7fbd0a  gfx/skins/wasabi_pit.bmp
+f6f15256ddd9921b  gfx/skins/ym7_R.O.B.bmp
+ca826e086defe5e2  gfx/skins/wasabi_SlipIce.bmp
+f7cfc447c68db721  gfx/skins/wasabi_crab.bmp
+c314bb2443739515  gfx/skins/ym7_Tingle.bmp
+3b81537e062b39e7  gfx/skins/ym7_Yoshi.bmp
+54868a63299bc9ce  gfx/skins/ym7_Wario.bmp
+6db927b75266e4f5  music/world/Standard/bonus.ogg
+4e8c3d7341b99eed  maps/tour/Readme.txt
+77985feb1293d098  music/world/Standard/Music.txt
+f892b1a7acff1f35  music/world/Standard/giant.ogg
+de1cabf98d71ea5f  music/world/Standard/desert.ogg
+d33afa7f99f88ff7  media/marquee/smw.png
+985e273ff108339c  media/marquee/Thumbs.db
+30aea8f4dd47ceb0  music/world/Standard/ice.ogg
+bcb6cc273f96d2e6  music/world/Standard/grassland.ogg
+1a3e5236780fbbd8  music/world/Standard/sky.ogg
+aa2ad37c89a2a44b  music/world/Standard/sleep.ogg
+77b1e57a3f439247  music/world/Standard/space.ogg
+42cd89e885b6bb66  music/world/Standard/pipe.ogg
+252cda9171c5adcf  music/world/Standard/bowser.ogg
+db3f6013ffc98695  music/world/Standard/bonushouse.ogg
+903e2c03553d21df  music/world/Standard/water.ogg
+491da824bec174b6  music/game/Standard/M3_Boss.ogg
+f5792b2665dfdd5f  music/game/Standard/M3_Underwater.ogg
+77afc6df34288789  music/game/Standard/Music.txt
+80a08d92c134a2ec  music/game/Standard/M1_Underground.ogg
+d5f650b7e8948335  music/game/Standard/M2_Level1.ogg
+171b95d8c40f148c  sfx/packs/Classic/area_tag.wav
+20704b5309ca95a3  sfx/packs/Classic/1up.wav
+08877966310fdb5e  music/game/Standard/smb3level1.ogg
+1d28d4d8bf207b02  sfx/announcer/Mario/lets_go.wav
+029278b9efe361d7  sfx/announcer/Mario/enter-stage.wav
+afaeeb49832733e6  sfx/packs/Classic/bulletbill.wav
+d356c82a8dcc44b5  sfx/packs/Classic/bob-omb.wav
+8d2197ff3ee35811  sfx/packs/Classic/breakblock.wav
+7b7f3e283996a05e  sfx/packs/Classic/boomerang.wav
+07ea624057b5d8c4  sfx/packs/Classic/clock.wav
+eaa45da69add9ac1  sfx/packs/Classic/cannon.wav
+730edb56e60970ef  sfx/packs/Classic/bump.wav
+b476877564b35115  sfx/packs/Classic/burnup.wav
+8b4a2004e347f0a6  sfx/packs/Classic/capejump.wav
+7250e3d26d76b622  sfx/packs/Classic/chicken.wav
+6aad09948367992f  sfx/packs/Classic/dcoin.wav
+911c41e9493020bc  sfx/packs/Classic/enter-stage.wav
+175f0d9109fe6f23  sfx/packs/Classic/feather.wav
+e2b4e2d03c0c4c83  sfx/packs/Classic/collectpowerup.wav
+17c61787e160af61  sfx/packs/Classic/coin.wav
+de1549727d0b7cad  sfx/packs/Classic/flamecannon.wav
+f5b6b27a56674b06  sfx/packs/Classic/impact.wav
+d7032808976cbbfd  sfx/packs/Classic/inventory.wav
+d46dd3aa5cde9209  sfx/packs/Classic/invincible.wav
+a887e68faedd848d  sfx/packs/Classic/death.wav
+da0b194a3d27a0de  sfx/packs/Classic/kick.wav
+7fc8795dc4757151  sfx/packs/Classic/gameover.wav
+0f2ca6a7566f0f9d  sfx/packs/Classic/jump.wav
+e585f7fcd69a55d1  sfx/packs/Classic/mapmove.wav
+e92a3a3bd284d164  sfx/packs/Classic/hit.wav
+70405fc56f8115a5  sfx/packs/Classic/mip.wav
+0c24484d4c13d00f  sfx/packs/Classic/pickup.wav
+5dab971ec4bc840a  sfx/packs/Classic/pause.wav
+4c635457a91e9308  sfx/packs/Classic/powerdown.wav
+d8ff2165c2b397f1  sfx/packs/Classic/skid.wav
+bf440d870b0a3811  sfx/packs/Classic/race.wav
+90f3c5c2a722c475  sfx/packs/Classic/fireball.wav
+82d879869444745c  sfx/packs/Classic/sprout.wav
+44ffe3ab7c22b347  sfx/packs/Classic/starwarning.wav
+de053d0474a75550  sfx/packs/Classic/storedpowerup.wav
+d1190d3218b2e364  sfx/packs/Classic/spit.wav
+1be3e15ddcee52f7  sfx/packs/Classic/springjump.wav
+bd1418d671fa904a  sfx/packs/Classic/switchpress.wav
+67834c9eceb640db  sfx/packs/Classic/storeitem.wav
+f60e772b933e04b7  sfx/packs/Classic/stun.wav
+4b9182ec424576b0  sfx/packs/Classic/superspring.wav
+dbb11f922a7a4bce  sfx/packs/Classic/throw.wav
+cf11ba1254361ba6  sfx/packs/Classic/thunder.wav
+a0e1061bae6e335d  sfx/packs/Classic/tail.wav
+ff1b124078c6a506  sfx/packs/Classic/slowdown.wav
+f13144cf545d0c8d  sfx/packs/Classic/transform.wav
+c02f8e9b83831934  sfx/packs/Classic/wand.wav
+f27830be82eaf92e  sfx/packs/Classic/yoshi.wav
+a6d43f1926ad39a5  sfx/packs/Classic/treasurechest.wav
+a3e9f12bb421058b  media/screenshots/smw.png
+5f3be22a3b93385d  media/mix/smw.png
+0086438c0c788485  media/thumbnails/Thumbs.db
+1c8acd045f1db73c  gfx/packs/Classic/palette.bmp
+dc3d4bed33ad2a90  sfx/packs/Classic/warp.wav
+240675a5d0ddcfb9  sfx/packs/Classic/timewarning.wav
+195df0b88f8dbf87  gfx/packs/Classic/fonts/font_large.png
+840cfbfee1e57379  music/game/Standard/Special/stageclear.ogg
+56e0e1c453fe339e  media/thumbnails/smw.png
+ca7f32e7c1510dd3  music/game/Standard/Menu/tournamentmenu.ogg
+b1b9211c7f2d714e  music/game/Standard/Special/tournamentover.ogg
+acc5157231efa550  gfx/packs/Classic/awards/killsinrow.png
+346ceb37e4631809  gfx/packs/Classic/fonts/race.png
+54f1fc6c6e480c3f  gfx/packs/Classic/fonts/font_small.png
+b602f1f313121ad8  gfx/packs/Classic/awards/award.png
+72fbbf50c12ba192  gfx/packs/Classic/blocks/bounceblock.png
+57747ee9a049b679  music/game/Standard/Menu/menu.ogg
+60e3dc6711cb9c67  gfx/packs/Classic/fonts/score.png
+02e9190e8b2bb6ad  gfx/packs/Classic/blocks/breakableblock.png
+ce5eb15b50098b07  gfx/packs/Classic/awards/soulspawn.png
+35072af8ac441c4d  gfx/packs/Classic/blocks/flipblock.png
+05ce78f2e9a8507d  gfx/packs/Classic/awards/souls.png
+de5d78d23274fb59  gfx/packs/Classic/awards/killsinrownumbers.png
+ac9730edac032e1f  gfx/packs/Classic/blocks/donutblock.png
+d7d033ca53b21448  gfx/packs/Classic/blocks/powerupblock.png
+14c6327ce4faf17b  gfx/packs/Classic/blocks/throwblock.png
+657c3cb7bdce8dd7  gfx/packs/Classic/blocks/viewblock.png
+a5b8250800277560  media/videos/smw.mp4
+de95dc6c1a1dd42c  gfx/packs/Classic/blocks/switchblock.png
+fc43d73798004629  gfx/packs/Classic/blocks/noteblock.png
+23b3ef30697bbf91  gfx/packs/Classic/eyecandy/abovearrows.png
+c641b1a860448fb0  gfx/packs/Classic/eyecandy/bonus.png
+a18efdd7a566d10b  gfx/packs/Classic/eyecandy/bobombsmoke.png
+55f3e7edf8be0df2  gfx/packs/Classic/eyecandy/brokenblueblock.png
+4bf437d618bfb0a3  gfx/packs/Classic/eyecandy/brokenflipblock.png
+5a874d69ac8408bb  gfx/packs/Classic/eyecandy/brokenyellowblock.png
+49da6b739e1e7716  gfx/packs/Classic/eyecandy/Thumbs.db
+7c511d8d592f32b4  gfx/packs/Classic/blocks/weaponbreakableblock.png
+9708f46fbb4e95b7  gfx/packs/Classic/eyecandy/brokengrayblock.png
+e9abccd13fe6a11f  gfx/packs/Classic/eyecandy/cheepcheepdead.png
+2fdc3553029cd5b2  gfx/packs/Classic/eyecandy/burnup.png
+2b488c4fc0658041  gfx/packs/Classic/eyecandy/coinsparks.png
+9ae0def098829428  gfx/packs/Classic/eyecandy/bulletbilldead.png
+6f37f3ea0feb8525  gfx/packs/Classic/eyecandy/cape.png
+0f95bf253c3fcf67  gfx/packs/Classic/eyecandy/cloud.png
+95f882ad32ccda86  gfx/packs/Classic/eyecandy/explosion.png
+7b3e70cebdc2f27d  gfx/packs/Classic/eyecandy/crown.png
+48790e44b4d2c368  gfx/packs/Classic/eyecandy/extralife.png
+aec97ad290f24f5d  gfx/packs/Classic/eyecandy/fireballexplosion.png
+71b8c2c871d30add  gfx/packs/Classic/eyecandy/fireworks.png
+dd5982c1de162904  gfx/packs/Classic/eyecandy/ghost.png
+2a00ac45bed786e4  gfx/packs/Classic/eyecandy/fish.png
+bad89b805063d8b1  gfx/packs/Classic/eyecandy/frictionsmoke.png
+d30ad7c41c7f7ed1  gfx/packs/Classic/eyecandy/iceblock.png
+002ccd5a26031d2e  gfx/packs/Classic/eyecandy/goombadead.png
+4a25196d15423d50  gfx/packs/Classic/eyecandy/icecube.png
+a91a152b66cf2e08  gfx/packs/Classic/eyecandy/poof.png
+86f7d0b60c165298  gfx/packs/Classic/eyecandy/overlayholes.png
+c4e5fb0efe327796  gfx/packs/Classic/eyecandy/leaves.png
+a07cd8e82e84cf19  gfx/packs/Classic/eyecandy/rain.png
+6d7118078c93f9c2  gfx/packs/Classic/eyecandy/goombadeadflying.png
+82ca295b47a96cde  gfx/packs/Classic/eyecandy/shade2.png
+8b8c684574632081  gfx/packs/Classic/eyecandy/shelldead.png
+37f6d60139728f65  gfx/packs/Classic/eyecandy/sledgebrothersdead.png
+61c3c72cefe95b15  gfx/packs/Classic/eyecandy/shade3.png
+52e04364e9346aa6  gfx/packs/Classic/eyecandy/snow.png
+024fbc78d1897aeb  gfx/packs/Classic/eyecandy/shade1.png
+0705877520a58738  gfx/packs/Classic/eyecandy/spawndoor.png
+6e9bd6dc8d665939  gfx/packs/Classic/eyecandy/shellbounce.png
+3003d2a09bcbdb37  gfx/packs/Classic/eyecandy/shinesparks.png
+e840f6d56d5f334c  gfx/packs/Classic/eyecandy/supersmash.png
+6ac60a18201a55f9  gfx/packs/Classic/eyecandy/teleportstar.png
+005da738afb4d3d7  gfx/packs/Classic/eyecandy/tail.png
+de83d2b450553cca  gfx/packs/Classic/eyecandy/spawnsmoke.png
+6415b8053a1fae3a  gfx/packs/Classic/eyecandy/warplock.png
+2340c0e2609a1c1d  gfx/packs/Classic/eyecandy/wings.png
+3487156d3ca416ba  gfx/packs/Classic/eyecandy/timershade.png
+f8619bf766f876ec  gfx/packs/Classic/eyecandy/wind_meter.png
+d5f1e8e7a7ecec21  gfx/packs/Classic/backgrounds/Battle_Audience.png
+6af9e7f3b4ef2431  gfx/packs/Classic/backgrounds/Battle_CityScape.png
+ca5a608baeba5deb  gfx/packs/Classic/backgrounds/Battle_Doomship.png
+ac5bb24ab52c5b52  gfx/packs/Classic/backgrounds/Battle_Black.png
+332753be1aa3dd9f  gfx/packs/Classic/backgrounds/Battle_DeepDownInACastle.png
+66c60d00b4fa4ad9  gfx/packs/Classic/backgrounds/Battle_DoomshipClouds.png
+b13809f4dd91327b  gfx/packs/Classic/backgrounds/Battle_FactoryInside2.png
+074bb65de82bcf0c  gfx/packs/Classic/backgrounds/Battle_DoomshipClouds2.png
+3c864515d41ef770  gfx/packs/Classic/backgrounds/Battle_FactoryInside.png
+a77e4378cf825ac9  gfx/packs/Classic/backgrounds/Battle_GoombaPillars.png
+c241f84a3ff83d20  gfx/packs/Classic/backgrounds/Battle_GoombaPillars3.png
+d8b9c3a13a69be57  gfx/packs/Classic/backgrounds/Battle_GoombaPillars2.png
+004989d872cc5166  gfx/packs/Classic/backgrounds/Battle_InTheFactory.png
+8079a695c7e5cbe9  gfx/packs/Classic/backgrounds/Battle_FactoryInside3.png
+e1bac0b7321be62a  gfx/packs/Classic/backgrounds/Battle_InTheFactory2.png
+0ecd40b67276e4c1  gfx/packs/Classic/backgrounds/Battle_InTheBrickHouse.png
+e8ce6187bf065bd1  gfx/packs/Classic/backgrounds/Battle_InTheFactory4.png
+c418aba501cde2a5  gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky2.png
+fd7527ae52ee795d  gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky3.png
+d36d4d9a3c3b9dc4  gfx/packs/Classic/backgrounds/Battle_InsideTheCityInTheSky.png
+1367543282c6e737  gfx/packs/Classic/backgrounds/Battle_InsideTheGiantTree.png
+f3a091df7947bccd  gfx/packs/Classic/backgrounds/Battle_InTheFactory3.png
+2208eafce911c4e6  gfx/packs/Classic/backgrounds/Battle_MiscBattle.png
+f99213bb1844f5ed  gfx/packs/Classic/backgrounds/Battle_MiscBattle2.png
+e70bf1a8eb379eeb  gfx/packs/Classic/backgrounds/Battle_MBPipes.png
+67d0fc9ac083556b  gfx/packs/Classic/backgrounds/Battle_MiscBattle4.png
+07a4ebad0b72cfa4  gfx/packs/Classic/backgrounds/Battle_Manor.png
+85faf25aad6d0a5b  gfx/packs/Classic/backgrounds/Battle_MonumentInTheBackground.png
+892313d40c3442e1  gfx/packs/Classic/backgrounds/Battle_Ring.png
+9846ea0928edcb9c  gfx/packs/Classic/backgrounds/Battle_Warehouse2.png
+4c4fb5f45e7e1f7f  gfx/packs/Classic/backgrounds/Bonus_Bonus.png
+affacc2cbff28ee1  gfx/packs/Classic/backgrounds/Bonus_BonusGame.png
+d6a43dad77b27f35  gfx/packs/Classic/backgrounds/Battle_Warehouse.png
+8d2a2f21eb2f5425  gfx/packs/Classic/backgrounds/Battle_TreeTrunk.png
+207de9df8eeaf05d  gfx/packs/Classic/backgrounds/Bonus_BonusRoom.png
+91982744d2a5d9d0  gfx/packs/Classic/backgrounds/Battle_MiscBattle3.png
+42e17bb6bd2781f0  gfx/packs/Classic/backgrounds/Bonus_BonusRoom2.png
+a6b0a313f9e51c40  gfx/packs/Classic/backgrounds/Bonus_BlueDots.png
+377580c5fbfeaf36  gfx/packs/Classic/backgrounds/Bonus_CoinHall.png
+2de22a556ce7cb5b  gfx/packs/Classic/backgrounds/Bonus_BrownWall.png
+0617ad404f87d0e1  gfx/packs/Classic/backgrounds/Bonus_DKHammer.png
+00e0cac71895e4d5  gfx/packs/Classic/backgrounds/Bonus_Fire.png
+8f21ad6eee7af85c  gfx/packs/Classic/backgrounds/Bonus_GreenStar.png
+73214f0bda683e3a  gfx/packs/Classic/backgrounds/Bonus_HillsAtNight2.png
+c0da4806e04c3964  gfx/packs/Classic/backgrounds/Bonus_HillsAtNight.png
+3966900a0629a312  gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse2.png
+44a0f1f3d4b6dade  gfx/packs/Classic/backgrounds/Bonus_Library.png
+77d65dd2a91e8edb  gfx/packs/Classic/backgrounds/Bonus_Intro.png
+fe9210bd52dd7bd7  gfx/packs/Classic/backgrounds/Bonus_Lightening.png
+d6057a710e7dce2e  gfx/packs/Classic/backgrounds/Bonus_InTheTreasureHouse.png
+9923b214ef2824e2  gfx/packs/Classic/backgrounds/Bonus_Mushroom.png
+d0afcc2e4ec84a95  gfx/packs/Classic/backgrounds/Bonus_Mystery.png
+14d9ee8fe42f6b6a  gfx/packs/Classic/backgrounds/Bonus_NightSky.png
+b1dc1143d2c92912  gfx/packs/Classic/backgrounds/Bonus_Moonlight.png
+a2fbb7b686c8c8cd  gfx/packs/Classic/backgrounds/Bonus_Picross.png
+18dee55d0499f6d9  gfx/packs/Classic/backgrounds/Bonus_NightSky2.png
+60a479d6e7ee5099  gfx/packs/Classic/backgrounds/Bonus_StarryNight.png
+6f1a549e4915b6d9  gfx/packs/Classic/backgrounds/Bonus_PipeMinigame.png
+4d991f70ae20493f  gfx/packs/Classic/backgrounds/Bonus_PowerupP.png
+5822bf06f4080aba  gfx/packs/Classic/backgrounds/Bonus_Safari.png
+7b1ed9c0b3f7502c  gfx/packs/Classic/backgrounds/Castle_BowserCastle2.png
+aa2e678c40b88548  gfx/packs/Classic/backgrounds/Castle_BowserCastle3.png
+c229f907aeb17880  gfx/packs/Classic/backgrounds/Castle_Castle.png
+5ad08f625c10dbd5  gfx/packs/Classic/backgrounds/Castle_BowserCastle.png
+07e66ff2d3f487e3  gfx/packs/Classic/backgrounds/Bonus_PeachCastle.png
+a9bdb7de679c3e6b  gfx/packs/Classic/backgrounds/Castle_CastleHall2.png
+ac71a44deff273df  gfx/packs/Classic/backgrounds/Castle_CastleColumns.png
+469a3767eddcf0be  gfx/packs/Classic/backgrounds/Bonus_Space.png
+22de0a30865fb4bf  gfx/packs/Classic/backgrounds/Castle_CastleHall.png
+944082738d9575e5  gfx/packs/Classic/backgrounds/Bonus_StarryNight2.png
+764a7a1ebf70f013  gfx/packs/Classic/backgrounds/Castle_CastleHall3.png
+aa2384790a15f1a4  gfx/packs/Classic/backgrounds/Castle_DistantClimb.png
+8634f0564db6d858  gfx/packs/Classic/backgrounds/Castle_DarkRoom.png
+396a4d98bceec150  gfx/packs/Classic/backgrounds/Bonus_PowerupB.png
+abac26ff0d6c8e2a  gfx/packs/Classic/backgrounds/Castle_CastleHall5.png
+ad76a22e6cd0a992  gfx/packs/Classic/backgrounds/Castle_Dungeon.png
+14b70053450f4ff5  gfx/packs/Classic/backgrounds/Castle_CastleHall4.png
+be98abad74c3e621  gfx/packs/Classic/backgrounds/Castle_Fortress.png
+2ff315639a38455a  gfx/packs/Classic/backgrounds/Castle_MainHall.png
+65fbfe4924007855  gfx/packs/Classic/backgrounds/Castle_LavaGlow.png
+d82787a4348ebed9  gfx/packs/Classic/backgrounds/Castle_Fortress2.png
+eb8033c94749371b  gfx/packs/Classic/backgrounds/Castle_GoombaHall.png
+4ffc4ef915b35446  gfx/packs/Classic/backgrounds/Castle_TwoWindows.png
+23c71d7a12abe312  gfx/packs/Classic/backgrounds/Castle_GoldBowser.png
+c229f907aeb17880  gfx/packs/Classic/backgrounds/Castle_Walls3.png
+de1e558ae010c671  gfx/packs/Classic/backgrounds/Clouds_BeanStocks.png
+f0c078d2c968d9fc  gfx/packs/Classic/backgrounds/Clouds_AboveTheClouds.png
+cddb19295836f426  gfx/packs/Classic/backgrounds/Clouds_AdvanceClouds.png
+e58bc47789bb7c13  gfx/packs/Classic/backgrounds/Castle_Oversee.png
+7b1ed9c0b3f7502c  gfx/packs/Classic/backgrounds/Castle_Walls2.png
+aa2e678c40b88548  gfx/packs/Classic/backgrounds/Castle_Walls.png
+77d399b5f1b4b144  gfx/packs/Classic/backgrounds/Clouds_CityInTheSky.png
+57d6f70624455fb2  gfx/packs/Classic/backgrounds/Clouds_CityInTheSky2.png
+b250dd2e05eacfa8  gfx/packs/Classic/backgrounds/Clouds_Clouds2.png
+88759d82274f510a  gfx/packs/Classic/backgrounds/Clouds_Clouds.png
+adc5bd2ccc139fee  gfx/packs/Classic/backgrounds/Clouds_Clouds3.png
+534135b4ec0b56a4  gfx/packs/Classic/backgrounds/Clouds_CityInTheSky3.png
+212d38a746c6495c  gfx/packs/Classic/backgrounds/Clouds_Clouds1.png
+17c4a8dc0a1771ae  gfx/packs/Classic/backgrounds/Clouds_Clouds3a.png
+1c8d24c2e7bc886a  gfx/packs/Classic/backgrounds/Clouds_CloudHills.png
+e711d990c5d55d0d  gfx/packs/Classic/backgrounds/Clouds_MoreClouds.png
+208339f6ae433d5e  gfx/packs/Classic/backgrounds/Clouds_SideClouds.png
+cae05fc5ada57406  gfx/packs/Classic/backgrounds/Clouds_SmilingClouds.png
+42fc15e1223d0f1c  gfx/packs/Classic/backgrounds/Clouds_KirbyClouds.png
+c79442ba6979a94f  gfx/packs/Classic/backgrounds/Clouds_StageClear.png
+4915aa60b9d9db90  gfx/packs/Classic/backgrounds/Desert_Canyon.png
+e3b2267c15827b39  gfx/packs/Classic/backgrounds/Clouds_CloudsInTheNight.png
+d99d30a187c7dcb5  gfx/packs/Classic/backgrounds/Desert_Desert2.png
+96c0a544a42205bc  gfx/packs/Classic/backgrounds/Desert_Bricks.png
+544044a8b3ae6590  gfx/packs/Classic/backgrounds/Desert_HillsAtNight.png
+d177381c43d90cab  gfx/packs/Classic/backgrounds/Desert_DesertByNight.png
+f4d2c8f81b34a555  gfx/packs/Classic/backgrounds/Desert_Desert.png
+563dd3eb869894cc  gfx/packs/Classic/backgrounds/Desert_LowPyramids.png
+efd3377c60843299  gfx/packs/Classic/backgrounds/Desert_MountainSide.png
+d013d43442bb2af5  gfx/packs/Classic/backgrounds/Desert_LowDunes.png
+74a20b3bc768fe74  gfx/packs/Classic/backgrounds/Desert_Oasis.png
+85531eb593c50291  gfx/packs/Classic/backgrounds/Desert_OasisPyramid.png
+90c896e0399bb562  gfx/packs/Classic/backgrounds/Desert_TempleByTheMountain.png
+f246ce9390665833  gfx/packs/Classic/backgrounds/Desert_Pyramids.png
+ee7bd57b4c826635  gfx/packs/Classic/backgrounds/Desert_YoshiSphinx.png
+b027bdad4533579e  gfx/packs/Classic/backgrounds/Desert_Pyramid.png
+f0e196f4c64521bd  gfx/packs/Classic/backgrounds/Ghost_EerieMountains.png
+5d7d1815b6f936be  gfx/packs/Classic/backgrounds/Ghost_GhostHouse2.png
+7c100166cc7f00e5  gfx/packs/Classic/backgrounds/Ghost_GhostHouse4.png
+01a70ffb0fec77f8  gfx/packs/Classic/backgrounds/Ghost_GhostHouse3.png
+0efc82953ad61bdf  gfx/packs/Classic/backgrounds/Ghost_GhostHouse.png
+fbb2b1128531112d  gfx/packs/Classic/backgrounds/Ghost_DistantManor.png
+9f1ba436e84c4b4f  gfx/packs/Classic/backgrounds/Ghost_GhostHouseOutside.png
+aa10ea5ce8a04d7d  gfx/packs/Classic/backgrounds/Ghost_GhostHouse5.png
+fe33758ad45791d7  gfx/packs/Classic/backgrounds/Ghost_GhostHouse6.png
+a0bd3229e664d9b6  gfx/packs/Classic/backgrounds/Land_AboveCaves.png
+62e767c3da8a1b44  gfx/packs/Classic/backgrounds/Ghost_GhostManor2.png
+ea2718c84a675d48  gfx/packs/Classic/backgrounds/Land_BlueHills.png
+052ac8c4726054a9  gfx/packs/Classic/backgrounds/Ghost_GhostManor.png
+07ddda4cce9db707  gfx/packs/Classic/backgrounds/Land_BowserLand.png
+789fff607dcce9ed  gfx/packs/Classic/backgrounds/Land_CastleWallDark.png
+ee002fc514d87122  gfx/packs/Classic/backgrounds/Land_CastleWall.png
+eff4d8b67fae4da4  gfx/packs/Classic/backgrounds/Land_ByTheHills.png
+e01afcedec557759  gfx/packs/Classic/backgrounds/Land_ChocolateMountain3.png
+987af029e74d675e  gfx/packs/Classic/backgrounds/Land_ChocolateMountain2.png
+57f9481ed4bca016  gfx/packs/Classic/backgrounds/Land_ChocolateMountain.png
+3b37be33215fdeaa  gfx/packs/Classic/backgrounds/Land_CityScape.png
+f70465cb06f04c82  gfx/packs/Classic/backgrounds/Land_Cookie.png
+fa3ef0ec832fd73f  gfx/packs/Classic/backgrounds/Land_Classic.png
+59cad404da579f21  gfx/packs/Classic/backgrounds/Land_Cookie2.png
+7136b4eca3119144  gfx/packs/Classic/backgrounds/Land_Classic2.png
+68064b114c62ed57  gfx/packs/Classic/backgrounds/Land_Cookie3.png
+267398363e3ca4f4  gfx/packs/Classic/backgrounds/Land_Courtyard.png
+cc1a04dcc0681a42  gfx/packs/Classic/backgrounds/Land_CrossSection.png
+58a69a659c014f99  gfx/packs/Classic/backgrounds/Land_DistantMountains.png
+e0101b99da6bcd38  gfx/packs/Classic/backgrounds/Land_DistantMountains2.png
+de11c26c8e7a0d75  gfx/packs/Classic/backgrounds/Land_GrassLand.png
+c4a738212d1c4aa9  gfx/packs/Classic/backgrounds/Land_Airway.png
+3e85e3da903cd052  gfx/packs/Classic/backgrounds/Land_GreenHills2.png
+21c4ff4fba1c1d30  gfx/packs/Classic/backgrounds/Land_GreenHills.png
+f9e9d64f50257008  gfx/packs/Classic/backgrounds/Land_GreenHillsAndClouds.png
+f8cc1be10ffa8d17  gfx/packs/Classic/backgrounds/Land_GreenMountains.png
+cfff5a305663fa05  gfx/packs/Classic/backgrounds/Land_HillsBrown.png
+e210ca17c71640a1  gfx/packs/Classic/backgrounds/Land_InTheTrees3.png
+d32f49aaee7afac6  gfx/packs/Classic/backgrounds/Land_InTheTrees4.png
+1eef6bf647336311  gfx/packs/Classic/backgrounds/Land_InTheTrees.png
+069862cf7b21a753  gfx/packs/Classic/backgrounds/Land_InTheTrees2.png
+414b74b52bb44b15  gfx/packs/Classic/backgrounds/Land_Jungle.png
+8fc6c8f47503bc31  gfx/packs/Classic/backgrounds/Land_JungleTop.png
+7c1e6c1f3976fc6a  gfx/packs/Classic/backgrounds/Land_MarioToyFactory.png
+d7be741a85fd6a18  gfx/packs/Classic/backgrounds/Land_HillsGreen.png
+0d45805d552dc820  gfx/packs/Classic/backgrounds/Land_MountainsGreen2.png
+90b72ae9c4473c00  gfx/packs/Classic/backgrounds/Land_Picross.png
+2b0a10510feef5dd  gfx/packs/Classic/backgrounds/Land_MountainsGreen.png
+2ad681b980426535  gfx/packs/Classic/backgrounds/Land_MushroomKingdom.png
+a7983c6c75e7e825  gfx/packs/Classic/backgrounds/Land_Marsh.png
+83b9b90035aaa7e7  gfx/packs/Classic/backgrounds/Land_ShyguyCrew.png
+a7e668931affd469  gfx/packs/Classic/backgrounds/Land_SafariHills.png
+88d8ff11efbce76b  gfx/packs/Classic/backgrounds/Land_SandCastles.png
+a4c4d7b4c7c25cdf  gfx/packs/Classic/backgrounds/Land_Volcanic.png
+67daa75e6e2825ad  gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld.png
+4a9e2b0582b99c44  gfx/packs/Classic/backgrounds/Land_Trees.png
+387e71bdb9801431  gfx/packs/Classic/backgrounds/Platform_MushroomTops.png
+d8986ecacc511564  gfx/packs/Classic/backgrounds/Land_Volcanic2.png
+53c8eefe69e04e99  gfx/packs/Classic/backgrounds/Platforms_AnOminousWorld2.png
+73e47531541e295d  gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills.png
+3404aaf6f091b01d  gfx/packs/Classic/backgrounds/Platforms_BlueStarrySky.png
+a29d01acc8c8444b  gfx/packs/Classic/backgrounds/Platforms_BlueSpottedHills2.png
+6a4acaa3c478194e  gfx/packs/Classic/backgrounds/Platforms_BrightStars.png
+3764673397c49c34  gfx/packs/Classic/backgrounds/Land_Trees2.png
+b5b00a7f586d6910  gfx/packs/Classic/backgrounds/Platforms_ChocolateMountain.png
+448f9bdab3d88bab  gfx/packs/Classic/backgrounds/Platforms_CloudTrail.png
+0212fcf1253139f7  gfx/packs/Classic/backgrounds/Platforms_CloudsAndWaterfalls.png
+d442a55355961a5e  gfx/packs/Classic/backgrounds/Platforms_DuskOcean.png
+d0ff216fc6ac68a1  gfx/packs/Classic/backgrounds/Platforms_ChocolateMountains.png
+04768b50f62250b3  gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills2.png
+e23da92401349b6e  gfx/packs/Classic/backgrounds/Platforms_GreenSpottedHills.png
+ec31d1fd1a34a860  gfx/packs/Classic/backgrounds/Platforms_DistantClouds.png
+1c3db6b789eeb064  gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones.png
+320c1d15619e3a0c  gfx/packs/Classic/backgrounds/Platforms_GreenStarrySky.png
+d9903ffeb3783874  gfx/packs/Classic/backgrounds/Platforms_HighAboveOcean.png
+b1dc1143d2c92912  gfx/packs/Classic/backgrounds/Platforms_Moonlight.png
+9a54e5c9932f225a  gfx/packs/Classic/backgrounds/Platforms_KirbyPurpleMountains.png
+57ac31f0bd2181a0  gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones2.png
+85d3572eddf47610  gfx/packs/Classic/backgrounds/Platforms_KirbyOrangeMountains.png
+f2b9ee73e3d0eee8  gfx/packs/Classic/backgrounds/Platforms_JaggedGreenStones3.png
+6a08e751b8484079  gfx/packs/Classic/backgrounds/Platforms_SafariHigh.png
+d4a5c228313fb3db  gfx/packs/Classic/backgrounds/Platforms_StripedMountains.png
+0221170a590e6dfb  gfx/packs/Classic/backgrounds/Platforms_TallHills.png
+5930c786e2e30e00  gfx/packs/Classic/backgrounds/Platforms_NightMountains.png
+95b747a3f10ebec6  gfx/packs/Classic/backgrounds/Platforms_Mushrooms.png
+e401debec73e75bb  gfx/packs/Classic/backgrounds/Platforms_Waterfalls2.png
+27da308152a6a738  gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop.png
+30bc6c234b8f45cd  gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones2.png
+4745daca45afb0b4  gfx/packs/Classic/backgrounds/Platforms_UpInTheTreetop2.png
+2b897b70bab025db  gfx/packs/Classic/backgrounds/Platforms_Waterfalls.png
+e1cc21c5b82eff5c  gfx/packs/Classic/backgrounds/Snow_BlueJaggedStones.png
+2e26468d4d6e4c02  gfx/packs/Classic/backgrounds/Platforms_Waterfalls3.png
+4374a6f26e395814  gfx/packs/Classic/backgrounds/Snow_IceCavern.png
+e08af470c9cfd0c4  gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones.png
+f2ba3ae8b6a75718  gfx/packs/Classic/backgrounds/Snow_JaggedIce.png
+fe004da76b89d4d9  gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones3.png
+9ccc4b81428f84ec  gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones4.png
+592fc67391ab068f  gfx/packs/Classic/backgrounds/Snow_SnowCaps.png
+e3587570bee06135  gfx/packs/Classic/backgrounds/Snow_SnowTrees.png
+e0198b61dea9a6c5  gfx/packs/Classic/backgrounds/Snow_WhiteHills.png
+6584687f4e859ddb  gfx/packs/Classic/backgrounds/Snow_SnowyMountains.png
+545a473f9c42b5ca  gfx/packs/Classic/backgrounds/Snow_SnowCovered.png
+536057fec0665544  gfx/packs/Classic/backgrounds/Snow_JaggedWhiteStones2.png
+97c15983cd7edc0f  gfx/packs/Classic/backgrounds/Snow_hillssnow.png
+536057fec0665544  gfx/packs/Classic/backgrounds/Snow_WhiteRockies.png
+8761bb42bcd4ca15  gfx/packs/Classic/backgrounds/Underground_Cave.png
+f5f2cae0fbaf93f9  gfx/packs/Classic/backgrounds/Underground_BrownCave.png
+fb81ba43cae0a29f  gfx/packs/Classic/backgrounds/Underground_BrownRockWall.png
+476413258cd2c45a  gfx/packs/Classic/backgrounds/Underground_ColdCaves.png
+6c252eb2df1aa3e3  gfx/packs/Classic/backgrounds/Underground_DarkPipes.png
+f41ce4828589ed45  gfx/packs/Classic/backgrounds/Underground_DarkPipes2.png
+4aaafb0b56fab5d4  gfx/packs/Classic/backgrounds/Underground_BrownRockWall2.png
+7aca18bbe49a77cc  gfx/packs/Classic/backgrounds/Underground_DeepJungle.png
+82e1c51c656b3719  gfx/packs/Classic/backgrounds/Underground_DeepJungle2.png
+a7abf02f24f3296d  gfx/packs/Classic/backgrounds/Underground_EgyptianPillars2.png
+385b6b061bc44f73  gfx/packs/Classic/backgrounds/Underground_IcyPillars2.png
+cbe7e8b9842d1dad  gfx/packs/Classic/backgrounds/Underground_LightPipes.png
+339581767d8914df  gfx/packs/Classic/backgrounds/Underground_IceCaves.png
+18c0d6c66fdc127e  gfx/packs/Classic/backgrounds/Underground_EgyptianPillars.png
+074f910dc1dbb9aa  gfx/packs/Classic/backgrounds/Underground_Mine.png
+e70bf1a8eb379eeb  gfx/packs/Classic/backgrounds/Underground_MB_Pipes.png
+b7e81ebffe832bfc  gfx/packs/Classic/backgrounds/Underground_MurkyCaves.png
+d8585cc818174db9  gfx/packs/Classic/backgrounds/Underground_IcyPillars.png
+b4e88dab6dff730a  gfx/packs/Classic/backgrounds/Underground_RockWallAndPlantsDark.png
+fcc39dc6b726be83  gfx/packs/Classic/backgrounds/Underground_RockWallAndPlants.png
+01a5f3406eeff48b  gfx/packs/Classic/backgrounds/Underground_UnderTheGround.png
+9510ae6bde0ef654  gfx/packs/Classic/backgrounds/Underground_UnderTheGround2.png
+d2d594d334ff34d8  gfx/packs/Classic/backgrounds/Underground_RockyCave.png
+fcd9fb26831b4619  gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface2.png
+7512b9acd64d22ab  gfx/packs/Classic/backgrounds/Underwater_DarkWaters.png
+665adf64878f6414  gfx/packs/Classic/backgrounds/Underground_blackbossbg.png
+2ab0fe16510e8dcf  gfx/packs/Classic/backgrounds/Underwater_SafariPipes.png
+e0c3ebfd72b97615  gfx/packs/Classic/backgrounds/Underwater_FortressBeneathTheWater.png
+5d2d7d22993c5c4a  gfx/packs/Classic/backgrounds/Underwater_Safari.png
+c1e96aec29c70c36  gfx/packs/Classic/backgrounds/Underwater_InsideTheSunkenShip.png
+b83a209bf7175535  gfx/packs/Classic/backgrounds/Underwater_BeneathTheSurface.png
+b574c4a31089b33d  gfx/packs/Classic/backgrounds/Underwater_Underwater2.png
+59832fc48dc49234  gfx/packs/Classic/backgrounds/Underwater_UnderWaterRuins.png
+8f7ce8a9f1c60b15  gfx/packs/Classic/hazards/Copy of rotodisc_preview.png
+944ce64fdc261d00  gfx/packs/Classic/hazards/Copy of rotodisc.png
+f62f91f99f3715f1  gfx/packs/Classic/backgrounds/Underwater_Underwater3.png
+0e7593761da3c381  gfx/packs/Classic/backgrounds/Underwater_WaterPipes.png
+0427276da5ecb4c7  gfx/packs/Classic/backgrounds/Underwater_Underwater.png
+af55d6c9f9137962  gfx/packs/Classic/hazards/Copy of rotodisc_thumbnail.png
+77f4599ba60feb29  gfx/packs/Classic/hazards/bulletbill.png
+9db6bfff6725081e  gfx/packs/Classic/hazards/fireball.png
+5e7ecd3497255cdd  gfx/packs/Classic/hazards/fireball_preview.png
+4bf6b9518e3c27e9  gfx/packs/Classic/hazards/fireball_thumbnail.png
+7d13018b964ea52c  gfx/packs/Classic/hazards/bulletbill_preview.png
+f3d6ba8339701473  gfx/packs/Classic/hazards/bulletbilldead.png
+1b4dd64f1571252a  gfx/packs/Classic/hazards/flame.png
+2437aa6173b4038e  gfx/packs/Classic/hazards/bulletbill_thumbnail.png
+eb7d2a68fac75e8a  gfx/packs/Classic/hazards/flame_preview.png
+b93e7a34850fe77d  gfx/packs/Classic/hazards/flame_thumbnail.png
+36c4db28dd20d4de  gfx/packs/Classic/hazards/pirhanaplant.png
+ce9691fa9625e9a2  gfx/packs/Classic/hazards/pirhanaplant_preview.png
+9f1f77bb98e19f07  gfx/packs/Classic/hazards/rotodisc_preview.png
+42045607c4f7dfa5  gfx/packs/Classic/hazards/rotodisc_thumbnail.png
+a06d3b9b09dd49c6  gfx/packs/Classic/hazards/pirhanaplant_thumbnail.png
+66ade7eac5a55ce4  gfx/packs/Classic/modeobjects/areas.png
+ff8046764adf8b4a  gfx/packs/Classic/modeobjects/bowserfire.png
+d13b79c78455b20b  gfx/packs/Classic/hazards/rotodisc.png
+79ade2ac1dfe5895  gfx/packs/Classic/modeobjects/chicken.png
+520e5db7c374eea2  gfx/packs/Classic/modeobjects/buzzybeetle.png
+d475e8f72ae843ef  gfx/packs/Classic/modeobjects/bonuschest.png
+08c8ad68aee6ffbc  gfx/packs/Classic/modeobjects/cheepcheep.png
+7380a176bc5dd708  gfx/packs/Classic/modeobjects/coin.png
+4f6bd442d71bcba6  gfx/packs/Classic/modeobjects/goomba.png
+64d638fff02fe52f  gfx/packs/Classic/modeobjects/eggnumbers.png
+a89ee84db357a5e5  gfx/packs/Classic/modeobjects/collectcards.png
+980ff6a65feb64de  gfx/packs/Classic/modeobjects/flags.png
+e97f2f80dce5c183  gfx/packs/Classic/modeobjects/flagbases.png
+d63a491ca6b793aa  gfx/packs/Classic/modeobjects/frenzycards.png
+5736fbecab3d0995  gfx/packs/Classic/modeobjects/jail.png
+ff5a16a030cd2b06  gfx/packs/Classic/modeobjects/egg.png
+3380db94dab4ec55  gfx/packs/Classic/modeobjects/key.png
+2e501c35f9dbb741  gfx/packs/Classic/modeobjects/menu_egg.png
+ecf0f62c39124ace  gfx/packs/Classic/modeobjects/kingofthehill.png
+f6c38efe44a2ccc2  gfx/packs/Classic/modeobjects/menu_stomp.png
+8af756572d1ae76a  gfx/packs/Classic/modeobjects/ownedtags.png
+5ce96fe17201aa4d  gfx/packs/Classic/modeobjects/menu_survival.png
+e794847941c10f39  gfx/packs/Classic/modeobjects/koopa.png
+0fed0da2ff4a8c6a  gfx/packs/Classic/modeobjects/paragoomba.png
+48c24c892ed475fa  gfx/packs/Classic/modeobjects/parakoopa.png
+ca17f289b77c6540  gfx/packs/Classic/modeobjects/phanto.png
+66fa430a757718a0  gfx/packs/Classic/modeobjects/pipeminigamebonuses.png
+ae8962762bbf8920  gfx/packs/Classic/modeobjects/redparakoopa.png
+116da0a32eb1706d  gfx/packs/Classic/modeobjects/redkoopa.png
+bfab4f1422e89508  gfx/packs/Classic/modeobjects/podobo.png
+4d17bf8f175f0475  gfx/packs/Classic/modeobjects/sledgebrothers.png
+5e5cee3895371315  gfx/packs/Classic/modeobjects/spiny.png
+1c32982431448409  gfx/packs/Classic/modeobjects/sledgehammer.png
+27d35fe237499af7  gfx/packs/Classic/modeobjects/racegoal.png
+318731fffc38631c  gfx/packs/Classic/modeobjects/star.png
+59a3b4f0b5fcdc48  gfx/packs/Classic/modeobjects/thwomp.png
+8465d68e1709ff48  gfx/packs/Classic/modeobjects/yoshi.png
+20036723a7763169  gfx/packs/Classic/menu/dialog.png
+b0fe0d8b07376426  gfx/packs/Classic/menu/game_countdown_numbers.png
+a4416ea155d86700  gfx/packs/Classic/modeobjects/superfire.png
+e37f6a820a38b3ea  gfx/packs/Classic/menu/dialog_button.png
+418678f63173476c  gfx/packs/Classic/menu/menu_background.png
+87da88a4d778664d  gfx/packs/Classic/menu/menu_announcement_icons.png
+51f7616dee117cc3  gfx/packs/Classic/menu/menu_dialog.png
+bdcba9cbec15c8c9  gfx/packs/Classic/menu/menu_boxed_numbers.png
+f280d2b5e27aaaaf  gfx/packs/Classic/menu/menu_map_filter.png
+4dbfa562a05d877b  gfx/packs/Classic/menu/menu_mapitems_preview.png
+adc650e408bb0356  gfx/packs/Classic/menu/menu_mapitems_thumbnail.png
+195df0b88f8dbf87  gfx/packs/Classic/menu/menu_font_large.png
+77668138b2353a48  gfx/packs/Classic/menu/menu_font_small.png
+69d347f6391dcc5b  gfx/packs/Classic/menu/menu_match_select.png
+1fe7126e1b666e47  gfx/packs/Classic/menu/menu_map_flags.png
+554145fcdce60d0c  gfx/packs/Classic/menu/menu_selectfield.png
+90c12c54e239af2d  gfx/packs/Classic/menu/menu_plain_field.png
+85e651d9364ea6b3  gfx/packs/Classic/menu/menu_mode_large.png
+01fc260c2ca3acb2  gfx/packs/Classic/menu/menu_mode_small.png
+54da733f08894384  gfx/packs/Classic/menu/menu_selectfield_disabled.png
+c0697b59dd26db98  gfx/packs/Classic/menu/menu_player_select.png
+369ddb51337b6426  gfx/packs/Classic/menu/menu_warp_preview.png
+8b6057a8cb563ca9  gfx/packs/Classic/menu/menu_slider_bar.png
+b6a46dea5d7e2b65  gfx/packs/Classic/menu/menu_vertical_arrows.png
+94c6dd5c894fc027  gfx/packs/Classic/menu/menu_smw.png
+4dc50a657135220a  gfx/packs/Classic/menu/menu_version.png
+67323415233365ea  gfx/packs/Classic/menu/menu_shade.png
+bf4f05f40c9ed1b4  gfx/packs/Classic/menu/menu_warp_thumbnail.png
+77f673fe43cad2d1  gfx/packs/Classic/menu/player_select_background.png
+891a0b5483f82353  gfx/packs/Classic/menu/player_select_ready.png
+cd72fdd4df175852  gfx/packs/Classic/menu/score_cards.png
+8b46b71483f93cae  gfx/packs/Classic/menu/score_coins.png
+4646ccd04098b5a1  gfx/packs/Classic/menu/splash_contest_winners.png
+d4fa1d9aa465ad39  gfx/packs/Classic/menu/scoreboard.png
+594008808e848769  gfx/packs/Classic/menu/score_hearts.png
+45588b02ec8bc8b9  gfx/packs/Classic/menu/splash_72dpi.png
+8595d37aa6e60efc  gfx/packs/Classic/menu/splash_credits.png
+d450ee665244604b  gfx/packs/Classic/powerups/1uppowerup.png
+bdefe42f9d83e284  gfx/packs/Classic/menu/tour_markers.png
+9a8bd2372a2c3d24  gfx/packs/Classic/menu/tournament_powerup_splash.png
+5b49aadad552df84  gfx/packs/Classic/modeskins/shyguy.bmp
+689537dc9a12c83a  gfx/packs/Classic/menu/tournament_background.png
+7a67cd71aa356cdb  gfx/packs/Classic/modeskins/bobomb.bmp
+d1d107377df9e6d4  gfx/packs/Classic/modeskins/chicken.bmp
+43c827e961efb468  gfx/packs/Classic/powerups/5uppowerup.png
+6678b9ddd410f60d  gfx/packs/Classic/powerups/2uppowerup.png
+cdfc33210421902a  gfx/packs/Classic/powerups/3uppowerup.png
+9d261be1370db03c  gfx/packs/Classic/powerups/bobombpowerup.png
+f3406c0115e9dd32  gfx/packs/Classic/powerups/boomerangpowerup.png
+d253c6bc4c9b9c14  gfx/packs/Classic/powerups/bombpowerup.png
+d1d05a0eabc53e68  gfx/packs/Classic/powerups/Thumbs.db
+1d73b37c1668d2c1  gfx/packs/Classic/powerups/extratimepowerup.png
+82c690a3f8f00978  gfx/packs/Classic/powerups/bulletbillpowerup.png
+815629cbe4a2e630  gfx/packs/Classic/powerups/fireflower.png
+2f09bcc2286abe9d  gfx/packs/Classic/powerups/hammerpowerup.png
+a4f085aef5c79c41  gfx/packs/Classic/powerups/clockpowerup.png
+a8fe7903edff38ce  gfx/packs/Classic/powerups/Scrap.shs
+12dc7ec537f8ab19  gfx/packs/Classic/powerups/featherpowerup.png
+c939498993a44620  gfx/packs/Classic/powerups/heartpowerup.png
+782f92f842e8aac0  gfx/packs/Classic/powerups/icewandpowerup.png
+08b22266a84267a8  gfx/packs/Classic/powerups/kuriboshoe.png
+84b4628e5b00e02d  gfx/packs/Classic/powerups/jailkeypowerup.png
+d981eb45a6df2286  gfx/packs/Classic/powerups/large.png
+e4bcfc5b5a293f7e  gfx/packs/Classic/powerups/leafpowerup.png
+8dccb202f9b60ad5  gfx/packs/Classic/powerups/modpowerup.png
+075636428c235f6c  gfx/packs/Classic/powerups/podobopowerup.png
+1b18c17f49c8dc0b  gfx/packs/Classic/powerups/mysterymushroom.png
+70574923d9282446  gfx/packs/Classic/powerups/pwings.png
+044eac25aa443c9b  gfx/packs/Classic/powerups/poisonpowerup.png
+44e25e24f805815c  gfx/packs/Classic/powerups/secret2.png
+c8adecd3c45c7a6a  gfx/packs/Classic/powerups/powpowerup.png
+98eb014097a8bae5  gfx/packs/Classic/powerups/secret3.png
+92fcc484436e839e  gfx/packs/Classic/powerups/secret4.png
+3e2dcf08458e4bd2  gfx/packs/Classic/powerups/small.png
+7830d2dc9f072d83  gfx/packs/Classic/powerups/spring.png
+785ed8b980cc7166  gfx/packs/Classic/powerups/starpowerup.png
+ec377a064540373e  gfx/packs/Classic/powerups/tanooki.png
+194d1ae77d1fa290  gfx/packs/Classic/powerups/spike.png
+d9d79227627f02bc  gfx/packs/Classic/powerups/secret1.png
+6e56c2290db8c0e5  gfx/packs/Classic/powerups/throwbox.png
+5429f2d419deb97d  gfx/packs/Classic/projectiles/boomerang.png
+9fa5a48d7e4c8037  gfx/packs/Classic/projectiles/bomb.png
+74b189565f65d90c  gfx/packs/Classic/projectiles/hammer.png
+9fc15811bf31ba26  gfx/packs/Classic/projectiles/shell.png
+2c024c627afae426  gfx/packs/Classic/projectiles/fireball.png
+b587cf522ec7dcd4  gfx/packs/Classic/projectiles/statue.png
+94af9ba85adcc5d7  gfx/packs/Classic/projectiles/bulletbill.png
+a5b9d138be3304f0  gfx/packs/Classic/projectiles/throwblock.png
+c708c2ec1b71f1bb  gfx/packs/Classic/tilesets/blocks.png
+b2d7e56ca658a61d  gfx/packs/Classic/tilesets/blocks_thumbnail.png
+5ec2f668f7dc4317  gfx/packs/Classic/projectiles/wandblast.png
+59b0199f010027ce  gfx/packs/Classic/tilesets/tile_animation_thumbnail.png
+6db698488d1a7603  gfx/packs/Classic/tilesets/tile_animation_preview.png
+ce59a6e2da2a63b2  gfx/packs/Classic/tilesets/tile_animation.png
+19c51dfb815a990f  gfx/packs/Classic/tilesets/blocks_preview.png
+1c57c26a61e18ba0  gfx/packs/Classic/tilesets/tile_animation_tileset.tls
+26a4526260292385  gfx/packs/Classic/tilesets/unknown_tile_preview.png
+ac7980edbb547742  gfx/packs/Classic/tilesets/unknown_tile_thumbnail.png
+c5752bed01e4a69b  gfx/packs/Classic/tilesets/unknown_tile.png
+1a7e3e6df66ba887  gfx/packs/Classic/world/world_bonushouse.png
+04ab77d390d43ed2  gfx/packs/Classic/world/world_bonusplace.png
+521739173e4b9af7  gfx/packs/Classic/world/world_foreground.png
+99c00908fce0d407  gfx/packs/Classic/world/world_background.png
+4c36d8b23b821bb7  gfx/packs/Classic/world/world_foreground_special.png
+2d30632e3472de6b  gfx/packs/Classic/world/world_item_popup.png
+10c0d43ad569f1f9  gfx/packs/Classic/world/world_powerups.png
+c676afc64101c869  gfx/packs/Classic/world/world_vehicles.png
+17cfbfaaa2301b8f  gfx/packs/Retro/awards/killsinrownumbers.png
+f33c62c6413e0ba8  gfx/packs/Classic/world/world_powerupssmall.png
+5f0943adcf032601  gfx/packs/Retro/eyecandy/spawndoor.png
+664f4850bfe164dd  gfx/packs/Classic/world/world_paths.png
+3eeec1acf65d067b  gfx/packs/Retro/eyecandy/bonus.png
+a3798f09dfe97cac  gfx/packs/Retro/eyecandy/warplock.png
+9946dc05a3ccb930  gfx/packs/Retro/fonts/font_large.png
+ff0cc4643f3e97b2  gfx/packs/Retro/eyecandy/abovearrows.png
+9946dc05a3ccb930  gfx/packs/Retro/menu/menu_font_large.png
+2b054320b39c7dac  gfx/packs/Retro/menu/dialog_button.png
+dd237461ed3a9696  gfx/packs/Retro/menu/dialog.png
+ba1790ca56ab0517  gfx/packs/Retro/fonts/font_small.png
+f21fa61fb4e9615b  gfx/packs/Retro/menu/menu_dialog.png
+c0e6ad7b2fab90f3  gfx/packs/Retro/menu/menu_background.png
+ba1790ca56ab0517  gfx/packs/Retro/menu/menu_font_small.png
+6e03af69495a9865  gfx/packs/Retro/menu/menu_map_filter.png
+32fca93e6759eab6  gfx/packs/Retro/menu/menu_player_select.png
+d3883750e10b68d7  gfx/packs/Retro/menu/menu_plain_field.png
+fd1c82d353c62c2e  gfx/packs/Retro/menu/menu_mode_large.png
+dc3e97a7b9bef9dd  gfx/packs/Retro/menu/menu_map_flags.png
+d3affa5a731cdc7e  gfx/packs/Retro/menu/menu_selectfield.png
+295eb54918444995  gfx/packs/Retro/menu/menu_mode_small.png
+891cfc164d69bb80  gfx/packs/Retro/menu/menu_slider_bar.png
+e90e13fbf603f3e0  gfx/packs/Retro/menu/menu_selectfield_disabled.png
+e33dcb995d375012  gfx/packs/Retro/menu/menu_smw.png
+059af453ed174b46  gfx/packs/Retro/menu/player_select_background.png
+9e61bda87b46b039  gfx/packs/Retro/menu/splash_credits.png
+d8cf9878a14c1c6c  gfx/packs/Retro/menu/scoreboard.png
+c228c9940d02e1fb  gfx/packs/Retro/menu/player_select_ready.png
+03615798871ae974  gfx/packs/Retro/modeobjects/chicken.png
+bafc022a01a371af  gfx/packs/Retro/menu/tournament_powerup_splash.png
+1ba427759512d07d  gfx/packs/Retro/modeobjects/flagbases.png
+c5a7d4b475c420d9  gfx/packs/Retro/menu/tournament_background.png
+1ba427759512d07d  gfx/packs/Retro/modeobjects/ownedtags.png
+44c4cffeedc620a1  gfx/packs/Retro/modeobjects/flags.png
+7b2fe6e2c4e7f960  gfx/packs/Retro/modeobjects/jail.png
+633fbca50524422f  gfx/packs/Retro/modeobjects/kingofthehill.png
+c4cf057d0d7e9a0e  gfx/packs/Retro/powerups/1uppowerup.png
+86cb50d5b9074d4e  gfx/packs/Retro/powerups/2uppowerup.png
+6d5504759c582579  gfx/packs/Retro/powerups/3uppowerup.png
+ad7d3620ca1cd506  gfx/packs/Retro/powerups/small.png
+4ede227ba2a66dac  gfx/packs/Classic/tilesets/Classic/medium.png
+534c538ea38272ca  gfx/packs/Retro/powerups/large.png
+899cc2ccdb003812  gfx/packs/Classic/tilesets/Classic/tileset.tls
+b1380d5b1e40660c  gfx/packs/Classic/tilesets/Classic/large.png
+75d567ff8f822da0  gfx/packs/Classic/tilesets/Classic/small.png
+c22c63dc9296d70a  gfx/packs/Classic/tilesets/Expanded/large.png
+9ae2a1671c6f526f  gfx/packs/Classic/tilesets/Expanded/small.png
+437cab0959e5963b  gfx/packs/Retro/powerups/5uppowerup.png
+9e5cfeb521865438  gfx/packs/Classic/tilesets/Expanded/medium.png
+ac723f6dade3e86f  gfx/packs/Classic/tilesets/SMB1/small.png
+1d9c59d30386b269  gfx/packs/Classic/tilesets/SMB1/medium.png
+344c73a666a36ffd  gfx/packs/Classic/tilesets/SMB1/large.png
+5b8c248f79388b1e  gfx/packs/Classic/tilesets/SMB2/large.png
+9599e0fc47930e3b  gfx/packs/Classic/tilesets/SMB2/small.png
+a93c7ae503f919f9  gfx/packs/Classic/tilesets/Expanded/tileset.tls
+00ad6abd8d18de22  gfx/packs/Classic/tilesets/SMB1/tileset.tls
+7aeb17eb33a5b347  gfx/packs/Classic/tilesets/SMB2/medium.png
+15f4901ca4af24b7  gfx/packs/Classic/tilesets/SMB2/tileset.tls
+aa09a67d9a55251f  gfx/packs/Classic/tilesets/SMB3/small.png
+09fc8eeba0cfbcdf  gfx/packs/Classic/tilesets/SMB3/large.png
+df6a6cfec508645b  gfx/packs/Classic/tilesets/SMB3/medium.png
+ceb3b38fe1ee5078  gfx/packs/Classic/tilesets/SuperMarioWorld/small.png
+f593f6d676e619da  gfx/packs/Classic/tilesets/SuperMarioWorld/large.png
+442876f8a2fc7980  gfx/packs/Classic/tilesets/SuperMarioWorld/medium.png
+3d8e461bf30213dd  gfx/packs/Classic/tilesets/YoshisIsland/large.png
+3a8989e5108f6a62  gfx/packs/Classic/tilesets/SuperMarioWorld/tileset.tls
+d6f63dfa77f7b309  gfx/packs/Classic/tilesets/YoshisIsland/small.png
+fdf52fea4bfcbefa  gfx/packs/Classic/tilesets/YoshisIsland/medium.png
+55d371b2ac70be89  gfx/packs/Classic/tilesets/SMB3/tileset.tls
+e0eaca0e92dfc93b  gfx/packs/Classic/tilesets/YoshisIsland/tileset.tls
+65be4d74d742b897  gfx/packs/Classic/world/preview/world_background.png
+5839729d6c727c86  gfx/packs/Classic/world/preview/world_foreground.png
+151755b228365e9f  gfx/packs/Classic/world/preview/world_paths.png
+bb1be6e42ea370c7  gfx/packs/Classic/world/preview/world_vehicles.png
+45d8360e8c146370  gfx/packs/Classic/world/preview/world_foreground_special.png
+1378605bb7b1ada3  gfx/packs/Classic/world/thumbnail/world_background.png
+a59d4ebfed646271  gfx/packs/Classic/world/thumbnail/world_paths.png
+f7cf047885035f00  gfx/packs/Classic/world/thumbnail/world_foreground_special.png
+9179681227d6463b  gfx/packs/Classic/world/thumbnail/world_vehicles.png
+dc6ce6e245a811a8  gfx/packs/Classic/world/thumbnail/world_foreground.png

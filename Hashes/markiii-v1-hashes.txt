@@ -1,0 +1,719 @@
+326369e5e94b52be  Alex Kidd - The Lost Stars (World).zip
+e36cca2322a57485  Action Fighter (USA, Europe).zip
+47983c4987149825  Alex Kidd in Miracle World (USA, Europe).zip
+943432971a9a193d  Astro Warrior & Pit Pot (Europe).zip
+2cceea1cf2eb7a85  Alex Kidd BMX Trial (Japan).zip
+b174a354a0ce8dae  Argos no Juujiken (Japan).zip
+cc37d88c569b597a  After Burner (World).zip
+621c7b30e8b0db7c  Alien Syndrome (USA, Europe).zip
+8d14b9d5c0d2a056  Double Dragon (World).zip
+fa26ee61e19d5234  Aztec Adventure - The Golden Road to Paradise (World).zip
+7abdd5919a03543e  Bomber Raid (World).zip
+e0dc22af6c93d626  Astro Warrior (Japan, USA).zip
+38f875685c8a3912  Captain Silver (USA).zip
+94a2230cb01d7bdb  Galactic Protector (Japan).zip
+5b18d7333fe02e4c  Blade Eagle (World).zip
+cd696d266664fcf2  Enduro Racer (USA, Europe).zip
+3a5fa19137346258  Bubble Bobble (Europe).zip
+0ac4b4e5930f8743  Great Football (World).zip
+f98c6fa2ef15191e  Great Golf (Japan).zip
+ad18492b1e2631ab  Great Golf (World).zip
+647d9efc4ab89075  Great Basketball (World).zip
+91168cfb0633cb95  Fantasy Zone (World).zip
+c9131a3ac344707e  Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).zip
+0816a562891417ae  Fantasy Zone - The Maze (USA, Europe).zip
+a3bcb0ebbf09bb14  High School! Kimengumi (Japan) (Translated En).zip
+5b53bae8003c3000  Hokuto no Ken (Japan).zip
+01dac49798ba99c7  Mahjong Sengoku Jidai (Japan).zip
+24437a85f7ad9b37  Great Volleyball (USA, Europe).zip
+8a5656037be6caa2  Golvellius (USA, Europe).zip
+030f3c4d0044b1e4  Hoshi wo Sagasite... (Japan) (Translated En).zip
+b6ab8a5b0d69a82c  Kenseiden (USA, Europe).zip
+a5cb4b4425da1c6a  Ninja, The (USA, Europe).zip
+5d6b0b55edb08e00  OutRun 3-D (Europe).zip
+86b90946246f088b  Nekkyuu Koushien (Japan).zip
+086e60cfa0245b2f  Megumi Rescue (Japan).zip
+7b8a34e56a8b9c56  Lord of the Sword (USA, Europe).zip
+3232ed832970d151  Penguin Land (USA, Europe).zip
+3d35276b8d9e12c2  Pro Yakyuu Pennant Race, The (Japan).zip
+71ba37c72fb05b98  Solomon no Kagi - Oujo Rihita no Namida (Japan).zip
+b8997aba26f2d729  Phantasy Star (USA, Europe).zip
+caacd64462a28f43  R-Type (World).zip
+f39f0a1994728cfa  Rocky (World).zip
+480ef65ddabb98d0  Shinobi (USA, Europe).zip
+da08b78f75e5a6d8  Sports Pad Football (USA).zip
+8f20e3a9bbac55ff  Space Harrier 3-D (USA, Europe).zip
+7242482a72513b90  Space Harrier (USA, Europe).zip
+7a583caaea36437a  Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).zip
+deab5136182a1e25  Wonder Boy (USA, Europe).zip
+bfd3bf885221cd85  Super Racing (Japan).zip
+671d804c460fb518  Thunder Blade (USA, Europe).zip
+f1855d8a8a085520  Zillion II - The Tri Formation (World).zip
+189f5cd82e76c12e  Zaxxon 3-D (World).zip
+d256eb918113e2d8  gamelist_ARRM.xml
+de9970dc89814d10  Zillion (USA).zip
+50d6a41ec01e393d  Wonder Boy in Monster World (Europe).zip
+b40a442c975a42dc  media/videos/After Burner (World).mp4
+647af8ffb86dcf6f  media/videos/Alex Kidd BMX Trial (Japan).mp4
+b13826b4003a9c6e  media/videos/Alex Kidd - The Lost Stars (World).mp4
+e1b0a3a371af8535  media/videos/Action Fighter (USA, Europe).mp4
+d30c2a6d44da4295  media/videos/Alex Kidd in Miracle World (USA, Europe).mp4
+1ec8ac34a32a7c1d  media/videos/Astro Warrior & Pit Pot (Europe).mp4
+5612cd13b787dcd3  media/videos/Alien Syndrome (USA, Europe).mp4
+f636faf0e3ca6670  media/videos/Argos no Juujiken (Japan).mp4
+00adcf6cb14e9342  media/videos/Blade Eagle (World).mp4
+573ec4d8af1a7410  media/videos/Aztec Adventure - The Golden Road to Paradise (World).mp4
+3e7f2ba16e761361  media/videos/Bomber Raid (World).mp4
+4b7f2b1c4cad08dd  media/videos/Enduro Racer (USA, Europe).mp4
+4675ba0a141cdfa8  media/videos/Double Dragon (World).mp4
+cf0bcf294783f47e  media/videos/Astro Warrior (Japan, USA).mp4
+06b558a5ff7b541f  media/videos/Captain Silver (USA).mp4
+648951672f2aff27  media/videos/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).mp4
+5f9b95210a6d0e55  media/videos/Fantasy Zone - The Maze (USA, Europe).mp4
+8d44ce23bfb2ed80  media/videos/Bubble Bobble (Europe).mp4
+e15bbc7a45ee9f2b  media/videos/Golvellius (USA, Europe).mp4
+49de858c05d87260  media/videos/Fantasy Zone (World).mp4
+7b88a49f4a5b9eb0  media/videos/Galactic Protector (Japan).mp4
+e26fb3ddb94c1c44  media/videos/Great Football (World).mp4
+142657e3b77ce604  media/videos/Great Basketball (World).mp4
+a78ec71521c4dca6  media/videos/Great Golf (Japan).mp4
+a78ec71521c4dca6  media/videos/Great Golf (World).mp4
+8a6913edfce5c0f4  media/videos/High School! Kimengumi (Japan) (Translated En).mp4
+3d1ed8e80ecaa831  media/videos/Great Volleyball (USA, Europe).mp4
+5cb6044b8b9ce4a2  media/videos/Hokuto no Ken (Japan).mp4
+abd6f336e004e4cd  media/videos/Kenseiden (USA, Europe).mp4
+706c4a7a48a080b0  media/videos/Lord of the Sword (USA, Europe).mp4
+7b77864edcd6020a  media/videos/Megumi Rescue (Japan).mp4
+2cbaca92e8957ff2  media/videos/Mahjong Sengoku Jidai (Japan).mp4
+a3e4e9abc7c588c0  media/videos/Hoshi wo Sagasite... (Japan) (Translated En).mp4
+43a2ee3777098bf1  media/videos/Ninja, The (USA, Europe).mp4
+3aa207ca16e3eff9  media/videos/OutRun 3-D (Europe).mp4
+2027ceb85258e1e8  media/videos/Pro Yakyuu Pennant Race, The (Japan).mp4
+3bffc23aa5935390  media/videos/R-Type (World).mp4
+a437385e7b805da2  media/videos/Phantasy Star (USA, Europe).mp4
+a33a47e2409f2f23  media/videos/Rocky (World).mp4
+f70736e3e692f6e8  media/videos/Nekkyuu Koushien (Japan).mp4
+b6c47e1c362d8fa6  media/videos/Space Harrier 3-D (USA, Europe).mp4
+699f84bda9314b9c  media/videos/Solomon no Kagi - Oujo Rihita no Namida (Japan).mp4
+d778d5ca0a4d22f4  media/videos/Penguin Land (USA, Europe).mp4
+44c0439be4241bb0  media/videos/Shinobi (USA, Europe).mp4
+4903da4a1a78949d  media/videos/Sports Pad Football (USA).mp4
+013b9d04f07d11f5  media/videos/Thunder Blade (USA, Europe).mp4
+6af8bd9a11973fd5  media/videos/Space Harrier (USA, Europe).mp4
+fafecb8546603552  media/videos/Wonder Boy in Monster World (Europe).mp4
+8c0b031dffb2a2fa  media/videos/Super Racing (Japan).mp4
+85c39cd05acbd92b  media/videos/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).mp4
+a384b0ccd433b71e  media/videos/Wonder Boy (USA, Europe).mp4
+72244cefb8830817  media/images/Action Fighter (USA, Europe).png
+55f8eeb5402cfcb3  media/images/Alex Kidd - The Lost Stars (World).png
+9fe24913cbd75df4  media/images/After Burner (World).png
+18901aa748606b34  media/videos/Zillion II - The Tri Formation (World).mp4
+6f963d9c58d145a3  media/videos/Zaxxon 3-D (World).mp4
+1e7515100c4c3b14  media/images/Alex Kidd in Miracle World (USA, Europe).png
+2a76862d3883f89c  media/videos/Zillion (USA).mp4
+44165d684481d20d  media/images/Alien Syndrome (USA, Europe).png
+ccf90ed5f5d9a5a8  media/images/Aztec Adventure - The Golden Road to Paradise (World).png
+118b504efd19f260  media/images/Alex Kidd BMX Trial (Japan).png
+2d2c906cd7003d98  media/images/Blade Eagle (World).png
+c3223183755219ab  media/images/Argos no Juujiken (Japan).png
+972d5f35ab00fb5b  media/images/Astro Warrior (Japan, USA).png
+678b4c39837813ee  media/images/Astro Warrior & Pit Pot (Europe).png
+6fe1c8efa78ac13f  media/images/Bubble Bobble (Europe).png
+a1cefeb6af77e1dd  media/images/Bomber Raid (World).png
+9fd122898086156a  media/images/Galactic Protector (Japan).png
+2dcfb80624ac354d  media/images/Captain Silver (USA).png
+22591b48df77fa21  media/images/Fantasy Zone - The Maze (USA, Europe).png
+dbd3c4fcce2f9445  media/images/Fantasy Zone (World).png
+50e97dd6734b4766  media/images/Double Dragon (World).png
+16a014100b3ae40d  media/images/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png
+776e460d12ce3cb2  media/images/Enduro Racer (USA, Europe).png
+eb9338bb9b0bf1c4  media/images/Golvellius (USA, Europe).png
+69fb8e2d0047638d  media/images/Great Basketball (World).png
+b281518f57005072  media/images/Great Football (World).png
+7b4687c49390f8d8  media/images/Great Golf (Japan).png
+6c9e1962765e44a5  media/images/Great Volleyball (USA, Europe).png
+dda4e3caba4472c5  media/images/High School! Kimengumi (Japan) (Translated En).png
+e578ee2873978f64  media/images/Hoshi wo Sagasite... (Japan) (Translated En).png
+09c0d106bfcea45c  media/images/Hokuto no Ken (Japan).png
+c942dea9fd012e73  media/images/Kenseiden (USA, Europe).png
+fec778f2d3cffbca  media/images/Lord of the Sword (USA, Europe).png
+7b4687c49390f8d8  media/images/Great Golf (World).png
+0d2aef515daaa97b  media/images/Nekkyuu Koushien (Japan).png
+a8fc0aa696b5899f  media/images/Mahjong Sengoku Jidai (Japan).png
+c7d28b4dadcf346a  media/images/Ninja, The (USA, Europe).png
+90c974218cde02d1  media/images/Phantasy Star (USA, Europe).png
+2139124e60149745  media/images/Megumi Rescue (Japan).png
+77aa535f8af82949  media/images/R-Type (World).png
+0f7909cbd79442a3  media/images/Pro Yakyuu Pennant Race, The (Japan).png
+07723bf45499f40d  media/images/OutRun 3-D (Europe).png
+a4996da6be066c0b  media/images/Space Harrier 3-D (USA, Europe).png
+fb27cac6f9bf8c2f  media/images/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png
+214dc5456e8b7f4a  media/images/Space Harrier (USA, Europe).png
+56e602fbc7340dda  media/images/Shinobi (USA, Europe).png
+57bb3d5abfb5358b  media/images/Super Racing (Japan).png
+1ed9f67649a10035  media/images/Thunder Blade (USA, Europe).png
+3771145bff0b53c4  media/images/Rocky (World).png
+61405fa91935288b  media/images/Penguin Land (USA, Europe).png
+7602b7e2e4285c58  media/images/Zillion II - The Tri Formation (World).png
+c6f83a8daf8aedb1  media/images/Zillion (USA).png
+7121568e7d7481af  media/images/Zaxxon 3-D (World).png
+2da4741a78bf660d  media/cartridges/Action Fighter (USA, Europe).png
+005b66049c0d78ed  media/images/Wonder Boy (USA, Europe).png
+e89d30d4f61537f0  media/images/Solomon no Kagi - Oujo Rihita no Namida (Japan).png
+6b83828899ff7108  media/cartridges/After Burner (World).png
+62c65cc0164e9e31  media/images/Sports Pad Football (USA).png
+9f7364eec664eea6  media/cartridges/Alex Kidd in Miracle World (USA, Europe).png
+b72080524da97e76  media/images/Wonder Boy in Monster World (Europe).png
+e4eb6ab6f40f1c08  media/cartridges/Alex Kidd - The Lost Stars (World).png
+eb3d33dbc0cc262a  media/cartridges/Astro Warrior & Pit Pot (Europe).png
+5b987738c173e32e  media/cartridges/Aztec Adventure - The Golden Road to Paradise (World).png
+0b1e2e26d0906efb  media/cartridges/Bomber Raid (World).png
+1a86e850652d47d4  media/cartridges/Bubble Bobble (Europe).png
+520b91cd7f3354c6  media/cartridges/Enduro Racer (USA, Europe).png
+acdc8c96cc45a9c8  media/cartridges/Alien Syndrome (USA, Europe).png
+131dfc9865b26091  media/cartridges/Captain Silver (USA).png
+837368a0c6453f3f  media/cartridges/Double Dragon (World).png
+3c0b9b2ca6f65bc8  media/cartridges/Fantasy Zone (World).png
+c0de777f51a2f46e  media/cartridges/Astro Warrior (Japan, USA).png
+01056267f5863a1d  media/cartridges/Blade Eagle (World).png
+4faf50a7a529440f  media/cartridges/Fantasy Zone - The Maze (USA, Europe).png
+9d4fd6cb4b533f7b  media/cartridges/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png
+d0ac9ff6450d06d7  media/cartridges/Golvellius (USA, Europe).png
+578e201ef798323b  media/cartridges/Great Volleyball (USA, Europe).png
+84cb17940279575f  media/cartridges/Great Basketball (World).png
+a04c48629dcdac80  media/cartridges/Great Football (World).png
+d5f7dda589f96375  media/cartridges/Kenseiden (USA, Europe).png
+1dccdd73b9914dfd  media/cartridges/R-Type (World).png
+1e03371903d20d61  media/cartridges/Great Golf (Japan).png
+c528f788a389fef1  media/cartridges/Penguin Land (USA, Europe).png
+ea7db5b30201b0fc  media/cartridges/Lord of the Sword (USA, Europe).png
+cc50af43b9b71216  media/cartridges/Ninja, The (USA, Europe).png
+a5d96424391d1f2e  media/cartridges/Phantasy Star (USA, Europe).png
+92a4c2bf08a9aa49  media/cartridges/Shinobi (USA, Europe).png
+40be8d0c6f452b95  media/cartridges/Space Harrier 3-D (USA, Europe).png
+ae6b57c13b55ef4d  media/cartridges/Rocky (World).png
+12687c0f704be2bc  media/cartridges/Space Harrier (USA, Europe).png
+87256a1ce2e48d27  media/cartridges/OutRun 3-D (Europe).png
+8ed2bed17f207634  media/cartridges/Thunder Blade (USA, Europe).png
+f62bf9063dc869c1  media/cartridges/Sports Pad Football (USA).png
+278b693c8da0cf1a  media/cartridges/Wonder Boy (USA, Europe).png
+de226ff134508b63  media/cartridges/Zillion II - The Tri Formation (World).png
+cb88b1d3118d3400  media/cartridges/Wonder Boy in Monster World (Europe).png
+a27522c7371eae3d  media/thumbnails/Action Fighter (World).png
+7b8ce27e820bf667  media/cartridges/Zaxxon 3-D (World).png
+efc70554fbf6f405  media/cartridges/Zillion (USA).png
+abdbe02df6dc969c  media/thumbnails/94 Super World Cup Soccer (Korea).png
+6d185b52ea301e08  media/thumbnails/Akai Koudan Zillion (Japan).png
+0746501938b6296a  media/thumbnails/Action Fighter (Japan, Europe) (Rev 1).png
+0746501938b6296a  media/thumbnails/Action Fighter (USA, Europe).png
+238a66def908ef15  media/thumbnails/Aleste (Japan).png
+60fbbe89a59380ff  media/thumbnails/Alex Kidd - The Lost Stars (World).png
+2be2a2562bb853a2  media/thumbnails/Alien Syndrome (Japan).png
+d741ac36bf1653ae  media/thumbnails/After Burner (World).png
+6ade15df55a90fff  media/thumbnails/Alex Kidd in Miracle World (USA, Europe).png
+6ade15df55a90fff  media/thumbnails/Alex Kidd no Miracle World (Japan).png
+46c1918a33806d43  media/thumbnails/Alien Syndrome (World).png
+ee5ee841c3697e1c  media/thumbnails/Ashura (Japan).png
+2be2a2562bb853a2  media/thumbnails/Alien Syndrome (USA, Europe).png
+1b8810441b961646  media/thumbnails/Alex Kidd BMX Trial (Japan).png
+14f6de1fa57fdb41  media/thumbnails/Astro Warrior (Japan, USA).png
+14f6de1fa57fdb41  media/thumbnails/Astro Warrior & Pit Pot (Europe).png
+2ffd1f166e5bf5ef  media/thumbnails/Anmitsu Hime (Japan).png
+1b8810441b961646  media/thumbnails/Alex Kidd - BMX Trial (Japan).png
+5094357ebfdc0f1b  media/thumbnails/Bubble Bobble (Europe).png
+cf443181b3f7d7dd  media/thumbnails/Captain Silver (USA).png
+cf443181b3f7d7dd  media/thumbnails/Captain Silver (Japan, Europe).png
+3793fa0196f876e1  media/thumbnails/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png
+4f03f50a6fad19db  media/thumbnails/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).png
+768a76cf07b652a1  media/thumbnails/Argos no Juujiken (Japan).png
+9b12605cbef2642c  media/thumbnails/Chouon Senshi Borgman (Japan).png
+a93720a605c88e38  media/thumbnails/Bomber Raid (World).png
+37e70ba3620e68de  media/thumbnails/Captain Silver (World).png
+99f4f3db4aa6ca67  media/thumbnails/Aztec Adventure - The Golden Road to Paradise (World).png
+28f230a0c362fdde  media/thumbnails/Double Dragon (World).png
+71c6e5c94c653882  media/thumbnails/Blade Eagle (World).png
+88f493faf830acb5  media/thumbnails/Fantasy Zone (Japan).png
+7c98f63f8a583e9a  media/thumbnails/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png
+b5d13b35c8b31536  media/thumbnails/Double Target - Cynthia no Nemuri (Japan).png
+0b9ac4dad227590d  media/thumbnails/Fantasy Zone (World).png
+7c98f63f8a583e9a  media/thumbnails/Fantasy Zone II - Opa-Opa no Namida (Japan).png
+f49f9617f2e88541  media/thumbnails/Enduro Racer (Japan).png
+c613f907a940ea2b  media/thumbnails/Family Games (Japan).png
+4951ce9ce1f5ffae  media/thumbnails/Final Bubble Bobble (Japan).png
+f49f9617f2e88541  media/thumbnails/Enduro Racer (USA, Europe).png
+35d0d957950ff23f  media/thumbnails/Fantasy Zone - The Maze (USA, Europe).png
+e0e9b77b06e5210c  media/thumbnails/Great Basketball (World).png
+963c6dd6be6bc076  media/thumbnails/Galactic Protector (Japan).png
+26ffb557b89a5bfc  media/thumbnails/Gokuaku Doumei Dump Matsumoto (Japan).png
+0f6bdfd001683fa1  media/thumbnails/Golvellius (USA, Europe).png
+64fe6a4f101947af  media/thumbnails/Great Football (World).png
+75f155bead4af7ef  media/thumbnails/Great Golf (Korea).png
+5ba6182fdf892f61  media/thumbnails/Great Golf (Japan).png
+86c2b8e72efd1390  media/thumbnails/Great Volleyball (USA, Europe).png
+68d3a241b3dfeb08  media/thumbnails/Great Volleyball (World).png
+86c2b8e72efd1390  media/thumbnails/Great Volleyball (Japan).png
+27c0147445deff54  media/thumbnails/High School! Kimengumi (Japan).png
+49fe373aa56d47a4  media/thumbnails/Haja no Fuuin (Japan).png
+27c0147445deff54  media/thumbnails/High School! Kimengumi (Japan) (Translated En).png
+f77c0be609cf23ff  media/thumbnails/Hokuto no Ken (Japan).png
+76a057f6daa8e1d5  media/thumbnails/Hoshi wo Sagasite... (Japan).png
+76a057f6daa8e1d5  media/thumbnails/Hoshi wo Sagasite... (Japan) (Translated En).png
+6cd953611ae7fc99  media/thumbnails/Kenseiden (USA, Europe).png
+5ba6182fdf892f61  media/thumbnails/Great Golf (World).png
+6cd953611ae7fc99  media/thumbnails/Kenseiden (Japan).png
+5f7794a20021a6f3  media/thumbnails/Lord of Sword (Japan).png
+0fa34a36539ba899  media/thumbnails/Mahjong Sengoku Jidai (Japan).png
+2cbfe3cf7e7f0e90  media/thumbnails/Makai Retsuden (Japan).png
+391a18bda1b7c247  media/thumbnails/Loretta no Shouzou (Japan).png
+81353b0ad94b55c0  media/thumbnails/Kenseiden (World).png
+c310b4c43b2c6a2a  media/thumbnails/Maou Golvellius (Japan) (Beta).png
+d40fb945fdfbbaed  media/thumbnails/Kujakuou (Japan).png
+5797bdfb5e95895f  media/thumbnails/Lord of the Sword (World).png
+5797bdfb5e95895f  media/thumbnails/Lord of the Sword (USA, Europe).png
+8f60dada129203e8  media/thumbnails/Makai Retsuden.png
+0f6bdfd001683fa1  media/thumbnails/Maou Golvellius (Japan).png
+b56761506958ed8e  media/thumbnails/Masters Golf (Japan).png
+369876e703c49ee2  media/thumbnails/Maze Walker (Japan).png
+8df236f728e46998  media/thumbnails/Nekkyuu Koushien (Japan).png
+0179e5a69e0f4c47  media/thumbnails/Ninja (Japan).png
+47939217395e7a75  media/thumbnails/Ninja, The (USA, Europe).png
+630d7417726e4b96  media/thumbnails/Megumi Rescue (Japan).png
+99f4f3db4aa6ca67  media/thumbnails/Nazca '88 (Japan).png
+3793fa0196f876e1  media/thumbnails/Penguin Land (USA, Europe).png
+47939217395e7a75  media/thumbnails/Ninja, The (World).png
+af917edcac87094a  media/thumbnails/Opa-Opa (Japan).png
+9d13065be78bdcf3  media/thumbnails/Out Run (World).png
+359c2d72b158e70e  media/thumbnails/Phantasy Star (Japan).png
+257829e67b682cd5  media/thumbnails/Pro Yakyuu Pennant Race, The (Japan).png
+1da50172b483e0ad  media/thumbnails/Rocky (World).png
+791a842a6e204a1d  media/thumbnails/Shinobi (USA, Europe).png
+904ddf76fcffc97a  media/thumbnails/R-Type (World).png
+791a842a6e204a1d  media/thumbnails/Shinobi (Japan).png
+02d4d4048c395edc  media/thumbnails/Shinobi (World).png
+20a710d67fd51483  media/thumbnails/Space Harrier (USA, Europe).png
+fd495e0474698289  media/thumbnails/Space Harrier 3-D (USA, Europe).png
+c628f97f32ddc8af  media/thumbnails/Space Harrier (World).png
+20a710d67fd51483  media/thumbnails/Space Harrier (Japan, USA).png
+525b63cf4d81ccb6  media/thumbnails/Space Harrier 3-D (World).png
+b86db2f613150810  media/thumbnails/SDI (Japan).png
+359c2d72b158e70e  media/thumbnails/Phantasy Star (USA, Europe).png
+b17e73e291e342d2  media/thumbnails/PSG -The Castle (SG-1000) (Japan).png
+9d13065be78bdcf3  media/thumbnails/OutRun 3-D (Europe).png
+545cb4dae1d46196  media/thumbnails/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png
+5094357ebfdc0f1b  media/thumbnails/Super Bubble Bobble (Korea) (Unl).png
+36ab8dc634deec62  media/thumbnails/Sports Pad Soccer (Japan).png
+f835e891861a2dac  media/thumbnails/Super Racing (Japan).png
+fd495e0474698289  media/thumbnails/Space Harrier 3D (Japan).png
+545cb4dae1d46196  media/thumbnails/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).png
+71af2af5243ae21c  media/thumbnails/Solomon no Kagi - Oujo Rihita no Namida (Japan).png
+81fb33186926412e  media/thumbnails/Super Wonder Boy - Monster World (Japan).png
+0a53c19a2a2d98ea  media/thumbnails/Super Wonder Boy (Japan).png
+36ab8dc634deec62  media/thumbnails/Sports Pad Football (USA).png
+c3016154bc626bd4  media/thumbnails/Super Wonder Boy (Japan, Europe).png
+c2950a7a4cbdf48e  media/thumbnails/Thunder Blade (USA, Europe).png
+257829e67b682cd5  media/thumbnails/The Pro Yakyuu Pennant Race (Japan).png
+c2950a7a4cbdf48e  media/thumbnails/Thunder Blade (Japan).png
+6cc2e6652f3c4a3e  media/thumbnails/Tensai Bakabon (Japan).png
+0a53c19a2a2d98ea  media/thumbnails/Wonder Boy (USA, Europe).png
+d1bc1ca43b087228  media/thumbnails/The Circuit (Japan).png
+ce8058fcb4a3f30d  media/thumbnails/Tri Formation (Japan).png
+5d988936d8f503f6  media/thumbnails/Thunder Blade (World).png
+3a3412e29f316167  media/thumbnails/World Soccer (World).png
+81fb33186926412e  media/thumbnails/Wonder Boy in Monster World (Europe).png
+69b4bab4bad9556e  media/thumbnails/Zaxxon 3-D (World).png
+6d185b52ea301e08  media/thumbnails/Zillion (USA).png
+ce8058fcb4a3f30d  media/thumbnails/Zillion II - The Tri Formation (World).png
+d6102e7862edd2ec  media/marquee/Action Fighter (Japan).png
+56aeda08a44fd90a  media/marquee/Ace of Aces (Europe).png
+8b4143d12731e18d  media/marquee/94 Super World Cup Soccer (Korea).png
+97b79b31463ed808  media/marquee/Action Fighter (USA, Europe) (v1.2).png
+ff5ad91dbaf12aab  media/thumbnails/[BIOS] Alex Kidd in Miracle World (Korea).png
+97b79b31463ed808  media/marquee/Action Fighter (USA, Europe).png
+e31d65581bc1dcad  media/marquee/After Burner (USA).png
+a421a15720268097  media/thumbnails/Ys (Japan).png
+0bf957d6a79e04c1  media/marquee/Air Rescue (Europe).png
+014969df7c43f0cf  media/marquee/Aerial Assault (USA).png
+308294dccf8dd33d  media/marquee/Addams Family, The (Europe).png
+c551fe29b743ffaf  media/marquee/After Burner (Japan).png
+e31d65581bc1dcad  media/marquee/After Burner (World).png
+94da4f7ffd0b4b10  media/marquee/Aladdin (Europe).png
+022eaae5400fa404  media/marquee/Alex Kidd BMX Trial.png
+7a33b1f22b5b3aa7  media/marquee/Alex Kidd - The Lost Stars (Japan).png
+12bb6fdc4c85ed88  media/marquee/Aleste (Japan).png
+8f04af9fa2a8facc  media/marquee/Akai Koudan Zillion (Japan).png
+1da738c99c569e5f  media/marquee/Alex Kidd - High-Tech World (USA, Europe).png
+022eaae5400fa404  media/marquee/Alex Kidd BMX Trial (Japan).png
+c698d8a011196c1f  media/marquee/Alex Kidd - The Lost Stars (World).png
+2ece947f34334948  media/marquee/Alex Kidd - BMX Trial (Japan).png
+1beccaadca643b53  media/marquee/Alex Kidd BMX Trial_.png
+d59281a53caf1b07  media/marquee/Alex Kidd in Miracle World (USA, Europe) (v1.1).png
+640af64933862afc  media/marquee/Alex Kidd no Miracle World (Japan).png
+dc870f339a4c1717  media/marquee/Alien Syndrome (Japan).png
+4a66c840e2205bf1  media/marquee/Alien Storm (Europe).png
+3b21f8be9b38cbdf  media/marquee/Alien Syndrome (USA, Europe).png
+a355b6cdff4fea06  media/marquee/Alien 3 (Europe).png
+421f141aa693605f  media/marquee/Anmitsu Hime (Japan).png
+d59281a53caf1b07  media/marquee/Alex Kidd in Miracle World (USA, Europe).png
+3f011487c0f4774d  media/marquee/Alf (USA).png
+0a9ca3d3dcf0cc69  media/marquee/Ancient Ys Vanished Omen (USA, Europe).png
+e42d635f384cd896  media/marquee/American Baseball (Europe).png
+c6477c460fbf614b  media/marquee/Altered Beast (USA, Europe).png
+33a941bdf10c008c  media/marquee/Ashura (Japan).png
+e1aa817d5bc8400a  media/marquee/Assault City (Europe) (Light Phaser).png
+d3573a80a6219197  media/marquee/Argos no Juujiken (Japan).png
+2a17e5690b5363e8  media/marquee/American Pro Football (Europe).png
+754ecd4089d349fa  media/marquee/Andre Agassi Tennis (Europe).png
+f8601bc4cd17f77b  media/marquee/Arcade Smash Hits (Europe).png
+796c52ae77941ee2  media/marquee/Asterix (Europe) (En,Fr) (v1.1).png
+e1aa817d5bc8400a  media/marquee/Assault City (Europe).png
+0627cd98e9b87ee1  media/marquee/Asterix and the Secret Mission (Europe) (En,Fr,De).png
+14374d221c348a8b  media/marquee/Argos no Juujiken (Japan) (Translated En).png
+a75190b2bff78f0e  media/marquee/Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).png
+4c433784a03d9afe  media/marquee/Astro Warrior (Japan, USA).png
+8072e51a3c4db659  media/marquee/Astro Warrior & Pit Pot (Europe).png
+504a533222972076  media/marquee/Astro Flash (Japan).png
+28c8f19330d52c75  media/marquee/Astro Warrior (Japan).png
+5e1abef75d7c4c02  media/marquee/Aztec Adventure - The Golden Road to Paradise (World).png
+2745292c5d7c8a84  media/marquee/Bank Panic (Europe).png
+38397686d26ca70e  media/marquee/Back to the Future Part II (Europe).png
+2e369893c1d66c96  media/marquee/Ayrton Senna's Super Monaco GP II (Europe).png
+e16e8f704c4f4cc5  media/marquee/Batman Returns (Europe).png
+de4d20d0570c1bb4  media/marquee/Back to the Future Part III (Europe).png
+50d471ed9a15f1ef  media/marquee/Battle Out Run (Europe).png
+f6c5f69d1f922b7b  media/marquee/Basket Ball Nightmare (Europe).png
+32d4e27520db40f9  media/marquee/Bomber Raid (World).png
+9b1d5558b0343681  media/marquee/Bonanza Bros. (Europe).png
+2b9dc575d020e19b  media/marquee/Bomber Raid (Japan).png
+cfeaf823ac4ff14b  media/marquee/Buggy Run (Europe).png
+084d8ca6a4a01558  media/marquee/Blade Eagle (Japan).png
+50e283f493f606c5  media/marquee/Blade Eagle (World).png
+d76e806abd620ceb  media/marquee/Black Belt (USA, Europe).png
+b23d6034e523e719  media/marquee/California Games (USA, Europe).png
+d3fe687ad9c4c702  media/marquee/California Games II (Europe).png
+f63cf286cf7da2d9  media/marquee/Bram Stoker's Dracula (Europe).png
+fbd434f9d6f2aff2  media/marquee/Bubble Bobble (Europe).png
+3df6c022cf24091b  media/marquee/Casino Games (USA, Europe).png
+f95252761021aec6  media/marquee/Captain Silver (USA).png
+fa5bc1e80bd1afc4  media/marquee/Championship Hockey (Europe).png
+b2390307de05cd1a  media/marquee/Castle of Illusion Starring Mickey Mouse (USA).png
+f4d98ca712b91e48  media/marquee/Cheese Cat-astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).png
+6f04faf5d0c488e0  media/marquee/Champions of Europe (Europe).png
+b55c2b2e2e72b61d  media/marquee/Chuck Rock (Europe).png
+8b0ab7ba460a0e06  media/marquee/Cloud Master (USA, Europe).png
+2beb013d0d4c0cbc  media/marquee/Circuit, The (Japan).png
+0fa2d1b8fe0af541  media/marquee/Chouon Senshi Borgman (Japan).png
+ec47b3bf365f9d75  media/marquee/Choplifter (USA, Europe).png
+d69b97362a7bc4bf  media/marquee/Comical Machine Gun Joe (Japan).png
+79b293e4d7417f05  media/marquee/Chuck Rock II - Son of Chuck (Europe).png
+0d9236b6aab7f7a2  media/marquee/Cosmic Spacehead (Europe) (En,Fr,De,Es).png
+d507ff8d867162a7  media/marquee/Cool Spot (Europe).png
+6b72f6fc8074d4ae  media/marquee/Captain Silver (Japan).png
+f9dd9643d92d34c9  media/marquee/Danan - The Jungle Fighter (Europe).png
+ab2c75107eb5ddc9  media/marquee/Columns (USA, Europe).png
+eb3762d8a8e8509f  media/marquee/Cyborg Hunter (USA, Europe).png
+fd540533c4e28ab2  media/marquee/Deep Duck Trouble Starring Donald Duck (Europe).png
+dba492bd7c765229  media/marquee/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It).png
+d13bcff4a6d89181  media/marquee/Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).png
+c19f4d942e2e7c73  media/marquee/Desert Strike (Europe) (En,Fr,De,Es).png
+d65d91ef190bbf70  media/marquee/Dick Tracy (USA, Europe).png
+b1bf90ccea5c9a98  media/marquee/Dinosaur Dooley, The (Korea).png
+71821d76bf1321f1  media/marquee/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png
+171b9f211227812b  media/marquee/Double Target - Cynthia no Nemuri (Japan).png
+b9adbc70f9130791  media/marquee/Dr. Robotnik's Mean Bean Machine (Europe).png
+7fd9000d34f1150a  media/marquee/Double Dragon (World).png
+6c5e3b8ef5ae3ef4  media/marquee/Dragon - The Bruce Lee Story (Europe).png
+7d18bbb2e845c595  media/marquee/Double Hawk (Europe).png
+9e01c07ca87b4b7f  media/marquee/Dragon Crystal (Europe).png
+8686597a979dd2fd  media/marquee/Double Dragon (Japan).png
+a81aa6542e37aff3  media/marquee/Dynamite Duke (Europe).png
+173d6456dabf8a3e  media/marquee/Dynamite Dux (Europe).png
+0fd29089e65ad408  media/marquee/Enduro Racer (Japan).png
+69c9e0ad8c1a2724  media/marquee/E-SWAT - City Under Siege (USA, Europe) (Hard Version).png
+03ec1909216d8c58  media/marquee/Ecco the Dolphin (Europe).png
+4d64b31079161cf3  media/marquee/Enduro Racer (USA, Europe).png
+ccde5a98e5617b0e  media/marquee/Dead Angle (USA, Europe).png
+086186c2d1053d1d  media/marquee/F-16 Fighting Falcon (Japan).png
+f542c3c36cbdd3b1  media/marquee/Family Games (Japan).png
+ba7e6b93a4ff771a  media/marquee/F1 (Europe).png
+ca2dcf3396e7de69  media/marquee/Fantasy Zone (Japan).png
+ee1d26a199b4f4a8  media/marquee/F-16 Fighting Falcon (USA).png
+ee1d26a199b4f4a8  media/marquee/F-16 Fighter (USA, Europe).png
+5c387bfe8e8f3926  media/marquee/Fantasy Zone (World).png
+de96da44618fb6f8  media/marquee/Fantasy Zone - The Maze (USA, Europe).png
+5c387bfe8e8f3926  media/marquee/Fantasy Zone (World) (v1.2).png
+fe57b20edae8da91  media/marquee/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).png
+5a00a2dfb49b9ab7  media/marquee/Final Bubble Bobble (Japan).png
+a8b205df23a07e23  media/marquee/Fire & Forget II (Europe).png
+ab9952f5b2f583e8  media/marquee/Fantasy Zone II - Opa-Opa no Namida (Japan).png
+995e2c42b0389c30  media/marquee/Flash, The (Europe).png
+8ddd69c2f95b706a  media/marquee/GP Rider (Europe).png
+c449e70449982756  media/marquee/G-LOC Air Battle (Europe).png
+26f37bb442aeaf28  media/marquee/Galactic Protector (Japan).png
+9e38c70680826579  media/marquee/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).png
+48dffe51f2d724b8  media/marquee/Flintstones, The (Europe).png
+e2d1c608cc9aed81  media/marquee/George Foreman's KO Boxing (Europe).png
+41dfcfc8e02d540b  media/marquee/Gangster Town (USA, Europe).png
+6f63bd4bd37202af  media/marquee/Galaxy Force (USA).png
+999d5bb7aed26f33  media/marquee/Ghouls'n Ghosts (USA, Europe).png
+82130d20ae60c8c1  media/marquee/Gain Ground (Europe).png
+610e643a6f83e258  media/marquee/Forgotten Worlds (Europe).png
+db746eace87c1084  media/marquee/Ghost House (Japan).png
+0f1dd91a61bc381c  media/marquee/Gokuaku Doumei Dump Matsumoto (Japan).png
+77311180a308ff86  media/marquee/Gauntlet (Europe).png
+76a0ba0c9ecb0c0e  media/marquee/Gekioko PunPun Maru (Japan) (Unl).png
+852cf086240e1d0b  media/marquee/Golfamania (Europe).png
+b3ece8900e52c36b  media/marquee/Ghostbusters (USA, Europe).png
+c72acf06540e3c5b  media/marquee/Global Defense (USA, Europe).png
+bb690865f2c3bfc8  media/marquee/Golden Axe (USA, Europe).png
+4195f1c6399bbe00  media/marquee/Ghost House (USA, Europe).png
+f484c71874458fe6  media/marquee/Great Basketball (Japan).png
+f78eb58f2fa02821  media/marquee/Great Baseball (Japan).png
+43eb17255dc42483  media/marquee/Great Football (Japan).png
+20fdf432ff4d1ec9  media/marquee/Great Football (World).png
+9e9a59566ae7620a  media/marquee/Great Golf (Japan).png
+152409b387e2b2ad  media/marquee/Golden Axe Warrior (USA, Europe).png
+49a7047fbfef8145  media/marquee/Great Basketball (World).png
+6a3c4e8a1fa24380  media/marquee/Golvellius (USA, Europe).png
+94902e437d938e20  media/marquee/Great Baseball (USA, Europe).png
+bbda9201deed94e5  media/marquee/Great Ice Hockey (Japan).png
+b23540d8c4aae0e4  media/marquee/Great Ice Hockey (Japan, USA).png
+a5851b00b9dba94e  media/marquee/Great Soccer (Japan).png
+58e671bdee9affe9  media/marquee/Great Golf (World).png
+52c8c841534c7765  media/marquee/Great Tennis (Japan).png
+5e8ee8a3074f56e8  media/marquee/Hang-On & Astro Warrior (USA).png
+cd29f2b32f34e265  media/marquee/Hang-On & Safari Hunt (USA).png
+5522ea57fdbc68fe  media/marquee/Great Volleyball (Japan).png
+f5174390adb92551  media/marquee/Great Volleyball (USA, Europe).png
+b3d34b8d2ba14c8b  media/marquee/Haja no Fuuin (Japan).png
+12574de7b5dc8244  media/marquee/Hang-On (Europe).png
+379d50ff204cfc09  media/marquee/Hang-On (Japan).png
+a62ba304c297fac5  media/marquee/Heavyweight Champ (Europe).png
+5512ea5d725fc024  media/marquee/Heroes of the Lance (Europe).png
+ff16e1d22fbf68e9  media/marquee/High School! Kimengumi (Japan) (Translated En).png
+daf0c154d5ad6279  media/marquee/Hokuto no Ken (Japan).png
+5edb68cedfbb20e4  media/marquee/Home Alone (Europe).png
+f96250d257d3a08d  media/marquee/Great Soccer (Europe).png
+2035c9b85887f0f2  media/marquee/Impossible Mission (Europe).png
+c7f418a27491dea7  media/marquee/Hoshi wo Sagasite. (Japan) (Translated En).png
+05c7150323bfdd32  media/marquee/Incredible Crash Dummies, The (Europe).png
+affb3994fbfa8b88  media/marquee/Incredible Hulk, The (Europe).png
+c7f418a27491dea7  media/marquee/Hoshi wo Sagasite... (Japan) (Translated En).png
+261e7c099fedff3e  media/marquee/James Pond 2 - Codename RoboCod (Europe).png
+c1aebcc30a51650f  media/marquee/Indiana Jones and the Last Crusade (Europe).png
+383c4050fce176c9  media/marquee/Joe Montana Football (USA, Europe).png
+ac290e04fdd0cacb  media/marquee/James 'Buster' Douglas Knockout Boxing (USA).png
+c334fccc3d06602b  media/marquee/Jang Pung 3 (Japan).png
+d78e1faa4b2fbb16  media/marquee/Janggun-ui Adeul (Korea).png
+fa4667382cab8fc2  media/marquee/James Bond 007 - The Duel (Europe).png
+4cf3ca0748700458  media/marquee/Jurassic Park (Europe).png
+32237fb26d1d7299  media/marquee/Krusty's Fun House (Europe).png
+c07157d7e6be633c  media/marquee/Klax (Europe).png
+68bafcc6b380e268  media/marquee/Jungle Book, The (Europe).png
+8bc102ec9418fe0c  media/marquee/Kenseiden (USA, Europe).png
+9a9668cafad56cff  media/marquee/King's Quest - Quest for the Crown (USA).png
+4f82213bd8085346  media/marquee/Kenseiden (Japan).png
+b33ada06c1051229  media/marquee/Lemmings (Europe).png
+4093b927a0e7e568  media/marquee/Lord of Sword (Japan).png
+5aa1ab10bda481cb  media/marquee/Kung Fu Kid (USA, Europe).png
+a4679a1dd0ec985c  media/marquee/Line of Fire (Europe).png
+ec65dd5626eb216f  media/marquee/Land of Illusion Starring Mickey Mouse (Europe).png
+677dd9fbac63b57e  media/marquee/Kujakuou (Japan).png
+b34426ff3267ff36  media/marquee/Laser Ghost (Europe).png
+97b4eb11f905276a  media/marquee/Lion King, The (Europe).png
+79c883a513df8892  media/marquee/Lord of the Sword (USA, Europe).png
+e2a6a0de83a45f42  media/marquee/Mahjong Sengoku Jidai (Japan).png
+8531dce89dff1544  media/marquee/Maou Golvellius (Japan).png
+3f4de024a3417785  media/marquee/Lucky Dime Caper Starring Donald Duck, The (Europe).png
+6a4756cb12462194  media/marquee/Makai Retsuden (Japan).png
+8b1ade5a63406a2a  media/marquee/Marble Madness (Europe).png
+196cc2d9186530eb  media/marquee/Marksman Shooting & Trap Shooting (USA).png
+a90a9dab62004434  media/marquee/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).png
+a9e42536474768c9  media/marquee/Masters Golf (Japan).png
+fd2729215a8284d6  media/marquee/Loretta no Shouzou (Japan).png
+0690014c5f43ffd3  media/marquee/Masters of Combat (Europe).png
+486326c4b54867d2  media/marquee/Maze Hunter 3-D (USA, Europe).png
+a404ff66d337be6c  media/marquee/Master of Darkness (Europe).png
+15ae70dbf0f1bb57  media/marquee/Maze Walker (Japan).png
+65ef78af1f97baea  media/marquee/Megumi Rescue (Japan).png
+1c1d34b9f1bd635d  media/marquee/Michael Jackson's Moonwalker (USA, Europe).png
+3f572c07562de92d  media/marquee/Missile Defense 3-D (USA, Europe).png
+766e5129eec88a53  media/marquee/Mercs (Europe).png
+7be14c87769880e1  media/marquee/Monopoly (USA).png
+c4e83e566694c1df  media/marquee/Mick & Mack as the Global Gladiators (Europe).png
+7be14c87769880e1  media/marquee/Monopoly (USA, Europe).png
+cc7d64f85ec54b71  media/marquee/Miracle Warriors - Seal of the Dark Lord (USA, Europe).png
+2b1f1dd6e4b71b38  media/marquee/Micro Machines (Europe).png
+e740051df4506f33  media/marquee/Montezuma's Revenge Featuring Panama Joe (USA).png
+730d380f2b759e02  media/marquee/Mortal Kombat (Europe).png
+1782da29f06bce96  media/marquee/Ms. Pac-Man (Europe).png
+4612090cb0de783b  media/marquee/Nekkyuu Koushien (Japan).png
+dd60c047922acd09  media/marquee/Mortal Kombat II (Europe).png
+cd9b0dec6288b726  media/marquee/Nazca 88 - The Golden Road to Paradise (Japan).png
+f7800c35fb348af5  media/marquee/New Zealand Story, The (Europe).png
+88cb210516723f9f  media/marquee/My Hero (USA, Europe).png
+46e6479211bd96ad  media/marquee/Ninja, The (USA, Europe).png
+3b70d21cddf44a19  media/marquee/Opa-Opa (Japan).png
+5b1ba6015d3b2ac8  media/marquee/Ninja, The (Japan).png
+679326075ef781bd  media/marquee/Operation Wolf (Europe).png
+1a43188686d6567b  media/marquee/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png
+7e089254019a02d3  media/marquee/Out Run 3-D (Europe).png
+b6d5faea8629f632  media/marquee/Ottifants, The (Europe) (En,Fr,De,Es,It).png
+f32ab0a58e024834  media/marquee/Out Run (World).png
+87390e0da60ce00b  media/marquee/OutRun 3-D (Europe).png
+226b3aa4bfabccaa  media/marquee/Paperboy (USA).png
+3683ecb23a7f9b8c  media/marquee/Pac-Mania (Europe).png
+ba89905e4f11abf1  media/marquee/Parlour Games (USA, Europe).png
+76b551d284e4bf67  media/marquee/PGA Tour Golf (Europe).png
+3a08fb1a82ee3cf4  media/marquee/Penguin Land (USA, Europe).png
+87390e0da60ce00b  media/marquee/OutRun (Japan).png
+38b456888d226bdd  media/marquee/Phantasy Star (USA, Europe).png
+328a5cdb6e1e2f4d  media/marquee/Out Run Europa (Europe).png
+7cc11aa7232ed968  media/marquee/Phantasy Star (USA, Europe) (v1.3).png
+38b456888d226bdd  media/marquee/Phantasy Star (Japan).png
+7f497238f678a95f  media/marquee/Pit Fighter (Europe).png
+4e30a6a40a626af9  media/marquee/Poseidon Wars 3-D (USA, Europe).png
+d44c34c766d0f3b1  media/marquee/Populous (Europe).png
+0c1e45f1874a26a7  media/marquee/Pit Pot (Japan).png
+fe11fa801b8c14b6  media/marquee/Power Strike (USA, Europe).png
+fc4b9f5ad14ad2ec  media/marquee/Prince of Persia (Europe).png
+5b497085d155935b  media/marquee/Pro Yakyuu Pennant Race, The (Japan).png
+9b50d59d8f68a064  media/marquee/Pro Wrestling (USA, Europe).png
+6b16352b1fd08247  media/marquee/Power Strike II (Europe).png
+ef0ba9df2918b674  media/marquee/Predator 2 (Europe).png
+ad0e35c43d0679ef  media/marquee/Quartet (USA, Europe).png
+5113c0e81f21bd3a  media/marquee/R.C. Grand Prix (USA, Europe).png
+77e2fd6ddf35b7ec  media/marquee/R-Type (Japan).png
+4f10fb1773b8ec12  media/marquee/R-Type (World).png
+7ee1b4460dfc6980  media/marquee/Putt & Putter (Europe).png
+1417ef1fe387efd8  media/marquee/Rambo III (USA, Europe).png
+a54449991bdb20aa  media/marquee/Psycho Fox (USA, Europe).png
+59ae1dc671862025  media/marquee/Rainbow Islands - The Story of Bubble Bobble 2 (Europe).png
+8a9f1c0afbcfd7af  media/marquee/Rampage (USA, Europe).png
+cd3574fae398871a  media/marquee/Rampart (Europe).png
+bb40478a82b69c20  media/marquee/Reggie Jackson Baseball (USA).png
+9fb2fc9b244aa2d3  media/marquee/Renegade (Europe).png
+ed96b7933354c2b5  media/marquee/Psychic World (Europe).png
+6e59d0f43f4cfdcd  media/marquee/RoboCop 3 (Europe).png
+d1111d6ae9ac5b21  media/marquee/RoboCop versus The Terminator (Europe).png
+ead74050a840b55f  media/marquee/Rambo - First Blood Part II (USA).png
+b5435ed7c50d9d83  media/marquee/Rocky (World).png
+d3a5ccd0c8adf345  media/marquee/Running Battle (Europe).png
+63c4255d2be0dc6e  media/marquee/Road Rash (Europe).png
+79419224eaf90132  media/marquee/Sangokushi III (Korea).png
+980e9897a789ec98  media/marquee/Scramble Spirits (Europe).png
+9cf53d4032d46f8a  media/marquee/Rocky (Japan).png
+95eccc136d2100f2  media/marquee/Rescue Mission (USA, Europe).png
+200a489c7f99e436  media/marquee/Rastan (USA, Europe).png
+87a507734124c64b  media/marquee/Sagaia (Europe).png
+9d579434a45e3516  media/marquee/Satellite 7 (Japan).png
+2dc83cac6fa00ed2  media/marquee/Sega World Tournament Golf (Europe).png
+5705d0d72f339d33  media/marquee/SDI (Japan).png
+c219dd8d6d3d31ea  media/marquee/Seishun Scandal (Japan).png
+7793f7d789b71d9d  media/marquee/Shanghai (USA, Europe).png
+52c4a07974bb3615  media/marquee/Sega Chess (Europe).png
+dfb9ea5e4cd7a4a3  media/marquee/Shadow Dancer (Europe).png
+f4ab16f16ac1e362  media/marquee/Shadow of the Beast (Europe).png
+3e9b04ae76edcd83  media/marquee/Shooting Gallery (USA, Europe).png
+fab77b81e943cac7  media/marquee/Sensible Soccer (Europe).png
+4ca59281cef7433e  media/marquee/Shinobi (USA, Europe).png
+156fd5b255dc39a5  media/marquee/Secret Command (Europe).png
+953e1b5473271108  media/marquee/Shinobi (Japan).png
+b068917a24d46e2f  media/marquee/Simpsons, The - Bart vs. The Space Mutants (Europe).png
+2b1ae96cdf96fd1a  media/marquee/Simpsons, The - Bart vs. The World (Europe).png
+7f5fd714adca755f  media/marquee/Solomon no Kagi - Oujo Rihita no Namida (Japan).png
+cc867b590e84aae8  media/marquee/Smurfs, The (Europe) (En,Fr,De,Es).png
+6474d1fac27bf3a3  media/marquee/Sonic Chaos (Europe).png
+01e58ceeb1f303ed  media/marquee/Sonic The Hedgehog (USA, Europe).png
+e37eb1942a2c1dec  media/marquee/Space Gun (Europe).png
+bbb4a823871f9553  media/marquee/Space Harrier (USA, Europe).png
+11856c7209431c51  media/marquee/Slap Shot (USA) (v1.1).png
+e4c9c2dce85d757d  media/marquee/Space Harrier 3-D (USA, Europe).png
+490c9bceb009a8ca  media/marquee/Space Harrier (Japan).png
+55ed832441f10b36  media/marquee/Sonic Spinball (Europe).png
+20d03f11a879f903  media/marquee/Speedball (Europe) (Virgin).png
+7ebe43bf79e19c78  media/marquee/Sonic The Hedgehog 2 (Europe) (v1.1).png
+64857425051b81f5  media/marquee/Speedball 2 (Europe).png
+ae789c0e547115c5  media/marquee/Space Harrier 3D (Japan).png
+999cc81e32612f5e  media/marquee/Special Criminal Investigation (Europe).png
+dba2cbd5ad17d118  media/marquee/Sports Pad Football (USA).png
+b7f81aa7fd14feff  media/marquee/Spider-Man vs. The Kingpin (USA, Europe).png
+e2a0b94edadaee19  media/marquee/Spider-Man - Return of the Sinister Six (Europe).png
+36ab0f12c7efb6ca  media/marquee/Spy vs. Spy (Japan).png
+a3ea251a5f5449fc  media/marquee/Spy vs. Spy (USA, Europe).png
+08049b3ed388515d  media/marquee/Sports Pad Soccer (Japan).png
+37c5ee71cdf06321  media/marquee/Streets of Rage (Europe).png
+b1abffbb1bdcee43  media/marquee/SpellCaster (USA, Europe).png
+ae514398d5121bfa  media/marquee/Star Wars (Europe).png
+9e792838d160c941  media/marquee/Streets of Rage II (Europe).png
+56dda2f7eab9bfc7  media/marquee/Strider II (Europe).png
+82c48ef0a8b8f4f7  media/marquee/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En).png
+d9c02724dea17b5c  media/marquee/Summer Games (Europe).png
+373057ff2528f153  media/marquee/Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png
+a01a211d70eda081  media/marquee/Super Monaco GP (USA).png
+bda35ddf0c1c4ccb  media/marquee/Submarine Attack (Europe).png
+00988595ebd7b310  media/marquee/Strider (USA, Europe).png
+051c9addcf94bec3  media/marquee/Super Smash T.V. (Europe).png
+65862a9ed6830591  media/marquee/Super Tennis (USA, Europe).png
+20d03f11a879f903  media/marquee/Speedball (Europe) (Mirrorsoft).png
+02e729e87655cf52  media/marquee/Super Off Road (Europe).png
+a053f36d3fb7ccd7  media/marquee/Super Wonder Boy - Monster World (Japan).png
+f5283b57ebf6ff10  media/marquee/Super Wonder Boy (Japan).png
+18c01ee7a1b6737d  media/marquee/Superman - The Man of Steel (Europe).png
+b51134a25ba71e51  media/marquee/Super Racing (Japan).png
+51baf241ce88dfc2  media/marquee/T2 - The Arcade Game (Europe).png
+bb1583c411c18bb5  media/marquee/Taito Chase H.Q. (Europe).png
+661bcd64654dd110  media/marquee/Super Space Invaders (Europe).png
+5ccc6808288082b1  media/marquee/Taz-Mania (Europe).png
+7abf2e4008ae1bb6  media/marquee/Tennis Ace (Europe).png
+2ea48bb91047ec8b  media/marquee/Tecmo World Cup '93 (Europe).png
+12ee08eefc1164b4  media/marquee/Teddy Boy (USA, Europe).png
+34994218eb7bbf74  media/marquee/Teddy Boy Blues (Japan).png
+be4923895ea7ad7f  media/marquee/Tensai Bakabon (Japan).png
+0695dd94f5af8730  media/marquee/Terminator, The (Europe).png
+c05f8bee437d3366  media/marquee/Terminator 2 - Judgment Day (Europe).png
+8133f4ac3b7313c1  media/marquee/Thunder Blade (Japan).png
+6436a8b399f0b108  media/marquee/Thunder Blade (USA, Europe).png
+1f24843a0427c5ef  media/marquee/TransBot (USA, Europe).png
+31da8554ce868f7e  media/marquee/Tri Formation (Japan).png
+9fb52e29ab1c7dea  media/marquee/Time Soldiers (USA, Europe).png
+9f9023ab3eb5ec3e  media/marquee/Ultima IV - Quest of the Avatar (Europe).png
+013ac8e966d9441a  media/marquee/Tom and Jerry - The Movie (Europe).png
+b5cbf4a060aab916  media/marquee/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).png
+e2d211283ed913af  media/marquee/Walter Payton Football (USA).png
+0a23d139b5317280  media/marquee/Wanted (USA, Europe).png
+5e418e2c337d429a  media/marquee/Vigilante (USA, Europe).png
+0f2d93131e3b15f4  media/marquee/WWF Wrestlemania - Steel Cage Challenge (Europe).png
+1dbeb7a172376a69  media/marquee/Where in the World is Carmen Sandiego (USA).png
+1c75064eb340f834  media/marquee/Ultimate Soccer (Europe) (En,Fr,De,Es,It).png
+ce464938e18055cb  media/marquee/Wimbledon II (Europe).png
+e8708d7040e5b90f  media/marquee/Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).png
+8716d298298e9d25  media/marquee/Wimbledon (Europe).png
+d4496574c49abd87  media/marquee/Wonder Boy III - The Dragon's Trap (USA, Europe).png
+04f66f5c5d94b9f4  media/marquee/Wonder Boy (USA, Europe).png
+97d3290fe57451c5  media/marquee/Wolfchild (Europe).png
+2225c189bdc3dcc0  media/marquee/Wonder Boy in Monster World (Europe).png
+2adce4690672c262  media/marquee/World Cup USA 94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png
+4564996fdc5d5128  media/marquee/World Cup Italia '90 (Europe).png
+a8acebb2da5db958  media/marquee/World Games (Europe).png
+72f2b755bf320f9a  media/marquee/World Class Leader Board (Europe).png
+044a4beca0b15343  media/marquee/World Grand Prix (USA).png
+32e6eb04af593139  media/marquee/World Soccer (Japan).png
+6cc566c638cf3cee  media/marquee/Woody Pop - Shinjinrui no Block Kuzushi (Japan).png
+49e70392241c95db  media/marquee/World Soccer (World).png
+b102807f9bf95f77  media/marquee/Xenon 2 - Megablast (Europe) (Image Works).png
+b102807f9bf95f77  media/marquee/Xenon 2 - Megablast (Europe) (Virgin).png
+cf0bec70c402a5c1  media/marquee/Zaxxon 3D (Japan).png
+2dfcb318c6db5ecc  media/marquee/Zillion (Europe) (v1.2).png
+adea0ccd4de11c66  media/marquee/Zaxxon 3-D (World).png
+2dfcb318c6db5ecc  media/marquee/Zillion (USA) (v1.1).png
+0a9ca3d3dcf0cc69  media/marquee/Ys - The Vanished Omens (USA, Europe).png
+11f13c495bfd107c  media/marquee/Ys (Japan).png
+2537b2e624d3bf2d  media/marquee/Zillion II - The Tri Formation (World).png
+8f04af9fa2a8facc  media/marquee/Zillion (USA).png
+0d6a306c11187569  media/marquee/Zool - Ninja of the 'Nth' Dimension (Europe).png
+8f2327d7a77ef4ff  media/marquee/Big/Akai Koudan Zillion (Japan) Big.png
+3d81c4670dadb55c  media/marquee/Big/Shinobi (Japan) Big.png
+16de9fa1954e34d4  media/marquee/Big/Lord of Sword (Japan) Big.png
+6ea583671598298a  media/marquee/testeeeeeeeeee.psd
+8c3ec026fc4a0a5d  media/marquee/Big/Sports Pad Soccer (Japan) Big.png
+ad5eb10f5004720a  media/marquee/Big/Haja no Fuuin (Japan) Big.png

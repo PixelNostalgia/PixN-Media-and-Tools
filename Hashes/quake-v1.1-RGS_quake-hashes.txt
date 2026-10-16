@@ -1,0 +1,66 @@
+2d06800538d394c2  hipnotic.quake
+2d06800538d394c2  rogue.quake
+2d06800538d394c2  id1.quake
+2d06800538d394c2  dopa.quake
+ffab3c4333df0cce  hipnotic/music/track03.flac
+110a528407c1077a  id1/pak0.pak
+4ad6cb8ec8e4ed6e  hipnotic/music/track04.flac
+4b5e92ebe017cc7d  hipnotic/music/track05.flac
+695d5c3e874abe59  hipnotic/music/track02.flac
+818ca917b64de318  rogue/pak0.pak
+41f70cee0ea11603  hipnotic/pak0.pak
+83531a343011ad63  hipnotic/music/track08.flac
+e3d429d947ad8808  hipnotic/music/track09.flac
+e9b53765e4e3c737  id1/pak1.pak
+11db4d6d890e3454  hipnotic/music/track06.flac
+5e995ee3eb204718  hipnotic/music/track07.flac
+bd5a87d9bd9b97f1  rogue/music/track03.flac
+63dcfe8f578d8bcc  rogue/music/track02.flac
+53f210c1e4f00289  rogue/music/track07.flac
+3163572fef2cf5b8  rogue/music/track06.flac
+1251260ba11fe279  rogue/music/track04.flac
+91f54af77bfa0db3  rogue/music/track05.flac
+23193abd60691931  rogue/music/track09.flac
+cb300e75c250b50e  rogue/music/track08.flac
+47e21b2d01ea6670  dopa/pak0.pak
+96139521c7fba5a5  id1/music/track02.flac
+b4369a641ce52597  id1/music/track03.flac
+1806e80c99d8c63f  id1/music/track08.flac
+10f23d9fa5cd74c8  id1/music/track05.flac
+fc432cbdcde74710  media/fanarts/pak0.png
+68d2c5e5faca603c  id1/music/track06.flac
+18898d933c959e97  media/cartridges/id1.png
+c926d888a187071a  media/cartridges/hipnotic.png
+aa108f8285d1ea01  media/titles/pak0.png
+5fdaaf7ce412a576  id1/music/track04.flac
+4d71fb79650ee8ba  id1/music/track07.flac
+0487a3619e3e2431  media/cartridges/pak0.png
+3ebbbd4e77f9aec8  id1/music/track10.flac
+43b3bb44ce01bc72  media/boxback/hipnotic.jpg
+a9b3c670b6bae829  id1/music/track09.flac
+595c7c01239e4a28  media/cartridges/rogue.png
+93b2bf329e3fe279  media/box2d/dopa.png
+7590727c625b1d1a  media/boxback/rogue.jpg
+1ec7dcd527a02bab  media/images/Dimension of the Past.png
+d8ab598712d56a19  media/boxback/id1.jpg
+459bc4307a74f809  media/images/Quake Mission Pack 2 Dissolution of Eternity.png
+2e34582a9930f55a  id1/music/track11.flac
+c06d1ee72f5cc459  media/images/Quake Mission Pack 1 Scourge of Armagon.png
+3ced4137a11417fd  media/images/Quake.png
+af2abfb6053c2c24  media/box2d/id1.png
+e35aaab67db6ce04  media/box2d/hipnotic.png
+f28a85269694928b  media/box2d/rogue.png
+21edb88b33eb53c5  media/marquee/Quake Mission Pack 2 Dissolution of Eternity.png
+67777f7b4398df84  media/manuals/id1.pdf
+f9a5523bd8b5f523  media/thumbnails/hipnotic.png
+99b507d6f2acacde  media/marquee/Quake.png
+19d37561e2ba7277  media/marquee/Quake Mission Pack 1 Scourge of Armagon.png
+857a2870a0492115  media/marquee/Dimension of the Past.png
+1c14b174357427b9  media/thumbnails/id1.png
+b9aa7bf4489b0a2c  media/thumbnails/dopa.png
+1c0f6d56681d663a  media/thumbnails/rogue.png
+49e675b7e13735f9  media/manuals/rogue.pdf
+52d8a4d4311b61e6  media/videos/Quake.mp4
+83d2e2b92b284747  media/videos/dopa.mp4
+b8404e655cfc2bcb  media/videos/hipnotic.mp4
+dad9878657ece9ca  media/videos/rogue.mp4

@@ -1,0 +1,1042 @@
+3b9a6fd60805677f  Blockbuster (Europe) (Unl).tap
+6c9bde971023bb31  4KKong (Europe) (Unl).tap
+204fa19813518164  Awari (Europe).tap
+fd787fa8d03f4799  3D Maze (Europe).tap
+2cd9148c721b11ad  Arena 3000 (Europe).tap
+18303582f7186987  Airline (Europe).tap
+71deb5d8b183a2f1  Breakout (Compuden) (Europe).tap
+14bd27e374e5c87c  Boss, The (Europe).tap
+924548ec70ce0846  Battle Flight 4 (Europe).tap
+58d1091b60d705be  Candyfloss (Europe).tap
+badf6ce6bfbf968a  Centipede (Europe).tap
+4d179fcd9e0398f1  Attack of the Cybermen (Europe).tap
+13cdbde3f75b76b7  Chess II (Europe).tap
+cbf5b2b3873b4614  Bricky (Europe).tap
+afed84a9c547d050  Breakout-Machine (Europe) (Unl).tap
+de448bbb8154d51a  Chess (Tansoft) (Europe).tap
+00b724c563ae2a81  Chopper (Severn Software) (Europe).tap
+544680cff6fd59da  Contract Bridge (Europe).tap
+306167a3db5be3e8  Chess (IJK Software) (Europe).tap
+13f972243e4fe191  Dallas (Europe).tap
+0ccdfcd3f3251926  Cribbage (Europe).tap
+0daafc62d52a49cb  Dinky Kong (Europe).tap
+78c065deb9737717  Damsel in Distress (Europe).tap
+24f8bc5ec3855901  Death Driver (Europe).tap
+2bb8efec376d24ee  Dexterite (Europe).tap
+616c025ec19dee28  Crabes (Europe) (Unl).tap
+19626105f79378b7  Driver (Tansoft) (Europe).tap
+ca160e73dd8b9a5d  Draughts (Europe).tap
+a3af1e70e37868f8  Dracula's Revenge (Europe).tap
+63af53204b51ab41  Don Juan (Europe).tap
+80231e11f8964d00  Fire Flash (Europe).tap
+013feb9ed0dee93a  Fantasy Quest (Europe).tap
+89b45f55d0a78020  Flight Simulator (Europe) (Unl).tap
+d7c891492cc96564  Flight Simulator (Europe).tap
+37c252c82984d1cb  Galaxians (Europe).tap
+876e07a9e037d9c1  Ghostman (Europe).tap
+342037a59501dce5  Flight 401 (Europe).tap
+46033cbc63e25254  Gravitor (Europe).tap
+e5f11aada93f4859  Hangman (UTS) (Europe).tap
+54b8c5f9d394baa9  Elektro Storm (Europe).tap
+80a1365e7a630522  Frigate Commander (Europe).tap
+fb5e3a15001ccf15  Frog-Hop! (Europe).tap
+1e3917f9a6f8453b  Football Manager (Europe).tap
+d3eb81f7772e1a88  Green Cross Toad (Europe).tap
+599f46750fb3aebe  Harrier Attack (Europe).tap
+38a75eb62411ec1b  Ghost Gobbler (Europe).tap
+ee469ae1ab9c22da  Hellion, The (Europe).tap
+c05abcb527c4c22f  Hell's Temple (Europe).tap
+3d6bc49d9745ba64  Hop Frog (Europe).tap
+2e6b62a84f7d46fe  Hollywood Director (Europe).tap
+61b06f6c105877ea  Hobbit, The (Europe).tap
+cdd01ce9f75e40de  House of Death (Europe).tap
+e33e58c86599f20d  Ice Giant (Europe).tap
+c391f25d5ec98912  Hopper (Europe).tap
+95cf3a0e67355d12  Insect Insanity (Europe).tap
+628334dd133861ed  Karate (Europe).tap
+3b8c4314233009a4  Island of Death (Europe).tap
+eee146e741579ac7  Johnny Reb (Europe).tap
+d4923f85d6822d0d  Keys of Kraal, The (Europe) (Unl).tap
+2ef242bf4a724333  Krillys (Europe).tap
+7095142ba34d14a4  Light Cycle (Europe).tap
+c339f33023b83bff  Land of Illusion (Europe).tap
+f16301f0886f1396  Hunchback (Europe).tap
+6a519491fd81ea96  Kilburn Encounter (Europe).tap
+c4a3d86075f8b08f  Las Vegas High (Europe) (Unl).tap
+ab25cb14ba3c5dab  Jogger (Europe).tap
+cd7b62702e6e0996  Luna Landa (Europe).tap
+ddbe4188d0350cdc  Loki (Europe) (Unl).tap
+5d3f9b5241036b41  Lone Raider (Europe).tap
+307b0fad2118c245  Lunar Lander (Durell Software) (Europe).tap
+b3caef050424f228  Mined Out (Europe).tap
+84f7e5e6e00a93e2  Mines Of Moria, The (Europe).tap
+562d7185d13cccb8  M.A.R.C. (Europe).tap
+92a397bb33d4882c  Mission Impossible (Europe).tap
+056c3e102b322b8b  Manic Miner (Europe).tap
+53f5ef2e3660b5f1  Miner (Europe).tap
+12edc86c2fbe3736  Mr Wimpy (Europe).tap
+e594377b01b31389  Moon Buggy (Europe).tap
+4e5823a1b932145b  Mushroom Mania (Europe).tap
+2a1191569b9980db  Night Fight (Europe).tap
+1fd6349e3878e898  Oric Munch (Europe).tap
+523145e1c4186178  Night Rider (Europe).tap
+d156ace55b98bc4b  Nowotnik Puzzle (Europe).tap
+ddd2a5a27d14e4fe  Oric Parchen Kirchen (Europe).tap
+bc761a9b001ee3cf  Oric Worm (Europe).tap
+8dcba5b3fcc148e9  Oric Bandit (Europe).tap
+261ab60b8f351410  Painter (Europe).tap
+28b07fd21c7c3c17  Othello (Europe).tap
+233ecff807e4ac60  Oric Flight (Europe).tap
+68840897a97661c6  Parachute (Cascade Games Ltd) (Europe) (Atmos).tap
+2e978f931a371cfc  Paras (Europe).tap
+68d6c4e253a07e88  Pasta Blasta (Europe).tap
+8021ae3d4119fb2d  Plouf (Europe) (Unl).tap
+f714df00d6222fdf  Poopy (Europe).tap
+ad32bf536462d13a  Pontoon (Coconut Computer Co Ltd) (Europe).tap
+785192584141618d  Rat Splat! (Europe).tap
+8024ec63c8a952a5  Playground 21 (Europe).tap
+f9bc7d550f36f12f  Quest (Europe).tap
+9a84733e833cd381  Probe 3 (Europe).tap
+fab5515e1c8ed8cc  Road Frog (Europe).tap
+5d8c47c6246a2d83  Scuba Dive (Europe).tap
+55ec43b3130582eb  Show-Jumping (Europe).tap
+a1959f734aa528a7  Rock 'N Roll (Europe).tap
+ec34ef995e7e7fd8  Star Trek (Europe) (Atmos).tap
+9d0ef2e386df5bb6  Snake Venom (Europe).tap
+1e101cd0e239808e  Spooky Mansion (Europe).tap
+1ed2be51cc5643c3  Starfighter (Europe).tap
+180aa6b022d4c6ab  Skramble (Europe).tap
+e41c996fde160ad3  Stock Market (Europe).tap
+8b74836aaa1b11c4  Styx (Europe).tap
+a5ccc3e9b217d53c  Super Meteors (Europe).tap
+396a49a2908add68  Tracer Racer (Europe).tap
+7fcec5bd52d10aa7  Super Fruit (Europe).tap
+944431726aba0da5  Super-Maze (Europe) (Unl).tap
+39779fcffb686932  Tyrann (Europe).tap
+c6678c4894fcd02c  Two Gun Turtle (Europe).tap
+d2885472ce627953  Ultima Zone (Europe).tap
+f2992e8690d5b531  Velnor's Lair (Europe).tap
+f3cd8e922c7e1c48  Valley, The (Europe).tap
+cfedf2fe092191e6  Ultra, The (Europe).tap
+b1b03518578d4c4b  Warlord (Europe).tap
+774447140782b736  Way to King Kung Fu, The (Europe).tap
+5ecd38d2a0b5f870  Trick Shot (Europe).tap
+341075491c5519f2  Waydor (Europe).tap
+75b709b24b003f37  White Barrows, The (Europe).tap
+6a8e89f4ef3dba3c  Water Panic (Europe).tap
+e88ee5832945170f  Xenon 3 - The Genesis Probe (Europe).tap
+240bfed1cf61b3ea  Zebbie (Europe).tap
+6d8676c8534119b1  Zorgon's Revenge (Europe).tap
+0cdf95c5e9444d21  gamelist.xml.old
+a73056116823fc53  media/fanarts/Mr Wimpy (Europe).jpg
+103672118d172432  media/fanarts/Hunchback (Europe).jpg
+71269231ee25d692  media/fanarts/Scuba Dive (Europe).jpg
+ae28213ca3425cb8  media/fanarts/Boss, The (Europe).jpg
+f9c666e73e7faed6  media/boxback/3D Maze (Europe).jpg
+0bc2f10f6f992876  media/fanarts/Galaxians (Europe).jpg
+aa01cd02b7a884fe  media/boxback/Awari (Europe).jpg
+2024bcca578ca8b3  media/fanarts/Manic Miner (Europe).jpg
+efb689406d2ac17a  media/boxback/Airline (Europe).jpg
+fce1e3596e31fc8c  media/boxback/Arena 3000 (Europe)-01.jpg
+03e7642a1b09ebee  media/boxback/Boss, The (Europe).png
+df4742386d2a23fb  media/boxback/Chess (IJK Software) (Europe)-01.jpg
+c8cb880655e0b463  media/boxback/Arena 3000 (Europe).jpg
+77024407f9bb93d9  media/boxback/Centipede (Europe).jpg
+97d5ae930056fb4e  media/boxback/Candyfloss (Europe).jpg
+8d14c42b3b791e42  media/fanarts/Arena 3000 (Europe).jpg
+39ede8e8a892777d  media/boxback/Attack of the Cybermen (Europe).jpg
+df4742386d2a23fb  media/boxback/Chess (Tansoft) (Europe).jpg
+df4742386d2a23fb  media/boxback/Chess (IJK Software) (Europe).jpg
+403d8e356b2bab1b  media/boxback/Draughts (Europe).jpg
+8b746fe5d3aa088a  media/boxback/Chess II (Europe).jpg
+396d6eda4ede187f  media/boxback/Dallas (Europe).png
+3c88e3caf8533fb8  media/boxback/Damsel in Distress (Europe).jpg
+75d2f06ee74c61db  media/boxback/Cribbage (Europe).jpg
+81c63338e36c52b2  media/boxback/Fantasy Quest (Europe).jpg
+7d4f02f70653f74a  media/boxback/Don Juan (Europe).png
+c4d6629218ea4e47  media/boxback/Contract Bridge (Europe).jpg
+636747b192b1c6ed  media/boxback/Elektro Storm (Europe).jpg
+00056728fe465ee5  media/boxback/Driver (Tansoft) (Europe).jpg
+af32ecb856385500  media/boxback/Flight Simulator (Europe) (Unl)-01.png
+23188512cbed3b21  media/boxback/Ghostman (Europe).jpg
+49dd0d518b64375c  media/boxback/Flight 401 (Europe).jpg
+af32ecb856385500  media/boxback/Flight Simulator (Europe) (Unl).png
+4c9730497f0af44b  media/boxback/Fire Flash (Europe).jpg
+a1756531831116aa  media/boxback/Green Cross Toad (Europe).jpg
+2a078c3e6234e7d1  media/boxback/Harrier Attack (Europe).png
+33c211a6b9c6ed38  media/boxback/Jogger (Europe).jpg
+7740ce71e41d43b6  media/boxback/Island of Death (Europe).jpg
+e588c08c8f9617b3  media/boxback/Hell's Temple (Europe).jpg
+9a2693b57879f2b8  media/boxback/Hunchback (Europe).jpg
+cfe2577fa6d36b63  media/boxback/Galaxians (Europe).jpg
+499aa8f516d89c18  media/boxback/House of Death (Europe).jpg
+ccb8e80a4fb79a6c  media/boxback/Hopper (Europe).png
+7b68d732d7d7f1f7  media/boxback/Land of Illusion (Europe).jpg
+6ac7da74c14d5e0c  media/boxback/Mined Out (Europe).jpg
+2e9a3ec28343fa33  media/boxback/Mr Wimpy (Europe).png
+1f97d1d220d2b0b1  media/boxback/Manic Miner (Europe).png
+0b0ed53ba2212eed  media/boxback/Kilburn Encounter (Europe).png
+66b49509fb493b1e  media/boxback/Johnny Reb (Europe).png
+7310380cfbc8cba3  media/boxback/Mushroom Mania (Europe).jpg
+363f4d54c3004ea7  media/boxback/Light Cycle (Europe).jpg
+81c63338e36c52b2  media/boxback/Quest (Europe)-01.jpg
+1c9df56ad61f1d95  media/boxback/Pasta Blasta (Europe).jpg
+2eb388cf6930d7f4  media/boxback/Painter (Europe).jpg
+2af8782685b2d93f  media/boxback/Playground 21 (Europe).jpg
+626fe05aa587ff4d  media/boxback/Lone Raider (Europe).jpg
+81c63338e36c52b2  media/boxback/Quest (Europe).jpg
+18b0ff5f28060036  media/boxback/Rat Splat! (Europe).png
+723724eda0e23681  media/boxback/Ultra, The (Europe).jpg
+bf4048048219fa77  media/boxback/Trick Shot (Europe).jpg
+4793a8c10e850368  media/boxback/Probe 3 (Europe).jpg
+2401f8c0da7b5c38  media/boxback/Water Panic (Europe).jpg
+d7c3e57677b6bf14  media/marquee/3D Maze (Europe).png
+959adff32a922823  media/boxback/Xenon 3 - The Genesis Probe (Europe).jpg
+18416f7d24c0f2b1  media/boxback/Zebbie (Europe).jpg
+e21fc27f28be0d1f  media/marquee/Airline (Europe).png
+b5ea1d143e89b6b5  media/marquee/Arena 3000 (Europe).png
+60c2028e17cac3c6  media/boxback/Tyrann (Europe).jpg
+53b29774cd39e16a  media/marquee/4KKong (Europe) (Unl).png
+9fd5c1d7bd2808e9  media/marquee/Awari (Europe).png
+3e67daba2d0874a7  media/marquee/Blockbuster (Europe) (Unl).png
+31bf11c0b7917abd  media/marquee/Attack of the Cybermen (Europe).png
+0c0bdf1e67997f23  media/marquee/Battle Flight 4 (Europe).png
+b56fa6f9f85f4c1c  media/marquee/Boss, The (Europe).png
+4d3f635ce86c7686  media/marquee/Breakout-Machine (Europe) (Unl).png
+cafa00070d49893f  media/boxback/Waydor (Europe).jpg
+ae0ecfdd735738be  media/marquee/Breakout (Compuden) (Europe).png
+7d34c5d0e9596aca  media/marquee/Centipede (Europe).png
+53ea3e77c71b215d  media/marquee/Candyfloss (Europe).png
+880dec91b2129211  media/marquee/Chopper (Severn Software) (Europe).png
+1e010be740902114  media/boxback/Zorgon's Revenge (Europe).jpg
+43744c7be0e37634  media/marquee/Bricky (Europe).png
+37b56779fc2edb52  media/marquee/Crabes (Europe) (Unl).png
+714277d751a4fe92  media/marquee/Chess (Tansoft) (Europe).png
+3bea8f6dc9c60e65  media/marquee/Chess (IJK Software) (Europe).png
+3d6d7a654e3c6a3d  media/marquee/Damsel in Distress (Europe).png
+2621f39748a04773  media/marquee/Contract Bridge (Europe).png
+47e96416e5952a5c  media/marquee/Cribbage (Europe).png
+609f166f830ea6cd  media/marquee/Dinky Kong (Europe).png
+01e85fc496dc9946  media/marquee/Chess II (Europe).png
+04b91bf190cb53f7  media/marquee/Don Juan (Europe).png
+d1d3b82ab4f6e1fb  media/marquee/Dallas (Europe).png
+d1f2b67a6fd1f014  media/marquee/Death Driver (Europe).png
+9e24c0ad4e1761b7  media/marquee/Driver (Tansoft) (Europe).png
+1e4442d6d8849238  media/marquee/Draughts (Europe).png
+9e735bf7b32e3fd7  media/marquee/Fantasy Quest (Europe).png
+c57064c5d279eeed  media/marquee/Dexterite (Europe).png
+1ee9630c723cb6ca  media/marquee/Dracula's Revenge (Europe).png
+7f8b995d2148b226  media/marquee/Flight Simulator (Europe) (Unl).png
+fc55e7f9b4c6ea6a  media/marquee/Flight Simulator (Europe).png
+ccb55ef93ddba944  media/marquee/Flight 401 (Europe).png
+9b7b2c7a7c3de92c  media/marquee/Fire Flash (Europe).png
+2f2182c67a836600  media/marquee/Frigate Commander (Europe).png
+ba2332d095498c65  media/marquee/Football Manager (Europe).png
+496d0c73409c33b0  media/marquee/Elektro Storm (Europe).png
+cab64ae1765315a5  media/marquee/Frog-Hop! (Europe).png
+2635b293784a4bf0  media/marquee/Galaxians (Europe).png
+862f74665cf70f0c  media/marquee/Ghost Gobbler (Europe).png
+aacc9089b356a513  media/marquee/Harrier Attack (Europe).png
+d7ade2ff60548b37  media/marquee/Hell's Temple (Europe).png
+1e65fe124d8babc9  media/marquee/Hellion, The (Europe).png
+de6d146450fe2dd5  media/marquee/Hobbit, The (Europe).png
+f61c563ec87906ef  media/marquee/Hollywood Director (Europe).png
+b79b995e28621507  media/marquee/Gravitor (Europe).png
+c19cb4a983bf384f  media/marquee/Ghostman (Europe).png
+ec16f0e2be5b96bb  media/marquee/House of Death (Europe).png
+8eeec176b840720a  media/marquee/Hangman (UTS) (Europe).png
+8d3808fa5a740ae9  media/marquee/Hopper (Europe).png
+b4c7380fb234c068  media/marquee/Ice Giant (Europe).png
+97267ba749242a2e  media/marquee/Green Cross Toad (Europe).png
+52c7b26fa708ccdf  media/marquee/Hunchback (Europe).png
+1a597ffaa6293607  media/marquee/Insect Insanity (Europe).png
+1d3cd6b99fc327a9  media/marquee/Hop Frog (Europe).png
+ca281185bdf19eb5  media/marquee/Jogger (Europe).png
+a7c5592f0631f048  media/marquee/Island of Death (Europe).jpg
+522754c8de1213cf  media/marquee/Johnny Reb (Europe).png
+ecc3c901697a320d  media/marquee/Karate (Europe).png
+fe508aa2b5b87cf6  media/marquee/Island of Death (Europe).png
+2bb99babcbad69ca  media/marquee/Keys of Kraal, The (Europe) (Unl).png
+3e0a5106fd2717c6  media/marquee/Land of Illusion (Europe).png
+0cf2e1c62c28184d  media/marquee/Light Cycle (Europe).png
+011637df3737581d  media/marquee/Kilburn Encounter (Europe).png
+eec9caa07df767ac  media/marquee/Lone Raider (Europe).png
+510b87c73522c027  media/marquee/Las Vegas High (Europe) (Unl).png
+3c4f2c20f17dfc08  media/marquee/M.A.R.C. (Europe).png
+729983eaca8afee1  media/marquee/Mined Out (Europe).png
+116f983414b33c69  media/marquee/Lunar Lander (Durell Software) (Europe).png
+8f1f5c780c1707bd  media/marquee/Krillys (Europe).png
+6df9d3b6d70d9285  media/marquee/Manic Miner (Europe).png
+60278c5a292151ba  media/marquee/Mines Of Moria, The (Europe).png
+d92eb542d8d57ed3  media/marquee/Luna Landa (Europe).png
+d597f23a4e13d246  media/marquee/Mission Impossible (Europe).png
+f524559d19b424d6  media/marquee/Mr Wimpy (Europe).png
+c85905ed59e46d25  media/marquee/Loki (Europe) (Unl).png
+f2f09cbc8f8e5ab9  media/marquee/Miner (Europe).png
+a325e1ffd9633f69  media/marquee/Night Fight (Europe).png
+a0bc52615dc769b9  media/marquee/Oric Bandit (Europe).png
+79f896859e6f1e16  media/marquee/Nowotnik Puzzle (Europe).png
+0bb3a9db91011207  media/marquee/Oric Munch (Europe).png
+fff6f1914bf5e482  media/marquee/Oric Flight (Europe).png
+abdf0931c60b905f  media/marquee/Moon Buggy (Europe).png
+92b15b410cc95254  media/marquee/Othello (Europe).png
+1cfd947d4d9295c5  media/marquee/Parachute (Cascade Games Ltd) (Europe) (Atmos).png
+c5f92c71f2efd2cd  media/marquee/Oric Worm (Europe).png
+53f402844bcbe500  media/marquee/Mushroom Mania (Europe).png
+43f3d872e6f915c8  media/marquee/Painter (Europe).png
+f1d514de94577b55  media/marquee/Night Rider (Europe).png
+72fd0b640d386b63  media/marquee/Oric Parchen Kirchen (Europe).png
+837b6b23a03b90f3  media/marquee/Paras (Europe).png
+041f5f5a74da8032  media/marquee/Pasta Blasta (Europe).png
+b43b92069fe046e2  media/marquee/Playground 21 (Europe).png
+b10c02362ed7d02e  media/marquee/Plouf (Europe) (Unl).png
+9b76abbbe9ad8ae4  media/marquee/Probe 3 (Europe).png
+fa6a646076c4e80f  media/marquee/Quest (Europe).png
+f169378c02a526cd  media/marquee/Poopy (Europe).png
+7bac841e4fcbdded  media/marquee/Road Frog (Europe).png
+318fd6483874cb49  media/marquee/Pontoon (Coconut Computer Co Ltd) (Europe).png
+88fa7816bbc6bb20  media/marquee/Rock 'N Roll (Europe).png
+4d93a8bd3661ab2c  media/marquee/Skramble (Europe).png
+bf18ee7065b25ffa  media/marquee/Scuba Dive (Europe).png
+598b16524c783bcd  media/marquee/Spooky Mansion (Europe).png
+ecf2fa7170553148  media/marquee/Snake Venom (Europe).png
+6181aca77aada428  media/marquee/Stock Market (Europe).png
+7b0cf39633be9a36  media/marquee/Styx (Europe).png
+332accc1988b5c22  media/marquee/Show-Jumping (Europe).png
+42660d77b853e867  media/marquee/Rat Splat! (Europe).png
+0831891172e74065  media/marquee/Starfighter (Europe).png
+f71ef4e78989eca0  media/marquee/Star Trek (Europe) (Atmos).png
+b4c74e2264f5068c  media/marquee/Super Meteors (Europe).png
+d92d8c8fa0bb903c  media/marquee/Super-Maze (Europe) (Unl).png
+8d8bb30ca7472a3c  media/marquee/Trick Shot (Europe).png
+e20c179d9db0fe1f  media/marquee/Super Fruit (Europe).png
+eb67d3639f97dda0  media/marquee/Ultra, The (Europe).png
+3841f4830ef504da  media/marquee/Velnor's Lair (Europe).png
+e54b2fae9e7378f0  media/marquee/Two Gun Turtle (Europe).png
+58cc93b9cee8c33c  media/marquee/Ultima Zone (Europe).png
+06d9813627fc4859  media/marquee/Valley, The (Europe).png
+b8294dbb5d08dd89  media/marquee/Warlord (Europe).png
+5b8de88c98f43d5f  media/marquee/Way to King Kung Fu, The (Europe).png
+ced6f38548244b18  media/marquee/Tyrann (Europe).png
+743c908da686e6ea  media/marquee/White Barrows, The (Europe).png
+92775d0315090887  media/marquee/Tracer Racer (Europe).png
+259499a1504f5e32  media/marquee/Zebbie (Europe).png
+13db2152f6070167  media/marquee/Xenon 3 - The Genesis Probe (Europe).png
+05df31c98b86acae  media/marquee/Zorgon's Revenge (Europe).png
+2bd89ce12b2877b2  media/marquee/Water Panic (Europe).png
+f798561b9aef3c0d  media/marquee/Waydor (Europe).png
+3bf869f262f1d8b0  media/images/3D Maze (Europe).png
+fff499f9f3e77679  media/images/4KKong (Europe) (Unl).png
+5405f363d4559e0d  media/images/Awari (Europe).png
+125eb6a97b7d141f  media/images/Arena 3000 (Europe).png
+b2127e2108326a2d  media/images/Blockbuster (Europe) (Unl).png
+5f780f98681ba30d  media/images/Battle Flight 4 (Europe).png
+75c88202d03bdc82  media/images/Boss, The (Europe).png
+64e2c134aeb4f5d0  media/images/Airline (Europe).png
+bcd12919850b661a  media/images/Attack of the Cybermen (Europe).png
+da46b055233c8477  media/images/Breakout (Compuden) (Europe).png
+23240203332f5da3  media/images/Candyfloss (Europe).png
+11a082d6a3c3928a  media/images/Centipede (Europe).png
+2a262c3ae1479e56  media/images/Chess (Tansoft) (Europe).png
+204fc45423dcb70a  media/images/Chopper (Severn Software) (Europe).png
+b440275768f151e5  media/images/Chess II (Europe).png
+21e683a3f2bf6724  media/images/Breakout-Machine (Europe) (Unl).png
+3955cc2026cf34cf  media/images/Chess (IJK Software) (Europe).png
+4aa101402a95d677  media/images/Contract Bridge (Europe).png
+7a77f28620ea0c7a  media/images/Crabes (Europe) (Unl).png
+3601ecd0a37dacd5  media/images/Cribbage (Europe).png
+0e5787125cd4b1e8  media/images/Dallas (Europe).png
+249372dc508144db  media/images/Bricky (Europe).png
+ae11a603f21b1c56  media/images/Damsel in Distress (Europe).png
+21997e30771d5e53  media/images/Death Driver (Europe).png
+d4ee8854bd658c98  media/manuals/Mushroom Mania (Europe)_(wor).pdf
+736aed911e26f719  media/images/Dexterite (Europe).png
+0c62e2280b4357bf  media/images/Dinky Kong (Europe).png
+74d39ef556feb0b9  media/images/Dracula's Revenge (Europe).png
+64e477a862b05f84  media/images/Draughts (Europe).png
+c7989ac3f08719e1  media/images/Fantasy Quest (Europe).png
+95c816e0a78818aa  media/images/Don Juan (Europe).png
+80d2b06f1cba8ef0  media/images/Driver (Tansoft) (Europe).png
+0342845d2d9e2519  media/images/Fire Flash (Europe).png
+18a3cc0e6955aec4  media/images/Flight 401 (Europe).png
+27a201ab723f1fcf  media/images/Flight Simulator (Europe).png
+6cec71dcaf98d938  media/images/Elektro Storm (Europe).png
+0f7cab1f4b5fc683  media/images/Flight Simulator (Europe) (Unl).png
+26bb753af13bdf33  media/images/Galaxians (Europe).png
+a61c54df70f5a2dc  media/images/Frigate Commander (Europe).png
+3b27270eb0116aad  media/images/Frog-Hop! (Europe).png
+4e0e279db7018237  media/images/Ghostman (Europe).png
+6aae4fe9e745c721  media/images/Harrier Attack (Europe).png
+987f5fd6b338d265  media/images/Football Manager (Europe).png
+ed1a0a289200112c  media/images/Gravitor (Europe).png
+e84d809d6cbf1dec  media/images/Hell's Temple (Europe).png
+2bd7592f787e208b  media/images/Ghost Gobbler (Europe).png
+51c4bc854fa16453  media/images/Green Cross Toad (Europe).png
+14ca34942e276451  media/images/Hangman (UTS) (Europe).png
+e2e8e28eea9d1227  media/images/Hellion, The (Europe).png
+ef689a231438ad27  media/images/Hollywood Director (Europe).png
+002e07f890c8f8ad  media/images/House of Death (Europe).png
+8f068bd66c653467  media/images/Hopper (Europe).png
+5be5f14302a8209b  media/images/Hunchback (Europe).png
+13d88a1cd4a35fa3  media/images/Hobbit, The (Europe).png
+7abf0de09725d621  media/images/Ice Giant (Europe).png
+a10757e7e503508f  media/images/Jogger (Europe).png
+3b27270eb0116aad  media/images/Hop Frog (Europe).png
+4f05f55f1c5cea2d  media/images/Insect Insanity (Europe).png
+586fce02f4cce598  media/images/Island of Death (Europe).png
+5e5ac708d24f6fec  media/images/Karate (Europe).png
+1d90fc980cbd63ee  media/images/Johnny Reb (Europe).png
+990dada29b9e1fb1  media/images/Keys of Kraal, The (Europe) (Unl).png
+b4f1bc77a73c95cd  media/marquee/Thumbs.db
+e5bc4c94f41e2edb  media/images/Land of Illusion (Europe).png
+71ae503fb4e949a7  media/images/Las Vegas High (Europe) (Unl).png
+8a1b12de7b046fb4  media/images/Kilburn Encounter (Europe).png
+8e81906caa8a1c84  media/images/Krillys (Europe).png
+eeabc08dcf68722b  media/images/Light Cycle (Europe).png
+aade1e81ec6f9914  media/images/Lone Raider (Europe).png
+dbf3e7cd290f2ac7  media/images/Manic Miner (Europe).png
+81d4dc41da130d18  media/images/Miner (Europe).png
+235c96e6b537c002  media/images/Lunar Lander (Durell Software) (Europe).png
+28b9ce799c253ac5  media/images/Luna Landa (Europe).png
+56e8ddff8d909834  media/images/Loki (Europe) (Unl).png
+cf654f569c6418ac  media/images/M.A.R.C. (Europe).png
+69d6169925d41f4f  media/images/Mined Out (Europe).png
+24d7b1878941e096  media/images/Mines Of Moria, The (Europe).png
+4150694cd6c98312  media/images/Mission Impossible (Europe).png
+6f800e2ed0b3eea3  media/images/Night Rider (Europe).png
+0de3b96e5535904e  media/images/Moon Buggy (Europe).png
+9de5504a6ce64277  media/images/Mr Wimpy (Europe).png
+2a007378c514feef  media/images/Oric Bandit (Europe).png
+5b775899f427be62  media/images/Night Fight (Europe).png
+2074d19035200889  media/images/Mushroom Mania (Europe).png
+cb6178d4b01e7e64  media/images/Oric Parchen Kirchen (Europe).png
+dd4d8b3bde3c2e5a  media/images/Oric Munch (Europe).png
+e6476d5bcb899859  media/images/Oric Worm (Europe).png
+a47b7afcc21685dd  media/images/Painter (Europe).png
+a287082e081c31f8  media/images/Oric Flight (Europe).png
+42b77fde083b24e9  media/images/Parachute (Cascade Games Ltd) (Europe) (Atmos).png
+7073fc67aea150c1  media/images/Pasta Blasta (Europe).png
+02bc9b7a1c2e2b8b  media/images/Nowotnik Puzzle (Europe).png
+d31ce7a2e2bd9b03  media/images/Playground 21 (Europe).png
+aa2b1b206d283f83  media/images/Pontoon (Coconut Computer Co Ltd) (Europe).png
+34296fcab01ace6a  media/images/Paras (Europe).png
+1759094832bc7694  media/images/Othello (Europe).png
+4ee1fc60793a4197  media/images/Plouf (Europe) (Unl).png
+d63d4e9d55b49c61  media/images/Probe 3 (Europe).png
+dba94f7fbab340ae  media/images/Poopy (Europe).png
+0ef30957d3e05540  media/images/Quest (Europe).png
+35bec864a4b3b99f  media/images/Rat Splat! (Europe).png
+01b27412e7774359  media/images/Road Frog (Europe).png
+e7bf067fc6867f7c  media/images/Rock 'N Roll (Europe).png
+9a826115558d8d50  media/images/Show-Jumping (Europe).png
+d29ff6976d85d160  media/images/Scuba Dive (Europe).png
+70c6e7408531b038  media/images/Skramble (Europe).png
+e5517aa0b13e14ed  media/images/Spooky Mansion (Europe).png
+591458cb783b1d8e  media/images/Starfighter (Europe).png
+cb0e86f75796c6be  media/images/Star Trek (Europe) (Atmos).png
+3d4fc1c4ba4f9d6e  media/images/Stock Market (Europe).png
+ac483e03b2104786  media/images/Snake Venom (Europe).png
+6d7dec23d5c67f94  media/images/Super Fruit (Europe).png
+f728a276f6ef58c2  media/images/Super-Maze (Europe) (Unl).png
+1b3772f1128bd19b  media/images/Super Meteors (Europe).png
+abe236e56b1840c4  media/images/Styx (Europe).png
+ca29debae3f8d327  media/images/Trick Shot (Europe).png
+2ca3c61c7734bf9c  media/images/Tracer Racer (Europe).png
+20828c75d5459988  media/images/Ultra, The (Europe).png
+ec0379c8e5a7f5c6  media/images/Tyrann (Europe).png
+7767463ed1502ab2  media/images/Two Gun Turtle (Europe).png
+a8949b15cc0137f7  media/images/Ultima Zone (Europe).png
+079b96227652c3de  media/images/Valley, The (Europe).png
+bf0085342851cd37  media/images/Warlord (Europe).png
+bdf509866b6a6f5d  media/images/Velnor's Lair (Europe).png
+a71f0da8ca47bf8c  media/images/Water Panic (Europe).png
+cbd8851da5dc4958  media/images/Way to King Kung Fu, The (Europe).png
+95b4d6383006e077  media/images/Zebbie (Europe).png
+414bebc82afb34a7  media/images/White Barrows, The (Europe).png
+af3104c1c7b0bd63  media/images/Zorgon's Revenge (Europe).png
+fc4b84f71715bc29  media/images/Waydor (Europe).png
+dda49ed013a691f6  media/cartridges/Centipede (Europe).jpg
+8b3f9cb2c20bc011  media/images/Xenon 3 - The Genesis Probe (Europe).png
+dcaeffe87e013a49  media/cartridges/3D Maze (Europe).jpg
+76e5d39d914cd39c  media/cartridges/Arena 3000 (Europe).jpg
+9d23e892bfd2c242  media/cartridges/Breakout (Compuden) (Europe).jpg
+3b4166bd48892215  media/cartridges/Awari (Europe).jpg
+4327026a659edd93  media/cartridges/Candyfloss (Europe).jpg
+8923ef011380547c  media/cartridges/Chess II (Europe).jpg
+563344b8c8764282  media/cartridges/Chess (IJK Software) (Europe)-01.jpg
+563344b8c8764282  media/cartridges/Chess (Tansoft) (Europe).jpg
+dc8927555f9ecfb4  media/cartridges/Damsel in Distress (Europe).jpg
+7783338363f8c055  media/cartridges/Attack of the Cybermen (Europe).jpg
+5b072c3de65f1881  media/cartridges/Dracula's Revenge (Europe).jpg
+2af17908772ab045  media/cartridges/Fantasy Quest (Europe).jpg
+563344b8c8764282  media/cartridges/Chess (IJK Software) (Europe).jpg
+a10d85c6c68265ff  media/cartridges/Cribbage (Europe).jpg
+b05e61b8c2a60ac7  media/cartridges/Draughts (Europe).jpg
+bd547b30806ed577  media/cartridges/Elektro Storm (Europe).jpg
+6b813ee94a5ade49  media/cartridges/Dallas (Europe).png
+19a36ec53d324d8e  media/cartridges/Fire Flash (Europe).jpg
+b83307fe1693c47f  media/cartridges/Flight 401 (Europe).jpg
+8f2270ac0be5af57  media/cartridges/Hobbit, The (Europe).jpg
+35c43c4f082f9808  media/cartridges/Hopper (Europe).jpg
+0fa13edd2d5d9e3d  media/cartridges/Hell's Temple (Europe).jpg
+21319e7231574ec4  media/cartridges/Galaxians (Europe)-01.png
+89027966aacd9902  media/cartridges/Island of Death (Europe).jpg
+651fff5b8aaa568c  media/cartridges/Jogger (Europe).jpg
+4c60a885b0da1b31  media/cartridges/House of Death (Europe).jpg
+2db90b9bfedfbfa6  media/cartridges/Mined Out (Europe).jpg
+70a40cc01b2aa731  media/cartridges/Hunchback (Europe).jpg
+74866fa098e16f97  media/cartridges/Galaxians (Europe).png
+f3878a629e2eafb4  media/cartridges/Mushroom Mania (Europe).jpg
+784164e012ad2770  media/cartridges/Mushroom Mania (Europe)-01.jpg
+af644c638de77ea5  media/cartridges/Lone Raider (Europe).jpg
+2b21a1d49cae923c  media/cartridges/Oric Munch (Europe).jpg
+259b49fd08761286  media/cartridges/Mr Wimpy (Europe).jpg
+2af17908772ab045  media/cartridges/Quest (Europe)-02.jpg
+2e5cdcb4ad203235  media/cartridges/Playground 21 (Europe).jpg
+4922e522804b4444  media/cartridges/Painter (Europe).jpg
+fc1aaeaa6a781885  media/cartridges/Probe 3 (Europe).jpg
+2af17908772ab045  media/cartridges/Quest (Europe).jpg
+1b491bde1cc23270  media/cartridges/Quest (Europe)-01.jpg
+26776caa9088ed14  media/cartridges/Rat Splat! (Europe).jpg
+7de4680af91c2358  media/cartridges/Ultima Zone (Europe).jpg
+885f56f85ec61eb5  media/cartridges/Tyrann (Europe).jpg
+1b491bde1cc23270  media/cartridges/Quest (Europe)-03.jpg
+fee3103250aee6e5  media/cartridges/Ultra, The (Europe).jpg
+9f2e719909837cca  media/cartridges/Warlord (Europe).jpg
+589722830d8d7522  media/cartridges/Waydor (Europe).jpg
+fee3103250aee6e5  media/cartridges/Ultra, The (Europe)-01.jpg
+78c6f3ffc41a4396  media/cartridges/Trick Shot (Europe).jpg
+dc1fffd4c1cc1376  media/cartridges/Xenon 3 - The Genesis Probe (Europe).jpg
+797b56c6b1ce6189  media/box2d/3D Maze (Europe).png
+c8cbb19813d18d15  media/box2d/Attack of the Cybermen (Europe).png
+40720fec43c17787  media/box2d/Airline (Europe).png
+703b6e638bacb4cf  media/cartridges/Zorgon's Revenge (Europe).jpg
+6da1337d2633bd56  media/box2d/Arena 3000 (Europe).png
+96634661d4e83cab  media/cartridges/Zebbie (Europe).jpg
+cd927552af36baae  media/box2d/Breakout (Compuden) (Europe).jpg
+5991300fd48fbb6b  media/cartridges/Thumbs.db
+4603ae799208a057  media/box2d/Awari (Europe).jpg
+d6830ba294aefe45  media/box2d/Boss, The (Europe).png
+30031238cdf278cb  media/box2d/Centipede (Europe).png
+ee017e3d2693c7e8  media/box2d/Candyfloss (Europe).png
+f38f9ec8554b9b22  media/box2d/Chess (Tansoft) (Europe).png
+e45108676f7c3b5f  media/box2d/Chess II (Europe).png
+25eb80c699f6b81b  media/box2d/Cribbage (Europe).jpg
+ab82d2f0bf0aa143  media/box2d/Damsel in Distress (Europe).jpg
+1fddf49133ab39e1  media/box2d/Dallas (Europe).png
+797b56c6b1ce6189  media/box2d/Breakout-Machine (Europe) (Unl).png
+3e8a9f44d93bb994  media/box2d/Chopper (Severn Software) (Europe).jpg
+80825cb21e055247  media/box2d/Dinky Kong (Europe).jpg
+0074440f789addcd  media/box2d/Don Juan (Europe).jpg
+4a1fb3183a3d7fed  media/box2d/Draughts (Europe).png
+82c349c57047d117  media/box2d/Contract Bridge (Europe).jpg
+0cf67c18b6cd3cf5  media/box2d/Dexterite (Europe).png
+1ba0ef935836dae2  media/box2d/Dracula's Revenge (Europe).png
+8cf2818ef033109a  media/box2d/Fire Flash (Europe).jpg
+1a94b89639defc1a  media/box2d/Fantasy Quest (Europe).png
+875a5f6346ae53bb  media/box2d/Flight 401 (Europe).png
+7e222024cfb931d9  media/box2d/Elektro Storm (Europe).jpg
+d2e6b54acbb1fabe  media/box2d/Driver (Tansoft) (Europe).jpg
+c5733b46ea4f9afc  media/box2d/Frigate Commander (Europe).png
+be0dafb90a67630a  media/box2d/Flight Simulator (Europe) (Unl)-01.jpg
+be0dafb90a67630a  media/box2d/Flight Simulator (Europe) (Unl).jpg
+428a32372886a941  media/box2d/Ghost Gobbler (Europe).png
+31a91c381315730e  media/box2d/Gravitor (Europe).jpg
+f7338db82b7199dc  media/box2d/Ghostman (Europe).png
+d91cf88fec393e87  media/box2d/Harrier Attack (Europe).jpg
+bb7e3cf9c2e40d6f  media/box2d/Hobbit, The (Europe).jpg
+1c2af403e2a561cf  media/box2d/Football Manager (Europe).png
+b3b6b7974f3af10c  media/box2d/Hellion, The (Europe).jpg
+ee017e3d2693c7e8  media/box2d/Hangman (UTS) (Europe).png
+16e7359006932c4a  media/box2d/Galaxians (Europe).jpg
+209c5f9ca67e6103  media/box2d/Hopper (Europe).jpg
+08d6760be9ff4447  media/box2d/House of Death (Europe).jpg
+063dec34730fd35b  media/box2d/Green Cross Toad (Europe).jpg
+f8f6739c10a903bf  media/box2d/Insect Insanity (Europe).png
+7d63479b9e88522b  media/box2d/Hunchback (Europe).jpg
+4306d435bc90703a  media/box2d/Jogger (Europe).png
+0bcd331f9081d19f  media/box2d/Hell's Temple (Europe).jpg
+0c784d8c9739e10d  media/box2d/Kilburn Encounter (Europe).jpg
+34c4de1c7034c5cd  media/box2d/Island of Death (Europe).jpg
+249792104249c69c  media/box2d/Karate (Europe).jpg
+021434c21747c37d  media/box2d/Krillys (Europe).png
+201f703cc7c8a8f8  media/box2d/Land of Illusion (Europe).png
+18c71ee890a68b1e  media/box2d/Ice Giant (Europe).jpg
+871df1750cbef48a  media/box2d/Johnny Reb (Europe).jpg
+63dccea43fa2f5b4  media/box2d/Loki (Europe) (Unl).png
+aeabdeaa56bd0495  media/box2d/Lunar Lander (Durell Software) (Europe).png
+34beb926ea4de4a4  media/box2d/M.A.R.C. (Europe).png
+fcd1a712c539ad0a  media/box2d/Mined Out (Europe).jpg
+6957b4dcf236d6e8  media/box2d/Mines Of Moria, The (Europe).png
+089cf592e6915829  media/box2d/Manic Miner (Europe).png
+3f739ea797fe53f0  media/box2d/Mushroom Mania (Europe).png
+d61d1e141de4d7ea  media/box2d/Oric Munch (Europe).jpg
+5790601e60f6d00f  media/box2d/Mission Impossible (Europe).jpg
+c01f4c6bd327fcb6  media/box2d/Light Cycle (Europe).jpg
+1007715c2744eba4  media/box2d/Night Fight (Europe).png
+d95d96bfe4a7ac2f  media/box2d/Mr Wimpy (Europe).png
+fe0ea3a08968e118  media/box2d/Lone Raider (Europe).png
+cb27c56ba95f7431  media/box2d/Nowotnik Puzzle (Europe).jpg
+e49a1ed04dc74226  media/box2d/Painter (Europe).png
+22d8d0bd6fcb3484  media/box2d/Paras (Europe).png
+8705a2bc70862b0a  media/box2d/Quest (Europe).png
+573f556940d5a9f5  media/box2d/Playground 21 (Europe).jpg
+4d7543c75e47e581  media/box2d/Pasta Blasta (Europe).jpg
+26041bb2a12dc62d  media/box2d/Poopy (Europe).png
+18a4f3ffa86f3b46  media/box2d/Rat Splat! (Europe).jpg
+cc437bf22c8072a8  media/box2d/Probe 3 (Europe).jpg
+bc0338394ecc561c  media/box2d/Road Frog (Europe).png
+eb1a20993cc1c7a8  media/box2d/Spooky Mansion (Europe).png
+3db4c89409306e94  media/box2d/Pontoon (Coconut Computer Co Ltd) (Europe).jpg
+05d820c43744fde9  media/box2d/Styx (Europe).png
+1d145dbb89e6190e  media/box2d/Starfighter (Europe).png
+0c6eb02f93e4a715  media/box2d/Scuba Dive (Europe).png
+22d3557f175ded46  media/box2d/Super Fruit (Europe).png
+e4420b0c0b6e0976  media/box2d/Rock 'N Roll (Europe).png
+fbdd9c9c1b3c1f23  media/box2d/Super Meteors (Europe).png
+3b6c674e1ee927a4  media/box2d/Trick Shot (Europe).png
+c761fa4d2fba2334  media/box2d/Tyrann (Europe).png
+b91935a9fa9b34c7  media/box2d/Star Trek (Europe) (Atmos).png
+44ffbec79950dedc  media/box2d/Ultima Zone (Europe).png
+832574c58f4a1520  media/box2d/Valley, The (Europe).png
+1cd6f5b1c6a79c1a  media/box2d/Ultra, The (Europe).jpg
+a96270fbe35212cd  media/box2d/Velnor's Lair (Europe).jpg
+756f18c8544c6aca  media/box2d/Warlord (Europe).png
+c2196cd6ba6ee432  media/box2d/Two Gun Turtle (Europe).png
+69b1a6e891fd0576  media/box2d/Water Panic (Europe).png
+a42b3be961400f8c  media/box2d/Xenon 3 - The Genesis Probe (Europe).png
+bcfb20a3829143ee  media/box2d/Zebbie (Europe).png
+82d4932993990fdc  media/box2d/Zorgon's Revenge (Europe).png
+5665f42ca90b2dd5  media/thumbnails/3D Maze (Europe).png
+badb9402fd7aff76  media/thumbnails/Airline (Europe).jpg
+fae495d5505dcea6  media/thumbnails/3D Maze (Europe).jpg
+2c200152b187df08  media/thumbnails/3D Noughts And Crosses.png
+ba6da6ebc9ca4081  media/box2d/Waydor (Europe).png
+96990dcb68c73338  media/thumbnails/3D Fongus.png
+da522fe41ac64955  media/thumbnails/Airline (Europe).png
+797b56c6b1ce6189  media/thumbnails/3D Maze.png
+ed79e8f0a3db8e95  media/thumbnails/Archeron's Rage.png
+c8cbb19813d18d15  media/thumbnails/Attack Of The Cybermen.png
+40720fec43c17787  media/thumbnails/Airline.png
+2c200152b187df08  media/thumbnails/Atmos 48k Backgammon.png
+907739e12e29cd83  media/thumbnails/007 - Dangereusement Votre.png
+048d2173d39bf169  media/thumbnails/Arena 3000 (Europe).png
+46a47f5a44563661  media/thumbnails/Arena 3000 (Europe).jpg
+4603ae799208a057  media/thumbnails/Awari (Europe).jpg
+9fdb4ab8a71f08a9  media/thumbnails/Attack of the Cybermen (Europe).png
+ee017e3d2693c7e8  media/thumbnails/Candyfloss.png
+891ef239dcc7931c  media/thumbnails/Breakout (Compuden) (Europe).png
+8827650cf0335828  media/thumbnails/Attack of the Cybermen (Europe).jpg
+c46e616b1dbea13a  media/thumbnails/Centipede (Europe).jpg
+40f0cf278c967acd  media/thumbnails/Candyfloss (Europe).jpg
+cd927552af36baae  media/thumbnails/Breakout (Compuden) (Europe).jpg
+7edde7cd97b962e7  media/thumbnails/Centipede (Europe).png
+1f417476b0aed29a  media/thumbnails/Awari (Europe).png
+30031238cdf278cb  media/thumbnails/Centipede.png
+ac88081b04e7021f  media/thumbnails/Challenge Voile.png
+fe339e51ac16312f  media/thumbnails/Chess (IJK Software) (Europe).jpg
+6d35cae199175e8f  media/thumbnails/Candyfloss (Europe).png
+fe339e51ac16312f  media/thumbnails/Chess (IJK Software) (Europe)-01.jpg
+ef3ceeadaadfa931  media/thumbnails/Boss, The (Europe).png
+c8d3f01dd2387fa6  media/thumbnails/Chess II (Europe).jpg
+f38f9ec8554b9b22  media/thumbnails/Chess (IJK Software) (Europe).png
+44d398f6cd846178  media/thumbnails/Chess II (Europe).png
+e45108676f7c3b5f  media/thumbnails/Chess II.png
+2890bd2f823dc181  media/thumbnails/Chopper (Melbourne House) (Europe).png
+a8774b9b43fcc76f  media/thumbnails/Chess (Tansoft) (Europe).png
+c0e3e776e419d7df  media/thumbnails/Chopper (Severn Software) (Europe).jpg
+387d41d35cfd676e  media/thumbnails/Chopper (Severn Software) (Europe).png
+2890bd2f823dc181  media/thumbnails/Chopper.png
+d3afe0a8eeddcffd  media/thumbnails/Cribbage (Europe).jpg
+1fddf49133ab39e1  media/thumbnails/Dallas (Europe).png
+df0b59814642a900  media/thumbnails/Damsel In Distress.png
+544a66e712e2fb80  media/thumbnails/Contract Bridge (Europe).png
+1fddf49133ab39e1  media/thumbnails/Dallas.png
+04d75e557c4c6426  media/thumbnails/Dallas (Europe).jpg
+297dd3c06328341b  media/thumbnails/Cribbage (Europe).png
+55b566eadc66ded1  media/thumbnails/Damsel in Distress (Europe).jpg
+1ce4ff5b046f76b4  media/thumbnails/Defense Force.png
+2001fedecadc22a7  media/thumbnails/Dexterite (Europe).png
+4cd6612ac9b1ee6f  media/thumbnails/Dinky Kong (Europe).jpg
+58e3877ac2b11f14  media/thumbnails/Dinky Kong (Europe).png
+a9c98bf47ef44b9a  media/thumbnails/Damsel in Distress (Europe).png
+852a5407843b4e23  media/thumbnails/Don Juan (Europe).jpg
+1ba0ef935836dae2  media/thumbnails/Dracula's Revenge.png
+1ba0ef935836dae2  media/thumbnails/Dracula's Revenge (Europe).png
+05e286a2c34b32cc  media/thumbnails/Dracula's Revenge (Europe).jpg
+4a1fb3183a3d7fed  media/thumbnails/Draughts.png
+82627149e47bf116  media/thumbnails/Don Juan (Europe).png
+ed2d7b0cd5cb7e8e  media/thumbnails/Elektro Storm (Europe).png
+1a94b89639defc1a  media/thumbnails/Fantasy Quest.png
+1c1497c1938b6bf6  media/thumbnails/Draughts (Europe).png
+67c6e1a80a18b9ff  media/thumbnails/Draughts (Europe).jpg
+750de9c8e855a698  media/thumbnails/Fire Flash (Europe).jpg
+475975d943379897  media/thumbnails/Fantasy Quest (Europe).png
+e4b866ffad45015f  media/thumbnails/Elektro Storm (Europe).jpg
+f899988b9bc93213  media/thumbnails/Fire Flash (Europe).png
+875a5f6346ae53bb  media/thumbnails/Flight 401.png
+4e955687ffb91722  media/thumbnails/Football Manager (Europe).jpg
+1c2af403e2a561cf  media/thumbnails/Football Manager.png
+c40e882c66003372  media/thumbnails/Fire Flash.png
+cd2252a86fdaaf6d  media/thumbnails/Flight 401 (Europe).jpg
+56827992b301d2dc  media/thumbnails/Frelon.png
+6a462ab65f103e2c  media/thumbnails/Flight 401 (Europe).png
+1c2af403e2a561cf  media/thumbnails/Football Manager (Europe).png
+7cb228a91ee834e2  media/thumbnails/Galaxians.png
+4732dfb36ebc824f  media/thumbnails/Galaxians (Europe).png
+924796e1dd5b1a4d  media/thumbnails/Frigate Commander (Europe).png
+c5733b46ea4f9afc  media/thumbnails/Frigate Commander.png
+46533ba098759979  media/thumbnails/Gastronon.png
+16e7359006932c4a  media/thumbnails/Galaxians (Europe).jpg
+fd96ae277d945157  media/thumbnails/General.png
+fb5b6084aa4a6a4a  media/thumbnails/Galaxion.png
+f7338db82b7199dc  media/thumbnails/Ghostman.png
+428a32372886a941  media/thumbnails/Ghost Gobbler.png
+3be26b4db2d8412b  media/thumbnails/Ghostman (Europe).png
+df06a55eedd01c78  media/thumbnails/Ghostman (Europe).jpg
+96da351f75fe6c9b  media/thumbnails/Gravitor.png
+40ccfb29e54908ea  media/thumbnails/Ghost Gobbler (Europe).png
+96da351f75fe6c9b  media/thumbnails/Gravitor (Europe).png
+31a91c381315730e  media/thumbnails/Gravitor (Europe).jpg
+95e9dd85638f6bb6  media/thumbnails/Green Cross Toad.png
+95e9dd85638f6bb6  media/thumbnails/Green Cross Toad (Europe).png
+1300ee625651bbeb  media/thumbnails/Harrier Attack.png
+fcaf446644f232d2  media/thumbnails/Hangman (UTS) (Europe).jpg
+d91cf88fec393e87  media/thumbnails/Harrier Attack (Europe).jpg
+063dec34730fd35b  media/thumbnails/Green Cross Toad (Europe).jpg
+b9faad2529c52f3e  media/thumbnails/Hell's Temple.png
+9c3978f4d3492888  media/thumbnails/Harrier Attack (Europe).png
+ee017e3d2693c7e8  media/thumbnails/Hangman.png
+ee017e3d2693c7e8  media/thumbnails/Hangman (UTS) (Europe).png
+de09e9d123ee203d  media/thumbnails/Hellion, The (Europe).png
+a5d8515f38cacc43  media/thumbnails/Hell's Temple (Europe).png
+de09e9d123ee203d  media/thumbnails/Hellion.png
+209c5f9ca67e6103  media/thumbnails/Hopper (Europe).jpg
+0bcd331f9081d19f  media/thumbnails/Hell's Temple (Europe).jpg
+ac9971d962733897  media/thumbnails/Hopper.png
+bb7e3cf9c2e40d6f  media/thumbnails/Hobbit, The (Europe).jpg
+e32b9eeabae4f811  media/thumbnails/Hopper (Europe).png
+c88ecad12353a7dc  media/thumbnails/Hellion, The (Europe).jpg
+bfb6f6e67403c49a  media/thumbnails/Hobbit, The (Europe).png
+caada0f2286ebc9f  media/thumbnails/House Of Death.png
+343b18179895a363  media/thumbnails/Hu-Bert.png
+034f98bc52fd879e  media/thumbnails/Hunchback (Europe).png
+5a16aa67d7915a72  media/thumbnails/House of Death (Europe).jpg
+dce87203c78c42e7  media/thumbnails/Hunchback.png
+d206530061c535d3  media/thumbnails/Hunchback (Europe).jpg
+ebb38bc7f390fba7  media/thumbnails/House of Death (Europe).png
+0704d98d2c5001c9  media/thumbnails/Ice Giant (Europe).png
+be7708503208e00b  media/thumbnails/Hunchback-01.png
+f8f6739c10a903bf  media/thumbnails/Insect Insanity (Europe).png
+f8f6739c10a903bf  media/thumbnails/Insect Insanity.png
+0704d98d2c5001c9  media/thumbnails/Ice Giant.png
+4306d435bc90703a  media/thumbnails/Jogger.png
+98f8b7e36da0c589  media/thumbnails/Jogger (Europe).jpg
+249792104249c69c  media/thumbnails/Karate (Europe).jpg
+18c71ee890a68b1e  media/thumbnails/Ice Giant (Europe).jpg
+0c784d8c9739e10d  media/thumbnails/Kilburn Encounter (Europe).jpg
+e06097863cdd729d  media/thumbnails/Island of Death (Europe).png
+f66bd1cc3e36c0f8  media/thumbnails/Jogger (Europe).png
+34c4de1c7034c5cd  media/thumbnails/Island of Death (Europe).jpg
+b139f5eb5e07bf37  media/thumbnails/Johnny Reb (Europe).png
+4b4843bfcece73b5  media/thumbnails/Lancelot.png
+486962eef778c95d  media/thumbnails/Kilburn Encounter (Europe).png
+201f703cc7c8a8f8  media/thumbnails/Land Of Illusion.png
+b7f75c9be194f8ba  media/thumbnails/Krillys (Europe).png
+43b898b4bfc30e49  media/thumbnails/Karate (Europe).png
+e051baa7cc8e7d51  media/thumbnails/Light Cycle (Europe).png
+4ba036030cb537a6  media/thumbnails/Land of Illusion (Europe).jpg
+3b9f1e04271c12eb  media/thumbnails/Light Cycle.png
+55f2c1fc6318d852  media/thumbnails/Light Cycle-01.png
+3d5cbf715e62e78c  media/thumbnails/Loki (Europe) (Unl).jpg
+63dccea43fa2f5b4  media/thumbnails/Loki (Europe) (Unl).png
+c01f4c6bd327fcb6  media/thumbnails/Light Cycle (Europe).jpg
+cf16cc8eafe936a2  media/thumbnails/Land of Illusion (Europe).png
+18e484555dae21ed  media/thumbnails/Lone Raider (Europe).png
+c15085f058d4e22d  media/thumbnails/Lone Raider (Europe).jpg
+34beb926ea4de4a4  media/thumbnails/M.A.R.C. (Europe).png
+aeabdeaa56bd0495  media/thumbnails/Lunar Lander (Durell Software) (Europe).png
+fe0ea3a08968e118  media/thumbnails/Lone Raider.png
+f0fc55957426cedb  media/thumbnails/Madacam Bumper.png
+ba4a990dcdd35d8c  media/thumbnails/Manic Miner (Europe).png
+089cf592e6915829  media/thumbnails/Miner (Europe)-01.png
+aeabdeaa56bd0495  media/thumbnails/Lunar Lander.png
+fcd1a712c539ad0a  media/thumbnails/Mined Out (Europe).jpg
+bcc7d54ee7600e5a  media/thumbnails/M.A.R.C. (Europe).jpg
+6957b4dcf236d6e8  media/thumbnails/Mines Of Moria, The (Europe).png
+5790601e60f6d00f  media/thumbnails/Mission Impossible (Europe).jpg
+c33a50c401f99689  media/thumbnails/Mission Delta.png
+8c97f02163ed9836  media/thumbnails/Mr Wimpy (Europe).png
+1007715c2744eba4  media/thumbnails/Night Fight (Europe).png
+4335aa31ccbacbc8  media/thumbnails/Mined Out (Europe).png
+9816d17c29bb6ed4  media/thumbnails/Mystere De Kikekankoi.png
+089cf592e6915829  media/thumbnails/Miner (Europe).png
+59ed04041d81b417  media/thumbnails/Mushroom Mania (Europe).png
+7a58f4d9646611c3  media/thumbnails/Nowotnik Puzzle (Europe).png
+d61d1e141de4d7ea  media/thumbnails/Oric Munch (Europe).jpg
+70444e7e3f6808bf  media/thumbnails/Mushroom Mania (Europe).jpg
+d96164a802268527  media/thumbnails/Mission Impossible (Europe).png
+3f739ea797fe53f0  media/thumbnails/Mushroom Mania.png
+2b6e5695a3129c18  media/thumbnails/Oric Munch (Europe).png
+c116f3fe73ae2119  media/thumbnails/Orion.png
+e856d408ac138bb4  media/thumbnails/Painter (Europe).jpg
+22d8d0bd6fcb3484  media/thumbnails/Paras (Europe).png
+e2fe2d9628a87c21  media/thumbnails/Pasta Blasta (Europe).png
+26041bb2a12dc62d  media/thumbnails/Poopy.png
+334401b1b5c7ebe9  media/thumbnails/Painter (Europe).png
+d73cdcf83e4b7842  media/thumbnails/Pasta Blasta (Europe).jpg
+7a34e5c8ad212da6  media/thumbnails/Playground 21 (Europe).jpg
+26041bb2a12dc62d  media/thumbnails/Poopy (Europe).png
+158db3742d1a2564  media/thumbnails/Playground 21 (Europe).png
+53680686e83aed01  media/thumbnails/Quest (Europe)-01.jpg
+e3b3c0b1fcdb13bc  media/thumbnails/Probe 3 (Europe).png
+cc437bf22c8072a8  media/thumbnails/Probe 3 (Europe).jpg
+268f6c70c3a83f6f  media/thumbnails/Road Frog (Europe).jpg
+53680686e83aed01  media/thumbnails/Quest (Europe).jpg
+624890a7133a86ca  media/thumbnails/Rock 'N Roll (Europe).jpg
+6490487467dc4b7d  media/thumbnails/Rat Splat! (Europe).png
+18a4f3ffa86f3b46  media/thumbnails/Rat Splat! (Europe).jpg
+e4420b0c0b6e0976  media/thumbnails/Rock 'N Roll (Europe).png
+f542a8108c011266  media/thumbnails/Road Frog (Europe).png
+ba73bb06bee8f952  media/thumbnails/Shuttle Simulator.png
+d5b54d7bf8e97c5d  media/thumbnails/Special Operations.png
+ac2119f8183877e8  media/thumbnails/Scuba Dive (Europe).png
+3d1966fe7606471e  media/thumbnails/Scuba Dive (Europe).jpg
+587199754a14a65f  media/thumbnails/Spooky Mansion (Europe).png
+03b2302834a9b47b  media/thumbnails/Spooky Mansion (Europe).jpg
+1d145dbb89e6190e  media/thumbnails/Starfighter.png
+587199754a14a65f  media/thumbnails/Spooky Mansion.png
+9523be369496c15d  media/thumbnails/Starfighter (Europe).png
+05d820c43744fde9  media/thumbnails/Styx (Europe).png
+78e1ccfa2e5d65f7  media/thumbnails/Starfighter (Europe).jpg
+9fbc95c6bfe56e03  media/thumbnails/Starter.png
+8c63dd6ef74a631d  media/thumbnails/Super Jeep.png
+fbdd9c9c1b3c1f23  media/thumbnails/Super Meteors (Europe).png
+22d3557f175ded46  media/thumbnails/Super Fruit.png
+fbdd9c9c1b3c1f23  media/thumbnails/Super Meteors.png
+22d3557f175ded46  media/thumbnails/Super Fruit (Europe).png
+4c3f5bed764a95cf  media/thumbnails/Super Advanced Break-Out.png
+3735a3e3c35fa8f3  media/thumbnails/Trick Shot (Europe).png
+2d65da359faeb090  media/thumbnails/Tyrann (Europe).jpg
+1d1df1be6dc62c59  media/thumbnails/Tyrann (Europe).png
+3b6c674e1ee927a4  media/thumbnails/TrickShot.png
+c761fa4d2fba2334  media/thumbnails/Tyrann.png
+44ffbec79950dedc  media/thumbnails/Ultima Zone.png
+bc2c9ee40846fb7f  media/thumbnails/Ultima Zone (Europe).jpg
+a8399b8c4c4afb71  media/thumbnails/Valley, The (Europe).jpg
+d32cea85d89742ad  media/thumbnails/Two Gun Turtle (Europe).png
+41e51213df2d8258  media/thumbnails/Thumbs.db
+beed3756671c3f70  media/thumbnails/Warlord (Europe).png
+07d741e571c50f60  media/thumbnails/Ultima Zone (Europe).png
+756f18c8544c6aca  media/thumbnails/Warlord.png
+ee35a7c1a9dd01fb  media/thumbnails/Ultra, The (Europe).jpg
+aee17eb52c063cc1  media/thumbnails/Valley, The (Europe).png
+4106e51e7b92fb5d  media/thumbnails/Water Panic (Europe).png
+69b1a6e891fd0576  media/thumbnails/Water Panic.png
+e8e5c3b3e16cb379  media/thumbnails/Water Panic (Europe).jpg
+0f11ac3d30fe0924  media/thumbnails/Waydor (Europe).png
+aa19bad14d923691  media/thumbnails/Velnor's Lair (Europe).jpg
+ba6da6ebc9ca4081  media/thumbnails/Waydor.png
+38aa7698c27be22e  media/thumbnails/Xenon 1 (Europe).png
+38aa7698c27be22e  media/thumbnails/Xenon 1.png
+24aa5b0909eaefd0  media/thumbnails/Xenon 3 - The Genesis Probe (Europe).png
+191dad66b6b60a27  media/thumbnails/Xenon 3 - The Genesis Probe (Europe).jpg
+4994706ea69f38b3  media/thumbnails/Ultra, The (Europe).png
+bcfb20a3829143ee  media/thumbnails/Zebbie.png
+d5eb0fc5e24ab2e1  media/thumbnails/Zebbie (Europe).jpg
+ae895d901f287c6b  media/thumbnails/Zodiac Adventure.png
+ae4b9a1517af928d  media/thumbnails/Warlord (Europe).jpg
+ddbe93862ed4dd2e  media/thumbnails/Zebbie (Europe).png
+82d4932993990fdc  media/thumbnails/Zorgon's Revenge.png
+bc0d8ae445032574  media/thumbnails/Zoolympics.png
+3fcb6843b7b75050  media/thumbnails/crocky.png
+b97e533db8590b3d  media/thumbnails/digger.png
+7ff73563c71788e6  media/thumbnails/doggy.png
+38d1e925dbed4d3a  media/thumbnails/caspak.png
+63dccea43fa2f5b4  media/thumbnails/loki.png
+b7a125c49ac830a9  media/thumbnails/locus.png
+fca4b56fab3650f4  media/thumbnails/missing.txt
+63b454b702d6639e  media/thumbnails/Zorgon's Revenge (Europe).png
+6d87670a5bda978f  media/thumbnails/Zorgon's Revenge (Europe).jpg
+228ecb2c1a634a3b  media/thumbnails/Zorgons Revenge-01.png
+173b72dd99ad1548  media/thumbnails/panic.png
+e49a1ed04dc74226  media/thumbnails/painter.png
+f66954a49e7b14bf  media/thumbnails/sorvivor.png
+22d8d0bd6fcb3484  media/thumbnails/paras.png
+bc0338394ecc561c  media/thumbnails/road frog.png
+05d820c43744fde9  media/thumbnails/styx.png
+b91935a9fa9b34c7  media/thumbnails/star.png
+324a969ba9779602  media/thumbnails/karate.png
+7b07709c34d9945f  media/thumbnails/ultra.png
+336fdefc9cc65de4  media/thumbnails/pengoric.png
+947c6204b2601beb  media/thumbnails/terminus.png
+98731aaf40d604cf  media/thumbnails/triathlon.png
+82f4d2bf1ed0db0f  media/videos/Light Cycle (Europe).mp4
+c7bb655d281facb0  media/videos/Mushroom Mania (Europe).mp4
+7ecbffa8468ba839  media/videos/Zorgon's Revenge (Europe).mp4
+3f588037d6f07e77  media/videos/Mr Wimpy (Europe).mp4
+304762e687ce467a  media/titles/4KKong (Europe) (Unl)-01.png
+df952d358073775f  media/videos/Insect Insanity (Europe).mp4
+dfc22a9d22fa5f8f  media/titles/4KKong (Europe) (Unl).png
+b2f0ca78e67d5a43  media/titles/3D Maze (Europe).png
+817706ba8eb2fd15  media/titles/Airline (Europe).png
+944985b35ba0d623  media/titles/Arena 3000 (Europe).png
+f4d35135fcf1598d  media/titles/Arena 3000 (Europe)-01.png
+26375d439ee44abf  media/titles/Battle Flight 4 (Europe).png
+d66de4ca704b44bd  media/titles/Boss, The (Europe).png
+39e37c5dc5b5fe30  media/titles/Attack of the Cybermen (Europe).png
+ff6e88ccfb8df326  media/videos/Xenon 3 - The Genesis Probe (Europe).mp4
+1c7351cc51007d8d  media/titles/Breakout (Compuden) (Europe).png
+96062317acf9f795  media/titles/Awari (Europe).png
+300e7e53909dd04f  media/titles/Attack of the Cybermen (Europe)-01.png
+0d279189f1453fcf  media/titles/Breakout-Machine (Europe) (Unl).png
+8255e0259f698c8e  media/videos/Rat Splat! (Europe).mp4
+70185d0597bcdd7f  media/titles/Chess (IJK Software) (Europe).png
+28399d0cb3f5dce6  media/titles/Candyfloss (Europe).png
+df100d1e3289bc0c  media/titles/Bricky (Europe).png
+70185d0597bcdd7f  media/titles/Chess (IJK Software) (Europe)-01.png
+70185d0597bcdd7f  media/titles/Chess (Tansoft) (Europe).png
+70185d0597bcdd7f  media/titles/Chess (Tansoft) (Europe)-01.png
+ce162845e4e625f3  media/titles/Centipede (Europe).png
+4838012d75bc5ced  media/titles/Contract Bridge (Europe).png
+9a6b112282dbc2f9  media/titles/Chess II (Europe).png
+91ece14206d41742  media/titles/Cribbage (Europe).png
+68edf6b006b3c487  media/titles/Chopper (Severn Software) (Europe).png
+4089ce148043041c  media/titles/Crabes (Europe) (Unl).png
+07fe4d2b50f36825  media/titles/Damsel in Distress (Europe).png
+2f66d99b8f97be69  media/titles/Damsel in Distress (Europe)-01.png
+5b75aa36d1022905  media/titles/Death Driver (Europe).png
+7cbeb162aff3caf4  media/titles/Dallas (Europe).png
+9c728ce81f15d687  media/titles/Dexterite (Europe).png
+a87bd4e74a56ab84  media/titles/Draughts (Europe).png
+d937daa21880591f  media/titles/Don Juan (Europe).png
+847b2f03b9f65509  media/titles/Dinky Kong (Europe).jpg
+19f0dd1053767259  media/titles/Dracula's Revenge (Europe).png
+3b7b763e4f418c9b  media/titles/Dracula's Revenge (Europe)-01.png
+36276c50efdc7ce4  media/titles/Elektro Storm (Europe).png
+350f7ed16a2640d4  media/titles/Driver (Tansoft) (Europe).png
+d23962c2c7cc3811  media/titles/Flight 401 (Europe).png
+8f391a13e39a5f23  media/titles/Fire Flash (Europe).png
+dcb2fe005ad35ce5  media/titles/Fantasy Quest (Europe).png
+ad2a396a5fc94ba4  media/titles/Flight Simulator (Europe) (Unl)-01.png
+ad2a396a5fc94ba4  media/titles/Flight Simulator (Europe) (Unl).png
+af797947ab7250fe  media/titles/Flight 401 (Europe)-01.png
+45ab832d9fb5192e  media/titles/Football Manager (Europe).png
+ad2a396a5fc94ba4  media/titles/Flight Simulator (Europe).png
+ad2a396a5fc94ba4  media/titles/Flight Simulator (Europe)-01.png
+50266f97a3027b0c  media/titles/Frigate Commander (Europe).png
+aa91235af313f4b7  media/titles/Galaxians (Europe)-01.png
+d4359ec3faf09d25  media/titles/Galaxians (Europe).png
+cf69f1de61abf642  media/titles/Ghostman (Europe).png
+58fd98f1ead84043  media/titles/Frog-Hop! (Europe).png
+af0e53e3e465360e  media/titles/Ghost Gobbler (Europe).png
+a4affc2543ac5c58  media/titles/Harrier Attack (Europe).png
+70845ac271726cf8  media/titles/Green Cross Toad (Europe)-01.png
+22ea0043a35faf72  media/titles/Hell's Temple (Europe).png
+5ab7e1a321ccf863  media/titles/Gravitor (Europe).png
+2e72a84b077162b2  media/titles/Hellion, The (Europe).png
+dd9bc7f332f37582  media/titles/Hobbit, The (Europe).png
+4ebad4f194dcda73  media/titles/Hopper (Europe).png
+86ae48e39a5d8c93  media/titles/Hop Frog (Europe).png
+244259db41b5f86a  media/titles/Green Cross Toad (Europe).png
+872ba213daea0509  media/titles/House of Death (Europe)-01.png
+d9cc65fc70a40e31  media/titles/Hollywood Director (Europe).png
+7ddcfb7a9ce52294  media/titles/Hangman (UTS) (Europe).png
+5e562754cdf8ccb6  media/titles/Hellion, The (Europe)-01.png
+f0987d2725502257  media/titles/House of Death (Europe).png
+d922aed7c7a0475b  media/titles/Hunchback (Europe)-01.png
+02bccafbf4dfe18a  media/titles/Ice Giant (Europe).png
+fd0fc2d716654934  media/titles/Island of Death (Europe)-01.png
+fd0fc2d716654934  media/titles/Island of Death (Europe).png
+81f1fc1c635f4a21  media/titles/Insect Insanity (Europe).png
+53225cc7a174503e  media/titles/Johnny Reb (Europe).png
+24a9035c831bf842  media/titles/Jogger (Europe).png
+42797023658c3647  media/titles/Island of Death (Europe)-02.png
+3eac4924ae0e69d0  media/titles/Hunchback (Europe).png
+5b526ce6f379f5e0  media/titles/Krillys (Europe).png
+6338132238d8112b  media/titles/Karate (Europe).png
+12f095240b8650a9  media/titles/Kilburn Encounter (Europe).png
+b85e7a937440262f  media/titles/Land of Illusion (Europe).png
+2288bda20ce98002  media/titles/Loki (Europe) (Unl).png
+d19c533109049ad8  media/titles/Light Cycle (Europe).jpg
+837e676daa49f192  media/titles/Keys of Kraal, The (Europe) (Unl).png
+6c4006aeef4c3bce  media/titles/Light Cycle (Europe).png
+af1ccd95a02e479a  media/titles/Lone Raider (Europe).png
+a4dccdc5cfc4ec6b  media/titles/Luna Landa (Europe).png
+341878772140bd20  media/titles/Lunar Lander (Durell Software) (Europe).png
+cd42489e75c08e57  media/titles/M.A.R.C. (Europe).png
+b3ca31cb382cfd24  media/titles/Manic Miner (Europe).png
+b3ca31cb382cfd24  media/titles/Manic Miner (Europe)-01.png
+f091dfb3b36ab32c  media/titles/Mined Out (Europe).png
+859325ce5d86cf1c  media/titles/Miner (Europe).png
+859325ce5d86cf1c  media/titles/Miner (Europe)-01.png
+a07ee8c719421035  media/titles/Lone Raider (Europe)-01.png
+5efefa870258fb5f  media/titles/Mission Impossible (Europe).png
+acbcf8202b4e757e  media/titles/Mushroom Mania (Europe).png
+e4050d9ae9609207  media/titles/Night Fight (Europe).png
+676d098e0aaa4dac  media/titles/Mushroom Mania (Europe)-01.png
+c6cecf3f18a5d953  media/titles/Mr Wimpy (Europe).png
+6e7764d5a4516053  media/titles/Mines Of Moria, The (Europe).png
+1679919d544fba97  media/titles/Nowotnik Puzzle (Europe).png
+21a67d3f976adedf  media/titles/Oric Bandit (Europe).png
+7ca7069cdde1eeb3  media/titles/Oric Flight (Europe).png
+23d07855d07109e7  media/titles/Painter (Europe).png
+dc87d76abca765de  media/titles/Oric Munch (Europe).png
+7d63b3f4412f4fac  media/titles/Oric Worm (Europe).png
+c369e4a1fbd37113  media/titles/Oric Parchen Kirchen (Europe).png
+348fe1340aa2ce1a  media/titles/Night Rider (Europe).png
+eaab1d1090cf3220  media/titles/Parachute (Cascade Games Ltd) (Europe) (Atmos).png
+5d5545f18f3a0ded  media/titles/Pasta Blasta (Europe).png
+9f0cb5dcb4d4a0bd  media/titles/Paras (Europe).png
+556c68b8cc648ef8  media/titles/Poopy (Europe).png
+d375a60bacaebd5b  media/titles/Pontoon (Coconut Computer Co Ltd) (Europe).png
+7e68b9d58916d330  media/titles/Probe 3 (Europe).png
+3e9f73ab518ec09d  media/titles/Probe 3 (Europe)-01.png
+dcb2fe005ad35ce5  media/titles/Quest (Europe)-01.png
+7c36473b8f3f9d90  media/titles/Plouf (Europe) (Unl).png
+a907ec198e91bcbe  media/titles/Quest (Europe)-02.png
+dcb2fe005ad35ce5  media/titles/Quest (Europe).png
+a907ec198e91bcbe  media/titles/Quest (Europe)-03.png
+b66c16b45a08b962  media/titles/Rat Splat! (Europe)-01.png
+a21e07bc015c141a  media/titles/Rock 'N Roll (Europe)-01.png
+470f71d30b0576b6  media/titles/Rock 'N Roll (Europe).png
+4ae1cd05303b1cae  media/titles/Rat Splat! (Europe).png
+080f8ea7b345693e  media/titles/Show-Jumping (Europe).png
+7e9bdd43d62c03b4  media/titles/Scuba Dive (Europe).png
+3f712f2b7a6e2887  media/titles/Snake Venom (Europe).png
+d66ee525ad1b8f51  media/titles/Skramble (Europe).png
+b07cfc6cf04e34fe  media/titles/Star Trek (Europe) (Atmos).png
+209cdd95b255e2a2  media/titles/Road Frog (Europe).png
+699c35b964332cde  media/titles/Spooky Mansion (Europe).png
+eb519ca9b25e4555  media/titles/Starfighter (Europe).png
+abdebbfa8b51b9e4  media/titles/Styx (Europe).png
+a81a739820329d9d  media/titles/Stock Market (Europe).png
+58e071ad760f0c5f  media/titles/Super Meteors (Europe).png
+458ab6821eaf2338  media/titles/Super Fruit (Europe).png
+8339e1e26090d71c  media/titles/Styx (Europe)-01.png
+7c64323d25ee9f03  media/titles/Tyrann (Europe).png
+57534325ce942e67  media/titles/Ultima Zone (Europe)-01.png
+f64644c1a71f9ab3  media/titles/Trick Shot (Europe).png
+0afd889b053f35e8  media/titles/Super-Maze (Europe) (Unl).png
+57534325ce942e67  media/titles/Ultima Zone (Europe).png
+60420958454bfc06  media/titles/Ultra, The (Europe)-01.png
+3cff285c50d9bd82  media/titles/Tyrann (Europe)-01.png
+ff3ee82ec4477664  media/titles/Ultima Zone (Europe)-02.png
+18cd55d29b721074  media/titles/Ultra, The (Europe).png
+fff864c1d701db75  media/titles/Valley, The (Europe)-01.png
+49e9c03964b0316d  media/titles/Valley, The (Europe).png
+3fc3db1b370e2b8e  media/titles/Velnor's Lair (Europe).png
+d890f0c7d6ff007c  media/titles/Velnor's Lair (Europe)-01.png
+da9cd9fbe4a963d9  media/titles/Water Panic (Europe).png
+81a1f2636d62954f  media/titles/Way to King Kung Fu, The (Europe).png
+da9cd9fbe4a963d9  media/titles/Water Panic (Europe)-01.png
+54e06f373c035cb4  media/titles/Water Panic (Europe)-02.png
+b0bb7f5df406c871  media/titles/Warlord (Europe).png
+4942354d4d559534  media/titles/Waydor (Europe)-01.png
+553b3b44822c8d7c  media/titles/White Barrows, The (Europe).png
+90033140ce26841d  media/titles/Xenon 3 - The Genesis Probe (Europe).png
+bd6ae09e48b0a237  media/titles/Zebbie (Europe).png
+2544768d640404b1  media/titles/Zorgon's Revenge (Europe)-01.png
+10482987c6c8d2fd  media/titles/Xenon 3 - The Genesis Probe (Europe)-01.png
+32a308291e6c5258  media/titles/Waydor (Europe).png
+0fc15cadb9ec2e50  media/titles/Zorgon's Revenge (Europe).png

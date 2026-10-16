@@ -1,0 +1,77 @@
+b9e08055f1d753fc  Slam City with Scottie Pippen (USA) (32X CD).m3u
+091320258e2eb776  Night Trap (USA) (32X CD).m3u
+9c39e94f8af59420  Fahrenheit (USA).m3u
+ec6fef5e2eb866e1  Night Trap (USA) (Disc 2) (32X CD).chd
+9c680da554a7052a  Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD).chd
+1cbe76e13c2b1de9  Supreme Warrior (32X CD).m3u
+d9f2ba946b1d31e9  Fahrenheit (USA) (Disc 2) (32X CD).chd
+545ba1f9f85652fe  Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (32X CD).chd
+0fdea0058e2aa928  Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (32X CD).chd
+c17d3abb07c75795  Night Trap (USA) (Disc 1) (32X CD).chd
+7b234e30bb5c5634  gamelist_ARRM.xml
+917df913a9b27138  media/cartridges/Fahrenheit (USA)   (Sega CD).png
+55e049eb91b7272e  media/cartridges/Corpse Killer (USA) (32X CD).png
+04c9a39c157dfe07  media/cartridges/Night Trap (USA) (32X CD).png
+18688ed3aebf4c74  media/cartridges/Slam City with Scottie Pippen (USA) (32X CD).png
+3cffc6216e7f475d  media/cartridges/Supreme Warrior (32X CD).png
+365e13a3126afbc9  Corpse Killer (USA) (32X CD).chd
+f01f9ae572b37bd6  media/fanarts/Fahrenheit (USA).jpg
+3b5039f1e1d531d9  media/fanarts/Corpse Killer (USA) (32X CD).png
+ce223e77caf173c0  media/cartridges/Surgical Strike (Brazil) (32X CD).png
+8a1a0b4f8b795e57  media/fanarts/Night Trap (USA) (32X CD).jpg
+61c96200960238c8  media/fanarts/Slam City with Scottie Pippen (USA) (32X CD).jpg
+22651e408730f06d  media/fanarts/Supreme Warrior (32X CD).jpg
+796110808f4faaff  media/fanarts/Surgical Strike (Brazil) (32X CD).jpg
+84d80fb8f5fc9fc4  media/images/Fahrenheit (USA).png
+b042e6e6702737df  media/images/Corpse Killer (USA) (32X CD).png
+7cc98618c98996b8  media/images/Slam City with Scottie Pippen (USA) (32X CD).png
+7b2afda1943b1d70  media/images/Night Trap (USA) (32X CD).png
+33d189377d7ffb7b  Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (32X CD).chd
+4532365f7d28faae  media/images/Surgical Strike (Brazil) (32X CD).png
+153782366418aae9  media/images/Supreme Warrior (32X CD).png
+c975e08f1557326e  media/marquee/Fahrenheit (USA)   (Sega CD).png
+f0ed284ebbdf55a3  media/marquee/Corpse Killer (USA) (32X CD).png
+11ec76b6763d0c77  media/marquee/Night Trap (USA) (32X CD).png
+67e21e4ee8ea8f61  media/marquee/Surgical Strike (Brazil) (32X CD).png
+5209ccc843cfb521  media/marquee/Slam City with Scottie Pippen (USA) (32X CD).png
+06fdf174edcca05d  media/marquee/Supreme Warrior (32X CD).png
+864509c30cc62dce  media/boxback/Night Trap (USA) (32X CD).jpg
+75d30ef52638ee63  media/boxback/Slam City with Scottie Pippen (USA) (32X CD).jpg
+61512abed5bd5ed7  media/boxback/Surgical Strike (Brazil) (32X CD).jpg
+fa1919331726a307  media/boxback/Fahrenheit (USA).jpg
+d7dd5abc4d454ca6  media/boxback/Corpse Killer (USA) (32X CD).jpg
+e54752d4634006bf  media/boxback/Supreme Warrior (32X CD).jpg
+c806fdc06d7336eb  media/manuals/Fahrenheit (USA)   (Sega CD)_(us).pdf
+29d0ae8b67ad99b2  media/manuals/Corpse Killer (USA) (32X CD)_(us).pdf
+cc4924bfce7ddba3  media/manuals/Night Trap (USA) (32X CD)_(us).pdf
+c92d753b2e85afa9  media/boxart/Corpse Killer (USA) (32X CD).png
+68fc46902a857b7e  media/manuals/Surgical Strike (Brazil) (32X CD)_(us).pdf
+cbaa0e8235b4a0fa  media/boxart/Fahrenheit (USA)   (Sega CD).png
+5281189365f96bc8  media/manuals/Slam City with Scottie Pippen (USA) (32X CD).pdf
+b7ed54ff4a40ef13  Surgical Strike (Brazil) (32X CD).chd
+1b1ba82c2d6078ae  media/manuals/Supreme Warrior (32X CD)_(us).pdf
+a40cd0d100a8e9c9  media/boxart/Night Trap (USA) (32X CD).png
+b6fe7f9cf00b58ea  media/boxart/Slam City with Scottie Pippen (USA) (32X CD).png
+f700b15a30b7e375  media/box2d/Corpse Killer (USA) (32X CD).png
+6b246a870a65b965  media/boxart/Surgical Strike (Brazil) (32X CD).png
+ff9f4ba629e51456  media/boxart/Supreme Warrior (32X CD).png
+307cc0c94fd52a57  media/box2d/Night Trap (USA) (32X CD).png
+abb85f504e13a9b0  media/box2d/Fahrenheit (USA).png
+9d63fa1dfc1bd356  media/box2d/Supreme Warrior (32X CD).png
+c8843db7d0ad4b99  Supreme Warrior (USA) (Disc 1) (Fire and Earth) (32X CD).chd
+057e61773fc8916c  media/titles/Fahrenheit (USA).png
+002973cf28f06439  media/titles/Night Trap (USA) (32X CD).png
+e6b0f1e54d0cdd9f  media/titles/Slam City with Scottie Pippen (USA) (32X CD).png
+e9974082cd216fc9  media/box2d/Slam City with Scottie Pippen (USA) (32X CD).png
+23fc8ea437c1b4b1  media/titles/Corpse Killer (USA) (32X CD).png
+937125278a0e50b2  media/titles/Surgical Strike (Brazil) (32X CD).png
+b76603e96433aa1e  media/titles/Supreme Warrior (32X CD).png
+f3b478ff2158223c  media/box2d/Surgical Strike (Brazil) (32X CD).png
+bd7f483ca19caf4e  media/videos/Slam City with Scottie Pippen (USA) (32X CD).mp4
+f0d42aa7f8e587ec  media/videos/Fahrenheit (USA)   (Sega CD).mp4
+127069eb2ea305c2  media/videos/Corpse Killer (USA) (32X CD).mp4
+8da5a7401157c9e2  Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (32X CD).chd
+ca75c1724f12caf0  media/videos/Supreme Warrior (32X CD).mp4
+c246f3ea3ad0b267  media/videos/Surgical Strike (Brazil) (32X CD).mp4
+dd0d9e51166be513  media/videos/Night Trap (USA) (32X CD).mp4
+80acb29d9760a930  Supreme Warrior (USA) (Disc 2) (Wind and Fang Tu) (32X CD).chd

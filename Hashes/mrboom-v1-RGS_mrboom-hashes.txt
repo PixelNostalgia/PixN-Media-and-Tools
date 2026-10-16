@@ -1,0 +1,9 @@
+91124fc48653a0fd  gamelist.xml.bak.20260501_211214
+8021faeb9a65b524  MrBoom.libretro
+3b755ffa2ccdbfe0  _info.txt
+9f49348490f90b46  media/thumbnails/MrBoom.png
+17da6fefcbb431d7  media/images/MrBoom.jpg
+7bf9ee113edcb96b  media/box2d/MrBoom.png
+a2ba8637acb2c402  media/fanarts/MrBoom.jpg
+441afe99d29826f3  media/marquee/MrBoom.png
+e6fe0d73f0ab9afc  media/videos/MrBoom.mp4

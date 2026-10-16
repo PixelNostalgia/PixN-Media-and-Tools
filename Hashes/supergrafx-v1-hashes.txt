@@ -1,0 +1,68 @@
+4aabf225c755ff33  _info.txt
+187ba9582cb2c5fa  Aldynes (Japan).zip
+ce5f19067bfea58c  media/marquee/Battle Ace (Japan).png
+bd68ac51331e8b71  media/marquee/Aldynes (Japan).png
+84d1c42db112f2f4  media/marquee/1941 - Counter Attack (Japan).png
+ba88cbf140e9d5c3  Madou Ou Granzort (Japan).zip
+44e6bf93381560b2  1941 - Counter Attack (Japan).zip
+85b2a6996eac49c8  Battle Ace (Japan).zip
+ad9931c083d19d3b  Dai Makaimura (Japan).zip
+5e1827c9d0a6f0ec  media/cartridges/1941 - Counter Attack (Japan).png
+636be2e2d59c8cd2  media/marquee/Dai Makaimura (Japan).png
+224a5890b2ad2d2d  media/box2d/Aldynes (Japan).png
+dadcf75f6c5d2cb7  media/cartridges/Aldynes (Japan).png
+eff155c960c84214  media/cartridges/Madou Ou Granzort (Japan).jpg
+f3215f667afe5b3f  media/cartridges/Dai Makaimura (Japan).png
+5a78fe2c07174d8e  media/box2d/1941 - Counter Attack (Japan).png
+75602aa9952e5f61  media/marquee/Madou Ou Granzort (Japan).png
+7b1b74432d5e0906  media/cartridges/Battle Ace (Japan).png
+b9f91e584e4157c8  media/boxback/1941 - Counter Attack (Japan).png
+692b67a13cfc6b32  media/box2d/Dai Makaimura (Japan).png
+9b02a2100ac99f18  media/boxback/Battle Ace (Japan).jpg
+1572deefb4e810b3  media/boxback/Aldynes (Japan).png
+2a076777af699a00  media/box2d/Battle Ace (Japan).png
+139467f354c21dc1  media/box2d/Madou Ou Granzort (Japan).png
+63359200c1429e6d  media/boxback/Dai Makaimura (Japan).png
+513331a411bc940d  media/images/Battle Ace (Japan).png
+6531e3eb8a1f9f71  media/images/1941 - Counter Attack (Japan).png
+9bee682b7d8f4bf6  media/boxback/Madou Ou Granzort (Japan).jpg
+8d8f2c73c989d617  media/bezel/1941 - Counter Attack (Japan)-bezel.png
+60049f852b376df2  media/images/Dai Makaimura (Japan).png
+78c7f28387ac2ba9  media/images/Madou Ou Granzort (Japan).png
+02306cea0d334f66  media/images/Aldynes (Japan).png
+b4ca4d23e6584556  media/bezel/Aldynes (Japan)-bezel.png
+7f9a9c7bca712ae3  media/bezel/Battle Ace (Japan)-bezel.png
+79019e8ce5bb954f  media/bezel/Madou Ou Granzort (Japan)-bezel.png
+62f78f5e9be4d0de  media/fanarts/1941 - Counter Attack (Japan).jpg
+638294bfd565e599  media/bezel/Dai Makaimura (Japan)-bezel.png
+a594280e70c569f9  media/fanarts/Aldynes (Japan).jpg
+6531e3eb8a1f9f71  media/mix/1941 - Counter Attack (Japan).png
+60049f852b376df2  media/mix/Dai Makaimura (Japan).png
+78c7f28387ac2ba9  media/mix/Madou Ou Granzort (Japan).png
+d989516232c06b54  media/fanarts/Battle Ace (Japan).jpg
+7417524388cbe754  media/fanarts/Madou Ou Granzort (Japan).jpg
+4f5248637bd69745  media/screenshots/Aldynes (Japan).png
+f5989f2b1d36ec7d  media/fanarts/Dai Makaimura (Japan).jpg
+1f14b4358a2c5a3e  media/screenshots/Battle Ace (Japan).png
+513331a411bc940d  media/mix/Battle Ace (Japan).png
+2c438d14602477bc  media/screenshots/Dai Makaimura (Japan).png
+02306cea0d334f66  media/mix/Aldynes (Japan).png
+472fc5d0e8d780bc  media/manuals/Dai Makaimura (Japan)_(jp).pdf
+ccc4d2f5fe424132  media/screenshots/Madou Ou Granzort (Japan).png
+034fd84f9c3b3a59  media/screenshots/1941 - Counter Attack (Japan).png
+a6f2e627f6667747  media/thumbnails/Aldynes (Japan).png
+9eb99bc4d0dda3b1  media/thumbnails/Thumbs.db
+2e28ae4cb1a07e35  media/thumbnails/Battle Ace (Japan).png
+e86db1417451e52b  media/titles/1941 - Counter Attack (Japan).png
+3d14c2d39efa9d30  media/thumbnails/Dai Makaimura (Japan).png
+1e0841729997e9e6  media/titles/Battle Ace (Japan).png
+f608c3c92913b0f1  media/titles/Dai Makaimura (Japan).png
+af38766bbb43980a  media/titles/Aldynes (Japan).png
+6f0acd4a1fed208a  media/titles/Madou Ou Granzort (Japan).png
+29d3b98f24204f0d  media/thumbnails/1941 - Counter Attack (Japan).png
+3cbd71769a7a2bcf  media/thumbnails/Madou Ou Granzort (Japan).png
+7aeed958febd5c49  media/videos/Aldynes (Japan).mp4
+6e44fd128bf3a4d2  media/videos/1941 - Counter Attack (Japan).mp4
+165959f86e919895  media/videos/Madou Ou Granzort (Japan).mp4
+d4a25bf7f9abb00e  media/videos/Dai Makaimura (Japan).mp4
+2f2186002a668d5a  media/videos/Battle Ace (Japan).mp4

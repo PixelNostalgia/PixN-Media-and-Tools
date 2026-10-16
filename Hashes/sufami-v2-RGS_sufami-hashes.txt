@@ -1,0 +1,154 @@
+1de470fae023cb20  Poi Poi Ninjya World (J) (ST).smc
+7bf680ae94177212  Gegege no Kitarou - Youkai Donjara (J) (ST).smc
+acdc854f0974b816  Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).smc
+863f26d33a206e64  SD Gundam Generations 2 Guripus Senki.smc
+0e948677f3099758  SD Gundam Generations 3 Axiz Senki.smc
+29d286abb11b046d  SD Gundam Generations 1 Nen Sensouki.smc
+e2ce86aceee40a01  Crayon Shin Chan - Nagagutsu Dobon (J) (ST).smc
+8ddce2c0541902ea  Gekisou Sentai Car Rangers (J) (ST).smc
+599211a9d894f0c0  gamelist.xml.bak.20260501_211214
+5654bd0452d08d64  SD Ultra Battle - Seven Densetsu (J) (ST).smc
+8d6fc53f217a32c4  SD Gundam Generations 4 Babironia Kenkoku Senki.smc
+01d3d6103378c5dd  SD Gundam Generations 5 Zansukaru Senki.smc
+7a2cbcb3dc9ab02d  SD Ultra Battle - Ultraman Densetsu (J) (ST).smc
+2f48ea0a1424a082  SD Gundam Generations 6 Colony Kakutouki.smc
+c37912b2907e6e51  media/manuals/Poi Poi Ninjya World (J) (ST).pdf
+09848c785ce32da0  _info.txt
+04d34d0bed47d84d  media/cartridges/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+47ed46abe413d19a  media/manuals/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).pdf
+26c9ceaff6a707e9  media/manuals/Gekisou Sentai Car Rangers (J) (ST).pdf
+a51fa05e3bb14d76  media/cartridges/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+e11829acc4bc7161  media/manuals/Gegege no Kitarou - Youkai Donjara (J) (ST).pdf
+1534dde3284d11d0  media/cartridges/Gekisou Sentai Car Rangers (J) (ST).png
+6688810e856a4536  media/cartridges/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+ae19ec9efdde4314  media/cartridges/Poi Poi Ninjya World (J) (ST).png
+b7a3d9aea0306573  media/cartridges/SD Gundam Generations 1 Nen Sensouki.png
+1f6d75b4fd59e7f9  media/cartridges/SD Gundam Generations 2 Guripus Senki.png
+a0a37f5f5972c1e3  media/cartridges/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+4905fbd07c9ab148  media/manuals/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).pdf
+1f962e399f3cdd44  media/cartridges/SD Gundam Generations 3 Axiz Senki.png
+5880c77508b2967b  media/cartridges/SD Gundam Generations 5 Zansukaru Senki.png
+fa6f9a62f77f5919  media/cartridges/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+b05f2154151919d9  media/cartridges/SD Gundam Generations 6 Colony Kakutouki.png
+d1d14d3d871aab03  media/cartridges/SD Ultra Battle - Seven Densetsu (J) (ST).png
+78958e4b957f591a  media/images/Gekisou Sentai Car Rangers (J) (ST).png
+24689263d75fc68c  media/images/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+93b4982ece2d422a  media/images/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+f2de8e64539401ee  media/manuals/SD Gundam Generations 2 Guripus Senki.pdf
+3ca456d33733f68c  media/images/Poi Poi Ninjya World (J) (ST).png
+a942d7f0cf913dc6  media/images/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+e74127d36fddc3e4  media/manuals/SD Gundam Generations 3 Axiz Senki.pdf
+363665894b5027bd  media/images/SD Gundam Generations 3 Axiz Senki.png
+29fbf11e02001531  media/images/SD Gundam Generations 1 Nen Sensouki.png
+eb3ac5b9d7b1e079  media/images/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+48539e581862d41e  media/manuals/SD Gundam Generations 1 Nen Sensouki.pdf
+9bbc8a412edf82a2  media/images/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+1e127b4779dff264  media/images/SD Gundam Generations 6 Colony Kakutouki.png
+f478d07499489131  media/images/SD Gundam Generations 2 Guripus Senki.png
+ab815c7b235a1c13  media/images/SD Gundam Generations 5 Zansukaru Senki.png
+38ff538fb5f376ca  media/boxback/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+eb3451471b445959  media/boxback/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+c6a1ff8b923bcca5  media/boxback/SD Gundam Generations 1 Nen Sensouki.png
+91c0b88836104ee3  media/boxback/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+f895142175e286c1  media/images/SD Ultra Battle - Seven Densetsu (J) (ST).png
+b0b958ea2e9705c8  media/boxback/Poi Poi Ninjya World (J) (ST).png
+88161fcb28582acf  media/boxback/SD Gundam Generations 2 Guripus Senki.png
+10316ae8cc86a605  media/boxback/SD Gundam Generations 3 Axiz Senki.png
+13880087dfa7cc8a  media/boxback/SD Gundam Generations 6 Colony Kakutouki.png
+a4f519ba656fe0e0  media/boxback/SD Ultra Battle - Seven Densetsu (J) (ST).png
+0241e7096601b362  media/boxback/SD Gundam Generations 5 Zansukaru Senki.png
+cc87a41ca80e8d67  media/boxart/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+b608b09cd9e7b84c  media/boxback/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+48127a452ec7051b  media/boxart/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+96c97ef0fa8c6693  media/boxart/Gekisou Sentai Car Rangers (J) (ST).png
+7330c68de464796d  media/boxart/SD Gundam Generations 2 Guripus Senki.png
+4dec07bf4dfa5074  media/boxback/Gekisou Sentai Car Rangers (J) (ST).png
+9acd38cd2bb5a899  media/boxback/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+0d1f3d548f89631b  media/boxart/SD Gundam Generations 1 Nen Sensouki.png
+15edb61a3b8c0ae4  media/boxart/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+c97b007e6583d5ea  media/boxart/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+b9f5a20cb07cf0aa  media/boxart/Poi Poi Ninjya World (J) (ST).png
+0b7f47f1eb51a40a  media/boxart/SD Gundam Generations 5 Zansukaru Senki.png
+cce3356efbd7fea3  media/boxart/SD Gundam Generations 6 Colony Kakutouki.png
+35ec4748596c72b1  media/box2d/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+4db1d487fe3cc8ef  media/box2d/Gekisou Sentai Car Rangers (J) (ST).png
+f3b0a60707ebad8c  media/boxart/SD Ultra Battle - Seven Densetsu (J) (ST).png
+a08a185c0b672604  media/box2d/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+745ceba799749b22  media/box2d/SD Gundam Generations 2 Guripus Senki.png
+6fc01215f9558f65  media/boxart/SD Gundam Generations 3 Axiz Senki.png
+4c30e82e0d919f95  media/box2d/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+51e09535ec5970e9  media/box2d/SD Gundam Generations 3 Axiz Senki.png
+8c2760cb96d87ba2  media/boxart/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+1bc9044b74ea9c55  media/box2d/Poi Poi Ninjya World (J) (ST).png
+ecb9942c5e801e66  media/box2d/SD Gundam Generations 1 Nen Sensouki.png
+903810d9b891b0f9  media/fanarts/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).jpg
+a8473a562dc1ebff  media/fanarts/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).jpg
+e6f9efbf856ae750  media/fanarts/Gekisou Sentai Car Rangers (J) (ST).jpg
+9f1330d8c2d9955b  media/box2d/SD Ultra Battle - Seven Densetsu (J) (ST).png
+6747f537cac1a45d  media/box2d/SD Gundam Generations 6 Colony Kakutouki.png
+35e8a5e8c2c1e74d  media/fanarts/Gegege no Kitarou - Youkai Donjara (J) (ST).jpg
+af03e66ed1fb2ae3  media/box2d/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+40f8cfa8642a6c99  media/box2d/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+d9868abea6d854b2  media/fanarts/SD Gundam Generations 1 Nen Sensouki.jpg
+09add28dcffaaa12  media/fanarts/SD Gundam Generations 5 Zansukaru Senki.jpg
+554d170e7a480ce5  media/box2d/SD Gundam Generations 5 Zansukaru Senki.png
+6c6c905f29934e0b  media/fanarts/Poi Poi Ninjya World (J) (ST).jpg
+4e525f6338e70d37  media/fanarts/SD Ultra Battle - Ultraman Densetsu (J) (ST).jpg
+09a9a011102fc8c1  media/fanarts/SD Gundam Generations 2 Guripus Senki.jpg
+2641e3b407721105  media/fanarts/SD Ultra Battle - Seven Densetsu (J) (ST).jpg
+b1dffb9cb97f2891  media/fanarts/SD Gundam Generations 4 Babironia Kenkoku Senki.jpg
+8b7a1381022cfc3d  media/marquee/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+c7032f6c1d83978f  media/fanarts/SD Gundam Generations 3 Axiz Senki.jpg
+db899b8b274fbd49  media/fanarts/SD Gundam Generations 6 Colony Kakutouki.jpg
+c53129b7303abfd1  media/marquee/SD Gundam Generations 1 Nen Sensouki.png
+2bfa89f3f0969ef9  media/marquee/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+cd30cbc9bc11cce4  media/marquee/SD Gundam Generations 3 Axiz Senki.png
+e3a200d1123de9ae  media/marquee/Poi Poi Ninjya World (J) (ST).png
+873c0cab98dab8a8  media/marquee/SD Gundam Generations 5 Zansukaru Senki.png
+ca2ce9fe6dc363a7  media/marquee/SD Gundam Generations 2 Guripus Senki.png
+228d9490372175ce  media/marquee/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+b1a44629dea431a4  media/marquee/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+20702ec5da8e6f28  media/marquee/Gekisou Sentai Car Rangers (J) (ST).png
+fa4c40400e93a058  media/marquee/SD Gundam Generations 6 Colony Kakutouki.png
+267ce668be470252  media/marquee/SD Ultra Battle - Seven Densetsu (J) (ST).png
+55d2215bfec6765b  media/spine/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+98fa8c64eb0ef48e  media/thumbnails/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+4cd192615bc848c4  media/thumbnails/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).png
+2b4dfd3190c8b6fc  media/thumbnails/SD Gundam Generations 4 Babironia Kenkoku Senki.png
+6db4579e76628771  media/marquee/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+dd2160dddc21a714  media/thumbnails/Poi Poi Ninjya World (J) (ST).png
+fc8656444db09b22  media/thumbnails/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+540c9fca40046cc1  media/thumbnails/SD Gundam Generations 1 Nen Sensouki.png
+540a1e6627112ff3  media/thumbnails/Gekisou Sentai Car Rangers (J) (ST).png
+fd661827cfe51947  media/thumbnails/SD Gundam Generations 2 Guripus Senki.png
+3f6efa1661091104  media/thumbnails/SD Gundam Generations 3 Axiz Senki.png
+f5608db1b2b2b5e8  media/thumbnails/SD Ultra Battle - Seven Densetsu (J) (ST).png
+00f93312d730d0f9  media/thumbnails/SD Gundam Generations 5 Zansukaru Senki.png
+73e181549ca635ba  media/titles/Poi Poi Ninjya World (J) (ST).png
+994e1a2dbd1769e8  media/titles/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).png
+482116ca01b1bb83  media/thumbnails/SD Ultra Battle - Ultraman Densetsu (J) (ST).png
+c654baa4189b4cba  media/titles/Gegege no Kitarou - Youkai Donjara (J) (ST).png
+240cf874fe0cd014  media/titles/SD Gundam Generations 2 Guripus Senki.jpg
+1bfa15c9bae2eacd  media/titles/SD Gundam Generations 3 Axiz Senki.jpg
+22c8702ee9c24cc6  media/titles/SD Gundam Generations 5 Zansukaru Senki.jpg
+d00f097bc1edc6d8  media/titles/SD Ultra Battle - Ultraman Densetsu (J) (ST).jpg
+6104f816cfa55b76  media/titles/SD Gundam Generations 1 Nen Sensouki.png
+1f2a9eeb56f43bf5  media/titles/SD Ultra Battle - Seven Densetsu (J) (ST).jpg
+d640387bb3f80a09  media/titles/Gekisou Sentai Car Rangers (J) (ST).jpg
+8e3d96a7037f0d62  media/titles/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).jpg
+7d567dd4ae603e81  media/titles/SD Gundam Generations 6 Colony Kakutouki.jpg
+b0b9c4f5b03754c9  media/titles/SD Gundam Generations 4 Babironia Kenkoku Senki.jpg
+2b12ca4352d9fddb  media/thumbnails/SD Gundam Generations 6 Colony Kakutouki.png
+423ac8daae61299e  media/videos/Gegege no Kitarou - Youkai Donjara (J) (ST).mp4
+f022707e904170fc  media/videos/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).mp4
+1db6132361b093de  media/videos/SD Gundam Generations 1 Nen Sensouki.mp4
+0cc5648dd2399cb9  media/videos/Crayon Shin Chan - Nagagutsu Dobon (J) (ST).mp4
+1961d4a038274b7c  media/videos/Poi Poi Ninjya World (J) (ST).mp4
+e08c1f47efc4b6dc  media/videos/Gekisou Sentai Car Rangers (J) (ST).mp4
+518c38e57117930b  media/videos/SD Gundam Generations 2 Guripus Senki.mp4
+4778cc8b5748237d  media/videos/SD Gundam Generations 4 Babironia Kenkoku Senki.mp4
+dd3fe7777937f25e  media/videos/SD Gundam Generations 6 Colony Kakutouki.mp4
+ec7413de172d113b  media/videos/SD Ultra Battle - Seven Densetsu (J) (ST).mp4
+380229966041350d  media/videos/SD Gundam Generations 3 Axiz Senki.mp4
+72b961413d0c54e9  media/videos/SD Gundam Generations 5 Zansukaru Senki.mp4
+fd6c26a6c92c4296  media/videos/SD Ultra Battle - Ultraman Densetsu (J) (ST).mp4

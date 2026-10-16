@@ -1,0 +1,1837 @@
+85ebce79389b0b41  Baseball (USA, Europe).bin
+106713c4bd0c3c43  4 in 1 Row (Europe).bin
+9a95ad5a0114ffc5  Atlantis (USA, Europe).bin
+04dbec001fa67d14  Alpine Skiing (USA, Europe).bin
+b0292829ca75be17  4 en 1 Ligne (France).bin
+ed695a4dcff26b5b  Attack of the Timelord (USA).bin
+9fc3399764bc0732  Blackjack (France).bin
+deb26914f57810dd  Billard Electrique (France).bin
+571eaf87040c0abe  Bombardeio Submarino + Tiro ao Alvo (Brazil).bin
+756ff9c680ae8a93  Blockout + Breakdown (USA, Europe).bin
+8c5537a63d6a03c6  Billiard Americain (France).bin
+6f0f809255d167f7  Armored Encounter + Sub Chase (USA, Europe).bin
+7796d6ac1d5e289b  Catch the Ball + Noughts and Crosses (Europe).bin
+6ec5752c373502a7  Casino Slot Machine (USA, Europe).bin
+da20aa5936229241  Chat et Souris (France).bin
+22e7d40c26df7c54  Bowling + Basketball (USA, Europe).bin
+67128534fe428c12  Blobbers, The (Europe).bin
+957fd43678c4d281  Buraco Negro (Brazil).bin
+5bd9446433b53cf4  Chess (Europe).bin
+7dd9d7e460362668  Clay Pigeon (Brazil).bin
+6bdd0539ecf7e320  Chinese Logic (Europe).bin
+650fbdbea9bc0994  Alien Invaders - Plus (USA, Europe).bin
+fc3e96696cb5b2b9  Comando Noturno (Brazil).bin
+529b7556e9c972e2  Computer Intro (USA).bin
+5f8f9e4641712d8f  Conflit Cosmique (Canada).bin
+8e1ca911c0ebab4e  Computer Golf (USA).bin
+55c4ae58a6dac183  Cosmic Conflict (Europe) (Alt 1).bin
+5b13a8bb0c18973b  Conquest of the World (USA, Europe).bin
+33f42a21e1fa57db  Cosmic Conflict (Europe).bin
+e33b64dcc82334e7  Cosmic Conflict (USA).bin
+f528fb75c537ca7d  Desafio Chines (Brazil).bin
+97935afab19099ec  Demon Attack (USA, Europe).bin
+2b3479fc5025d80d  Depth Charge + Marksman (Europe).bin
+380407424dab137e  Course de Voitures + Autodrome + Cryptogramme (France).bin
+cf313c48d231dfd1  Dynasty (USA).bin
+aa93f0816aa8d6ac  Football Electronique + Hockey Electronique (France).bin
+45d9b6a72c35af69  Freedom Fighters (USA, Europe).bin
+3c751028d03e6587  Electronic Table Soccer (USA, Europe).bin
+90ba788055dcb894  Computer Programmer (Europe).bin
+25e2ded82bbccc38  Great Wall Street Fortune Hunt, The (USA, Europe).bin
+38ef8c0fdfc4ceac  Football (USA, Europe).bin
+81a21efd81ad3938  Frogger (Europe).bin
+01599e39c954305c  Golf (Europe).bin
+da25191fbf9ab20f  Gunfighter (Europe).bin
+4fe65f452d07deb5  I've Got Your Number (USA, Europe).bin
+d239c72f48f3823f  Invaders from Hyperspace (USA).bin
+f59df3d3bd82001b  Interpol (Europe) (Proto).bin
+118203b452cff564  Hockey + Soccer (USA, Europe).bin
+d4b22a8711188d03  Guerre Laser (France).bin
+8f1fd4e580fd1121  Jumping Acrobats (Europe) (Alt 1).bin
+b9a7b0f3f41aaa0c  K.C. Munchkin (USA).bin
+2b7218c4d077f334  Jeu de Quilles + Basketball (France).bin
+a4d2fb3abce44998  Keyboard Creations (USA).bin
+8436c38aaba7e1ca  K.C.'s Krazy Chase (USA, Europe).bin
+3828f730fbeae2a7  Jumping Acrobats (Europe).bin
+0f15e1c431c352eb  Kinder im Verkehr 1 (Germany).bin
+7c97c7bc123bb1ac  Killer Bees (USA).bin
+94cb0b2d9437bb08  Labyrinth Game, A + Supermind (Europe).bin
+22c17233c348ba02  La Quete des Anneaux (France).bin
+aab6d8623dc351fe  Las Vegas (France).bin
+0167df22a0c71f80  Las Vegas Blackjack (USA, Europe).bin
+112dac6d1486e8bc  Laser War (Europe).bin
+084a00fc70bf3645  Loony Balloon (Europe) (Proto).bin
+62039c0c895f329f  Martian Threat (Europe) (Proto).bin
+70504468247c8c6a  Martian Threat (Europe) (Proto) (Alt 1).bin
+153f3f45aac342a0  Matchmaker + Logix + Buzzword (USA).bin
+70f6f725e946358b  Mathematicien + Echo (France).bin
+fabff1ce91e99f1e  Math-A-Magic + Echo (USA, Europe).bin
+e1eabf9a4b3a6d09  Morse (Europe).bin
+b85f9cd708c5ecf8  Mousing Cat, The (Europe).bin
+51b8be874bd56aa4  Monkeyshines (USA, Europe).bin
+733466822267b0b6  Morse (France).bin
+92f507087985447c  Munchkin (Europe).bin
+ef8a5b9f17c74bff  Mission Impossible (Brazil) (Proto).bin
+775b69541d3273e7  Musician (Europe).bin
+ebb591e6bab3ad04  Nightmare (Europe).bin
+e1a6f809a9fad382  Newscaster (Europe).bin
+6c310ff80944a3e6  Mur Magique, Le (France).bin
+edd61e3e39ce5939  Nimble Numbers Ned (USA).bin
+0be971294bfa6dc4  Nightfighter (Europe) (Proto).bin
+3bc507f6684a4716  Neutron Star (Europe) (Proto).bin
+bccd04d5b98f558a  O Malabarista + Jogo da Velha (Brazil).bin
+4dcc7b4603547140  P.T. Barnum's Acrobats (USA).bin
+083bc369ec907081  Pachinko (USA, Europe).bin
+1885f89566744e7a  Pairs + Space Rendezvous + Logic (Europe).bin
+1d7b514c0505884a  Out of this World + Helicopter Rescue (USA).bin
+950c98e50726eef6  Pinball (USA) (Proto).bin
+a9c125c733ddc84d  Playtag (Europe) (Proto).bin
+9c0db8ba9a6d6f13  O Segredo do Farao (Brazil).bin
+df3462b078a1fe2b  Pick Axe Pete (USA, Europe).bin
+c4238812511eb872  Pocket Billiards (USA, Europe).bin
+3103b249ef8220b6  Power Lords (USA).bin
+2fb92d3d428ce613  Popeye (Brazil).bin
+db30d76bacccea8a  Power Lords (USA) (Alt 1).bin
+6bc913ce99c5c64f  Popeye (Europe).bin
+3817904d663d1bce  Quest for the Rings (USA, Europe).bin
+2a65ae0f55d7c4e3  Q-Bert (Europe).bin
+6ef9c8f1629ba2f6  Prendre l'Argent et Fuir (France).bin
+44c56a3d6ffd8339  Red Baron (Europe) (Proto).bin
+c9c6cb5e9f89a7df  Red Baron (Europe) (Proto) (Alt 1).bin
+7a064480ff2baf6a  Secret of the Pharaohs (Europe).bin
+b3fccd76d2f77b84  Samurai (Europe).bin
+6d09252affdb1cc9  Showdown in 2100 A.D. (USA).bin
+3c7ca05073f21ba5  Satellite Attack (Europe).bin
+135115878dd9e2c7  Robot City (Europe) (Proto).bin
+882759665a5b411a  Shark Hunter (Europe) (Proto).bin
+0cb2d1b5f6556e46  Skiing (France).bin
+0f59d54e97ac80bb  Speedway + Spin-out + Crypto-logic (USA, Europe).bin
+2d20e4644cd6bd6e  Sid the Spellbinder (USA).bin
+87b2f2f44b4f88bb  Spider-Man (Europe) (Proto) (Alt 1).bin
+a3364c3d753e26ee  Super Bee (Europe).bin
+d6f00d0c13290af3  Spider-Man (Europe) (Proto).bin
+279463fc22d9952f  Stone Sling (Europe).bin
+1bb40c1bc3676bbc  Super Cobra (Brazil).bin
+4a8ca087464829fa  Smithereens (USA).bin
+98cc1f6d56270b43  Super Bee (Brazil).bin
+57064834fb9006c0  Take the Money and Run (USA, Europe).bin
+e10eddb1eae0c114  Tutankham (Europe) (Proto).bin
+439b36b6e2a2d26a  Turtles (USA).bin
+dee683c609fa8fc1  Type & Tell (USA).bin
+8b5f26336f327d97  UFO (USA).bin
+75b49e4f0594b884  Verkehrsspiele 1 (Germany).bin
+1bcd1383033873a1  Volleyball Electronique (France).bin
+104f728e9b231304  Volleyball (USA, Europe).bin
+08264843e05b8255  Verkehrsspiele 2 (Germany).bin
+f6508dd5e6b2f413  Wall Street (Brazil).bin
+b5b1ca1402730067  War of Nerves (USA, Europe).bin
+f9ef42a3f636f321  Turtles (Europe).bin
+9d98db0548ced302  _info.txt
+acdc5c298804f97f  Thunderball (USA, Europe).bin
+133872948399752a  Super Cobra (Europe).bin
+ad6ebc3a30be59b1  media/mix/Armored Encounter + Sub Chase (USA, Europe).png
+22c94ae962382821  media/mix/Atlantis (USA, Europe).png
+a7827564e3d25f27  media/mix/4 in 1 Row (Europe).png
+93365ae45cac029f  media/mix/4 en 1 Ligne (France).png
+07576d034848ff99  media/mix/Alien Invaders - Plus (USA, Europe).png
+28608b9d41a7f558  media/mix/Attack of the Timelord (USA).png
+9d24fbd622dc56da  media/mix/Alpine Skiing (USA, Europe).png
+945c75ba7fe4be74  media/mix/Baseball (USA, Europe).png
+126f14cbdf762b36  media/mix/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+30258cfeeaf490dd  media/mix/Billard Electrique (France).png
+b2ce3e599aaaebf8  media/mix/Blockout + Breakdown (USA, Europe).png
+80819b3ec7507437  media/mix/Blobbers, The (Europe).png
+47fbde3b5485e7f8  media/mix/Billiard Americain (France).png
+9d5412cde67b7dbc  media/mix/Blackjack (France).png
+afecdf9458804445  media/mix/Catch the Ball + Noughts and Crosses (Europe).png
+2cb3a0a5fd430a02  media/mix/Casino Slot Machine (USA, Europe).png
+3779d1395ac829fb  media/mix/Chinese Logic (Europe).png
+d4441a1cd54de68e  media/mix/Bowling + Basketball (USA, Europe).png
+b7f9a9d0390e0768  media/mix/Chess (Europe).png
+8aeafaf4c12df724  media/mix/Comando Noturno (Brazil).png
+604320b7e6b5c1e0  media/mix/Buraco Negro (Brazil).png
+fccc12d26e8e1699  media/mix/Chat et Souris (France).png
+a2f3293e6735173e  media/mix/Computer Programmer (Europe).png
+09328eea06abae96  media/mix/Computer Golf (USA).png
+a1f43d08d43f162a  media/mix/Computer Intro (USA).png
+ae262fa853e17974  media/mix/Conflit Cosmique (Canada).png
+ca33200dbe807146  media/mix/Clay Pigeon (Brazil).png
+fb3a2821642bfce4  media/mix/Cosmic Conflict (USA).png
+126f14cbdf762b36  media/mix/Depth Charge + Marksman (Europe).png
+08a89eb8de1fbb02  media/mix/Demon Attack (USA, Europe).png
+ae262fa853e17974  media/mix/Cosmic Conflict (Europe).png
+b38d7ba896484d1b  media/mix/Desafio Chines (Brazil).png
+afed2eb0e0daf3d1  media/mix/Course de Voitures + Autodrome + Cryptogramme (France).png
+ae262fa853e17974  media/mix/Cosmic Conflict (Europe) (Alt 1).png
+fe05ca30fb8041d1  media/mix/Conquest of the World (USA, Europe).png
+306bc4e80bb743df  media/mix/Dynasty (USA).png
+2b3a2d9c0f0d2863  media/mix/Freedom Fighters (USA, Europe).png
+808bdc385b0803fb  media/mix/Football Electronique + Hockey Electronique (France).png
+2e92d2885be98f15  media/mix/Golf (Europe).png
+90419befd1bf5ffc  media/mix/Football (USA, Europe).png
+9428c132079efe6b  media/mix/Great Wall Street Fortune Hunt, The (USA, Europe).png
+f5dd078cea8b755c  media/mix/Electronic Table Soccer (USA, Europe).png
+1ea9724d9501c5f9  media/mix/Frogger (Europe).png
+70d76b4f340ca54b  media/mix/Interpol (Europe) (Proto).png
+3fbf966029cde356  media/mix/I've Got Your Number (USA, Europe).png
+070d0c2e2d6308ba  media/mix/Gunfighter (Europe).png
+573b3e9579cd1244  media/mix/Guerre Laser (France).png
+cc3c0612bcfca777  media/mix/Jumping Acrobats (Europe) (Alt 1).png
+cc3c0612bcfca777  media/mix/Jumping Acrobats (Europe).png
+808bdc385b0803fb  media/mix/Hockey + Soccer (USA, Europe).png
+9b7d1f50578554cd  media/mix/Keyboard Creations (USA).png
+9455427d5a6fc45e  media/mix/Invaders from Hyperspace (USA).png
+d4441a1cd54de68e  media/mix/Jeu de Quilles + Basketball (France).png
+76941bbf02fb7be3  media/mix/Killer Bees (USA).png
+56820637e108f90b  media/mix/K.C.'s Krazy Chase (USA, Europe).png
+2d86f582991a2be4  media/mix/K.C. Munchkin (USA).png
+054d31239a10b11b  media/mix/Labyrinth Game, A + Supermind (Europe).png
+2cb3a0a5fd430a02  media/mix/Las Vegas (France).png
+dcf73894094e6179  media/mix/La Quete des Anneaux (France).png
+573b3e9579cd1244  media/mix/Laser War (Europe).png
+38800e1ddc9582c8  media/mix/Loony Balloon (Europe) (Proto).png
+9924b78fb5e8a19c  media/mix/Kinder im Verkehr 1 (Germany).png
+79a7eade86f62968  media/mix/Martian Threat (Europe) (Proto).png
+f683149a0e4209b2  media/mix/Las Vegas Blackjack (USA, Europe).png
+cce49c768dbb5ac2  media/mix/Math-A-Magic + Echo (USA, Europe).png
+cce49c768dbb5ac2  media/mix/Mathematicien + Echo (France).png
+69a0d434b57886e9  media/mix/Matchmaker + Logix + Buzzword (USA).png
+79a7eade86f62968  media/mix/Martian Threat (Europe) (Proto) (Alt 1).png
+cc14602a8a1a8e92  media/mix/Mission Impossible (Brazil) (Proto).png
+f5ed218de19daf56  media/mix/Monkeyshines (USA, Europe).png
+ca15417cbb84ff5c  media/mix/Munchkin (Europe).png
+743864ed5ee51138  media/mix/Morse (France).png
+743864ed5ee51138  media/mix/Morse (Europe).png
+fccc12d26e8e1699  media/mix/Mousing Cat, The (Europe).png
+604320b7e6b5c1e0  media/mix/Neutron Star (Europe) (Proto).png
+b2ce3e599aaaebf8  media/mix/Mur Magique, Le (France).png
+38057c7bce245168  media/mix/Newscaster (Europe).png
+8aeafaf4c12df724  media/mix/Nightfighter (Europe) (Proto).png
+fc694bd1f6e85f0c  media/mix/Musician (Europe).png
+cc3c0612bcfca777  media/mix/P.T. Barnum's Acrobats (USA).png
+f75be2eddada0830  media/mix/Nimble Numbers Ned (USA).png
+4cfd8ebb1cc0bcaa  media/mix/O Segredo do Farao (Brazil).png
+eccd51645d09973b  media/mix/Nightmare (Europe).png
+afecdf9458804445  media/mix/O Malabarista + Jogo da Velha (Brazil).png
+5dd986700ab3ed47  media/mix/Out of this World + Helicopter Rescue (USA).png
+d1f8c242ac3c3846  media/mix/Pinball (USA) (Proto).png
+493e6bd70669d6d7  media/mix/Pairs + Space Rendezvous + Logic (Europe).png
+d82be120ca31ae34  media/mix/Playtag (Europe) (Proto).png
+b954311e2101bce0  media/mix/Popeye (Europe).png
+78c2d8865f82b983  media/mix/Power Lords (USA) (Alt 1).png
+3b84ad6c8d1615a9  media/mix/Pachinko (USA, Europe).png
+a66ac4c434b3f78f  media/mix/Popeye (Brazil).png
+b37435007f25af42  media/mix/Prendre l'Argent et Fuir (France).png
+a1be715e5667bb4b  media/mix/Red Baron (Europe) (Proto) (Alt 1).png
+976a23e18245d459  media/mix/Q-Bert (Europe).png
+dcf73894094e6179  media/mix/Quest for the Rings (USA, Europe).png
+453eaa56ec90fede  media/mix/Pocket Billiards (USA, Europe).png
+9390091fecb2ea17  media/mix/Robot City (Europe) (Proto).png
+8ab5b3f58d231958  media/mix/Satellite Attack (Europe).png
+239b3ddfac283345  media/mix/Pick Axe Pete (USA, Europe).png
+21b0c6605fdf8d62  media/mix/Power Lords (USA).png
+a1be715e5667bb4b  media/mix/Red Baron (Europe) (Proto).png
+01f71f8ed2db1549  media/mix/Sid the Spellbinder (USA).png
+e4f6948cdb8e1afb  media/mix/Samurai (Europe).png
+e9938bd3ea0a2aba  media/mix/Shark Hunter (Europe) (Proto).png
+070d0c2e2d6308ba  media/mix/Showdown in 2100 A.D. (USA).png
+64d16538e35b77ab  media/mix/Secret of the Pharaohs (Europe).png
+afed2eb0e0daf3d1  media/mix/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+f7f0603d32f64018  media/mix/Smithereens (USA).png
+2325f8eb86b93bdb  media/mix/Spider-Man (Europe) (Proto) (Alt 1).png
+9d24fbd622dc56da  media/mix/Skiing (France).png
+2325f8eb86b93bdb  media/mix/Spider-Man (Europe) (Proto).png
+d3e4b6e4cbbab81e  media/mix/Super Bee (Europe).png
+d149c53063cc9e02  media/mix/Turtles (Europe).png
+d3e4b6e4cbbab81e  media/mix/Super Bee (Brazil).png
+f1bf5e0316d9af86  media/mix/Stone Sling (Europe).png
+30258cfeeaf490dd  media/mix/Thunderball (USA, Europe).png
+d149c53063cc9e02  media/mix/Turtles (USA).png
+de2d5bb504c92249  media/mix/Super Cobra (Europe).png
+58258854e340bc22  media/mix/Super Cobra (Brazil).png
+0748bc5e5d695c18  media/mix/Take the Money and Run (USA, Europe).png
+29d304ba226e7278  media/mix/Tutankham (Europe) (Proto).png
+2c18c207665056dc  media/mix/UFO (USA).png
+8159023bc76ff579  media/mix/Verkehrsspiele 2 (Germany).png
+c2166a816ad7a5d7  media/mix/Type & Tell (USA).png
+7a1ebf95c37a77ae  media/mix/Wall Street (Brazil).png
+5703495849dcf8c3  media/mix/Verkehrsspiele 1 (Germany).png
+a78cc341204af066  media/mix/Volleyball (USA, Europe).png
+a78cc341204af066  media/mix/Volleyball Electronique (France).png
+096837669794cdba  media/mix/War of Nerves (USA, Europe).png
+3b80b5825ef54439  media/fanarts/Popeye (Brazil).jpg
+30b84269ea3e0e50  media/fanarts/Q-Bert (Europe).jpg
+52ca8bdb9391c289  media/fanarts/Blackjack (France).jpg
+52ca8bdb9391c289  media/fanarts/Las Vegas Blackjack (USA, Europe).jpg
+705a44cd79e9db05  media/fanarts/La Quete des Anneaux (France).jpg
+1a13b6ca36e752aa  media/fanarts/Super Cobra (Brazil).jpg
+0fc78390d95c3936  media/fanarts/Quest for the Rings (USA, Europe)-01.jpg
+21c7dce44e1d3052  media/boxback/Alien Invaders - Plus (USA, Europe).jpg
+42ca6a380987b2f1  media/fanarts/Quest for the Rings (USA, Europe).jpg
+17d83f6607458b15  media/boxback/Atlantis (USA, Europe)-01.png
+fb6265f5e9f44db9  media/boxback/Alpine Skiing (USA, Europe).jpg
+1a13b6ca36e752aa  media/fanarts/Super Cobra (Europe).jpg
+7280761aae293b9b  media/boxback/Atlantis (USA, Europe).png
+5efe27b023dfb74e  media/boxback/Armored Encounter + Sub Chase (USA, Europe).jpg
+7b715330fc82b4fb  media/boxback/Blackjack (France).png
+2364c54673bdfa59  media/boxback/Billard Electrique (France).png
+32b0bdfc532be811  media/boxback/Attack of the Timelord (USA).jpg
+8e544fbdee12766a  media/boxback/Baseball (USA, Europe).jpg
+f926a1a1a9016d72  media/boxback/Blockout + Breakdown (USA, Europe).jpg
+6b1cc9de8ac823b7  media/boxback/Buraco Negro (Brazil).png
+57c5166ebf1e4ddf  media/boxback/Blobbers, The (Europe).png
+13e7ead47f58357e  media/boxback/Casino Slot Machine (USA, Europe).jpg
+19353f47b90ca84c  media/boxback/Bowling + Basketball (USA, Europe).jpg
+a0a6f412f56cac22  media/boxback/Computer Programmer (Europe).png
+ebf51aff9961d38b  media/boxback/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+47dd9c87952da9ae  media/boxback/Chat et Souris (France).png
+de02784fcfd3ff1d  media/boxback/Computer Golf (USA).jpg
+ea032ae30b661b87  media/boxback/Conquest of the World (USA, Europe).png
+ff5a49f72d1b84b2  media/boxback/Computer Intro (USA).jpg
+0ffe3d16b6c1305b  media/boxback/Conflit Cosmique (Canada).png
+97b6019869f061c5  media/boxback/Demon Attack (USA, Europe).png
+2428eccf0c5c8dbd  media/boxback/Demon Attack (USA, Europe)-01.png
+0ffe3d16b6c1305b  media/boxback/Cosmic Conflict (Europe) (Alt 1).png
+de02784fcfd3ff1d  media/boxback/Computer Golf (USA)-01.jpg
+fca971daf917c974  media/boxback/Golf (Europe).png
+0ffe3d16b6c1305b  media/boxback/Cosmic Conflict (Europe).png
+2d35f5b0d819f478  media/boxback/Depth Charge + Marksman (Europe).png
+8e407e351128fd36  media/boxback/Dynasty (USA).jpg
+0d38b14c24bce51e  media/boxback/Football (USA, Europe).jpg
+3ffc176e97f8296b  media/boxback/Freedom Fighters (USA, Europe).jpg
+d17845be5a88ec3b  media/boxback/I've Got Your Number (USA, Europe)-01.png
+841ebfed13cfddda  media/boxback/Great Wall Street Fortune Hunt, The (USA, Europe).png
+7049ceb3b6e55caf  media/boxback/Cosmic Conflict (USA).jpg
+697dfdd2356ecdca  media/boxback/Great Wall Street Fortune Hunt, The (USA, Europe)-01.png
+ac3c64da85360504  media/boxback/Jeu de Quilles + Basketball (France).png
+ffd7eba60de09a13  media/boxback/K.C. Munchkin (USA).jpg
+a3bc97bc5dd6bff3  media/boxback/I've Got Your Number (USA, Europe).png
+44a8a61622598a44  media/boxback/Invaders from Hyperspace (USA).jpg
+1d8958a3b67c34fc  media/boxback/La Quete des Anneaux (France).png
+e418148e27cb63bb  media/boxback/K.C.'s Krazy Chase (USA, Europe).jpg
+7f7243c757312ee1  media/boxback/Hockey + Soccer (USA, Europe).jpg
+2c4f46e46be31200  media/boxback/Keyboard Creations (USA).jpg
+b8d9cc3f4db8ab4f  media/boxback/Las Vegas (France).png
+66e37df096fdf03a  media/boxback/Labyrinth Game, A + Supermind (Europe).png
+a8f4aec8bb0e535c  media/boxback/Killer Bees (USA).jpg
+99c4a9d8b4f33011  media/boxback/Martian Threat (Europe) (Proto) (Alt 1).png
+c629a0903bf0424a  media/boxback/Interpol (Europe) (Proto).png
+46ae1249c857db97  media/boxback/Math-A-Magic + Echo (USA, Europe)-01.png
+6bf7292a0e948eb8  media/boxback/Matchmaker + Logix + Buzzword (USA).jpg
+99c4a9d8b4f33011  media/boxback/Martian Threat (Europe) (Proto).png
+d69e76c4a62d603a  media/boxback/Mathematicien + Echo (France).png
+684bda971ec721d9  media/boxback/Musician (Europe).png
+63b3eac808cde417  media/boxback/Monkeyshines (USA, Europe).jpg
+47dd9c87952da9ae  media/boxback/Mousing Cat, The (Europe).png
+9a4c494ee967bf44  media/boxback/Las Vegas Blackjack (USA, Europe).jpg
+e5d88b49f7527f5a  media/boxback/Nightmare (Europe).png
+48bdf57174de1d49  media/boxback/Math-A-Magic + Echo (USA, Europe).png
+6b1cc9de8ac823b7  media/boxback/Neutron Star (Europe) (Proto).png
+0efa6253f8347245  media/boxback/O Segredo do Farao (Brazil).png
+6bf7292a0e948eb8  media/boxback/Pairs + Space Rendezvous + Logic (Europe).jpg
+259356d011b9ed8f  media/boxback/Playtag (Europe) (Proto).png
+cf6ed97035168fc4  media/boxback/Pachinko (USA, Europe).jpg
+10c393d7e5289ec3  media/boxback/Popeye (Europe).png
+d989b29ec6d96ba5  media/boxback/Popeye (Brazil).png
+351367eb6253ee65  media/boxback/Out of this World + Helicopter Rescue (USA).jpg
+a527288e4e293f81  media/boxback/Pick Axe Pete (USA, Europe).jpg
+d3005f6eaaa3a8b4  media/boxback/Pocket Billiards (USA, Europe).jpg
+822ef2e44a5455ef  media/boxback/Power Lords (USA).png
+ebda9428359fbdc2  media/boxback/Nimble Numbers Ned (USA)-01.png
+5fe579bc8fe1118b  media/boxback/Power Lords (USA) (Alt 1)-01.png
+b8b496b3ea116d1a  media/boxback/Q-Bert (Europe).png
+9f4f487997e8f73f  media/boxback/Nimble Numbers Ned (USA).png
+ef5e62eb8fa533ab  media/boxback/Power Lords (USA) (Alt 1).png
+d64eeef4526e1fa9  media/boxback/Shark Hunter (Europe) (Proto).png
+a7e68f7a79e92b9d  media/boxback/Satellite Attack (Europe).png
+97558250696a4476  media/boxback/Quest for the Rings (USA, Europe).jpg
+3592986236eaee2f  media/boxback/Robot City (Europe) (Proto).png
+0efa6253f8347245  media/boxback/Secret of the Pharaohs (Europe).png
+3dd6bcc13bd7f95f  media/boxback/Red Baron (Europe) (Proto).png
+3dd6bcc13bd7f95f  media/boxback/Red Baron (Europe) (Proto) (Alt 1).png
+bf9faae3a84c7f7d  media/boxback/Super Bee (Europe).png
+badc2952a1f49790  media/boxback/Quest for the Rings (USA, Europe)-01.jpg
+1d932c0206841eb2  media/boxback/Super Cobra (Brazil).png
+bf9faae3a84c7f7d  media/boxback/Super Bee (Brazil).png
+6ad9ec12c58f8aa7  media/boxback/Sid the Spellbinder (USA)-01.png
+6d6f5d6f95ece1fb  media/boxback/Super Cobra (Europe).png
+764c504a591e20aa  media/boxback/Turtles (Europe).png
+7f0a11177c96063e  media/boxback/Take the Money and Run (USA, Europe).jpg
+91f434a41a432ea7  media/boxback/Sid the Spellbinder (USA).png
+46597f68f1bae426  media/boxback/Type & Tell (USA)-01.png
+23f8e722d27e854b  media/boxback/Turtles (USA).jpg
+861f9a8d41759d37  media/boxback/Thunderball (USA, Europe).jpg
+e1072851d7581eab  media/boxback/Volleyball Electronique (France).png
+90da520afd2cf1d8  media/boxback/Speedway + Spin-out + Crypto-logic (USA, Europe).jpg
+3601c9db4e7d97c1  media/boxback/UFO (USA).jpg
+e37f4c53e8973915  media/cartridges/4 en 1 Ligne (France).png
+3adeb34859a7272e  media/boxback/Volleyball (USA, Europe).jpg
+22fd8c3a3a9145c0  media/cartridges/4 in 1 Row (Europe).png
+c3dabf16d893f2f6  media/cartridges/Armored Encounter + Sub Chase (USA, Europe).png
+df0a02cbd28a27b2  media/cartridges/Atlantis (USA, Europe).png
+8c1601d1e6e9fd75  media/cartridges/Alien Invaders - Plus (USA, Europe).png
+ed9f2107c5d39a76  media/boxback/Type & Tell (USA).png
+ac6130f5afa3d9e4  media/cartridges/Alpine Skiing (USA, Europe).png
+eaec1746909b5865  media/boxback/Wall Street (Brazil).png
+86697ab4bb9582d0  media/cartridges/Attack of the Timelord (USA).jpg
+64e2485108880cbf  media/boxback/War of Nerves (USA, Europe).jpg
+d5283263953845db  media/cartridges/Blockout + Breakdown (USA, Europe).png
+4314937a4fd0fe15  media/cartridges/Blobbers, The (Europe).png
+7c3bf70ed6f43571  media/cartridges/Blackjack (France).png
+133dcad1ba93b84f  media/cartridges/Attack of the Timelord (USA).png
+f18bdf05ce5e617d  media/cartridges/Billiard Americain (France).png
+0d5d0e2748936435  media/cartridges/Baseball (USA, Europe).png
+fe5fd03296e36053  media/cartridges/Billard Electrique (France).png
+bb9c2ad903e58487  media/cartridges/Buraco Negro (Brazil).png
+88cc59ce401bdcb6  media/cartridges/Bowling + Basketball (USA, Europe).png
+6991c3f44db67499  media/cartridges/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+a91b9e98518adfb6  media/cartridges/Casino Slot Machine (USA, Europe).png
+0e515c283516dfe5  media/cartridges/Catch the Ball + Noughts and Crosses (Europe).png
+6d745d38adddca0f  media/cartridges/Clay Pigeon (Brazil).png
+b50e6ea1e4c18f61  media/cartridges/Chess (Europe).png
+297347f974af05e1  media/cartridges/Chat et Souris (France).png
+809321ea7a3f61ed  media/cartridges/Chinese Logic (Europe).png
+7d90dac12db306d0  media/cartridges/Computer Intro (USA)-01.png
+1b84ddf50dd03be4  media/cartridges/Comando Noturno (Brazil).png
+671a229b0dbdba12  media/cartridges/Comando Noturno-01.png
+e11e185a546bf0fb  media/cartridges/Computer Programmer (Europe).png
+80364acb3b1bd9b4  media/cartridges/Computer Intro (USA).png
+ce39ec1f2565d9eb  media/cartridges/Cosmic Conflict (Europe) (Alt 1).png
+cbaff3eb136fb6c7  media/cartridges/Cosmic Conflict (USA).png
+ce39ec1f2565d9eb  media/cartridges/Cosmic Conflict (Europe).png
+ce39ec1f2565d9eb  media/cartridges/Conflit Cosmique (Canada).png
+2992f63d8d099950  media/cartridges/Depth Charge + Marksman (Europe).png
+3cd6264af037cfa9  media/cartridges/Computer Golf (USA).png
+14871bc20e8ca91f  media/cartridges/Demon Attack (USA, Europe).png
+7d47a7ad29401c65  media/cartridges/Conquest of the World (USA, Europe).png
+bd762df5cd0371f9  media/cartridges/Dynasty (USA).png
+84f384ddd707a1df  media/cartridges/Desafio Chines (Brazil)-01.png
+5ca96236a42fbf59  media/cartridges/Football Electronique + Hockey Electronique (France).png
+99863b6961701d9b  media/cartridges/Desafio Chines (Brazil).png
+4a06f2e4d12373d9  media/cartridges/Football (USA, Europe).png
+aa560a53a27950d3  media/cartridges/Course de Voitures + Autodrome + Cryptogramme (France).png
+bc002eba957597ce  media/cartridges/Electronic Table Soccer (USA, Europe).png
+40328c5d17e2301c  media/cartridges/Dynasty (USA)-01.png
+9599014c32941fe5  media/cartridges/Frogger (Brazil)-01.png
+39122dbc6900ad2b  media/cartridges/Guerre Laser (France).png
+29230f6e0d6a4cb9  media/cartridges/Great Wall Street Fortune Hunt, The (USA, Europe).png
+09067fc163f8a295  media/cartridges/Hockey + Soccer (USA, Europe).png
+75bb76025d71c3b9  media/cartridges/Gunfighter (Europe).png
+c8ece0caf622c379  media/cartridges/Golf (Europe).png
+72160df7c4c048f4  media/cartridges/Interpol (Europe) (Proto).png
+5d27cdf9d18cab9e  media/cartridges/Frogger (Brazil).png
+35a9992f3496cbda  media/cartridges/Frogger (Europe).png
+dddddcc729054eb1  media/cartridges/Invaders from Hyperspace (USA).png
+ff266df9b18ffa36  media/cartridges/Freedom Fighters (USA, Europe).png
+523daca90a0a91f6  media/cartridges/Invaders from Hyperspace (USA)-01.png
+fbf58623a9643c1a  media/cartridges/I've Got Your Number (USA, Europe).png
+caf5e0381ec764a6  media/cartridges/Jumping Acrobats (Europe).png
+caf5e0381ec764a6  media/cartridges/Jumping Acrobats (Europe) (Alt 1).png
+cfe0fc8e46501579  media/cartridges/Gunfighter-01.png
+2ee1a4e460e8efde  media/cartridges/K.C. Munchkin (USA).png
+d09d21a87f5c5606  media/cartridges/Interpol-01.png
+e7f8bee2bf13a38c  media/cartridges/K.C. Munchkin (USA).jpg
+4980bf0d6bfc1245  media/cartridges/K.C.'s Krazy Chase (USA, Europe).png
+4ed1d8d8e3386a24  media/cartridges/Keyboard Creations (USA).png
+96170ed0d2d70ce5  media/cartridges/Jumping Acrobats-01.png
+1cc7082046226dd8  media/cartridges/Jeu de Quilles + Basketball (France).png
+ced2b63c6751070b  media/cartridges/Kinder im Verkehr 1 (Germany).png
+955bfa8bdc2944b3  media/cartridges/La Quete des Anneaux (France).png
+bb11853ecaba6a32  media/cartridges/Las Vegas (France)-01.png
+20f38839582fcf74  media/cartridges/Killer Bees (USA).png
+e05c371c512591f1  media/cartridges/Labyrinth Game, A + Supermind (Europe).png
+af2919ac645e4720  media/cartridges/Las Vegas (France).png
+0038804eb63cb1d1  media/cartridges/Laser War-01.png
+39122dbc6900ad2b  media/cartridges/Laser War (Europe).png
+ddc8edb7af450004  media/cartridges/Loony Balloon-01.png
+af2919ac645e4720  media/cartridges/Las Vegas Blackjack (USA, Europe).png
+b9368add2a98ea55  media/cartridges/Martian Threat (Europe) (Proto) (Alt 1).png
+2941c1ecc9088d2d  media/cartridges/Martian Threat-01.png
+b9368add2a98ea55  media/cartridges/Martian Threat (Europe) (Proto).png
+67198ae938d64b60  media/cartridges/Matchmaker + Logix + Buzzword (USA).png
+5d8cbb6a085698b6  media/cartridges/Math-A-Magic + Echo (USA, Europe).png
+cbfe1e029b9caf20  media/cartridges/Morse (Europe).png
+0550835d97301c9e  media/cartridges/Loony Balloon (Europe) (Proto).png
+863f765f2047c0aa  media/cartridges/Mousing Cat, The (Europe).png
+ef44bf9f2f5a4062  media/cartridges/Mathematicien + Echo (France).png
+7556160a7d0d1d9b  media/cartridges/Musician (Europe).png
+2953379874b18733  media/cartridges/Newscaster (Europe).png
+562aaebae489e299  media/cartridges/Munchkin (Europe).png
+74b32131d3544ad2  media/cartridges/Monkeyshines (USA, Europe).png
+1b84ddf50dd03be4  media/cartridges/Nightfighter (Europe) (Proto).png
+6a3f846c1fd64737  media/cartridges/Morse (France).png
+93d9bececd33f0d1  media/cartridges/Mur Magique, Le (France).png
+f556f7c1b483447b  media/cartridges/Neutron Star-01.png
+bb9c2ad903e58487  media/cartridges/Neutron Star (Europe) (Proto).png
+82399a5dee71343f  media/cartridges/Nightfighter-01.png
+66d2b680f02a76cb  media/cartridges/Nightmare (Europe).png
+dd30e3b932aeb228  media/cartridges/P.T. Barnum's Acrobats (USA).png
+143d2a8c23a34ae7  media/cartridges/Out of this World + Helicopter Rescue (USA).png
+cd9083d5db8c7809  media/cartridges/Newscaster-01.png
+4d0c854bfe5aab3b  media/cartridges/Pachinko (USA, Europe).png
+a862bbee0d8f0865  media/cartridges/Nimble Numbers Ned (USA).png
+3f43ee574c3636c7  media/cartridges/Pick Axe Pete (USA, Europe).png
+ed64c9304be46ee5  media/cartridges/O Malabarista + Jogo da Velha (Brazil).png
+4d01b2e9d8048b1e  media/cartridges/Pinball (USA) (Proto).png
+301259cdfa5a6b36  media/cartridges/Pinball-01.png
+4e3da3110967d24d  media/cartridges/O Segredo do Farao (Brazil).png
+c165d52657a279d7  media/cartridges/Pairs + Space Rendezvous + Logic (Europe).png
+e3e3d694d9041c6a  media/cartridges/Playtag (Europe) (Proto).png
+3d9dae9a6438e4a5  media/cartridges/Playtag-01.png
+2d31561c406155cb  media/cartridges/Pocket Billiards (USA, Europe).png
+be8387663ec47191  media/cartridges/Popeye (Europe).png
+f134bcca84514db9  media/cartridges/Popeye (Brazil).png
+34f95f4d8b4819ad  media/cartridges/Power Lords (USA) (Alt 1).png
+c82f91a8ed8ed7e4  media/cartridges/Popeye (Brazil)-01.png
+f6e04e17a24fd8f7  media/cartridges/Power Lords (USA) (Alt 1)-01.png
+f35a099e2a19080c  media/cartridges/Power Lords (USA).png
+cd9c042a388c05bd  media/cartridges/Q-Bert (Europe).png
+32d62b5bb7ef5cff  media/cartridges/Red Baron (Europe) (Proto).png
+09c3e3e0fd33d568  media/cartridges/Quest for the Rings (USA, Europe).png
+4d8d5c751adac38f  media/cartridges/Prendre l'Argent et Fuir (France).png
+e0a7dec2f7bd1a2a  media/cartridges/Robot City (Europe) (Proto).png
+70a6e616c81a5582  media/cartridges/Red Baron-01.png
+32d62b5bb7ef5cff  media/cartridges/Red Baron (Europe) (Proto) (Alt 1).png
+5c53b99a268e883a  media/cartridges/Robot City-01.png
+2d679eb4ad1c92d9  media/cartridges/Sid the Spellbinder (USA).png
+2e7f63f4b87019bc  media/cartridges/Samurai (Europe).png
+fed3c0a4e33adfcb  media/cartridges/Showdown in 2100 A.D. (USA).png
+913323ff28049329  media/cartridges/Shark Hunter (Europe) (Proto).png
+fdfbb3a6dc4e9550  media/cartridges/Smithereens (USA).png
+c74ee40584c71351  media/cartridges/Satellite Attack (Europe).png
+8901f565a2368afa  media/cartridges/Skiing (France).png
+d7b313cfb06e0cdc  media/cartridges/Sid the Spellbinder (USA)-01.png
+f8dbfa12c9315221  media/cartridges/Spider-Man-01.png
+fbd012a224113600  media/cartridges/Secret of the Pharaohs (Europe).png
+196f28769d53a6c2  media/cartridges/Super Bee (Brazil)-01.png
+7098288d568dfd49  media/cartridges/Spider-Man (Europe) (Proto) (Alt 1).png
+71c409591b6f0bff  media/cartridges/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+cfe64fc07607ec42  media/cartridges/Super Bee (Brazil).png
+7098288d568dfd49  media/cartridges/Spider-Man (Europe) (Proto).png
+217ee28d3c467d06  media/cartridges/Stone Sling (Europe).png
+4adffa01ca4c4af5  media/cartridges/Super Bee (Europe).png
+341613615d439a0e  media/cartridges/Take the Money and Run (USA, Europe).png
+fb794dba10a1446a  media/cartridges/Super Cobra (Brazil).png
+b51191989fdab7f1  media/cartridges/Thunderball (USA, Europe).png
+83e3cadd12cf287e  media/cartridges/Tutankham (Europe) (Proto).png
+69c36c7c9e1edbff  media/cartridges/Turtles (USA).png
+7b52d4ca3d1802ba  media/cartridges/Super Cobra (Europe).png
+42163e40976c6dfc  media/cartridges/UFO (USA).png
+8273d67d13aa5248  media/cartridges/Type & Tell (USA).png
+09e4602339ad118c  media/cartridges/Super Cobra (Brazil)-01.png
+833784654c5de4c6  media/cartridges/Verkehrsspiele 1 (Germany).png
+7ba3cff774e192bd  media/cartridges/UFO (USA)-01.png
+879587056fbd551e  media/cartridges/Turtles (Europe).png
+e8831585b9b2fec9  media/cartridges/Volleyball (USA, Europe).png
+5ecfbba343d0285b  media/cartridges/Volleyball Electronique (France).png
+ea89ac149f0344f9  media/marquee/Alien Invaders - Plus (USA, Europe)-01.png
+8381dfab331429df  media/marquee/Alien Invaders - Plus (USA, Europe).png
+1439396aba271ab5  media/marquee/Atlantis (USA, Europe).png
+621cf79245d8241c  media/marquee/Armored Encounter + Sub Chase (USA, Europe).png
+501e6955bbf9d80a  media/marquee/4 en 1 Ligne (France).png
+3673c8bd01e88c09  media/marquee/Alpine Skiing (USA, Europe).png
+0bcc6b390c759cc7  media/marquee/Attack of the Timelord (USA)-01.png
+46819d022d25056a  media/marquee/Attack of the Timelord (USA).png
+71b60c989203a6d4  media/cartridges/Wall Street (Brazil).png
+2ff0fe5f5d10622d  media/marquee/Billard Electrique (France).png
+572a8661ea5c0017  media/marquee/Billiard Americain (France).png
+b2fb8cf17b8d9cef  media/marquee/Blackjack (France).png
+e7bd1562422d78a9  media/marquee/4 in 1 Row (Europe).png
+93c0c3ca7913d63a  media/marquee/Blobbers, The (Europe).png
+7ce6310dda33bb5d  media/cartridges/Tutankham-01.png
+02c9b60e8a38fb63  media/marquee/Blockout + Breakdown (USA, Europe)-01.png
+c3e6879cd5c71a5b  media/marquee/Blockout + Breakdown (USA, Europe).png
+a5ce33b158d31f78  media/marquee/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+59e1fbe6d4c20ef8  media/cartridges/War of Nerves (USA, Europe).png
+1ecb8e7a435ef415  media/marquee/Buraco Negro (Brazil).png
+7ab606957fdcd63c  media/marquee/Bowling + Basketball (USA, Europe).png
+81e4c43186a15f85  media/marquee/Baseball (USA, Europe).png
+31c244527f70489b  media/marquee/Chat et Souris (France).png
+b5e37056ea245494  media/marquee/Casino Slot Machine (USA, Europe).png
+802138ac8201bf6c  media/marquee/Blobbers, The (Europe)-01.png
+78ea6b3cf658bb55  media/marquee/Blockout + Breakdown (USA, Europe)-02.png
+6c74e73984d98350  media/marquee/Clay Pigeon (Brazil).png
+633ee92d5e46ce8f  media/marquee/Computer Golf (USA).png
+c7d55c9a08022757  media/marquee/Comando Noturno (Brazil).png
+9882504ca1eb8916  media/marquee/Chess (Europe).png
+5baa5e85351dad26  media/marquee/Computer Golf (USA)-01.png
+39b4229cda956043  media/marquee/Catch the Ball + Noughts and Crosses (Europe).png
+04e5c10a726e3f3c  media/marquee/Computer Intro (USA).png
+3991fb20bebae92d  media/marquee/Chinese Logic (Europe).png
+5d279bd0a1161e32  media/marquee/Conflit Cosmique (Canada).png
+6b741fe3a5fd7a7c  media/marquee/Conquest of the World (USA, Europe).png
+5d279bd0a1161e32  media/marquee/Cosmic Conflict (USA).png
+4ea1d3e346bb0129  media/marquee/Cosmic Conflict (USA)-01.png
+388dccbd65d95821  media/marquee/Course de Voitures + Autodrome + Cryptogramme (France).png
+b44c3b2aa6e76387  media/marquee/Demon Attack (USA, Europe)-01.png
+444a4c3fb17e5f97  media/marquee/Depth Charge + Marksman (Europe)-01.png
+5d279bd0a1161e32  media/marquee/Cosmic Conflict (Europe).png
+04e5c10a726e3f3c  media/marquee/Computer Programmer (Europe).png
+5d279bd0a1161e32  media/marquee/Cosmic Conflict (Europe) (Alt 1).png
+c694ad7e3be8a6e9  media/marquee/Demon Attack (USA, Europe).png
+d3a6d8bc9e090a7b  media/marquee/Chess (Europe)-01.png
+e35498807ac7759a  media/marquee/Computer Intro (USA)-01.png
+4f5565a0e0c13b98  media/marquee/Football Electronique + Hockey Electronique (France).png
+18861c985d5f3568  media/marquee/Football (USA, Europe).png
+6a55c41168a6ac1f  media/marquee/Freedom Fighters (USA, Europe).png
+9f510368fcdb7bae  media/marquee/Desafio Chines (Brazil)-01.png
+894bf645ac5b8ed9  media/marquee/Dynasty (USA).png
+3991fb20bebae92d  media/marquee/Desafio Chines (Brazil).png
+d67601ee2a0810f3  media/marquee/Electronic Table Soccer (USA, Europe).png
+bb12625cc8d9f816  media/marquee/Frogger (Brazil)-01.png
+0bb7a93491f3cdb6  media/marquee/Frogger (Europe).png
+6356e172e4eb7c4e  media/marquee/I've Got Your Number (USA, Europe).png
+4f5565a0e0c13b98  media/marquee/Hockey + Soccer (USA, Europe).png
+633ee92d5e46ce8f  media/marquee/Golf (Europe).png
+82c9ea5f9207dd28  media/marquee/Interpol (Europe) (Proto).png
+82c9ea5f9207dd28  media/marquee/Interpol-01.png
+a5ce33b158d31f78  media/marquee/Depth Charge + Marksman (Europe).png
+2f4c99d9425bcae2  media/marquee/Gunfighter (Europe).png
+45dfe55dcb0aa8df  media/marquee/Great Wall Street Fortune Hunt, The (USA, Europe).png
+dec6719084984877  media/marquee/Invaders from Hyperspace (USA)-01.png
+c1695ae54b15d29b  media/marquee/Jumping Acrobats (Europe).png
+fddcf54d334d94ba  media/marquee/Invaders from Hyperspace (USA).png
+7ab606957fdcd63c  media/marquee/Jeu de Quilles + Basketball (France).png
+c1695ae54b15d29b  media/marquee/Jumping Acrobats (Europe) (Alt 1).png
+fddcf54d334d94ba  media/marquee/Guerre Laser (France).png
+9c1fe5b0f49756d8  media/marquee/K.C. Munchkin (USA).png
+ff200ebf1b05abd0  media/marquee/K.C.'s Krazy Chase (USA, Europe).png
+536ad6d412594600  media/marquee/Keyboard Creations (USA)-01.png
+a749864310d0098e  media/marquee/Keyboard Creations (USA).png
+8be9163b8fbfa5ee  media/marquee/Killer Bees (USA)-01.png
+2ffcfa5f720de3f4  media/marquee/K.C.'s Krazy Chase (USA, Europe)-01.png
+25c2cdcb51cdcff0  media/marquee/Labyrinth Game, A + Supermind (Europe)-01.png
+9a4c5f7f543c71fa  media/marquee/La Quete des Anneaux (France).png
+e2e3efeab5b8709b  media/marquee/Kinder im Verkehr 1 (Germany).png
+46237537e3e45597  media/marquee/Kinder im Verkehr 1 (Germany)-01.png
+7f906b675fd767aa  media/marquee/Las Vegas Blackjack (USA, Europe).png
+b2fb8cf17b8d9cef  media/marquee/Las Vegas (France)-02.png
+a5a1be1074536340  media/marquee/Labyrinth Game, A + Supermind (Europe).png
+d0eb90c6e72f8ae5  media/marquee/Killer Bees (USA).png
+346ba8fce40b5949  media/marquee/K.C. Munchkin (USA)-01.png
+fddcf54d334d94ba  media/marquee/Laser War (Europe).png
+a8ebd1e6797c8d0d  media/marquee/Loony Balloon (Europe) (Proto).png
+382b1fc73d860c6e  media/marquee/Martian Threat (Europe) (Proto) (Alt 1).png
+055fac27e117c37d  media/marquee/Las Vegas (France)-01.png
+382b1fc73d860c6e  media/marquee/Martian Threat (Europe) (Proto).png
+382b1fc73d860c6e  media/marquee/Martian Threat-01.png
+f8a6a90b8b035360  media/marquee/Loony Balloon-01.png
+73986b835235a933  media/marquee/Las Vegas (France).png
+ea5ad119c8254582  media/marquee/Matchmaker + Logix + Buzzword (USA)-01.png
+42c8bb0a9eb68251  media/marquee/Math-A-Magic + Echo (USA, Europe).png
+42c8bb0a9eb68251  media/marquee/Mathematicien + Echo (France).png
+774029f0ac48d1de  media/marquee/Mission Impossible (Brazil) (Proto).png
+812358a95bc03fde  media/marquee/Monkeyshines (USA, Europe)-01.png
+71d682283778ebd0  media/marquee/Matchmaker + Logix + Buzzword (USA).png
+35589ffeb6b614a5  media/marquee/Morse (France).png
+35589ffeb6b614a5  media/marquee/Monkeyshines (USA, Europe).png
+35589ffeb6b614a5  media/marquee/Morse (Europe).png
+2845f1fab15d6747  media/marquee/Morse (Europe)-01.png
+31c244527f70489b  media/marquee/Mousing Cat, The (Europe).png
+1669f8965e4d20bc  media/marquee/Mousing Cat, The (Europe)-01.png
+9c1fe5b0f49756d8  media/marquee/Munchkin (Europe).png
+02c9b60e8a38fb63  media/marquee/Mur Magique, Le (France).png
+1ecb8e7a435ef415  media/marquee/Neutron Star (Europe) (Proto).png
+1ecb8e7a435ef415  media/marquee/Neutron Star-01.png
+af5db937ebb3d217  media/marquee/Musician (Europe)-01.png
+f167403a6f30af1f  media/marquee/Musician (Europe).png
+c7d55c9a08022757  media/marquee/Nightfighter-01.png
+a749864310d0098e  media/marquee/Newscaster (Europe).png
+eb6458d03c50ab1e  media/marquee/Nimble Numbers Ned (USA).png
+e4b4c9dd53298c98  media/marquee/Out of this World + Helicopter Rescue (USA)-01.png
+318695950c18e871  media/marquee/Nightmare (Europe).png
+936618fd1f5b5d4c  media/marquee/O Segredo do Farao (Brazil).png
+05ecbf15c769015e  media/marquee/Nightmare (Europe)-01.png
+c7d55c9a08022757  media/marquee/Nightfighter (Europe) (Proto).png
+16e474fef217e1bc  media/marquee/Pachinko (USA, Europe).png
+3faef4a2b856099d  media/marquee/Pairs + Space Rendezvous + Logic (Europe)-01.png
+01ef44fc1a66d31c  media/marquee/Pairs + Space Rendezvous + Logic (Europe).png
+7b98da89e1605a1e  media/marquee/Pick Axe Pete (USA, Europe)-01.png
+4606af05d2d20cc7  media/marquee/Pick Axe Pete (USA, Europe).png
+d2074907eb044d74  media/marquee/Pinball-01.png
+39b4229cda956043  media/marquee/O Malabarista + Jogo da Velha (Brazil).png
+4b51e27f90f01946  media/marquee/Nimble Numbers Ned (USA)-01.png
+d29ac73f4688e301  media/marquee/Out of this World + Helicopter Rescue (USA).png
+eec191eea1ae73d7  media/marquee/Playtag (Europe) (Proto).png
+d2074907eb044d74  media/marquee/Pinball (USA) (Proto).png
+c1695ae54b15d29b  media/marquee/P.T. Barnum's Acrobats (USA).png
+572a8661ea5c0017  media/marquee/Pocket Billiards (USA, Europe).png
+eec191eea1ae73d7  media/marquee/Playtag-01.png
+cf4d57adb9bab944  media/marquee/P.T. Barnum's Acrobats (USA)-01.png
+cb882ee5a166471a  media/marquee/Popeye (Brazil)-01.png
+17e88d9994cf5c3b  media/marquee/Popeye (Brazil).png
+e277cef9ae4b9abb  media/marquee/Popeye (Europe).png
+322cfb6a5d95b670  media/marquee/Prendre l'Argent et Fuir (France).png
+64c8acb6b2270cf9  media/marquee/Power Lords (USA) (Alt 1)-01.png
+50346f82dc1f3c48  media/marquee/Quest for the Rings (USA, Europe).png
+f3474f8952b1b64f  media/marquee/Q-Bert (Europe).png
+a4853b01a1ca4d72  media/marquee/Power Lords (USA).png
+ffd3bcf7377d6f47  media/marquee/Red Baron (Europe) (Proto) (Alt 1).png
+be8702e11bbf2d02  media/marquee/Power Lords (USA) (Alt 1)-02.png
+ffd3bcf7377d6f47  media/marquee/Red Baron (Europe) (Proto).png
+a8f242a4b5df4537  media/marquee/Power Lords (USA) (Alt 1).png
+ffd3bcf7377d6f47  media/marquee/Red Baron-01.png
+894bf645ac5b8ed9  media/marquee/Samurai (Europe).png
+dfd8cbf4e209323b  media/marquee/Robot City (Europe) (Proto).png
+dfd8cbf4e209323b  media/marquee/Robot City-01.png
+2f4c99d9425bcae2  media/marquee/Showdown in 2100 A.D. (USA).png
+6a073ca055dd610d  media/marquee/Satellite Attack (Europe).png
+628e4808643cce4f  media/marquee/Shark Hunter (Europe) (Proto).png
+3673c8bd01e88c09  media/marquee/Skiing (France).png
+2c5a4bb8f5576e69  media/marquee/Sid the Spellbinder (USA)-01.png
+af3984fac6c32eb9  media/marquee/Smithereens (USA).png
+62090e7fa55eff0e  media/marquee/Smithereens (USA)-01.png
+24222611eee50814  media/marquee/Speedway + Spin-out + Crypto-logic (USA, Europe)-01.png
+388dccbd65d95821  media/marquee/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+158bd4a45b3ae727  media/marquee/Spider-Man-01.png
+f1d39bc5a0f37ce5  media/marquee/Spider-Man (Europe) (Proto).png
+af3984fac6c32eb9  media/marquee/Stone Sling (Europe).png
+135e49b5571cc2f6  media/marquee/Super Bee (Brazil).png
+4b80f17e0994bcf5  media/marquee/Super Bee (Brazil)-01.png
+135e49b5571cc2f6  media/marquee/Super Bee (Europe).png
+fb1a546f324c5ba2  media/marquee/Super Cobra (Brazil)-01.png
+936618fd1f5b5d4c  media/marquee/Secret of the Pharaohs (Europe).png
+f1d39bc5a0f37ce5  media/marquee/Spider-Man (Europe) (Proto) (Alt 1).png
+c3d9f264925ac93b  media/marquee/Super Cobra (Brazil).png
+1687e297c15f0b3a  media/marquee/Sid the Spellbinder (USA).png
+4e741e93387509f0  media/marquee/Thunderball (USA, Europe)-01.png
+55d84a0070b7cce0  media/marquee/Turtles (Europe).png
+55d84a0070b7cce0  media/marquee/Turtles (USA).png
+b40292ecabb88e6f  media/marquee/Shark Hunter (Europe) (Proto)-01.png
+18e782648f1624fd  media/marquee/Super Cobra (Europe).png
+2ff0fe5f5d10622d  media/marquee/Thunderball (USA, Europe).png
+ef9deb5876dde134  media/marquee/Turtles (USA)-01.png
+322cfb6a5d95b670  media/marquee/Take the Money and Run (USA, Europe).png
+a886671beecbd63d  media/marquee/Tutankham (Europe) (Proto).png
+32eaa65c548f7414  media/marquee/Tutankham-01.png
+a886671beecbd63d  media/marquee/Tutankham-02.png
+7611646bf6780891  media/marquee/Type & Tell (USA).png
+6a073ca055dd610d  media/marquee/UFO (USA).png
+e2e3efeab5b8709b  media/marquee/Verkehrsspiele 1 (Germany).png
+cf6bf359d5cf03eb  media/marquee/UFO (USA)-01.png
+229b580cb207405d  media/marquee/Volleyball Electronique (France).png
+229b580cb207405d  media/marquee/Volleyball (USA, Europe).png
+eff5b8674af5f683  media/marquee/Verkehrsspiele 2 (Germany).png
+93bd1209f833f38f  media/marquee/War of Nerves (USA, Europe).png
+a7827564e3d25f27  media/images/4 in 1 Row (Europe).png
+1fb9793c680c2ab8  media/marquee/Wall Street (Brazil).png
+ad6ebc3a30be59b1  media/images/Armored Encounter + Sub Chase (USA, Europe).png
+07576d034848ff99  media/images/Alien Invaders - Plus (USA, Europe).png
+9d24fbd622dc56da  media/images/Alpine Skiing (USA, Europe).png
+28608b9d41a7f558  media/images/Attack of the Timelord (USA).png
+30258cfeeaf490dd  media/images/Billard Electrique (France).png
+945c75ba7fe4be74  media/images/Baseball (USA, Europe).png
+9d5412cde67b7dbc  media/images/Blackjack (France).png
+80819b3ec7507437  media/images/Blobbers, The (Europe).png
+22c94ae962382821  media/images/Atlantis (USA, Europe).png
+126f14cbdf762b36  media/images/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+d4441a1cd54de68e  media/images/Bowling + Basketball (USA, Europe).png
+2cb3a0a5fd430a02  media/images/Casino Slot Machine (USA, Europe).png
+afecdf9458804445  media/images/Catch the Ball + Noughts and Crosses (Europe).png
+b2ce3e599aaaebf8  media/images/Blockout + Breakdown (USA, Europe).png
+3779d1395ac829fb  media/images/Chinese Logic (Europe).png
+b7f9a9d0390e0768  media/images/Chess (Europe).png
+604320b7e6b5c1e0  media/images/Buraco Negro (Brazil).png
+8aeafaf4c12df724  media/images/Comando Noturno (Brazil).png
+a1f43d08d43f162a  media/images/Computer Intro (USA).png
+09328eea06abae96  media/images/Computer Golf (USA).png
+fccc12d26e8e1699  media/images/Chat et Souris (France).png
+ae262fa853e17974  media/images/Conflit Cosmique (Canada).png
+a2f3293e6735173e  media/images/Computer Programmer (Europe).png
+ae262fa853e17974  media/images/Cosmic Conflict (Europe).png
+fe05ca30fb8041d1  media/images/Conquest of the World (USA, Europe).png
+fb3a2821642bfce4  media/images/Cosmic Conflict (USA).png
+126f14cbdf762b36  media/images/Depth Charge + Marksman (Europe).png
+93365ae45cac029f  media/images/4 en 1 Ligne (France).png
+47fbde3b5485e7f8  media/images/Billiard Americain (France).png
+f5dd078cea8b755c  media/images/Electronic Table Soccer (USA, Europe).png
+08a89eb8de1fbb02  media/images/Demon Attack (USA, Europe).png
+306bc4e80bb743df  media/images/Dynasty (USA).png
+b38d7ba896484d1b  media/images/Desafio Chines (Brazil).png
+90419befd1bf5ffc  media/images/Football (USA, Europe).png
+808bdc385b0803fb  media/images/Football Electronique + Hockey Electronique (France).png
+ae262fa853e17974  media/images/Cosmic Conflict (Europe) (Alt 1).png
+2e92d2885be98f15  media/images/Golf (Europe).png
+ca33200dbe807146  media/images/Clay Pigeon (Brazil).png
+1ea9724d9501c5f9  media/images/Frogger (Europe).png
+2b3a2d9c0f0d2863  media/images/Freedom Fighters (USA, Europe).png
+808bdc385b0803fb  media/images/Hockey + Soccer (USA, Europe).png
+070d0c2e2d6308ba  media/images/Gunfighter (Europe).png
+9428c132079efe6b  media/images/Great Wall Street Fortune Hunt, The (USA, Europe).png
+afed2eb0e0daf3d1  media/images/Course de Voitures + Autodrome + Cryptogramme (France).png
+3fbf966029cde356  media/images/I've Got Your Number (USA, Europe).png
+573b3e9579cd1244  media/images/Guerre Laser (France).png
+70d76b4f340ca54b  media/images/Interpol (Europe) (Proto).png
+d4441a1cd54de68e  media/images/Jeu de Quilles + Basketball (France).png
+cc3c0612bcfca777  media/images/Jumping Acrobats (Europe).png
+56820637e108f90b  media/images/K.C.'s Krazy Chase (USA, Europe).png
+9b7d1f50578554cd  media/images/Keyboard Creations (USA).png
+9455427d5a6fc45e  media/images/Invaders from Hyperspace (USA).png
+cc3c0612bcfca777  media/images/Jumping Acrobats (Europe) (Alt 1).png
+f683149a0e4209b2  media/images/Las Vegas Blackjack (USA, Europe).png
+2cb3a0a5fd430a02  media/images/Las Vegas (France).png
+38800e1ddc9582c8  media/images/Loony Balloon (Europe) (Proto).png
+573b3e9579cd1244  media/images/Laser War (Europe).png
+9924b78fb5e8a19c  media/images/Kinder im Verkehr 1 (Germany).png
+054d31239a10b11b  media/images/Labyrinth Game, A + Supermind (Europe).png
+2d86f582991a2be4  media/images/K.C. Munchkin (USA).png
+79a7eade86f62968  media/images/Martian Threat (Europe) (Proto).png
+76941bbf02fb7be3  media/images/Killer Bees (USA).png
+79a7eade86f62968  media/images/Martian Threat (Europe) (Proto) (Alt 1).png
+cc14602a8a1a8e92  media/images/Mission Impossible (Brazil) (Proto).png
+f5ed218de19daf56  media/images/Monkeyshines (USA, Europe).png
+dcf73894094e6179  media/images/La Quete des Anneaux (France).png
+743864ed5ee51138  media/images/Morse (France).png
+743864ed5ee51138  media/images/Morse (Europe).png
+fccc12d26e8e1699  media/images/Mousing Cat, The (Europe).png
+ca15417cbb84ff5c  media/images/Munchkin (Europe).png
+cce49c768dbb5ac2  media/images/Math-A-Magic + Echo (USA, Europe).png
+38057c7bce245168  media/images/Newscaster (Europe).png
+604320b7e6b5c1e0  media/images/Neutron Star (Europe) (Proto).png
+8aeafaf4c12df724  media/images/Nightfighter (Europe) (Proto).png
+fc694bd1f6e85f0c  media/images/Musician (Europe).png
+4cfd8ebb1cc0bcaa  media/images/O Segredo do Farao (Brazil).png
+b2ce3e599aaaebf8  media/images/Mur Magique, Le (France).png
+69a0d434b57886e9  media/images/Matchmaker + Logix + Buzzword (USA).png
+cce49c768dbb5ac2  media/images/Mathematicien + Echo (France).png
+f75be2eddada0830  media/images/Nimble Numbers Ned (USA).png
+493e6bd70669d6d7  media/images/Pairs + Space Rendezvous + Logic (Europe).png
+5dd986700ab3ed47  media/images/Out of this World + Helicopter Rescue (USA).png
+cc3c0612bcfca777  media/images/P.T. Barnum's Acrobats (USA).png
+d1f8c242ac3c3846  media/images/Pinball (USA) (Proto).png
+3b84ad6c8d1615a9  media/images/Pachinko (USA, Europe).png
+d82be120ca31ae34  media/images/Playtag (Europe) (Proto).png
+afecdf9458804445  media/images/O Malabarista + Jogo da Velha (Brazil).png
+453eaa56ec90fede  media/images/Pocket Billiards (USA, Europe).png
+eccd51645d09973b  media/images/Nightmare (Europe).png
+78c2d8865f82b983  media/images/Power Lords (USA) (Alt 1).png
+b37435007f25af42  media/images/Prendre l'Argent et Fuir (France).png
+a1be715e5667bb4b  media/images/Red Baron (Europe) (Proto).png
+dcf73894094e6179  media/images/Quest for the Rings (USA, Europe).png
+239b3ddfac283345  media/images/Pick Axe Pete (USA, Europe).png
+a66ac4c434b3f78f  media/images/Popeye (Brazil).png
+8ab5b3f58d231958  media/images/Satellite Attack (Europe).png
+64d16538e35b77ab  media/images/Secret of the Pharaohs (Europe).png
+e9938bd3ea0a2aba  media/images/Shark Hunter (Europe) (Proto).png
+21b0c6605fdf8d62  media/images/Power Lords (USA).png
+a1be715e5667bb4b  media/images/Red Baron (Europe) (Proto) (Alt 1).png
+976a23e18245d459  media/images/Q-Bert (Europe).png
+070d0c2e2d6308ba  media/images/Showdown in 2100 A.D. (USA).png
+b954311e2101bce0  media/images/Popeye (Europe).png
+9390091fecb2ea17  media/images/Robot City (Europe) (Proto).png
+f7f0603d32f64018  media/images/Smithereens (USA).png
+2325f8eb86b93bdb  media/images/Spider-Man (Europe) (Proto) (Alt 1).png
+e4f6948cdb8e1afb  media/images/Samurai (Europe).png
+9d24fbd622dc56da  media/images/Skiing (France).png
+f1bf5e0316d9af86  media/images/Stone Sling (Europe).png
+2325f8eb86b93bdb  media/images/Spider-Man (Europe) (Proto).png
+01f71f8ed2db1549  media/images/Sid the Spellbinder (USA).png
+58258854e340bc22  media/images/Super Cobra (Brazil).png
+de2d5bb504c92249  media/images/Super Cobra (Europe).png
+d3e4b6e4cbbab81e  media/images/Super Bee (Brazil).png
+afed2eb0e0daf3d1  media/images/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+30258cfeeaf490dd  media/images/Thunderball (USA, Europe).png
+0748bc5e5d695c18  media/images/Take the Money and Run (USA, Europe).png
+d3e4b6e4cbbab81e  media/images/Super Bee (Europe).png
+d149c53063cc9e02  media/images/Turtles (Europe).png
+c2166a816ad7a5d7  media/images/Type & Tell (USA).png
+29d304ba226e7278  media/images/Tutankham (Europe) (Proto).png
+5703495849dcf8c3  media/images/Verkehrsspiele 1 (Germany).png
+d149c53063cc9e02  media/images/Turtles (USA).png
+8159023bc76ff579  media/images/Verkehrsspiele 2 (Germany).png
+2c18c207665056dc  media/images/UFO (USA).png
+a78cc341204af066  media/images/Volleyball Electronique (France).png
+918a802fdc6957a9  media/manuals/Alien Invaders - Plus (USA, Europe)_(us).pdf
+7a1ebf95c37a77ae  media/images/Wall Street (Brazil).png
+a78cc341204af066  media/images/Volleyball (USA, Europe).png
+1155402800a81dba  media/manuals/Alpine Skiing (USA, Europe)_(us).pdf
+66ec2cd1a0d004e6  media/manuals/4 in 1 Row (Europe)_(eu).pdf
+8855565b3a96e8bc  media/manuals/Baseball (USA, Europe)_(us).pdf
+096837669794cdba  media/images/War of Nerves (USA, Europe).png
+eb82ab4ad8c8c296  media/manuals/Atlantis (USA, Europe)_(us).pdf
+81b51685281d9a6b  media/manuals/Billiard Americain (France)_(us).pdf
+c5ac44a620a7827c  media/manuals/Armored Encounter + Sub Chase (USA, Europe)_(us).pdf
+f81616249bfc88d4  media/manuals/Billard Electrique (France)_(us).pdf
+66ec2cd1a0d004e6  media/manuals/4 en 1 Ligne (France)_(eu).pdf
+f6292b53695be4f0  media/manuals/Blobbers, The (Europe)_(eu).pdf
+60cc908f3f596489  media/manuals/Bowling + Basketball (USA, Europe)_(us).pdf
+065b41ccce6a4b78  media/manuals/Computer Golf (USA)_(us).pdf
+03ef7272959e0265  media/manuals/Chinese Logic (Europe)_(eu).pdf
+ced70656ab644343  media/manuals/Casino Slot Machine (USA, Europe)_(us).pdf
+7d97140230aaca30  media/manuals/Clay Pigeon (Brazil)_(wor).pdf
+d86a86a50ad12b40  media/manuals/Conflit Cosmique (Canada)_(us).pdf
+2de5955544c63be8  media/manuals/Buraco Negro (Brazil)_(eu).pdf
+6975d1c816acb3aa  media/manuals/Catch the Ball + Noughts and Crosses (Europe)_(eu).pdf
+781a1182f4727ccc  media/manuals/Conquest of the World (USA, Europe)_(us).pdf
+d86a86a50ad12b40  media/manuals/Cosmic Conflict (Europe) (Alt 1)_(us).pdf
+d86a86a50ad12b40  media/manuals/Cosmic Conflict (USA)_(us).pdf
+bf7608dcd3d7d0be  media/manuals/Demon Attack (USA, Europe)_(us).pdf
+ec9e7d252851bb0e  media/manuals/Course de Voitures + Autodrome + Cryptogramme (France)_(us).pdf
+d86a86a50ad12b40  media/manuals/Cosmic Conflict (Europe)_(us).pdf
+c5f73c20ed37e82e  media/manuals/Dynasty (USA)_(us).pdf
+e3a1ae0e4812ba3f  media/manuals/Bombardeio Submarino + Tiro ao Alvo (Brazil)_(eu).pdf
+03ef7272959e0265  media/manuals/Desafio Chines (Brazil)_(eu).pdf
+55e8fd8952fa2e64  media/manuals/Electronic Table Soccer (USA, Europe)_(us).pdf
+912cfe495024069a  media/manuals/Football (USA, Europe)_(us).pdf
+c8171cae7dd7794d  media/manuals/Football Electronique + Hockey Electronique (France)_(us).pdf
+065b41ccce6a4b78  media/manuals/Golf (Europe)_(us).pdf
+2c6a15d458cdb4b2  media/manuals/Freedom Fighters (USA, Europe)_(us).pdf
+e3a1ae0e4812ba3f  media/manuals/Depth Charge + Marksman (Europe)_(eu).pdf
+a4bbc4e31388c1bd  media/manuals/Attack of the Timelord (USA)_(us).pdf
+38908e25d8e04b03  media/manuals/Great Wall Street Fortune Hunt, The (USA, Europe)_(us).pdf
+601eb37c28977d92  media/manuals/Gunfighter (Europe)_(us).pdf
+c8171cae7dd7794d  media/manuals/Hockey + Soccer (USA, Europe)_(us).pdf
+7c2921b15c2077e2  media/manuals/Frogger (Europe)_(eu).pdf
+f11c68ee69df4eed  media/manuals/Guerre Laser (France)_(us).pdf
+9f6c0199125921aa  media/manuals/I've Got Your Number (USA, Europe)_(us).pdf
+60cc908f3f596489  media/manuals/Jeu de Quilles + Basketball (France)_(us).pdf
+f11c68ee69df4eed  media/manuals/Invaders from Hyperspace (USA)_(us).pdf
+84af17b709ecfe3f  media/manuals/Jumping Acrobats (Europe) (Alt 1)_(us).pdf
+7c2921b15c2077e2  media/manuals/Frogger (Brazil)_(eu).pdf
+1a56bdda88091b68  media/manuals/K.C. Munchkin (USA)_(us).pdf
+84af17b709ecfe3f  media/manuals/Jumping Acrobats (Europe)_(us).pdf
+8c15e9f5d19b29f2  media/manuals/K.C.'s Krazy Chase (USA, Europe)_(us).pdf
+3fd41c08086d4082  media/manuals/Keyboard Creations (USA)_(eu).pdf
+ced70656ab644343  media/manuals/Las Vegas (France)_(us).pdf
+04920e56d2885ebd  media/manuals/Killer Bees (USA)_(us).pdf
+e334b28fb16dbc96  media/manuals/Loony Balloon (Europe) (Proto)_(eu).pdf
+f11c68ee69df4eed  media/manuals/Laser War (Europe)_(us).pdf
+c1f9ff7c5726e5c1  media/manuals/Interpol (Europe) (Proto)_(eu).pdf
+cfdb4d488a3a1ab5  media/manuals/Labyrinth Game, A + Supermind (Europe)_(eu).pdf
+6d2974071843f8cd  media/manuals/Mathematicien + Echo (France)_(us).pdf
+6d2974071843f8cd  media/manuals/Math-A-Magic + Echo (USA, Europe)_(us).pdf
+ee361b5ede73342f  media/manuals/Matchmaker + Logix + Buzzword (USA)_(us).pdf
+1a56bdda88091b68  media/manuals/Munchkin (Europe)_(us).pdf
+805a99cadbde2a9e  media/manuals/Monkeyshines (USA, Europe)_(us).pdf
+3fd41c08086d4082  media/manuals/Newscaster (Europe)_(eu).pdf
+cd193922e70bc84f  media/manuals/La Quete des Anneaux (France)_(us).pdf
+fb88b66da9f7cecf  media/manuals/Nightmare (Europe)_(eu).pdf
+6975d1c816acb3aa  media/manuals/O Malabarista + Jogo da Velha (Brazil)_(eu).pdf
+27ec974952afc85d  media/manuals/Pachinko (USA, Europe)_(us).pdf
+84af17b709ecfe3f  media/manuals/P.T. Barnum's Acrobats (USA)_(us).pdf
+2de5955544c63be8  media/manuals/Neutron Star (Europe) (Proto)_(eu).pdf
+62e5e5ead4395428  media/manuals/Pick Axe Pete (USA, Europe)_(us).pdf
+81b51685281d9a6b  media/manuals/Pocket Billiards (USA, Europe)_(us).pdf
+eed78a573c423b03  media/manuals/Playtag (Europe) (Proto)_(eu).pdf
+f3cb7c21f75211b3  media/manuals/Computer Intro (USA)_(eu).pdf
+579b05ed73ffa584  media/manuals/Power Lords (USA) (Alt 1)_(us).pdf
+579b05ed73ffa584  media/manuals/Power Lords (USA)_(us).pdf
+c5f73c20ed37e82e  media/manuals/Samurai (Europe)_(us).pdf
+80df59be21a11909  media/manuals/Prendre l'Argent et Fuir (France)_(us).pdf
+53994cd82033b7bf  media/manuals/Q-Bert (Europe)_(eu).pdf
+97ec396b963ce660  media/manuals/Popeye (Europe)_(eu).pdf
+601eb37c28977d92  media/manuals/Showdown in 2100 A.D. (USA)_(us).pdf
+dae0c4cb850fe6aa  media/manuals/Mission Impossible (Brazil) (Proto)_(wor).pdf
+1155402800a81dba  media/manuals/Skiing (France)_(us).pdf
+97ec396b963ce660  media/manuals/Popeye (Brazil)_(eu).pdf
+39494acfc5068114  media/manuals/Smithereens (USA)_(us).pdf
+f3cb7c21f75211b3  media/manuals/Computer Programmer (Europe)_(eu).pdf
+8191b644bb26591a  media/manuals/Satellite Attack (Europe)_(us).pdf
+39494acfc5068114  media/manuals/Stone Sling (Europe)_(us).pdf
+f81616249bfc88d4  media/manuals/Thunderball (USA, Europe)_(us).pdf
+cd193922e70bc84f  media/manuals/Quest for the Rings (USA, Europe)_(us).pdf
+ec9e7d252851bb0e  media/manuals/Speedway + Spin-out + Crypto-logic (USA, Europe)_(us).pdf
+80df59be21a11909  media/manuals/Take the Money and Run (USA, Europe)_(us).pdf
+8191b644bb26591a  media/manuals/UFO (USA)_(us).pdf
+e338d75534ae41a5  media/manuals/Volleyball Electronique (France)_(us).pdf
+09a32ceed6236885  media/manuals/Turtles (Europe)_(us).pdf
+bf4753a3ee66819c  media/manuals/Type & Tell (USA)_(us).pdf
+e338d75534ae41a5  media/manuals/Volleyball (USA, Europe)_(us).pdf
+09a32ceed6236885  media/manuals/Turtles (USA)_(us).pdf
+091ec2aa55daf2ad  media/manuals/Tutankham (Europe) (Proto)_(eu).pdf
+7ed9929e8329071c  media/manuals/War of Nerves (USA, Europe)_(us).pdf
+38908e25d8e04b03  media/manuals/Wall Street (Brazil)_(us).pdf
+4fb9ed01b5551827  media/box2d/Alien Invaders - Plus (USA, Europe).png
+ac2a1901740b4c56  media/box2d/4 en 1 Ligne-01.png
+1a62cddc384dbda9  media/box2d/Alien Invaders - Plus (USA, Europe).jpg
+ed5f90fb718eb21d  media/box2d/4 in 1 Row (Europe).png
+ed5f90fb718eb21d  media/box2d/4 en 1 Ligne (France).png
+9caf6c2ac95e87ab  media/box2d/Alpine Skiing (USA, Europe).jpg
+f2b9f1cbdeabb781  media/box2d/Alpine Skiing (USA, Europe)-01.png
+fafddf78eb3de6ec  media/box2d/Alpine Skiing (USA, Europe).png
+e25361a81701f287  media/box2d/Armored Encounter + Sub Chase (USA, Europe).png
+58b6e23a1959cbae  media/box2d/Atlantis (USA, Europe)-01.png
+8a318183c25b491e  media/box2d/Baseball (USA, Europe).png
+5de2dfe0c7ab42bc  media/box2d/Baseball (USA, Europe).jpg
+3d3192bf99d74289  media/box2d/Armored Encounter + Sub Chase (USA, Europe).jpg
+2002f56ed5d74ba7  media/box2d/Atlantis (USA, Europe).png
+94f5466612b4b077  media/box2d/Atlantis (USA, Europe)-02.png
+46b7350c8ce522a2  media/box2d/Attack of the Timelord (USA).jpg
+d83554dd4bcea3b3  media/box2d/Billiard Americain (France).png
+b8deca61ad182fcc  media/box2d/Blackjack (France).png
+c09bc8032ad448dd  media/box2d/Blockout + Breakdown (USA, Europe).png
+f44bfb3398aaeda7  media/box2d/Blockout + Breakdown (USA, Europe).jpg
+4a4a25a51d607123  media/box2d/Blobbers, The (Europe).png
+fc5338f5459b79ca  media/box2d/Billard Electrique (France).png
+bc03502fc8fb0994  media/box2d/Bombardeio Submarino + Tiro ao Alvo-01.png
+b1113d31284b5a63  media/box2d/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+1e6e1d06a990c6a9  media/box2d/Billiard Americain-01.png
+99e3438735c3dcd1  media/box2d/Billard Electrique-01.png
+ac8441df9698d57b  media/box2d/Casino Slot Machine (USA, Europe).png
+967609a92d7685f1  media/box2d/Bowling + Basketball (USA, Europe).jpg
+52e71667df90b9b6  media/box2d/Catch the Ball + Noughts and Crosses (Europe).jpg
+0b1f3fc24f5670c2  media/box2d/Casino Slot Machine (USA, Europe).jpg
+ea242807f65cb818  media/box2d/Chat et Souris (France).png
+be4d666103400b72  media/box2d/Bowling + Basketball (USA, Europe).png
+0c18e15dec4a01d9  media/box2d/Buraco Negro (Brazil).png
+d4a48effcc316eb9  media/box2d/Chat et Souris-01.png
+5f446391171329ca  media/box2d/Chess (Europe)-01.png
+d30e164243dbd3ef  media/box2d/Catch the Ball + Noughts and Crosses (Europe).png
+997dad9a04f9eb16  media/box2d/Chess (Europe).png
+f19eac9f907cd23c  media/box2d/Clay Pigeon (Brazil).jpg
+b4ea11f6ff9faa13  media/box2d/Clay Pigeon (Brazil)-01.png
+8cbd77e1db39b6dd  media/box2d/Clay Pigeon (Brazil)-02.png
+5fcfc9d9f5ac0f17  media/box2d/Chinese Logic (Europe).png
+67249f4e964e5ed3  media/box2d/Comando Noturno-01.png
+10cf5288e017f445  media/box2d/Comando Noturno-02.png
+937588e99ec4148f  media/box2d/Clay Pigeon (Brazil).png
+d402371fa63ed7d4  media/box2d/Computer Golf (USA)-01.jpg
+881a1f3c496ade1d  media/box2d/Conflit Cosmique (Canada).png
+eeb054bd2f3a81e7  media/box2d/Computer Programmer (Europe).png
+310cfc63559a1fd1  media/box2d/Computer Golf (USA).png
+d402371fa63ed7d4  media/box2d/Computer Golf (USA).jpg
+db077b3e4693c6ea  media/box2d/Conquest of the World (USA, Europe).jpg
+0e4965bd2fea8eb5  media/box2d/Conflit Cosmique-01.png
+fa318e40c35dd600  media/box2d/Comando Noturno (Brazil).png
+aaa83a1b65131021  media/box2d/Computer Programmer-01.png
+5dd52fa91947d0c1  media/box2d/Computer Intro (USA).jpg
+671c2abaaa288f13  media/box2d/Course de Voitures + Autodrome + Cryptogramme (France).png
+881a1f3c496ade1d  media/box2d/Cosmic Conflict (Europe).png
+b20e6cecdb5ea2d0  media/box2d/Conquest of the World (USA, Europe).png
+8e3bb25d8f28f4f0  media/box2d/Demon Attack (USA, Europe)-01.png
+546b6079f40e5fd0  media/box2d/Cosmic Conflict (USA).jpg
+881a1f3c496ade1d  media/box2d/Cosmic Conflict (Europe) (Alt 1).png
+0dd6f68af9cd2c83  media/box2d/Demon Attack (USA, Europe).png
+d2412ac61ff93096  media/box2d/Cosmic Conflict (USA).png
+80ac430281427e68  media/box2d/Course de Voitures + Autodrome + Cryptogramme-01.png
+4acfae01fd105937  media/box2d/Desafio Chines (Brazil)-01.png
+3192db3bc9d23810  media/box2d/Demon Attack (USA, Europe)-02.png
+b4467d4da84229a5  media/box2d/Electronic Table Soccer (USA, Europe)-01.png
+cf18754c72d5cdd9  media/box2d/Desafio Chines (Brazil).png
+1da83d19c716a7c7  media/box2d/Depth Charge + Marksman (Europe).png
+7b7e972e7c76e871  media/box2d/Electronic Table Soccer (USA, Europe)-02.png
+d2797e2d7ec97cc8  media/box2d/Desafio Chines (Brazil)-02.png
+207bd714c509d8c1  media/box2d/Electronic Table Soccer (USA, Europe).png
+c3080709be6bd3f1  media/box2d/Football Electronique + Hockey Electronique (France).png
+2378625533f625cf  media/box2d/Dynasty (USA).jpg
+1151c156ceec2e47  media/box2d/Football (USA, Europe).jpg
+9d62e1f00b86f05e  media/box2d/Football (USA, Europe).png
+8a1d0dfd9999cd77  media/box2d/Frogger (Brazil)-01.png
+3e7b4a7f32a49b95  media/box2d/Frogger (Brazil).png
+67eef7c120f208c7  media/box2d/Football Electronique + Hockey Electronique-01.png
+49e7269fc39bd61c  media/box2d/Freedom Fighters (USA, Europe).jpg
+69bcc95e673d1448  media/box2d/Golf (Europe).png
+e6cab97beacc7233  media/box2d/Freedom Fighters (USA, Europe).png
+c3e278e3ee678148  media/box2d/Frogger (Europe).png
+1184e7930070cccc  media/box2d/Great Wall Street Fortune Hunt, The (USA, Europe).png
+5965d71caa7b4689  media/box2d/Guerre Laser (France).png
+476415eb830cc821  media/box2d/Great Wall Street Fortune Hunt, The (USA, Europe)-03.png
+11f0b45eb9e92cc0  media/box2d/Gunfighter (Europe).png
+7d55d8cd2280932f  media/box2d/Gunfighter-01.png
+da7bb1f5d7b99bf9  media/box2d/I've Got Your Number (USA, Europe)-01.png
+8bf35e5b044b124f  media/box2d/I've Got Your Number (USA, Europe)-02.png
+651da8de7976e8d5  media/box2d/Guerre Laser-01.png
+fc98fdf495c2c6c7  media/box2d/Hockey + Soccer (USA, Europe).jpg
+445e2cf94e87112b  media/box2d/Hockey + Soccer (USA, Europe).png
+4cd68bf8e0b8868a  media/box2d/Great Wall Street Fortune Hunt, The (USA, Europe)-02.png
+a9708e828168759c  media/box2d/Great Wall Street Fortune Hunt, The (USA, Europe)-01.png
+9c1fc260d7c44ac0  media/box2d/I've Got Your Number (USA, Europe).png
+02055e57292c765a  media/box2d/Jeu de Quilles + Basketball (France).png
+dcdd2163cbbf7a78  media/box2d/Interpol (Europe) (Proto).png
+a0e3bf5f0f3b4ca7  media/box2d/Invaders from Hyperspace (USA).jpg
+55ee89ff4c874e16  media/box2d/Jumping Acrobats (Europe) (Alt 1).png
+86603801b3b45033  media/box2d/Jumping Acrobats-01.png
+3d3eb7c5a7947911  media/box2d/Jeu de Quilles + Basketball-01.png
+56eb24b9dde31358  media/box2d/Interpol-01.png
+e1746e58c283da2c  media/box2d/K.C. Munchkin (USA).jpg
+55ee89ff4c874e16  media/box2d/Jumping Acrobats (Europe).png
+1b1322f2439cabd2  media/box2d/Kinder im Verkehr 1 (Germany)-01.png
+d3098e974dc165b9  media/box2d/K.C.'s Krazy Chase (USA, Europe).jpg
+a03b7dd1163f7212  media/box2d/K.C.'s Krazy Chase (USA, Europe).png
+4208dd4679c49dca  media/box2d/La Quete des Anneaux (France).png
+1a449289339939a6  media/box2d/Kinder im Verkehr 1 (Germany).png
+25bc59da6f1d928b  media/box2d/K.C. Munchkin (USA).png
+052769e10bc2a66f  media/box2d/Keyboard Creations (USA).jpg
+8dd37f555026f967  media/box2d/Killer Bees (USA).png
+cfa0c0f7fbf884d8  media/box2d/Killer Bees (USA).jpg
+670b829df571f4a5  media/box2d/Las Vegas Blackjack (USA, Europe)-01.png
+aad5bc2291b9813e  media/box2d/Labyrinth Game, A + Supermind (Europe).png
+93f2080311f9156b  media/box2d/La Quete des Anneaux-01.png
+d96ac1d4b4cdc93c  media/box2d/Labyrinth Game, A + Supermind (Europe)-01.png
+f307ab10d76a94a7  media/box2d/Las Vegas Blackjack (USA, Europe)-02.png
+7256873a625e0c0b  media/box2d/Las Vegas (France)-01.png
+cc22002dcbac823e  media/box2d/Las Vegas (France).png
+f500c12eafb9c47d  media/box2d/Las Vegas Blackjack (USA, Europe).jpg
+5965d71caa7b4689  media/box2d/Laser War (Europe).png
+e67c7abe50ccfecf  media/box2d/Laser War-01.png
+5c4f4173d1df20a0  media/box2d/Martian Threat-01.png
+b95d268d94240391  media/box2d/Las Vegas Blackjack (USA, Europe).png
+385082fef695848e  media/box2d/Martian Threat (Europe) (Proto).png
+21423156e7c27edb  media/box2d/Loony Balloon (Europe) (Proto).png
+385082fef695848e  media/box2d/Martian Threat (Europe) (Proto) (Alt 1).png
+a2196224f490cc3b  media/box2d/Loony Balloon-01.png
+0121f8209b3673ee  media/box2d/Math-A-Magic + Echo (USA, Europe)-01.png
+137ebf1854a13bd5  media/box2d/Math-A-Magic + Echo (USA, Europe).png
+b5f5f9d087aedcb3  media/box2d/Matchmaker + Logix + Buzzword (USA).png
+7afcd921ed8499cf  media/box2d/Mission Impossible (Brazil) (Proto).png
+6fc8d804cb841ca9  media/box2d/Mathematicien + Echo (France).png
+2ea9a6427c691292  media/box2d/Matchmaker + Logix + Buzzword (USA).jpg
+d5f9018dcf1e6312  media/box2d/Mission Impossible _ Programmed Trip-01.png
+8042b2197a76ea24  media/box2d/Mathematicien + Echo-01.png
+d671455f2d84f8a8  media/box2d/Munchkin (Europe).png
+1a055e6b31ed50dd  media/box2d/Morse (Europe).png
+ac5482bb2a67bc01  media/box2d/Morse (France).png
+93cfb3ddfb20bf6c  media/box2d/Monkeyshines (USA, Europe).jpg
+fafd5ebb3671d6fa  media/box2d/Mousing Cat, The (Europe).png
+e056191fdb163f60  media/box2d/Musician (Europe).png
+4154f31e0c29d7fd  media/box2d/Neutron Star-01.png
+bd0e14bd7b39abf0  media/box2d/Neutron Star-02.png
+e6872b1cff384a7d  media/box2d/Mur Magique, Le (France).png
+5384d3b0374fc53e  media/box2d/Newscaster-01.png
+4c1caf60ee3c8b68  media/box2d/Mur Magique, Le-01.png
+b19dd3968350c716  media/box2d/Monkeyshines (USA, Europe).png
+aa5be8c61a39b8bc  media/box2d/Nightmare (Europe)-01.png
+f9b29193e751d317  media/box2d/Nightfighter-01.png
+0c18e15dec4a01d9  media/box2d/Neutron Star (Europe) (Proto).png
+fa318e40c35dd600  media/box2d/Nightfighter (Europe) (Proto).png
+ade5e9fa4939cb7d  media/box2d/Newscaster (Europe).png
+6306e7ec8cd790e7  media/box2d/Nimble Numbers Ned (USA).png
+d1c293dc71e51efb  media/box2d/Nimble Numbers Ned (USA)-01.png
+ee778b8cc24d4600  media/box2d/Nightmare (Europe).png
+110256f6ca5bfae3  media/box2d/P.T. Barnum's Acrobats (USA)-02.png
+0c1bb86bbca76db4  media/box2d/Out of this World + Helicopter Rescue (USA).jpg
+08ba518c4c446a97  media/box2d/O Malabarista + Jogo da Velha (Brazil).png
+7ee7368bb6b9ef48  media/box2d/O Malabarista + Jogo da Velha-01.png
+43776da0714df518  media/box2d/O Segredo do Farao (Brazil).png
+a6e908d1e45b4aab  media/box2d/P.T. Barnum's Acrobats (USA)-01.png
+2ea9a6427c691292  media/box2d/Pairs + Space Rendezvous + Logic (Europe).jpg
+e2f8dc57fbc1d473  media/box2d/Pachinko (USA, Europe).png
+af45cf8ad28014e7  media/box2d/P.T. Barnum's Acrobats (USA).png
+3630f17d125736b0  media/box2d/Out of this World + Helicopter Rescue (USA).png
+a673c28a829a63e6  media/box2d/Pachinko (USA, Europe).jpg
+4fd354778fb939a3  media/box2d/Pairs + Space Rendezvous + Logic (Europe)-01.png
+70819aca4deb5e44  media/box2d/Pick Axe Pete (USA, Europe).jpg
+f4b5c360ebc5b3b3  media/box2d/Pinball (USA) (Proto).png
+f598fe42b075113d  media/box2d/Pairs + Space Rendezvous + Logic (Europe).png
+10bfea1415957c6e  media/box2d/Pick Axe Pete (USA, Europe).png
+b7823183d25c2501  media/box2d/Pinball-02.png
+f9e1891e43fa798b  media/box2d/Pinball-01.png
+088c8a2fc1d7b323  media/box2d/Popeye (Brazil)-01.png
+65e6c06f73a5052e  media/box2d/Pocket Billiards (USA, Europe).png
+e736deaea4c8db0d  media/box2d/Playtag (Europe) (Proto).png
+9e8facbc2d0faaa1  media/box2d/Power Lords (USA) (Alt 1)-02.png
+677f723ea5a20674  media/box2d/Popeye (Brazil).png
+4c5aac25df1c4a1b  media/box2d/Playtag-01.png
+c01cbfb5b0df74bf  media/box2d/Power Lords (USA) (Alt 1)-01.png
+585c04b906c45f53  media/box2d/Power Lords (USA) (Alt 1).png
+31525dbcb9ac1473  media/box2d/Popeye (Europe).png
+ef340e4beaebc96c  media/box2d/Quest for the Rings (USA, Europe)-01.jpg
+0a5ab3f2ec8f90e5  media/box2d/Power Lords (USA).png
+057941d619732e57  media/box2d/Pocket Billiards (USA, Europe).jpg
+87e51f39c3c81850  media/box2d/Prendre l'Argent et Fuir (France).png
+41e6941594f6cd8c  media/box2d/Quest for the Rings (USA, Europe).png
+99c7d47fd5789e89  media/box2d/Robot City-01.png
+852912f6e642d862  media/box2d/Q-Bert (Europe).png
+4d53ba5f479a076a  media/box2d/Red Baron (Europe) (Proto).png
+ee5b76b42d179151  media/box2d/Prendre l_Argent et Fuir-01.png
+b954e0c24191fc3f  media/box2d/Quest for the Rings (USA, Europe).jpg
+4d53ba5f479a076a  media/box2d/Red Baron (Europe) (Proto) (Alt 1).png
+17dc08025d914932  media/box2d/Robot City (Europe) (Proto).png
+41d3f0327c91354b  media/box2d/Red Baron-01.png
+216932728f0ff395  media/box2d/Samurai (Europe).png
+eec3411a39464db5  media/box2d/Satellite Attack-01.png
+525c5cd9792f36e7  media/box2d/Secret of the Pharaohs (Europe).png
+917f3ef2d95c4fa5  media/box2d/Samurai-01.png
+0fce881fa09a2fb8  media/box2d/Secret of the Pharaohs (Europe)-02.png
+f2ab71f30d3d60b5  media/box2d/Satellite Attack (Europe).png
+b137bad94b2141d9  media/box2d/Secret of the Pharaohs (Europe)-01.png
+f58a6a3ed0161623  media/box2d/Shark Hunter (Europe) (Proto)-01.png
+5a4d0976d1dd8ed5  media/box2d/Showdown in 2100 A.D. (USA).png
+c50df338e71bdd69  media/box2d/Sid the Spellbinder (USA)-01.png
+246326c346390843  media/box2d/Shark Hunter (Europe) (Proto).png
+62bd9dace71b0f33  media/box2d/Sid the Spellbinder (USA)-02.png
+4abd56b0df960973  media/box2d/Smithereens (USA)-02.png
+3549338b2933267c  media/box2d/Skiing (France).png
+eef6415ac6f82627  media/box2d/Sid the Spellbinder (USA).png
+067ca0259b27212b  media/box2d/Smithereens (USA)-01.png
+49741d3c8dad0305  media/box2d/Smithereens (USA).png
+b26da85553666ae0  media/box2d/Stone Sling (Europe).png
+9d337c5a13fb53f2  media/box2d/Speedway + Spin-out + Crypto-logic (USA, Europe).jpg
+bcc900c976aec70f  media/box2d/Spider-Man (Europe) (Proto) (Alt 1).png
+b6047c4984a73720  media/box2d/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+bcc900c976aec70f  media/box2d/Spider-Man (Europe) (Proto).png
+64eb3741d1241db1  media/box2d/Super Bee (Brazil).png
+f0ce0e260dec81ea  media/box2d/Super Cobra (Brazil)-01.png
+e60a9adb6fef9399  media/box2d/Super Bee (Brazil)-01.png
+a79616178bc545de  media/box2d/Spider-Man-01.png
+d35faa700ccad121  media/box2d/Stone Sling-01.png
+2b84f9fe9b9930f4  media/box2d/Super Bee (Europe).png
+e8a629dd412f8a53  media/box2d/Super Cobra (Brazil).jpg
+93a855cb8ea7b2a0  media/box2d/Take the Money and Run (USA, Europe).jpg
+1d8f1a0fdb5f1b6d  media/box2d/Super Cobra (Brazil).png
+4c6621160ce19e66  media/box2d/Take the Money and Run (USA, Europe).png
+283ae9d83fb1fc2d  media/box2d/Thunderball (USA, Europe).jpg
+9d5e24d80ef0ebee  media/box2d/Super Cobra (Europe).png
+3393a40411c90417  media/box2d/Thunderball (USA, Europe).png
+437166b7a4d385e9  media/box2d/Turtles (Europe).png
+1d7eba49ded8c674  media/box2d/Tutankham-02.png
+28a72f72eb843de5  media/box2d/Turtles (USA).jpg
+3c1c65f202dcbb63  media/box2d/Type & Tell (USA).png
+4145eaeaf50d46fd  media/box2d/Tutankham (Europe) (Proto).png
+909346fe0c954908  media/box2d/UFO (USA).jpg
+f7c86641f7ef0e21  media/box2d/Verkehrsspiele 2 (Germany).png
+398d88a8b0805b75  media/box2d/Turtles (USA).png
+53628c498fd8673c  media/box2d/Type & Tell (USA)-01.png
+4145eaeaf50d46fd  media/box2d/Tutankham-01.png
+2a422c9d22a37314  media/box2d/Verkehrsspiele 2-01.png
+ed94f17348a53931  media/box2d/Type & Tell (USA)-02.png
+8eaa5f17f178ccb3  media/box2d/Verkehrsspiele 1 (Germany).png
+5f5d345a0b526793  media/box2d/Wall Street (Brazil).png
+13acfd02081ac486  media/box2d/Volleyball (USA, Europe).png
+d7f56d1530cf2e6a  media/screenshots/4 en 1 Ligne (France).png
+fd3a72d3b0c3164f  media/box2d/War of Nerves (USA, Europe).png
+0e4b42305a1fba56  media/box2d/Verkehrsspiele 1-01.png
+3eb233e08bda16cb  media/box2d/Volleyball Electronique (France).png
+a459d636cabc94ad  media/screenshots/Alien Invaders - Plus (USA, Europe).png
+8ea54505264c7820  media/screenshots/Alpine Skiing (USA, Europe).png
+be24855c313a99c3  media/screenshots/Alpine Skiing (USA, Europe)-01.png
+4ab82ff5b820c1bb  media/screenshots/4 in 1 Row (Europe).png
+6dbb98c776a4baa9  media/screenshots/Atlantis (USA, Europe).png
+649fb744c3b41e3a  media/screenshots/Attack of the Timelord (USA).png
+ff43ababa8c4c8a6  media/screenshots/Armored Encounter + Sub Chase (USA, Europe).png
+5c0e138bee0844f9  media/box2d/Volleyball Electronique-01.png
+3a9ec4a2655607dc  media/screenshots/Billard Electrique (France).png
+f835c6c67265ff0b  media/screenshots/Blobbers, The (Europe)-01.png
+23b59f4a628e1086  media/screenshots/Armored Encounter + Sub Chase (USA, Europe)-01.png
+9a6c209913de8918  media/box2d/War of Nerves (USA, Europe).jpg
+82ad7037b52396de  media/box2d/Volleyball (USA, Europe).jpg
+824955e9e38ffdde  media/screenshots/Blockout + Breakdown (USA, Europe).png
+0cbc70434c6215ce  media/screenshots/Baseball (USA, Europe).png
+1074a33a62319787  media/screenshots/Bowling + Basketball (USA, Europe)-01.png
+6a7ac48ca3fac804  media/screenshots/Casino Slot Machine (USA, Europe).png
+f90b818695fc2417  media/screenshots/Chat et Souris (France).png
+a43ff48d002ce605  media/screenshots/Blackjack (France).png
+7079b7c269aec164  media/screenshots/Blobbers, The (Europe).png
+d4e48c7486c069bd  media/screenshots/Billiard Americain (France).png
+392fd3643c7f98fd  media/screenshots/Bowling + Basketball (USA, Europe).png
+1d0f9eff9cdf8867  media/screenshots/Catch the Ball + Noughts and Crosses (Europe).png
+7c2320111271871e  media/screenshots/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+6bf55cc83489c148  media/screenshots/Clay Pigeon (Brazil)-01.png
+a1feadbd815524c9  media/screenshots/Comando Noturno (Brazil).png
+9180ec77ff2a4338  media/screenshots/Chinese Logic (Europe).png
+cf6bfadb180967ca  media/screenshots/Clay Pigeon (Brazil).png
+deedb37cc4f2c624  media/screenshots/Computer Golf (USA)-01.png
+a1feadbd815524c9  media/screenshots/Comando Noturno-01.png
+deedb37cc4f2c624  media/screenshots/Computer Golf (USA).png
+13c4d20ae09e6d88  media/screenshots/Computer Intro (USA)-01.png
+3a0401d4b50bf8ca  media/screenshots/Computer Intro (USA)-03.png
+4aa3ee9ba318552a  media/screenshots/Computer Intro (USA)-02.png
+ab9629452905df54  media/screenshots/Computer Intro (USA)-04.png
+28f847b85f17019f  media/screenshots/Computer Intro (USA)-05.png
+867ed8ebb6303d02  media/screenshots/Computer Intro (USA).png
+d860d0b58e16a7ae  media/screenshots/Computer Programmer (Europe).png
+20812e8f2e026577  media/screenshots/Conflit Cosmique (Canada).png
+20812e8f2e026577  media/screenshots/Cosmic Conflict (Europe) (Alt 1).png
+20812e8f2e026577  media/screenshots/Cosmic Conflict (USA)-01.png
+5595da8f29890f72  media/screenshots/Cosmic Conflict (USA).png
+41ef7d993d0a4ccd  media/screenshots/Computer Programmer-01.png
+6bbdd8706fde6950  media/screenshots/Buraco Negro (Brazil).png
+20812e8f2e026577  media/screenshots/Cosmic Conflict (Europe).png
+a9cce134b4658c04  media/screenshots/Chess (Europe).png
+9180ec77ff2a4338  media/screenshots/Desafio Chines (Brazil)-01.png
+b54ac48394392d21  media/screenshots/Conquest of the World (USA, Europe).png
+c38a104c73b1affa  media/screenshots/Demon Attack (USA, Europe).png
+87ec5b54f892f5d6  media/screenshots/Desafio Chines (Brazil).png
+3b9a230e8caa7330  media/screenshots/Demon Attack (USA, Europe)-01.png
+10e8efb5a7c3adbd  media/screenshots/Football Electronique + Hockey Electronique (France).png
+a56ce70c19ff7e12  media/screenshots/Frogger (Brazil).png
+32f891ade3764a68  media/screenshots/Frogger (Brazil)-01.png
+5aa168cf14d0100f  media/screenshots/Course de Voitures + Autodrome + Cryptogramme (France).png
+4b902a355fe64eca  media/screenshots/Football (USA, Europe).png
+7c2320111271871e  media/screenshots/Depth Charge + Marksman (Europe).png
+32f891ade3764a68  media/screenshots/Frogger (Europe).png
+a6a4c0af4b5d457c  media/screenshots/Electronic Table Soccer (USA, Europe).png
+5ee897beba149c01  media/screenshots/Freedom Fighters (USA, Europe).png
+4274948dfe5ed9e2  media/screenshots/Golf (Europe).png
+e1833e0e0ea572a3  media/screenshots/Great Wall Street Fortune Hunt, The (USA, Europe)-01.png
+e05ee8817b5605ab  media/screenshots/Great Wall Street Fortune Hunt, The (USA, Europe).png
+97d43d714ff56415  media/screenshots/Guerre Laser (France).png
+fc60175410c38ae3  media/screenshots/Gunfighter (Europe).png
+04b159e99e1c46d0  media/screenshots/Invaders from Hyperspace (USA).png
+6f93051e88b1fc0c  media/screenshots/Dynasty (USA).png
+10e8efb5a7c3adbd  media/screenshots/Hockey + Soccer (USA, Europe).png
+4a02f9f114d5416a  media/screenshots/Jumping Acrobats (Europe).png
+b6ff27b09269c66d  media/screenshots/K.C. Munchkin (USA)-01.png
+392fd3643c7f98fd  media/screenshots/Jeu de Quilles + Basketball (France).png
+58698d280ce7138c  media/screenshots/Interpol (Europe) (Proto).png
+b6ff27b09269c66d  media/screenshots/K.C. Munchkin (USA).png
+050d1dad8d0136d0  media/screenshots/I've Got Your Number (USA, Europe).png
+613ee797ac11dc86  media/screenshots/Interpol-01.png
+4a02f9f114d5416a  media/screenshots/Jumping Acrobats (Europe) (Alt 1).png
+17d5de5297d4b7cd  media/screenshots/K.C.'s Krazy Chase (USA, Europe).png
+594d35eb21618076  media/screenshots/Killer Bees (USA)-01.png
+e49fbaa43e0a86a6  media/screenshots/Keyboard Creations (USA).png
+7825d7cc59afb380  media/screenshots/Killer Bees (USA).png
+e871399abf8d497e  media/screenshots/Labyrinth Game, A + Supermind (Europe).png
+9f293aeeeae5d74a  media/screenshots/Kinder im Verkehr 1 (Germany).png
+6950548212790d9c  media/screenshots/La Quete des Anneaux (France).png
+d6ab64722e7c9343  media/screenshots/Kinder im Verkehr 1 (Germany)-01.png
+75a1f6cbf52e6636  media/screenshots/Las Vegas Blackjack (USA, Europe)-02.png
+a43ff48d002ce605  media/screenshots/Las Vegas (France)-01.png
+6a7ac48ca3fac804  media/screenshots/Las Vegas (France).png
+dfa552d79a9c942e  media/screenshots/Las Vegas Blackjack (USA, Europe).png
+75a1f6cbf52e6636  media/screenshots/Las Vegas Blackjack (USA, Europe)-01.png
+97d43d714ff56415  media/screenshots/Laser War (Europe).png
+55cefa4c788fef39  media/screenshots/Loony Balloon-01.png
+55cefa4c788fef39  media/screenshots/Loony Balloon (Europe) (Proto).png
+8b82329c88e8d5f6  media/screenshots/Martian Threat (Europe) (Proto).png
+f89c6cea8c2937ee  media/screenshots/Matchmaker + Logix + Buzzword (USA)-01.png
+8b82329c88e8d5f6  media/screenshots/Martian Threat (Europe) (Proto) (Alt 1).png
+13abdcfd77eda74b  media/screenshots/Matchmaker + Logix + Buzzword (USA)-02.png
+942c97b562a55d80  media/screenshots/Math-A-Magic + Echo (USA, Europe).png
+1d8a513b09f77f11  media/screenshots/Mission Impossible (Brazil) (Proto).png
+942c97b562a55d80  media/screenshots/Mathematicien + Echo (France).png
+018f50d97445aa94  media/screenshots/Mission Impossible _ Programmed Trip-01.png
+f90b818695fc2417  media/screenshots/Mousing Cat, The (Europe).png
+84341a1b9139a4e4  media/screenshots/Martian Threat-01.png
+292a212f5d18ef7d  media/screenshots/Morse (France).png
+72dd54a3b3b3d113  media/screenshots/Matchmaker + Logix + Buzzword (USA).png
+292a212f5d18ef7d  media/screenshots/Morse (Europe).png
+6bbdd8706fde6950  media/screenshots/Neutron Star (Europe) (Proto).png
+ee7939678560ae2d  media/screenshots/Monkeyshines (USA, Europe).png
+824955e9e38ffdde  media/screenshots/Mur Magique, Le (France).png
+a04204d923280dc3  media/screenshots/Musician (Europe)-01.png
+e67744ee5320403c  media/screenshots/Neutron Star-01.png
+a290de71bd438235  media/screenshots/Musician (Europe).png
+8a176240fa4f4c2c  media/screenshots/Munchkin (Europe).png
+337e4a66af3b7a12  media/screenshots/Newscaster (Europe).png
+a1feadbd815524c9  media/screenshots/Nightfighter (Europe) (Proto).png
+46bb4e24be89baf2  media/screenshots/Nimble Numbers Ned (USA).png
+1d0f9eff9cdf8867  media/screenshots/O Malabarista + Jogo da Velha (Brazil).png
+5b9e11d130799dfa  media/screenshots/Out of this World + Helicopter Rescue (USA)-01.png
+f89c6cea8c2937ee  media/screenshots/Pairs + Space Rendezvous + Logic (Europe)-01.png
+13abdcfd77eda74b  media/screenshots/Pairs + Space Rendezvous + Logic (Europe)-02.png
+a1771b0c95dfd286  media/screenshots/Out of this World + Helicopter Rescue (USA).png
+1a04122818504de7  media/screenshots/Nightmare (Europe).png
+a11d10ed609fc1dd  media/screenshots/Pachinko (USA, Europe).png
+e7eea5d0f99ddbfc  media/screenshots/O Segredo do Farao (Brazil).png
+c346870223e5f96f  media/screenshots/Playtag (Europe) (Proto).png
+9de93a8390795fd3  media/screenshots/Pairs + Space Rendezvous + Logic (Europe).png
+9c97f55134233bf9  media/screenshots/Playtag-01.png
+26f7022b82ca33ce  media/screenshots/Pick Axe Pete (USA, Europe).png
+9f9df5d2391b75f2  media/screenshots/Pinball-01.png
+4a02f9f114d5416a  media/screenshots/P.T. Barnum's Acrobats (USA).png
+9f9df5d2391b75f2  media/screenshots/Pinball (USA) (Proto).png
+88020522d582d67a  media/screenshots/Pocket Billiards (USA, Europe).png
+d83ebec458c178e8  media/screenshots/Power Lords (USA) (Alt 1).png
+c2013bb7a20644cd  media/screenshots/Popeye (Brazil)-01.png
+c2013bb7a20644cd  media/screenshots/Popeye (Europe).png
+3ebb71b88fefda61  media/screenshots/Prendre l'Argent et Fuir (France).png
+194c12388cf4096b  media/screenshots/Power Lords (USA).png
+251c937dc4740085  media/screenshots/Popeye (Brazil).png
+128ca89ede8f9dd4  media/screenshots/Q-Bert (Europe).png
+6950548212790d9c  media/screenshots/Quest for the Rings (USA, Europe).png
+7fba61283af8baf7  media/screenshots/Red Baron (Europe) (Proto) (Alt 1).png
+7fba61283af8baf7  media/screenshots/Red Baron (Europe) (Proto).png
+a0cb77a3d2ac82db  media/screenshots/Q-Bert (Europe)-01.png
+cb4b5c0166f18ae5  media/screenshots/Robot City (Europe) (Proto).png
+91d3053f3c7c8e59  media/screenshots/Robot City-01.png
+e7eea5d0f99ddbfc  media/screenshots/Secret of the Pharaohs (Europe)-01.png
+bbda2b00ff4b187e  media/screenshots/Satellite Attack (Europe).png
+33f45f5c5d79948b  media/screenshots/Red Baron-01.png
+34b6203318016556  media/screenshots/Samurai (Europe).png
+2f7a7a0fa89dd614  media/screenshots/Shark Hunter (Europe) (Proto)-01.png
+13500f8ec2c75726  media/screenshots/Secret of the Pharaohs (Europe).png
+8ea54505264c7820  media/screenshots/Skiing (France).png
+4421c31af6f4d6ae  media/screenshots/Speedway + Spin-out + Crypto-logic (USA, Europe)-01.png
+fc60175410c38ae3  media/screenshots/Showdown in 2100 A.D. (USA).png
+0f8bb4b07f28b09e  media/screenshots/Sid the Spellbinder (USA).png
+0db51a4cce9e6231  media/screenshots/Shark Hunter (Europe) (Proto).png
+32c88178d931ac6e  media/screenshots/Speedway + Spin-out + Crypto-logic (USA, Europe)-02.png
+7311b6c373bcfedf  media/screenshots/Smithereens (USA)-01.png
+5aa168cf14d0100f  media/screenshots/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+4b0a3b6c3a8aa65a  media/screenshots/Spider-Man (Europe) (Proto).png
+4071b5af5529f97e  media/screenshots/Smithereens (USA).png
+bbc8c0ec56743120  media/screenshots/Super Cobra (Brazil)-01.png
+7311b6c373bcfedf  media/screenshots/Stone Sling (Europe).png
+bbc8c0ec56743120  media/screenshots/Super Cobra (Europe).png
+8e70140c2ef62902  media/screenshots/Spider-Man-01.png
+4b0a3b6c3a8aa65a  media/screenshots/Spider-Man (Europe) (Proto) (Alt 1).png
+293e8b9825a5c359  media/screenshots/Super Bee (Europe).png
+e8b36e3c53c084c3  media/screenshots/Take the Money and Run (USA, Europe).png
+1936e131b4d1723b  media/screenshots/Tutankham (Europe) (Proto).png
+a59ebbe37ea0adf7  media/screenshots/Type & Tell (USA)-01.png
+293e8b9825a5c359  media/screenshots/Super Bee (Brazil).png
+524e6d297651ab6a  media/screenshots/Type & Tell (USA).png
+d6ab64722e7c9343  media/screenshots/Verkehrsspiele 1 (Germany).png
+3a9ec4a2655607dc  media/screenshots/Thunderball (USA, Europe).png
+a5fddf9434efa3bc  media/screenshots/UFO (USA).png
+76abefb7557227e5  media/screenshots/Tutankham-01.png
+800b8c09cbeb2f13  media/screenshots/Super Cobra (Brazil).png
+076f6c6c23fabc7d  media/screenshots/Turtles (USA).png
+9dae54402959184d  media/screenshots/Verkehrsspiele 2 (Germany).png
+8d625f244a30070b  media/screenshots/Volleyball Electronique (France).png
+e1833e0e0ea572a3  media/screenshots/Wall Street (Brazil).png
+81ef2c5c6ff16ecb  media/screenshots/War of Nerves (USA, Europe).png
+3a5ca4e0829ddedf  media/thumbnails/4 en 1 Ligne (France).png
+8d625f244a30070b  media/screenshots/Volleyball (USA, Europe).png
+076f6c6c23fabc7d  media/screenshots/Turtles (Europe).png
+ac2a1901740b4c56  media/thumbnails/4 en 1 Ligne-01.png
+118fc387f24a71d7  media/thumbnails/Alpine Skiing (USA, Europe).png
+1a62cddc384dbda9  media/thumbnails/Alien Invaders - Plus (USA, Europe).jpg
+074acc871bae9e64  media/thumbnails/Alien Invaders - Plus (USA, Europe)-01.png
+77761dfae87058cd  media/thumbnails/Alien Invaders - Plus (USA, Europe).png
+e72b9d12bf5e345a  media/thumbnails/4 in 1 Row (Europe).png
+619ffca860a5a525  media/thumbnails/Armored Encounter + Sub Chase (USA, Europe).png
+7a431a9dc7d7e2e0  media/thumbnails/Atlantis (USA, Europe)-01.png
+5a2ca8ff3a893e95  media/thumbnails/Armored Encounter + Sub Chase (USA, Europe)-01.png
+efa0d0453daf4b3b  media/thumbnails/Atlantis (USA, Europe).png
+9caf6c2ac95e87ab  media/thumbnails/Alpine Skiing (USA, Europe).jpg
+de44c5974a53bae7  media/thumbnails/Alpine Skiing (USA, Europe)-01.png
+41aea66e0d33dcd2  media/thumbnails/Attack of the Timelord (USA)-01.png
+94f5466612b4b077  media/thumbnails/Atlantis (USA, Europe)-02.png
+d9b01e431597c4e4  media/thumbnails/Billard Electrique (France).png
+2870a5c4be7fd97c  media/thumbnails/Baseball (USA, Europe).png
+5de2dfe0c7ab42bc  media/thumbnails/Baseball (USA, Europe).jpg
+20c389e06922600a  media/thumbnails/Attack of the Timelord (USA).png
+3d3192bf99d74289  media/thumbnails/Armored Encounter + Sub Chase (USA, Europe).jpg
+46b7350c8ce522a2  media/thumbnails/Attack of the Timelord (USA).jpg
+81b20583202abb03  media/thumbnails/Blackjack (France).png
+7f86e27c43f5bfc2  media/thumbnails/Baseball (USA, Europe)-01.png
+2e1546cbbb40d8b6  media/thumbnails/Billiard Americain (France).png
+07ab654c7cdd5089  media/thumbnails/Blobbers, The (Europe).png
+f0e8cfc72e988b11  media/thumbnails/Blobbers, The (Europe)-01.png
+99e3438735c3dcd1  media/thumbnails/Billard Electrique-01.png
+f44bfb3398aaeda7  media/thumbnails/Blockout + Breakdown (USA, Europe).jpg
+5fe6a2cffeae0b84  media/thumbnails/Blockout + Breakdown (USA, Europe).png
+09009cfc666b4d77  media/thumbnails/Blockout + Breakdown (USA, Europe)-01.png
+57b6ee9f67a7a0b1  media/thumbnails/Bombardeio Submarino + Tiro ao Alvo (Brazil).png
+bc03502fc8fb0994  media/thumbnails/Bombardeio Submarino + Tiro ao Alvo-01.png
+5a384db5d494f9f6  media/thumbnails/Bowling + Basketball (USA, Europe)-01.png
+1e6e1d06a990c6a9  media/thumbnails/Billiard Americain-01.png
+b1bef502a3560ac5  media/thumbnails/Bowling + Basketball (USA, Europe).png
+fd75ada7211c6628  media/thumbnails/Casino Slot Machine (USA, Europe).png
+967609a92d7685f1  media/thumbnails/Bowling + Basketball (USA, Europe).jpg
+08360a83e4393c6a  media/thumbnails/Buraco Negro (Brazil).png
+8990f77a8664a365  media/thumbnails/Casino Slot Machine (USA, Europe)-01.png
+0b1f3fc24f5670c2  media/thumbnails/Casino Slot Machine (USA, Europe).jpg
+48559df07ad13a99  media/thumbnails/Catch the Ball + Noughts and Crosses (Europe)-01.png
+6a129e5e1df55e67  media/thumbnails/Catch the Ball + Noughts and Crosses (Europe).png
+130913a63a9f1498  media/thumbnails/Chat et Souris (France).png
+356cd1211dad9f98  media/thumbnails/Chess (Europe).png
+52e71667df90b9b6  media/thumbnails/Catch the Ball + Noughts and Crosses (Europe).jpg
+841d03b7d15ba84d  media/thumbnails/Clay Pigeon (Brazil)-01.png
+06579fef6a40d189  media/thumbnails/Chinese Logic (Europe).png
+4cebb02aca8b3e6f  media/thumbnails/Clay Pigeon (Brazil).png
+705588b6a20452fe  media/thumbnails/Comando Noturno (Brazil).png
+0757a9d84ad00b72  media/thumbnails/Comando Noturno-01.png
+d4a48effcc316eb9  media/thumbnails/Chat et Souris-01.png
+f19eac9f907cd23c  media/thumbnails/Clay Pigeon (Brazil).jpg
+0ad7cca050ee2fc3  media/thumbnails/Chess (Europe)-01.png
+8cbd77e1db39b6dd  media/thumbnails/Clay Pigeon (Brazil)-02.png
+9b5916998d080bef  media/thumbnails/Computer Intro (USA)-01.png
+d402371fa63ed7d4  media/thumbnails/Computer Golf (USA)-01.jpg
+10cf5288e017f445  media/thumbnails/Comando Noturno-02.png
+6597459cd0ad77b6  media/thumbnails/Computer Programmer (Europe).png
+8a2a2eafd08f44a2  media/thumbnails/Computer Intro (USA).png
+d402371fa63ed7d4  media/thumbnails/Computer Golf (USA).jpg
+d6b16dd8e1830544  media/thumbnails/Computer Golf (USA)-01.png
+0e4965bd2fea8eb5  media/thumbnails/Conflit Cosmique-01.png
+424523db18f24423  media/thumbnails/Computer Programmer-01.png
+99afc85439b2210c  media/thumbnails/Conquest of the World (USA, Europe)-01.png
+db077b3e4693c6ea  media/thumbnails/Conquest of the World (USA, Europe).jpg
+2e5571c3f1a635c9  media/thumbnails/Computer Golf (USA).png
+e059a6dec1a5d9dc  media/thumbnails/Conflit Cosmique (Canada).png
+125f3c5a66c0db36  media/thumbnails/Conquest of the World (USA, Europe).png
+17f44b58e1c560ac  media/thumbnails/Cosmic Conflict (USA)-01.png
+e059a6dec1a5d9dc  media/thumbnails/Cosmic Conflict (Europe).png
+5dd52fa91947d0c1  media/thumbnails/Computer Intro (USA).jpg
+e059a6dec1a5d9dc  media/thumbnails/Cosmic Conflict (Europe) (Alt 1).png
+7c3cccbfb5da6287  media/thumbnails/Cosmic Conflict (USA).png
+546b6079f40e5fd0  media/thumbnails/Cosmic Conflict (USA).jpg
+d05033f11d6a7f4f  media/thumbnails/Demon Attack (USA, Europe)-01.png
+a0cf807124c48761  media/thumbnails/Demon Attack (USA, Europe).png
+180fb5d01398f4e1  media/thumbnails/Depth Charge + Marksman (Europe)-01.png
+3192db3bc9d23810  media/thumbnails/Demon Attack (USA, Europe)-02.png
+1a031fe0aca15d90  media/thumbnails/Depth Charge + Marksman (Europe).png
+943f861b81e1aaa6  media/thumbnails/Dynasty (USA)-01.png
+d4d2b9126f6fea79  media/thumbnails/Course de Voitures + Autodrome + Cryptogramme (France).png
+a43669f00d258427  media/thumbnails/Desafio Chines (Brazil)-01.png
+a73dc8fcc0024139  media/thumbnails/Desafio Chines (Brazil).png
+4a67d5f9a818ceae  media/thumbnails/Dynasty (USA).png
+2378625533f625cf  media/thumbnails/Dynasty (USA).jpg
+d2797e2d7ec97cc8  media/thumbnails/Desafio Chines (Brazil)-02.png
+80ac430281427e68  media/thumbnails/Course de Voitures + Autodrome + Cryptogramme-01.png
+7b7e972e7c76e871  media/thumbnails/Electronic Table Soccer (USA, Europe)-02.png
+e927a599d30db16c  media/thumbnails/Electronic Table Soccer (USA, Europe)-01.png
+8508ee719dec2355  media/thumbnails/Football Electronique + Hockey Electronique (France).png
+67eef7c120f208c7  media/thumbnails/Football Electronique + Hockey Electronique-01.png
+36145981138111c1  media/thumbnails/Electronic Table Soccer (USA, Europe).png
+71f8de9d2a8a3f02  media/thumbnails/Football (USA, Europe).png
+5bc1ff225f004657  media/thumbnails/Freedom Fighters (USA, Europe)-01.png
+49e7269fc39bd61c  media/thumbnails/Freedom Fighters (USA, Europe).jpg
+1151c156ceec2e47  media/thumbnails/Football (USA, Europe).jpg
+0a0773010e8b1d6d  media/thumbnails/Freedom Fighters (USA, Europe).png
+3548ab3db84af50e  media/thumbnails/Frogger (Brazil).png
+b2129a5021ef2444  media/thumbnails/Frogger (Brazil)-01.png
+1c018c7074768180  media/thumbnails/Football (USA, Europe)-01.png
+4cd68bf8e0b8868a  media/thumbnails/Great Wall Street Fortune Hunt, The (USA, Europe)-02.png
+c11d2f3b1ccc87c1  media/thumbnails/Guerre Laser (France).png
+c4fea50943c1552c  media/thumbnails/Great Wall Street Fortune Hunt, The (USA, Europe)-01.png
+bc59de74fbc75af4  media/thumbnails/Golf (Europe).png
+275db326889817bc  media/thumbnails/Great Wall Street Fortune Hunt, The (USA, Europe).png
+72dd6be7d88254aa  media/thumbnails/Frogger (Europe).png
+80b7f6895d833813  media/thumbnails/Hockey + Soccer (USA, Europe)-01.png
+148e6161c2429f1b  media/thumbnails/Gunfighter (Europe).png
+6bee223038d9b435  media/thumbnails/Hockey + Soccer (USA, Europe).png
+07562019e99fb246  media/thumbnails/I've Got Your Number (USA, Europe)-01.png
+476415eb830cc821  media/thumbnails/Great Wall Street Fortune Hunt, The (USA, Europe)-03.png
+8bf35e5b044b124f  media/thumbnails/I've Got Your Number (USA, Europe)-02.png
+f8b46c9ec14d615c  media/thumbnails/Gunfighter-01.png
+fc98fdf495c2c6c7  media/thumbnails/Hockey + Soccer (USA, Europe).jpg
+b90e5d67d8ff1d30  media/thumbnails/I've Got Your Number (USA, Europe).png
+d3a334c3944849f3  media/thumbnails/Interpol (Europe) (Proto).png
+01cc90c1171baad0  media/thumbnails/Interpol-01.png
+99a39aa80665dfeb  media/thumbnails/Invaders from Hyperspace (USA)-01.png
+651da8de7976e8d5  media/thumbnails/Guerre Laser-01.png
+33d5594323c434ce  media/thumbnails/Invaders from Hyperspace (USA).png
+7cb23c7787b72244  media/thumbnails/Jeu de Quilles + Basketball (France).png
+a04b51eefe24c775  media/thumbnails/Jumping Acrobats (Europe).png
+a0e3bf5f0f3b4ca7  media/thumbnails/Invaders from Hyperspace (USA).jpg
+3fe9f925a804193b  media/thumbnails/Jumping Acrobats-01.png
+ea6c36f779afd864  media/thumbnails/K.C. Munchkin (USA)-01.png
+a04b51eefe24c775  media/thumbnails/Jumping Acrobats (Europe) (Alt 1).png
+6067bb3d9ad86e82  media/thumbnails/K.C.'s Krazy Chase (USA, Europe).png
+3d3eb7c5a7947911  media/thumbnails/Jeu de Quilles + Basketball-01.png
+e1746e58c283da2c  media/thumbnails/K.C. Munchkin (USA).jpg
+908819dcd94f818f  media/thumbnails/Keyboard Creations (USA)-01.png
+3fe07252550d6798  media/thumbnails/K.C.'s Krazy Chase (USA, Europe)-01.png
+9dce8b750e5dc371  media/thumbnails/K.C. Munchkin (USA).png
+882619f283f74fec  media/thumbnails/Keyboard Creations (USA).png
+d3098e974dc165b9  media/thumbnails/K.C.'s Krazy Chase (USA, Europe).jpg
+43405bd829baddbf  media/thumbnails/La Quete des Anneaux (France).png
+cfa0c0f7fbf884d8  media/thumbnails/Killer Bees (USA).jpg
+052769e10bc2a66f  media/thumbnails/Keyboard Creations (USA).jpg
+32b73ae046fbec2e  media/thumbnails/Killer Bees (USA)-01.png
+8c05dd2ac6c74d09  media/thumbnails/Kinder im Verkehr 1 (Germany)-01.png
+194dcc7dfcc0d6a1  media/thumbnails/Kinder im Verkehr 1 (Germany).png
+b05e19a341ea2d86  media/thumbnails/Killer Bees (USA).png
+b43d2f326684f211  media/thumbnails/Labyrinth Game, A + Supermind (Europe).png
+edb98b5e332ac950  media/thumbnails/Labyrinth Game, A + Supermind (Europe)-01.png
+26f9ca1e60f75232  media/thumbnails/Las Vegas (France)-01.png
+a11b9929cbe05730  media/thumbnails/Las Vegas (France).png
+f307ab10d76a94a7  media/thumbnails/Las Vegas Blackjack (USA, Europe)-02.png
+2eb1fa508da52e50  media/thumbnails/Loony Balloon (Europe) (Proto).png
+01991e19e126baa3  media/thumbnails/Las Vegas (France)-02.png
+93f2080311f9156b  media/thumbnails/La Quete des Anneaux-01.png
+26f9ca1e60f75232  media/thumbnails/Las Vegas Blackjack (USA, Europe)-01.png
+b7614e7aab948307  media/thumbnails/Laser War-01.png
+c11d2f3b1ccc87c1  media/thumbnails/Laser War (Europe).png
+a11b9929cbe05730  media/thumbnails/Las Vegas Blackjack (USA, Europe).png
+37278ae0c43d1307  media/thumbnails/Martian Threat (Europe) (Proto) (Alt 1).png
+f500c12eafb9c47d  media/thumbnails/Las Vegas Blackjack (USA, Europe).jpg
+37278ae0c43d1307  media/thumbnails/Martian Threat (Europe) (Proto).png
+f284d675a72d9c9c  media/thumbnails/Loony Balloon-01.png
+f8147a5842940502  media/thumbnails/Math-A-Magic + Echo (USA, Europe)-01.png
+2ea9a6427c691292  media/thumbnails/Matchmaker + Logix + Buzzword (USA).jpg
+ec423ea5f7d777cf  media/thumbnails/Martian Threat-01.png
+7950671d9f20621d  media/thumbnails/Matchmaker + Logix + Buzzword (USA)-01.png
+8ad6318e9c208214  media/thumbnails/Math-A-Magic + Echo (USA, Europe).png
+4000ee7687047abd  media/thumbnails/Mathematicien + Echo (France).png
+7afcd921ed8499cf  media/thumbnails/Mission Impossible (Brazil) (Proto).png
+c41cd1180672af7d  media/thumbnails/Monkeyshines (USA, Europe)-01.png
+66336d1c1237e393  media/thumbnails/Morse (Europe)-01.png
+0bd215023b404293  media/thumbnails/Monkeyshines (USA, Europe).png
+8042b2197a76ea24  media/thumbnails/Mathematicien + Echo-01.png
+fab2d17b9fdbdf38  media/thumbnails/Matchmaker + Logix + Buzzword (USA).png
+d5f9018dcf1e6312  media/thumbnails/Mission Impossible _ Programmed Trip-01.png
+a9758cb52582e54b  media/thumbnails/Munchkin (Europe).png
+fd1ac9130ee70bd3  media/thumbnails/Morse (Europe).png
+028525e6642db417  media/thumbnails/Morse (France).png
+93cfb3ddfb20bf6c  media/thumbnails/Monkeyshines (USA, Europe).jpg
+873194edb7989343  media/thumbnails/Mousing Cat, The (Europe).png
+b78c8050e901beb1  media/thumbnails/Mousing Cat, The (Europe)-01.png
+4c1caf60ee3c8b68  media/thumbnails/Mur Magique, Le-01.png
+36acb142f807f099  media/thumbnails/Mur Magique, Le (France).png
+8a518c36b0c88133  media/thumbnails/Newscaster (Europe).png
+bc6b899f0bc98d12  media/thumbnails/Newscaster-01.png
+08360a83e4393c6a  media/thumbnails/Neutron Star (Europe) (Proto).png
+bd0e14bd7b39abf0  media/thumbnails/Neutron Star-02.png
+e5135aa0782a670b  media/thumbnails/Musician (Europe).png
+0e682ffe07bcce2c  media/thumbnails/Musician (Europe)-01.png
+fe4da090a5d83b8a  media/thumbnails/Neutron Star-01.png
+705588b6a20452fe  media/thumbnails/Nightfighter (Europe) (Proto).png
+36dc1a88a11f877e  media/thumbnails/Nightmare (Europe).png
+00f1f0bd0f38db96  media/thumbnails/Nimble Numbers Ned (USA).png
+8e134dd3aa9bae66  media/thumbnails/Nightmare (Europe)-01.png
+c2039be552c53b41  media/thumbnails/Nimble Numbers Ned (USA)-01.png
+a70bfa230282e20d  media/thumbnails/Out of this World + Helicopter Rescue (USA)-01.png
+615fb78e7cd03043  media/thumbnails/Nightfighter-01.png
+110256f6ca5bfae3  media/thumbnails/P.T. Barnum's Acrobats (USA)-02.png
+9f16a4c5ab706978  media/thumbnails/O Malabarista + Jogo da Velha (Brazil).png
+6ad86e4d709daf7c  media/thumbnails/P.T. Barnum's Acrobats (USA)-01.png
+14861124c57c2d76  media/thumbnails/P.T. Barnum's Acrobats (USA).png
+6b0b54ca6b0945c7  media/thumbnails/Pachinko (USA, Europe)-01.png
+a673c28a829a63e6  media/thumbnails/Pachinko (USA, Europe).jpg
+cd6ad0be4c4dedf3  media/thumbnails/O Segredo do Farao (Brazil).png
+7ee7368bb6b9ef48  media/thumbnails/O Malabarista + Jogo da Velha-01.png
+057b23cffaf495be  media/thumbnails/Out of this World + Helicopter Rescue (USA).png
+dbc91deaf3496cd5  media/thumbnails/Pachinko (USA, Europe).png
+c445362c4da810a9  media/thumbnails/Pick Axe Pete (USA, Europe)-01.png
+0c1bb86bbca76db4  media/thumbnails/Out of this World + Helicopter Rescue (USA).jpg
+53c37f7eb05760af  media/thumbnails/Pairs + Space Rendezvous + Logic (Europe).png
+de1719f8c6ca41b0  media/thumbnails/Pick Axe Pete (USA, Europe).png
+f4b5c360ebc5b3b3  media/thumbnails/Pinball (USA) (Proto).png
+2ea9a6427c691292  media/thumbnails/Pairs + Space Rendezvous + Logic (Europe).jpg
+70819aca4deb5e44  media/thumbnails/Pick Axe Pete (USA, Europe).jpg
+6e01619d8808f417  media/thumbnails/Pocket Billiards (USA, Europe)-01.png
+2985521b822011bc  media/thumbnails/Playtag-01.png
+440ff332655835fc  media/thumbnails/Pairs + Space Rendezvous + Logic (Europe)-01.png
+a1da09cf88c47d39  media/thumbnails/Pocket Billiards (USA, Europe).png
+b7823183d25c2501  media/thumbnails/Pinball-02.png
+ca75fff1a5addcf5  media/thumbnails/Popeye (Brazil)-01.png
+4de56c415dec4105  media/thumbnails/Playtag (Europe) (Proto).png
+9e8facbc2d0faaa1  media/thumbnails/Power Lords (USA) (Alt 1)-02.png
+762d7b0ef7a14104  media/thumbnails/Pinball-01.png
+df34f58d8e918648  media/thumbnails/Popeye (Europe).png
+e7be270fa0a27ca4  media/thumbnails/Popeye (Brazil).png
+e5ec6b8e6aef8a10  media/thumbnails/Power Lords (USA).png
+232cade1f9e65a43  media/thumbnails/Power Lords (USA) (Alt 1).png
+057941d619732e57  media/thumbnails/Pocket Billiards (USA, Europe).jpg
+671f88bbb03a8247  media/thumbnails/Q-Bert (Europe).png
+63c0f30e15eec896  media/thumbnails/Power Lords (USA) (Alt 1)-01.png
+d889a4313ad111bc  media/thumbnails/Quest for the Rings (USA, Europe).png
+ef340e4beaebc96c  media/thumbnails/Quest for the Rings (USA, Europe)-01.jpg
+68c538217cfe4e22  media/thumbnails/Prendre l'Argent et Fuir (France).png
+6862057216357e2c  media/thumbnails/Quest for the Rings (USA, Europe)-01.png
+c7934ea8e93f6206  media/thumbnails/Q-Bert (Europe)-01.png
+b954e0c24191fc3f  media/thumbnails/Quest for the Rings (USA, Europe).jpg
+4ffc93692fa35321  media/thumbnails/Red Baron (Europe) (Proto).png
+4ffc93692fa35321  media/thumbnails/Red Baron (Europe) (Proto) (Alt 1).png
+d7a4f015777cdd55  media/thumbnails/Satellite Attack-01.png
+89d61b96003817f9  media/thumbnails/Robot City (Europe) (Proto).png
+7b4d130ab49da0be  media/thumbnails/Robot City-01.png
+ee5b76b42d179151  media/thumbnails/Prendre l_Argent et Fuir-01.png
+d2ddf21886d19d1c  media/thumbnails/Samurai-01.png
+d1a76dd39e875376  media/thumbnails/Samurai (Europe).png
+36a5cf0a9aa7e5b3  media/thumbnails/Red Baron-01.png
+a0cf8e3841b9f6d8  media/thumbnails/Satellite Attack (Europe).png
+cb5512c085a0fe42  media/thumbnails/Secret of the Pharaohs (Europe).png
+79f1c9c1206b9105  media/thumbnails/Shark Hunter (Europe) (Proto)-01.png
+423bb02d09dcf3bb  media/thumbnails/Shark Hunter (Europe) (Proto).png
+502ca7c72b8d656c  media/thumbnails/Showdown in 2100 A.D. (USA)-01.png
+92c87241cb41814a  media/thumbnails/Secret of the Pharaohs (Europe)-01.png
+8ff6f7bf74fe68d1  media/thumbnails/Sid the Spellbinder (USA).png
+0fce881fa09a2fb8  media/thumbnails/Secret of the Pharaohs (Europe)-02.png
+4abd56b0df960973  media/thumbnails/Smithereens (USA)-02.png
+b1b5d857d954cd14  media/thumbnails/Sid the Spellbinder (USA)-01.png
+223a1c4371a33cac  media/thumbnails/Showdown in 2100 A.D. (USA).png
+7800a6f459f1964d  media/thumbnails/Smithereens (USA)-01.png
+cdfd06d556ad02a5  media/thumbnails/Smithereens (USA).png
+4f766f7f62265e8b  media/thumbnails/Skiing (France).png
+74ddda2044fbec24  media/thumbnails/Speedway + Spin-out + Crypto-logic (USA, Europe)-01.png
+351844c3709a2cc7  media/thumbnails/Speedway + Spin-out + Crypto-logic (USA, Europe).png
+61d0fb2df7b9a67d  media/thumbnails/Spider-Man (Europe) (Proto) (Alt 1).png
+61d0fb2df7b9a67d  media/thumbnails/Spider-Man (Europe) (Proto).png
+9d337c5a13fb53f2  media/thumbnails/Speedway + Spin-out + Crypto-logic (USA, Europe).jpg
+70dcfd86430aeae2  media/thumbnails/Super Bee (Europe).png
+62bd9dace71b0f33  media/thumbnails/Sid the Spellbinder (USA)-02.png
+14d2c1be9710d3b5  media/thumbnails/Stone Sling (Europe).png
+ec9c4ab318d8890d  media/thumbnails/Stone Sling-01.png
+84e5fbb8c9bed0fd  media/thumbnails/Super Cobra (Brazil).png
+e8a629dd412f8a53  media/thumbnails/Super Cobra (Brazil).jpg
+c9190cc875938c04  media/thumbnails/Super Cobra (Europe).png
+de3fabfd158ba5a7  media/thumbnails/Super Cobra (Brazil)-01.png
+f13bd06e67166be1  media/thumbnails/Spider-Man-01.png
+695f20a0e554298b  media/thumbnails/Super Bee (Brazil).png
+9cb329cef3420083  media/thumbnails/Super Bee (Brazil)-01.png
+4e945f6dd7b38d5e  media/thumbnails/Take the Money and Run (USA, Europe).png
+f30b5d44c8c72f15  media/thumbnails/Thunderball (USA, Europe)-01.png
+653525e3314cd804  media/thumbnails/Take the Money and Run (USA, Europe)-01.png
+93a855cb8ea7b2a0  media/thumbnails/Take the Money and Run (USA, Europe).jpg
+c33bf261f5cd9829  media/thumbnails/Thunderball (USA, Europe).png
+55904954cb5aba53  media/thumbnails/Turtles (Europe).png
+c03cc4370c688f31  media/thumbnails/Tutankham (Europe) (Proto).png
+283ae9d83fb1fc2d  media/thumbnails/Thunderball (USA, Europe).jpg
+b88d7a849310afce  media/thumbnails/Tutankham-01.png
+7515ec273190e13e  media/thumbnails/Turtles (USA).png
+f7f5ed333481b82e  media/thumbnails/Type & Tell (USA)-01.png
+ed94f17348a53931  media/thumbnails/Type & Tell (USA)-02.png
+3b92cb6c1c2bcade  media/thumbnails/Type & Tell (USA).png
+1d7eba49ded8c674  media/thumbnails/Tutankham-02.png
+8eaa5f17f178ccb3  media/thumbnails/Verkehrsspiele 1 (Germany).png
+2a422c9d22a37314  media/thumbnails/Verkehrsspiele 2-01.png
+28a72f72eb843de5  media/thumbnails/Turtles (USA).jpg
+f7c86641f7ef0e21  media/thumbnails/Verkehrsspiele 2 (Germany).png
+2bdb211b2a88a177  media/thumbnails/Volleyball (USA, Europe)-01.png
+66cb61ca88db88b9  media/thumbnails/UFO (USA).png
+1d1df662c7beac5d  media/thumbnails/UFO (USA)-01.png
+0e4b42305a1fba56  media/thumbnails/Verkehrsspiele 1-01.png
+909346fe0c954908  media/thumbnails/UFO (USA).jpg
+5bb1418671bd06db  media/thumbnails/Wall Street (Brazil).png
+420502706774108a  media/thumbnails/Volleyball Electronique (France).png
+7b5ebf7d073c1c11  media/titles/Frogger (Brazil)-01.png
+9a6c209913de8918  media/thumbnails/War of Nerves (USA, Europe).jpg
+82ad7037b52396de  media/thumbnails/Volleyball (USA, Europe).jpg
+c404b3e2a05fba48  media/titles/Frogger (Brazil).png
+506b25518ee49793  media/thumbnails/Volleyball (USA, Europe).png
+93a2de4b661f35fc  media/titles/Killer Bees (USA).png
+5c0e138bee0844f9  media/thumbnails/Volleyball Electronique-01.png
+dcac76639c158b3e  media/titles/Martian Threat (Europe) (Proto).png
+38305b1203d2672f  media/titles/Shark Hunter (Europe) (Proto).png
+969933d971cbb382  media/titles/Killer Bees (USA)-01.png
+c0062bfb1625b953  media/thumbnails/War of Nerves (USA, Europe)-01.png
+3fd3d901013e4686  media/thumbnails/War of Nerves (USA, Europe).png
+dcac76639c158b3e  media/titles/Martian Threat (Europe) (Proto) (Alt 1).png
+7b5ebf7d073c1c11  media/titles/Frogger (Europe).png
+21e5c622a95642bc  media/titles/Spider-Man (Europe) (Proto) (Alt 1).png
+026cf20640e21ceb  media/titles/Super Bee (Brazil).png
+1756764812c2be29  media/titles/Tutankham (Europe) (Proto).png
+21e5c622a95642bc  media/titles/Spider-Man (Europe) (Proto).png
+7969d4c24ab33efa  media/titles/Turtles (USA).png
+83f288926e35350f  media/videos/4 en 1 Ligne (France).mp4
+026cf20640e21ceb  media/titles/Super Bee (Europe).png
+f24a7996938c1c99  media/videos/Atlantis (USA, Europe).mp4
+c33662adee9b8d0f  media/videos/Alien Invaders - Plus (USA, Europe).mp4
+87f41f6e54656a96  media/titles/Turtles (Europe).png
+7a680a957eb49119  media/videos/4 in 1 Row (Europe).mp4
+ece6093e36234ed2  media/videos/Alpine Skiing (USA, Europe).mp4
+4ce52fe61d826d0b  media/videos/Armored Encounter + Sub Chase (USA, Europe).mp4
+fb584fabee04a90f  media/videos/Billard Electrique (France).mp4
+87583f9c802aad3b  media/videos/Attack of the Timelord (USA).mp4
+a61b1546cf7e3ba5  media/videos/Baseball (USA, Europe).mp4
+4b94642830264e3e  media/videos/Billiard Americain (France).mp4
+8196897d93bcf827  media/videos/Blackjack (France).mp4
+76d4a4d5f2288432  media/videos/Casino Slot Machine (USA, Europe).mp4
+466fbf2a9f4c8940  media/videos/Blockout + Breakdown (USA, Europe).mp4
+bac00db0c225883d  media/videos/Bombardeio Submarino + Tiro ao Alvo (Brazil).mp4
+2838ed0b2bfe7129  media/videos/Blobbers, The (Europe).mp4
+202235c342f74747  media/videos/Chat et Souris (France).mp4
+5ca281192aaa3d19  media/videos/Buraco Negro (Brazil).mp4
+d90b16d365546ca6  media/videos/Chinese Logic (Europe).mp4
+c66dc5b1c1800e8f  media/videos/Bowling + Basketball (USA, Europe).mp4
+0d6d1d8fcb9a5c8f  media/videos/Comando Noturno (Brazil).mp4
+03b0af7ea12fa119  media/videos/Catch the Ball + Noughts and Crosses (Europe).mp4
+77e1e49ac6a4b548  media/videos/Comando Noturno.mp4
+d731e633b5431e2c  media/videos/Computer Golf (USA).mp4
+64e2431556daa689  media/videos/Computer Programmer (Europe).mp4
+bf642ca02765f284  media/videos/Chess (Europe).mp4
+0052cedf8582ac72  media/videos/Computer Programmer.mp4
+6c960a5f64453a38  media/videos/Conflit Cosmique (Canada).mp4
+dff4dea947e77c34  media/videos/Clay Pigeon (Brazil).mp4
+ad9398525ec6fbaf  media/videos/Computer Intro (USA).mp4
+967e5b24017c838b  media/videos/Conquest of the World (USA, Europe).mp4
+6c960a5f64453a38  media/videos/Cosmic Conflict (Europe).mp4
+6c960a5f64453a38  media/videos/Cosmic Conflict (Europe) (Alt 1).mp4
+2b2ba3e4b0d42242  media/videos/Cosmic Conflict (USA).mp4
+b281f50a48a67eea  media/videos/Dynasty (USA).mp4
+3c54c56d512aacf2  media/videos/Football Electronique + Hockey Electronique (France).mp4
+e11679fd5a217ff3  media/videos/Course de Voitures + Autodrome + Cryptogramme (France).mp4
+aa79df1a39460bca  media/videos/Football (USA, Europe).mp4
+8e15ec989336210d  media/videos/Freedom Fighters (USA, Europe).mp4
+62328f5270383e05  media/videos/Demon Attack (USA, Europe).mp4
+3ec400d4d7b0e989  media/videos/Electronic Table Soccer (USA, Europe).mp4
+8703f994e51c4c51  media/videos/Desafio Chines (Brazil).mp4
+a29184f81d950019  media/videos/Frogger (Europe).mp4
+1c2d658176e553ed  media/videos/Golf (Europe).mp4
+03ee2ec9249d8c72  media/videos/Depth Charge + Marksman (Europe).mp4
+83d4a4dfb6dc2a56  media/videos/Guerre Laser (France).mp4
+f5acd72d0342fddc  media/videos/Great Wall Street Fortune Hunt, The (USA, Europe).mp4
+43afa8aac0d1b174  media/videos/I've Got Your Number (USA, Europe).mp4
+7f7338649db8bd91  media/videos/Hockey + Soccer (USA, Europe).mp4
+cafb163591fdc7e5  media/videos/Interpol.mp4
+7af6d436996db66b  media/videos/Interpol (Europe) (Proto).mp4
+2e9cdf57116fe3b2  media/videos/Jumping Acrobats (Europe) (Alt 1).mp4
+c7f6413c055e1a1e  media/videos/Gunfighter (Europe).mp4
+9328652bb8787134  media/videos/Invaders from Hyperspace (USA).mp4
+29b8a9a5e418f413  media/videos/Jeu de Quilles + Basketball (France).mp4
+30b40d946c5a6189  media/videos/Frogger (Brazil).mp4
+56b8bc2b99ebe746  media/videos/K.C. Munchkin (USA).mp4
+a12915bcb5492132  media/videos/Keyboard Creations (USA).mp4
+2e9cdf57116fe3b2  media/videos/Jumping Acrobats (Europe).mp4
+4a1ba6c56f4dc724  media/videos/Killer Bees (USA).mp4
+4e4e3ee3eb2db6a8  media/videos/Kinder im Verkehr 1 (Germany).mp4
+6262059816b1a770  media/videos/La Quete des Anneaux (France).mp4
+edce81b4dfb794b6  media/videos/K.C.'s Krazy Chase (USA, Europe).mp4
+4c2acc70fef74f07  media/videos/Labyrinth Game, A + Supermind (Europe).mp4
+8196897d93bcf827  media/videos/Las Vegas Blackjack (USA, Europe).mp4
+9cdaa8b9519d8107  media/videos/Martian Threat (Europe) (Proto) (Alt 1).mp4
+22db48cdd30ad01a  media/videos/Loony Balloon.mp4
+83d4a4dfb6dc2a56  media/videos/Laser War (Europe).mp4
+6e40821cc6819b4d  media/videos/Las Vegas (France).mp4
+78d601e8e6b445da  media/videos/Loony Balloon (Europe) (Proto).mp4
+cb6e1967aab6b3f4  media/videos/Martian Threat.mp4
+4bc87aec07855803  media/videos/Math-A-Magic + Echo (USA, Europe).mp4
+a6fb830e2d60d4e7  media/videos/Matchmaker + Logix + Buzzword (USA).mp4
+fe0a4ddbe53def25  media/videos/Mission Impossible _ Programmed Trip.mp4
+c2247e1aa192b151  media/videos/Mathematicien + Echo (France).mp4
+9cdaa8b9519d8107  media/videos/Martian Threat (Europe) (Proto).mp4
+e2f15edced2df372  media/videos/Morse (Europe).mp4
+8f0b58319e1fd197  media/videos/Mission Impossible (Brazil) (Proto).mp4
+3493f50db57bf749  media/videos/Morse (France).mp4
+1e5d22eb2a7dded8  media/videos/Munchkin (Europe).mp4
+5ca281192aaa3d19  media/videos/Neutron Star (Europe) (Proto).mp4
+bb346e1ca9086d9b  media/videos/Mur Magique, Le (France).mp4
+fd9653f8902c2f0f  media/videos/Monkeyshines (USA, Europe).mp4
+a0905e5eb29958f5  media/videos/Musician (Europe).mp4
+41671bbafe4ca1c0  media/videos/Mousing Cat, The (Europe).mp4
+0d6d1d8fcb9a5c8f  media/videos/Nightfighter (Europe) (Proto).mp4
+38b233805cfad3b3  media/videos/Nightmare (Europe).mp4
+d11df4a24f4ffc5d  media/videos/Neutron Star.mp4
+d19de812745c50d7  media/videos/Newscaster (Europe).mp4
+aa856b22ee7b260c  media/videos/O Malabarista + Jogo da Velha (Brazil).mp4
+644e601fccc24116  media/videos/O Segredo do Farao (Brazil).mp4
+7a2ccc3e8c1567d4  media/videos/Out of this World + Helicopter Rescue (USA).mp4
+8278a43312e5b1df  media/videos/P.T. Barnum's Acrobats (USA).mp4
+0de861ab0db4cb66  media/videos/Playtag (Europe) (Proto).mp4
+25c30963d6a76f09  media/videos/Nimble Numbers Ned (USA).mp4
+a2b3834ff87cbc3c  media/videos/Pairs + Space Rendezvous + Logic (Europe).mp4
+28f4d640459cd6e1  media/videos/Pick Axe Pete (USA, Europe).mp4
+505eb4921f2eadd6  media/videos/Pinball.mp4
+b857e789e013c537  media/videos/Pachinko (USA, Europe).mp4
+e19d14b21d2fdc59  media/videos/Power Lords (USA).mp4
+5c2fc949f5498813  media/videos/Playtag.mp4
+37b1d1bcb820073f  media/videos/Prendre l'Argent et Fuir (France).mp4
+0da739556b9bea5a  media/videos/Q-Bert (Europe).mp4
+9141ce28e60bcdbc  media/videos/Pocket Billiards (USA, Europe).mp4
+b468ef112687d746  media/videos/Pinball (USA) (Proto).mp4
+c2831aa3f6aa2a44  media/videos/Power Lords (USA) (Alt 1).mp4
+a950f690455fc083  media/videos/Quest for the Rings (USA, Europe).mp4
+00e468d28037ac74  media/videos/Red Baron (Europe) (Proto).mp4
+7caf6b39a27bd4ca  media/videos/Robot City (Europe) (Proto).mp4
+3cca5ae9381ce4de  media/videos/Popeye (Europe).mp4
+5e9878a5b7ca0ffd  media/videos/Popeye (Brazil).mp4
+00e468d28037ac74  media/videos/Red Baron (Europe) (Proto) (Alt 1).mp4
+720ec01e776b89ac  media/videos/Red Baron.mp4
+62f5cd0803067d69  media/videos/Robot City.mp4
+aa39422ee4de8afc  media/videos/Samurai (Europe).mp4
+3f1a6fc27eef647f  media/videos/Satellite Attack (Europe).mp4
+d766bb9f0bf850d5  media/videos/Showdown in 2100 A.D. (USA).mp4
+26faa4eb39192634  media/videos/Secret of the Pharaohs (Europe).mp4
+1cb870b00b9a34ea  media/videos/Shark Hunter (Europe) (Proto).mp4
+016bd5f189290800  media/videos/Sid the Spellbinder (USA).mp4
+93aad48cf8edb2d0  media/videos/Smithereens (USA).mp4
+91282a0c6075bac2  media/videos/Skiing (France).mp4
+69f6dabedbe40831  media/videos/Spider-Man (Europe) (Proto) (Alt 1).mp4
+69f6dabedbe40831  media/videos/Spider-Man (Europe) (Proto).mp4
+370ea13adbe79223  media/videos/Stone Sling (Europe).mp4
+ea50fdde263b4d0c  media/videos/Speedway + Spin-out + Crypto-logic (USA, Europe).mp4
+ce996ba04a9188aa  media/videos/Super Bee (Europe).mp4
+3e19ba1562566146  media/videos/Spider-Man.mp4
+b03403c6036846ed  media/videos/Super Cobra (Europe).mp4
+468e94a8f478572f  media/videos/Super Bee (Brazil).mp4
+42c239056ff2c75a  media/videos/Super Cobra (Brazil).mp4
+10374a9b5b976761  media/videos/Tutankham (Europe) (Proto).mp4
+8a0ef834009e1064  media/videos/Take the Money and Run (USA, Europe).mp4
+b28a6e4edcf36f4e  media/videos/Type & Tell (USA).mp4
+e0cc6c2aa93d3371  media/videos/Turtles (Europe).mp4
+3301be0605e50cf0  media/videos/UFO (USA).mp4
+bde871b515d4b985  media/videos/Verkehrsspiele 1 (Germany).mp4
+56b7f4d819dad6f6  media/videos/Turtles (USA).mp4
+5a82db72aa11568c  media/videos/Thunderball (USA, Europe).mp4
+932fa8c5b62f8e68  media/videos/Volleyball Electronique (France).mp4
+d4de90a4234fb38b  media/videos/Verkehrsspiele 2 (Germany).mp4
+5b96850a1c544611  media/videos/Tutankham.mp4
+0f521bc178d395f2  media/videos/War of Nerves (USA, Europe).mp4
+3f6bd57b3253fea0  media/videos/Wall Street (Brazil).mp4
+f432694bdfce369d  media/videos/Volleyball (USA, Europe).mp4

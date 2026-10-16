@@ -1,0 +1,807 @@
+85e932606ee58446  Comic Bakery (1984)(Konami)[CLOAD + RUN].zip
+d9efe29f396e8ce1  Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].zip
+76e8a615ba8305cd  Arkanoid (1986)(Taito)[CLOAD + RUN].zip
+6ec048e4d1a75efd  Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+1a86ff70484f84be  Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].zip
+d509a152703b5094  Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].zip
+9a4af77a4804aa72  Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].zip
+ac2dbc23c22fc17c  Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].zip
+1ea7a12a2fc132e7  Circus Charlie (1984)(Konami)[CLOAD + RUN].zip
+91d0a870f551e078  Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].zip
+f64055c3d4103c9c  Crunch (1984)(Spectravideo)[CLOAD + RUN].zip
+e94dcc0812a8ab8d  Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].zip
+fd75ee4c0074ae42  Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].zip
+e89076beac998088  Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].zip
+ec52674c65f376c1  Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].zip
+17b2eab0fb0c3098  Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].zip
+b8d45402a2a15922  Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].zip
+f05c4692f8f57a04  Find It (1984)(Spectravideo Israel)[CLOAD + RUN].zip
+9679fe772b012339  Flipper Slipper (1983)(Spectravideo).bin
+c3539c3da6563a7d  First Steps (1983)(Softy)[CLOAD + RUN].zip
+b868fdfb212daf61  Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].zip
+bb7bc1d87797ffd9  Frantic Freddy (1983)(Spectravideo).bin
+80063651778c68dd  Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].zip
+cc5ac50b20685555  Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].zip
+ca80517c4056f525  Grave Digger (1984)(J. Pullen)[CLOAD + RUN].zip
+7701b47837a6ed8f  Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].zip
+1083f61c33ba9754  H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].zip
+04fe4cca4a2e120c  Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].zip
+83c31013edcd936e  Horse Racing (1983)(SIL)[CLOAD + RUN].zip
+f283bf6d400c5e36  Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].zip
+fdc37d26b4a86f08  Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].zip
+ef0a9847c60897ec  Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].zip
+99129c7dac65ab5d  Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].zip
+88297c944f6ea083  Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].zip
+60a9759310b450a8  Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].zip
+513def2302040e19  Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].zip
+daad1913011b3e5f  Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].zip
+a26b78e5b0931faf  Hyper Rally (1985)(Konami)[CLOAD + RUN].zip
+c53506c2e6262a22  Jet Alf (1984)(ELS)[CLOAD + RUN].zip
+898f0459e2d66403  International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].zip
+c06d0bdc27c0d60b  Jungle Jim (1984)(T&M Software)[CLOAD + RUN].zip
+c8af0642a6b7d783  Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].zip
+db5e62692263f51d  Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].zip
+29e6cbf807b00f45  Juno Lander (1983)(SIL)[CLOAD + RUN].zip
+a369b32899a8f2d9  Killer Car (1983)(U. Sandberg)[CLOAD + RUN].zip
+6aab0bf95bfba57f  Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].zip
+6dfc70e917ee9cc0  Konami's Baseball (1984)(Konami)[CLOAD + RUN].zip
+842e695e790e84ae  Konami's Boxing (1985)(Konami)[CLOAD + RUN].zip
+5b36a8aa90621c0b  Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].zip
+182fe60dbf5537c7  Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].zip
+65cef9c33f2fd0cf  Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].zip
+246cf19f3215597e  Konami's Soccer (1985)(Konami)[CLOAD + RUN].zip
+39e3110c738648b5  Konami's Tennis (1984)(Konami)[CLOAD + RUN].zip
+bb02b6479165c1c7  LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].zip
+45b16030697e181c  Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+44cd5a6d6e3d4c7c  Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].zip
+cc2f82e817ac8720  Magical Tree (1984)(Konami)[CLOAD + RUN].zip
+48a40a79149ecbbb  Log It (1984)(Spectravideo)[CLOAD + RUN].zip
+bf59bd9533aae605  Mini Golf (1984)(Spectravideo)[CLOAD + RUN].zip
+616eca7eda8f45cc  Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].zip
+1ef113961e25fa59  Mopi Ranger (1985)(Konami)[CLOAD + RUN].zip
+ac3362fa6cf5695b  Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].zip
+732c659c080a71d6  Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].zip
+58b04a353b148c8b  Megalone (1986)(J&D Team)[CLOAD + RUN].zip
+efee5e9fe61a5868  Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].zip
+0b028807d7f18a59  Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].zip
+04376742f8ff01b7  Music Mentor (1983)(Spectravideo).bin
+bf7d88610e5f961a  New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].zip
+5edd2eca461b30dd  O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+b1f248f650fd7980  Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].zip
+4d9adfd1089a1fef  Pengwyn (1983)(Postern)[CLOAD + RUN].zip
+5ade6e2a53d60c99  Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].zip
+27318710453b558c  Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].zip
+e5b4e7179f930d36  Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].zip
+8b2a6173244a2b0f  Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].zip
+f028a0575f21df90  Nomis (1983)(Spectravideo)[CLOAD + RUN].zip
+dadf9ae8e4f81554  Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].zip
+e269d54a2a3e7791  Perilous Journey (1984)(PM Programs)[CLOAD + RUN].zip
+633d2e33c2389172  Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].zip
+b8cb4678aee6d2bb  Road Fighter (1985)(Konami)[CLOAD + RUN].zip
+2f2705df78c2d248  Rescue (1984)(Spectravideo)[CLOAD + RUN].zip
+fea2583615ccfb86  Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].zip
+06296382fe385df9  Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].zip
+16cb330086976593  Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+3332fad8739fb743  Sector Alpha (1983)(Spectravideo).bin
+526c1a67909a4113  Roulette (1985)(Intersoft)[CLOAD + RUN].zip
+eb24ab93175abecb  Sky Jaguar (1984)(Konami)[CLOAD + RUN].zip
+470a449632b6d974  Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].zip
+a642ec883e8470cb  Spectra Break (1983)(SIL)[CLOAD + RUN].zip
+1b6d275336902e1d  Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].zip
+2be91b0b46c91624  Star Words (1984)(Spectravideo)[CLOAD + RUN].zip
+85dbf9f10b21a044  Spectramind (1984)(C.A.E.)[CLOAD + RUN].zip
+f29185506dbdcae9  Spectron (1983)(Spectravideo)[CLOAD + RUN].zip
+db88857dff343f8e  Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].zip
+b2df8e07bd4b866e  Super Cross Force (1983)(Spectravideo).bin
+c7138689ec543d7b  Stockholm Adventure (1984)(J. Watte)(sv)[CLOAD + RUN].zip
+b48d7e502fef305e  Swing Man (1983)(Softy)[CLOAD + RUN].zip
+4e8918324b5c0d6c  Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+3dccc19c4cf0a340  Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].zip
+3c99c0f9500dd79f  Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+ab5fcc37abe54333  Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].zip
+1ab1707d7565ecb1  Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].zip
+ba9901f4e5056ec2  Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].zip
+0f5678261af47618  Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].zip
+fd91ef9a39576081  War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].zip
+e3bfec4292d49d95  Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].zip
+f0b466a2daf03b7b  Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].zip
+9e91b1613ab3309a  Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].zip
+84dd298bd4025d3f  _info.txt
+4337a83f1ff0846b  Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].zip
+9803e5d7d6cf0d7c  media/fanarts/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].jpg
+37e0cc3110e0d496  media/fanarts/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].jpg
+d64f0b4f6ec8a019  media/fanarts/Circus Charlie (1984)(Konami)[CLOAD + RUN].jpg
+8c5a6241dbd4bec2  media/fanarts/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].jpg
+2eef26f34cfbf6fc  media/fanarts/Arkanoid (1986)(Taito)[CLOAD + RUN].jpg
+21ee9da23a142ed3  media/fanarts/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].jpg
+858130a08fb3b410  media/fanarts/Sky Jaguar (1984)(Konami)[CLOAD + RUN].jpg
+b0fb09ad3ad3b24a  Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].zip
+b69115a09ebf338f  media/boxback/Mini Golf-01.jpg
+b69115a09ebf338f  media/boxback/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].jpg
+53aabc661014297e  media/fanarts/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].jpg
+0c7ab58b5f01fb96  media/boxback/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+c16c351714c80276  media/boxback/Super Cross Force (1983)(Spectravideo).png
+9b25a2351122cf95  media/box2d/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].jpg
+ff475add06822687  media/fanarts/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].jpg
+9b25a2351122cf95  media/box2d/Armoured Assault-01.jpg
+b8c9d62cb9bb00d3  media/manuals/Arkanoid (1986)(Taito)[CLOAD + RUN].pdf
+1c2868fdbb059001  media/manuals/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].pdf
+78771df58d60e850  media/manuals/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].pdf
+7cea1fcbbfa9fb92  media/box2d/Flipper Slipper (1983)(Spectravideo).jpg
+7cea1fcbbfa9fb92  media/box2d/Flipper Slipper-01.jpg
+3ac41c09fe467caf  media/box2d/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+aa4b97e8adf1452d  media/manuals/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].pdf
+4db4225e505b964f  media/box2d/Kung Fu Master-01.jpg
+a29e04c6dd135f5c  media/box2d/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+ddfa7ef5a2eabf47  media/box2d/Mini Golf-01.jpg
+cab30ffbcc329624  media/box2d/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+ddfa7ef5a2eabf47  media/box2d/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].jpg
+cc0dc1b1cd7b7ef1  media/box2d/Nomis-01.jpg
+cc0dc1b1cd7b7ef1  media/box2d/Nomis (1983)(Spectravideo)[CLOAD + RUN].jpg
+4db4225e505b964f  media/box2d/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+a13d774968575810  media/box2d/New York Bomb Blitz-01.jpg
+695b3bb84fc70ba3  media/box2d/Sasa-01.jpg
+695b3bb84fc70ba3  media/box2d/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+986417560c12b86c  media/box2d/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+a13d774968575810  media/box2d/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].jpg
+fa0f9aba9eb032c8  media/box2d/Super Cross Force (1983)(Spectravideo).jpg
+6b81d62e12d0ae8b  media/box2d/Spectron-01.jpg
+6b81d62e12d0ae8b  media/box2d/Spectron (1983)(Spectravideo)[CLOAD + RUN].jpg
+f4330ecf248236c7  media/box2d/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+fa0f9aba9eb032c8  media/box2d/Super Cross Force-01.jpg
+f4330ecf248236c7  media/box2d/Telebunny-01.jpg
+8a83bc0fead16d67  media/box2d/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+eb7713235535f340  media/box2d/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+589f43b215195a40  media/box2d/Frantic Freddy (1983)(Spectravideo).png
+69e96378f3827e85  media/mix/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].png
+0ac76c693c55c829  media/box2d/Turboat-01.jpg
+805263d9b2bb30e8  media/mix/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].png
+8a83bc0fead16d67  media/box2d/Tetra Horror-01.jpg
+7a56303784b205e4  media/mix/Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].png
+2decc483da20ef84  media/mix/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+366f6d85d889a6ba  media/box2d/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+757502ab222fa068  media/mix/Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].png
+0ac76c693c55c829  media/box2d/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+078f644b8c92a063  media/mix/Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+ceb8d5f64bc341a3  media/mix/Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].png
+a7b61b7d8a138c9b  media/mix/Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].png
+9f20ffb694720b08  media/mix/Comic Bakery (1984)(Konami)[CLOAD + RUN].png
+eefcb55bd39faf48  media/mix/Circus Charlie (1984)(Konami)[CLOAD + RUN].png
+e5b47ef689a5aa7b  media/mix/Crunch (1984)(Spectravideo)[CLOAD + RUN].png
+37a3b6533f1214d0  media/mix/Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].png
+114a1d0be662c493  media/mix/Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].png
+04b769029bf4d1f2  media/mix/Find It (1984)(Spectravideo Israel)[CLOAD + RUN].png
+5ff68cc1551c7964  media/mix/Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].png
+6a3d23accf9108bc  media/mix/Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].png
+22c2e3335164d783  media/mix/Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].png
+5247b7fcc264abf7  media/mix/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+9923ddc2492b6949  media/mix/Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].png
+fcdde01acbee9c1f  media/mix/Flipper Slipper (1983)(Spectravideo).png
+a47db78afde3e46b  media/mix/Frantic Freddy (1983)(Spectravideo).png
+a05fd69ea8ea3a6f  media/mix/First Steps (1983)(Softy)[CLOAD + RUN].png
+6eb5e1c75187ede1  media/mix/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].png
+d44f455418ec8f5c  media/mix/Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].png
+f94fa923d4419c9b  media/mix/Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].png
+06b4e696f43cb2e1  media/mix/Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+89a4f5fed6f74ecf  media/mix/Grave Digger (1984)(J. Pullen)[CLOAD + RUN].png
+2a6e715c9bda4b72  media/mix/Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].png
+fe443f6dfc7a3b0f  media/mix/Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].png
+ca0299e55b6f1096  media/mix/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].png
+60d8b2bcbe60e590  media/mix/Horse Racing (1983)(SIL)[CLOAD + RUN].png
+18f163a9dceeec4c  media/mix/Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+5138c8fef0bc25cf  media/mix/Hyper Rally (1985)(Konami)[CLOAD + RUN].png
+538d44bbe7972fb8  media/mix/Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].png
+7c3a9839553302f1  media/mix/Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].png
+35a922acde498239  media/mix/Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].png
+0496a009408ba8ec  media/mix/Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].png
+e7ef1b79efb6d2be  media/mix/Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].png
+6494b24ac1e8aad3  media/mix/Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].png
+fa97b1510c7a0f5f  media/mix/Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].png
+aa189d6d917180f9  media/mix/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+17fd04eac2b5c854  media/mix/Killer Car (1983)(U. Sandberg)[CLOAD + RUN].png
+4f2928dba6c0c72b  media/mix/Jungle Jim (1984)(T&M Software)[CLOAD + RUN].png
+50a9962e71d833e7  media/mix/Jet Alf (1984)(ELS)[CLOAD + RUN].png
+32f26a2969f8d10c  media/mix/Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].png
+9033d8eec4996121  media/mix/Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].png
+528164469a1c045f  media/mix/Konami's Baseball (1984)(Konami)[CLOAD + RUN].png
+202186a78f70dd4f  media/mix/Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].png
+b76b79eb852de05c  media/mix/Log It (1984)(Spectravideo)[CLOAD + RUN].png
+c1fcae8983565c6d  media/mix/LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].png
+9f468d92ba598d8c  media/mix/Konami's Boxing (1985)(Konami)[CLOAD + RUN].png
+9cf7ef5c99967aa5  media/mix/Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].png
+f5516e4a640df8ee  media/mix/Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].png
+187d1e7cb77331d2  media/mix/Juno Lander (1983)(SIL)[CLOAD + RUN].png
+f389031bb474cb45  media/mix/Megalone (1986)(J&D Team)[CLOAD + RUN].png
+02aa06e92493d59d  media/mix/Konami's Soccer (1985)(Konami)[CLOAD + RUN].png
+772eff4aa52f8d55  media/mix/Konami's Tennis (1984)(Konami)[CLOAD + RUN].png
+7a130c9ac3c04f83  media/mix/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+5801c6f1f93bd454  media/mix/Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].png
+4038f33f45e1ec06  media/mix/Mopi Ranger (1985)(Konami)[CLOAD + RUN].png
+9126359ae7edbf5e  media/mix/Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].png
+51901d1e48c6f550  media/mix/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+7e8e2d5e3fe643d9  media/mix/Music Mentor (1983)(Spectravideo).png
+1b10d954c808851a  media/mix/Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].png
+44118cd0d7e3893f  media/mix/Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].png
+854163cc7c81b9a9  media/mix/Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].png
+b444d9e18f0fda9d  media/mix/Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].png
+970c7463dc255a1b  media/mix/Magical Tree (1984)(Konami)[CLOAD + RUN].png
+6c0d7184d1a8c70d  media/mix/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+2f8454b2cf3a5c1a  media/mix/O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].png
+bc95e7249a2bc3ab  media/mix/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+346ffbdd185c7234  media/mix/Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].png
+fdf2b2430dc1a324  media/mix/Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].png
+8fbe417e6e40c2d9  media/mix/Perilous Journey (1984)(PM Programs)[CLOAD + RUN].png
+f0d25604f9097a54  media/mix/Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+6ca5c222cebd04e7  media/mix/Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].png
+3e35f04926117d0d  media/mix/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+0d2436bb94e7f778  media/mix/Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].png
+176acfa9ba884dc1  media/mix/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+a52f159866cd6db3  media/mix/Rescue (1984)(Spectravideo)[CLOAD + RUN].png
+e7a36c5972050689  media/mix/Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].png
+dadf7c32847da5dd  media/mix/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+56e4cd5abce01505  media/mix/Roulette (1985)(Intersoft)[CLOAD + RUN].png
+4e3401d8e60b2713  media/mix/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].png
+d7a4f8786e610eda  media/mix/Road Fighter (1985)(Konami)[CLOAD + RUN].png
+0ed1920cdaaf267c  media/mix/Star Words (1984)(Spectravideo)[CLOAD + RUN].png
+5db71596448bf733  media/mix/Sector Alpha (1983)(Spectravideo).png
+946e9ec35afdcc10  media/mix/Spectramind (1984)(C.A.E.)[CLOAD + RUN].png
+98853e65bfa07f00  media/mix/Spectra Break (1983)(SIL)[CLOAD + RUN].png
+82e7b2060e821b0d  media/mix/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+79dfe1f175ec4920  media/mix/Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].png
+7ad3c07d435d3fda  media/mix/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+c42c765ac6f64a94  media/mix/Stockholm Adventure (1984)(J. Watte)(sv)[CLOAD + RUN].png
+c0891fc5b25f8786  media/mix/Super Cross Force (1983)(Spectravideo).png
+144adf1e9543a75a  media/mix/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+57080e87a5ae9476  media/mix/Sky Jaguar (1984)(Konami)[CLOAD + RUN].png
+c03e0413897d89bd  media/mix/Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].png
+e7dc577155a8ca01  media/mix/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+c7925a249fefa297  media/mix/Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+18a016acad554ab4  media/mix/Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].png
+ce35f866eb89f3a2  media/mix/Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].png
+c7eb99752c59a0db  media/mix/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+ef76e956f50d2fa6  media/mix/Swing Man (1983)(Softy)[CLOAD + RUN].png
+9b7bf650a5f901e5  media/mix/Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].png
+9192f88b7288d213  media/mix/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].png
+684edb9caedffe19  media/mix/Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].png
+ea0bfffb67f3a439  media/mix/Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].png
+2decc483da20ef84  media/images/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+078f644b8c92a063  media/images/Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+090c3569a489249f  media/mix/War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].png
+805263d9b2bb30e8  media/images/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].png
+69e96378f3827e85  media/images/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].png
+7a56303784b205e4  media/images/Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].png
+a7b61b7d8a138c9b  media/images/Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].png
+9f20ffb694720b08  media/images/Comic Bakery (1984)(Konami)[CLOAD + RUN].png
+ce02a5022bb6aaaf  media/mix/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].png
+ceb8d5f64bc341a3  media/images/Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].png
+359e79b9cd878f67  media/mix/Thumbs.db
+eefcb55bd39faf48  media/images/Circus Charlie (1984)(Konami)[CLOAD + RUN].png
+bc43f272821ce34e  media/mix/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+757502ab222fa068  media/images/Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].png
+e5b47ef689a5aa7b  media/images/Crunch (1984)(Spectravideo)[CLOAD + RUN].png
+22c2e3335164d783  media/images/Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].png
+114a1d0be662c493  media/images/Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].png
+04b769029bf4d1f2  media/images/Find It (1984)(Spectravideo Israel)[CLOAD + RUN].png
+5ff68cc1551c7964  media/images/Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].png
+37a3b6533f1214d0  media/images/Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].png
+5247b7fcc264abf7  media/images/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+9923ddc2492b6949  media/images/Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].png
+a47db78afde3e46b  media/images/Frantic Freddy (1983)(Spectravideo).png
+a05fd69ea8ea3a6f  media/images/First Steps (1983)(Softy)[CLOAD + RUN].png
+d44f455418ec8f5c  media/images/Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].png
+6eb5e1c75187ede1  media/images/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].png
+fe443f6dfc7a3b0f  media/images/Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].png
+fcdde01acbee9c1f  media/images/Flipper Slipper (1983)(Spectravideo).png
+6a3d23accf9108bc  media/images/Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].png
+ca0299e55b6f1096  media/images/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].png
+06b4e696f43cb2e1  media/images/Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+60d8b2bcbe60e590  media/images/Horse Racing (1983)(SIL)[CLOAD + RUN].png
+fa97b1510c7a0f5f  media/images/Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].png
+2a6e715c9bda4b72  media/images/Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].png
+89a4f5fed6f74ecf  media/images/Grave Digger (1984)(J. Pullen)[CLOAD + RUN].png
+7c3a9839553302f1  media/images/Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].png
+18f163a9dceeec4c  media/images/Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+0496a009408ba8ec  media/images/Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].png
+f94fa923d4419c9b  media/images/Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].png
+5138c8fef0bc25cf  media/images/Hyper Rally (1985)(Konami)[CLOAD + RUN].png
+50a9962e71d833e7  media/images/Jet Alf (1984)(ELS)[CLOAD + RUN].png
+538d44bbe7972fb8  media/images/Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].png
+e7ef1b79efb6d2be  media/images/Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].png
+aa189d6d917180f9  media/images/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+187d1e7cb77331d2  media/images/Juno Lander (1983)(SIL)[CLOAD + RUN].png
+17fd04eac2b5c854  media/images/Killer Car (1983)(U. Sandberg)[CLOAD + RUN].png
+35a922acde498239  media/images/Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].png
+202186a78f70dd4f  media/images/Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].png
+6494b24ac1e8aad3  media/images/Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].png
+9cf7ef5c99967aa5  media/images/Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].png
+32f26a2969f8d10c  media/images/Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].png
+528164469a1c045f  media/images/Konami's Baseball (1984)(Konami)[CLOAD + RUN].png
+4f2928dba6c0c72b  media/images/Jungle Jim (1984)(T&M Software)[CLOAD + RUN].png
+9033d8eec4996121  media/images/Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].png
+7a130c9ac3c04f83  media/images/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+c1fcae8983565c6d  media/images/LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].png
+9f468d92ba598d8c  media/images/Konami's Boxing (1985)(Konami)[CLOAD + RUN].png
+02aa06e92493d59d  media/images/Konami's Soccer (1985)(Konami)[CLOAD + RUN].png
+b76b79eb852de05c  media/images/Log It (1984)(Spectravideo)[CLOAD + RUN].png
+f5516e4a640df8ee  media/images/Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].png
+970c7463dc255a1b  media/images/Magical Tree (1984)(Konami)[CLOAD + RUN].png
+5801c6f1f93bd454  media/images/Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].png
+9126359ae7edbf5e  media/images/Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].png
+854163cc7c81b9a9  media/images/Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].png
+f389031bb474cb45  media/images/Megalone (1986)(J&D Team)[CLOAD + RUN].png
+772eff4aa52f8d55  media/images/Konami's Tennis (1984)(Konami)[CLOAD + RUN].png
+51901d1e48c6f550  media/images/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+3e35f04926117d0d  media/images/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+44118cd0d7e3893f  media/images/Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].png
+6c0d7184d1a8c70d  media/images/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+7e8e2d5e3fe643d9  media/images/Music Mentor (1983)(Spectravideo).png
+1b10d954c808851a  media/images/Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].png
+8fbe417e6e40c2d9  media/images/Perilous Journey (1984)(PM Programs)[CLOAD + RUN].png
+346ffbdd185c7234  media/images/Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].png
+2f8454b2cf3a5c1a  media/images/O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].png
+0d2436bb94e7f778  media/images/Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].png
+fdf2b2430dc1a324  media/images/Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].png
+6ca5c222cebd04e7  media/images/Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].png
+b444d9e18f0fda9d  media/images/Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].png
+176acfa9ba884dc1  media/images/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+a52f159866cd6db3  media/images/Rescue (1984)(Spectravideo)[CLOAD + RUN].png
+bc95e7249a2bc3ab  media/images/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+f0d25604f9097a54  media/images/Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+4038f33f45e1ec06  media/images/Mopi Ranger (1985)(Konami)[CLOAD + RUN].png
+d7a4f8786e610eda  media/images/Road Fighter (1985)(Konami)[CLOAD + RUN].png
+57080e87a5ae9476  media/images/Sky Jaguar (1984)(Konami)[CLOAD + RUN].png
+4e3401d8e60b2713  media/images/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].png
+56e4cd5abce01505  media/images/Roulette (1985)(Intersoft)[CLOAD + RUN].png
+98853e65bfa07f00  media/images/Spectra Break (1983)(SIL)[CLOAD + RUN].png
+e7a36c5972050689  media/images/Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].png
+dadf7c32847da5dd  media/images/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+5db71596448bf733  media/images/Sector Alpha (1983)(Spectravideo).png
+18a016acad554ab4  media/images/Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].png
+0ed1920cdaaf267c  media/images/Star Words (1984)(Spectravideo)[CLOAD + RUN].png
+946e9ec35afdcc10  media/images/Spectramind (1984)(C.A.E.)[CLOAD + RUN].png
+c42c765ac6f64a94  media/images/Stockholm Adventure (1984)(J. Watte)(sv)[CLOAD + RUN].png
+79dfe1f175ec4920  media/images/Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].png
+c0891fc5b25f8786  media/images/Super Cross Force (1983)(Spectravideo).png
+7ad3c07d435d3fda  media/images/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+82e7b2060e821b0d  media/images/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+ce35f866eb89f3a2  media/images/Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].png
+c7eb99752c59a0db  media/images/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+c03e0413897d89bd  media/images/Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].png
+e7dc577155a8ca01  media/images/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+144adf1e9543a75a  media/images/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+090c3569a489249f  media/images/War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].png
+ef76e956f50d2fa6  media/images/Swing Man (1983)(Softy)[CLOAD + RUN].png
+684edb9caedffe19  media/images/Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].png
+c7925a249fefa297  media/images/Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+9192f88b7288d213  media/images/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].png
+9b7bf650a5f901e5  media/images/Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].png
+cb8f07a03ebbcc29  media/cartridges/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].jpg
+8a5970b7bff46259  media/cartridges/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].jpg
+bc43f272821ce34e  media/images/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+ea0bfffb67f3a439  media/images/Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].png
+ce02a5022bb6aaaf  media/images/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].png
+11f79ed71298ce69  media/cartridges/Kung Fu Master-01.jpg
+cb8f07a03ebbcc29  media/cartridges/Mini Golf-01.jpg
+8a5970b7bff46259  media/cartridges/Armoured Assault-01.jpg
+11f79ed71298ce69  media/cartridges/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+2667432df8dc351f  media/cartridges/Sasa-01.jpg
+2667432df8dc351f  media/cartridges/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+4039b78f3cd07c4e  media/cartridges/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].jpg
+094594ee10508b17  media/cartridges/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+af4a81373d5de24c  media/cartridges/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+1ccab13cf09461f3  media/cartridges/Spectron-01.jpg
+87eb08554460014d  media/cartridges/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+87eb08554460014d  media/cartridges/Tetra Horror-01.jpg
+b1f30c6930fbe15f  media/cartridges/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+39567e52e5091346  media/marquee/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].png
+b1f30c6930fbe15f  media/cartridges/Turboat-01.jpg
+339f8eca18bb8659  media/marquee/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+4039b78f3cd07c4e  media/cartridges/New York Bomb Blitz-01.jpg
+62aa6a36ebba01ad  media/marquee/Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+34ae9865c97cbe2c  media/marquee/Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].png
+0dfde514bf3694f5  media/marquee/Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].png
+ec86d787948603d9  media/marquee/Circus Charlie (1984)(Konami)[CLOAD + RUN].png
+7f138ba3a7f50f4f  media/marquee/Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].png
+f46703052e5c76a9  media/marquee/Comic Bakery (1984)(Konami)[CLOAD + RUN].png
+234e1b83eb73d2e5  media/marquee/Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].png
+7aed31e16f2374b8  media/marquee/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+1ccab13cf09461f3  media/cartridges/Spectron (1983)(Spectravideo)[CLOAD + RUN].jpg
+587203edb9ee48bb  media/marquee/Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].png
+7a1f1599ad0ae869  media/marquee/Crunch (1984)(Spectravideo)[CLOAD + RUN].png
+5ee5a915105a63a9  media/marquee/Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].png
+108982d89281d1f9  media/marquee/Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].png
+da034b536e21e39b  media/marquee/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].png
+7348e5d02fd8c29d  media/marquee/Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].png
+77d9375dbb47175b  media/marquee/Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].png
+a2e6e3ecf4aee8e5  media/marquee/First Steps (1983)(Softy)[CLOAD + RUN].png
+3299725c217c85c6  media/marquee/Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].png
+af4a81373d5de24c  media/cartridges/Telebunny-01.jpg
+33cc630b272f8392  media/marquee/Flipper Slipper (1983)(Spectravideo).png
+d8a3329ac615e19a  media/marquee/Find It (1984)(Spectravideo Israel)[CLOAD + RUN].png
+9e534220003b1017  media/marquee/Frantic Freddy (1983)(Spectravideo).png
+811ddbc2b24eaeef  media/marquee/Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].png
+f5ba53b1b4801f09  media/marquee/Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].png
+02598b05a78736ae  media/marquee/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].png
+4c0f791828d7d542  media/marquee/Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].png
+c44046d74816406e  media/marquee/Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].png
+b43ccec2b1b45d7f  media/marquee/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].png
+4dd13d18ab2f7e09  media/marquee/Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].png
+6ce9ff6600b4a128  media/marquee/Horse Racing (1983)(SIL)[CLOAD + RUN].png
+9070dc2deee0c445  media/marquee/Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+ed8bb27cc0bc7932  media/marquee/Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].png
+d6a30b70c08ff19e  media/marquee/Grave Digger (1984)(J. Pullen)[CLOAD + RUN].png
+fae1fd62a7c99a23  media/marquee/Hyper Rally (1985)(Konami)[CLOAD + RUN].png
+5a60a2ea02464a1b  media/marquee/Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].png
+eee30b9a6e745f5d  media/marquee/Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].png
+36e7c78181eaa1cd  media/marquee/Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+10892dc82b05881a  media/marquee/Jet Alf (1984)(ELS)[CLOAD + RUN].png
+80bb6776a602aeec  media/marquee/Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].png
+90e3ebe37ad59eac  media/marquee/Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].png
+4988249775a588bb  media/marquee/Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].png
+1db58a0a74d4acf3  media/marquee/Jungle Jim (1984)(T&M Software)[CLOAD + RUN].png
+dcf1fc9c84644a6b  media/marquee/Killer Car (1983)(U. Sandberg)[CLOAD + RUN].png
+9e237db857b4d174  media/marquee/Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].png
+fcc5b8a43b9804e5  media/marquee/Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].png
+6a68ba043dfbb2cb  media/marquee/Konami's Boxing (1985)(Konami)[CLOAD + RUN].png
+3ac5dc2f12628a72  media/marquee/Konami's Baseball (1984)(Konami)[CLOAD + RUN].png
+b5019802add8a637  media/marquee/Konami's Soccer (1985)(Konami)[CLOAD + RUN].png
+7d8e4088eb74513a  media/marquee/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+4f1d1052692654f6  media/marquee/Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].png
+9331407c19e82fca  media/marquee/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+a2a5096501b5377a  media/marquee/Juno Lander (1983)(SIL)[CLOAD + RUN].png
+892755226da581db  media/marquee/Konami's Tennis (1984)(Konami)[CLOAD + RUN].png
+b5004ff13f78189b  media/marquee/LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].png
+a7998c2e36908cc9  media/marquee/Log It (1984)(Spectravideo)[CLOAD + RUN].png
+8a46bd5712b7f07d  media/marquee/Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].png
+299a41c1cdc307e5  media/marquee/Megalone (1986)(J&D Team)[CLOAD + RUN].png
+4141788721cba707  media/marquee/Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].png
+486aff5aef3ee56f  media/marquee/Magical Tree (1984)(Konami)[CLOAD + RUN].png
+0ddd0bf3360cc278  media/marquee/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+96044db3f9f9d08c  media/marquee/Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].png
+cc19a8c1c6cd6662  media/marquee/Mopi Ranger (1985)(Konami)[CLOAD + RUN].png
+0aad211c034daa0c  media/marquee/Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].png
+1831b734e78bff72  media/marquee/Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].png
+5e1c4ba82c0b2a54  media/marquee/Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].png
+640c761f0076b788  media/marquee/Music Mentor (1983)(Spectravideo).png
+896f26e21e22521f  media/marquee/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+f0c2d9c4be4c5920  media/marquee/Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].png
+66d82eb101f457a3  media/marquee/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+4fdc7dc403ffd514  media/marquee/Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].png
+39cd6e8e69d5ed71  media/marquee/Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].png
+59ed0522259c7d00  media/marquee/O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].png
+0a94399fd1e729f9  media/marquee/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+2238b9cdb908dc2b  media/marquee/Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+e3f69903412ff636  media/marquee/Perilous Journey (1984)(PM Programs)[CLOAD + RUN].png
+05e6f8fa5aaffc67  media/marquee/Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].png
+2a3f645f21e0e864  media/marquee/Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].png
+ce8f44c131954880  media/marquee/Road Fighter (1985)(Konami)[CLOAD + RUN].png
+8f45d27a6516ecd0  media/marquee/Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].png
+c910b1c4073f9a82  media/marquee/Rescue (1984)(Spectravideo)[CLOAD + RUN].png
+210245866a137135  media/marquee/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].png
+0ba980982eb6bed4  media/marquee/Roulette (1985)(Intersoft)[CLOAD + RUN].png
+30174fdcd52e0e6d  media/marquee/Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].png
+5cb48903bce90d45  media/marquee/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+f1885e46647dd1ca  media/marquee/Sky Jaguar (1984)(Konami)[CLOAD + RUN].png
+628f0e6dc1f6db6e  media/marquee/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+bdbe9030084ffd44  media/marquee/Spectramind (1984)(C.A.E.)[CLOAD + RUN].png
+323527d4f6904cb1  media/marquee/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+a023c925b5bbb085  media/marquee/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+06ab20f53fe44835  media/marquee/Sector Alpha (1983)(Spectravideo).png
+4a86a8135e401649  media/marquee/Spectra Break (1983)(SIL)[CLOAD + RUN].png
+711dcd03ac7abb0a  media/marquee/Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].png
+5ee81163f32ad69b  media/marquee/Stockholm Adventure (1984)(J. Watte)(sv)[CLOAD + RUN].png
+48c02e56d0371e83  media/marquee/Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].png
+3182bb6187bb5358  media/marquee/Super Cross Force (1983)(Spectravideo).png
+a3a99ef7736b87cf  media/marquee/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+4e61a05e4fd07355  media/marquee/Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].png
+d757d39779ea48db  media/marquee/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+7d4f27a8946887da  media/marquee/Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+a6fbd53f51498311  media/marquee/Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].png
+a69b016367007a60  media/marquee/Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].png
+00c4969fd10b6d5c  media/marquee/War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].png
+26f5f6877015f656  media/marquee/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].png
+95733a53d8c6567a  media/marquee/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].png
+02a4430e55c7dfe7  media/marquee/Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].png
+7c780a1ecaef87d3  media/marquee/Swing Man (1983)(Softy)[CLOAD + RUN].png
+72e612d19f02828b  media/marquee/Star Words (1984)(Spectravideo)[CLOAD + RUN].png
+cea967c595c07239  media/marquee/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+36edb4407cd5dde2  media/screenshots/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].png
+b7f3ede73e389205  media/screenshots/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].png
+5c50e64817c67ddc  media/marquee/Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].png
+f8e634b9b15ef2c9  media/screenshots/Circus Charlie (1984)(Konami)[CLOAD + RUN].png
+0b01ff64a01516a7  media/marquee/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+cbec38a8fe18616a  media/screenshots/Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+b7f3ede73e389205  media/screenshots/Armoured Assault-01.png
+cc718c33a637a3ba  media/screenshots/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+2254543b05f2b601  media/marquee/Thumbs.db
+78e0ae55740c8a33  media/screenshots/Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].png
+2beb624e38d9d5fd  media/screenshots/Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].png
+6dcaa74ddd1172fc  media/screenshots/Comic Bakery (1984)(Konami)[CLOAD + RUN].png
+244c1aa19ac7edce  media/screenshots/Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].png
+69fc2edcd3a1d97f  media/screenshots/Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].png
+287af3805f639f9c  media/screenshots/Crunch (1984)(Spectravideo)[CLOAD + RUN].png
+2ea5e810583abe7e  media/screenshots/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+359e26e56587861a  media/screenshots/First Steps (1983)(Softy)[CLOAD + RUN].png
+56ff24e0f96a3b5b  media/screenshots/Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].png
+190543df3579d704  media/screenshots/Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].png
+0d218eb4267626a7  media/screenshots/Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].png
+319de35dad61f05a  media/screenshots/Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].png
+b9f97b48452bf1d9  media/screenshots/Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].png
+ce8e5e1b5b02262e  media/screenshots/Flipper Slipper-01.png
+ebc0652cffbd9809  media/screenshots/Frantic Freddy-01.png
+ebc0652cffbd9809  media/screenshots/Frantic Freddy (1983)(Spectravideo).png
+937f2523e5184808  media/screenshots/Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].png
+3727d41887d448e0  media/screenshots/Grave Digger (1984)(J. Pullen)[CLOAD + RUN].png
+ce8e5e1b5b02262e  media/screenshots/Flipper Slipper (1983)(Spectravideo).png
+ffc032cf316a995b  media/screenshots/Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].png
+a2b938ce9b6d6292  media/screenshots/Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].png
+e8e6bdc1863432b9  media/screenshots/Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].png
+521a136cc9e2f77c  media/screenshots/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].png
+78c795d5780e926e  media/screenshots/Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].png
+0734577dae87a3aa  media/screenshots/Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+55ebfaab1e2523b8  media/screenshots/Horse Racing (1983)(SIL)[CLOAD + RUN].png
+c29a2e1e41be1e06  media/screenshots/Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+4b3641007a212846  media/screenshots/Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].png
+1bcc005a3f97a60b  media/screenshots/Find It (1984)(Spectravideo Israel)[CLOAD + RUN].png
+97acde30dc69258f  media/screenshots/Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].png
+a42d4087c89a71c8  media/screenshots/Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].png
+89bc8bce217c5a23  media/screenshots/Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].png
+2198c51139f4dc3e  media/screenshots/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].png
+f7c4e583318aefc1  media/screenshots/Hyper Rally (1985)(Konami)[CLOAD + RUN].png
+ac424337dfa07707  media/screenshots/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+edba5009bcf702c1  media/screenshots/Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].png
+ad5558af43839a0b  media/screenshots/Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].png
+8480c962aaeea013  media/screenshots/Jet Alf (1984)(ELS)[CLOAD + RUN].png
+e8bff7dd66f8cae3  media/screenshots/Jungle Jim (1984)(T&M Software)[CLOAD + RUN]-01.png
+1cc3842551125d21  media/screenshots/Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].png
+1cc3842551125d21  media/screenshots/Jumping Jack-01.png
+481e3d796db7abb6  media/screenshots/Jungle Jim (1984)(T&M Software)[CLOAD + RUN].png
+481e3d796db7abb6  media/screenshots/Jungle Jim-01.png
+72b4e8b5ab15b8c7  media/screenshots/Juno Lander (1983)(SIL)[CLOAD + RUN].png
+72b4e8b5ab15b8c7  media/screenshots/Juno Lander-01.png
+61df7f8627a63555  media/screenshots/Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].png
+09bac057ee5f042f  media/screenshots/Konami's Baseball (1984)(Konami)[CLOAD + RUN].png
+e8bff7dd66f8cae3  media/screenshots/Jungle Jim-02.png
+d50d5e39d1bc508c  media/screenshots/Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].png
+93c232fc579cf63b  media/screenshots/Killer Car (1983)(U. Sandberg)[CLOAD + RUN].png
+10d8b513125e1566  media/screenshots/Juno Lander (1983)(SIL)[CLOAD + RUN]-01.png
+917e133cb33e1423  media/screenshots/Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].png
+10d8b513125e1566  media/screenshots/Juno Lander-02.png
+eeb14b5fc448fd83  media/screenshots/Konami's Boxing (1985)(Konami)[CLOAD + RUN].png
+e7e732054e6a2ba7  media/screenshots/Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].png
+0e10dd7a5a30ef7f  media/screenshots/Konami's Tennis (1984)(Konami)[CLOAD + RUN].png
+a3f4a1e9b32f5c3f  media/screenshots/Konami's Soccer (1985)(Konami)[CLOAD + RUN].png
+c642f73193481284  media/screenshots/Kung Fu Master-01.png
+fd54d96d34bda225  media/screenshots/Log It (1984)(Spectravideo)[CLOAD + RUN].png
+3e8a601c6db48280  media/screenshots/Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].png
+420a2bf3cab7820a  media/screenshots/LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].png
+0c7485aa11f9f1b7  media/screenshots/Megalone (1986)(J&D Team)[CLOAD + RUN].png
+e050de1184ce26dc  media/screenshots/Magical Tree (1984)(Konami)[CLOAD + RUN].png
+a4c80ac123072569  media/screenshots/Mini Golf-01.png
+a4c80ac123072569  media/screenshots/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+263e11c497717577  media/screenshots/Mopi Ranger (1985)(Konami)[CLOAD + RUN].png
+6cedf9fee8928d65  media/screenshots/Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].png
+9049d4f245226e06  media/screenshots/Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].png
+31a8bea6d4a06bba  media/screenshots/Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].png
+c642f73193481284  media/screenshots/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+ff3a79cb46ed4e8d  media/screenshots/Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].png
+15e316d9700a7eda  media/screenshots/Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].png
+80590c3bb05d8622  media/screenshots/Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].png
+9f8c0652d782a5f6  media/screenshots/Music Mentor (1983)(Spectravideo).png
+93124ba67110ca63  media/screenshots/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+b6953e049fb5dc52  media/screenshots/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+93124ba67110ca63  media/screenshots/Nomis-01.png
+c83d660d61be30b8  media/screenshots/O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].png
+298d4cbf6df3f2c1  media/screenshots/Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].png
+903b1b2969c4ecb8  media/screenshots/New York Bomb Blitz-01.png
+903b1b2969c4ecb8  media/screenshots/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+ef2561bc09bce9c7  media/screenshots/Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+477deaf5b8a48db9  media/screenshots/Perilous Journey (1984)(PM Programs)[CLOAD + RUN].png
+c985b8b5bbbfb725  media/screenshots/Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].png
+8a4763ad88a9cb19  media/screenshots/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+076d225cbdd6472c  media/screenshots/Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].png
+e140fb389a14cf22  media/screenshots/Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].png
+ed1f52c2ab105ac6  media/screenshots/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].png
+7a1e10917352a47b  media/screenshots/Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].png
+2fc4fdf352403189  media/screenshots/Road Fighter (1985)(Konami)[CLOAD + RUN].png
+a6da4e2c2bdba2c1  media/screenshots/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+a6da4e2c2bdba2c1  media/screenshots/Sasa-01.png
+b67d8a135297d6dc  media/screenshots/Rescue (1984)(Spectravideo)[CLOAD + RUN].png
+0f312e05bc053d9d  media/screenshots/Sector Alpha-01.png
+0f312e05bc053d9d  media/screenshots/Sector Alpha (1983)(Spectravideo).png
+744696f28d124fc3  media/screenshots/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+37a9b31ea519c65b  media/screenshots/Spectramind (1984)(C.A.E.)[CLOAD + RUN].png
+4c55357440b0a273  media/screenshots/Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].png
+be9e85b1769bf503  media/screenshots/Sky Jaguar (1984)(Konami)[CLOAD + RUN].png
+44cc4c6b91fc44ad  media/screenshots/Roulette (1985)(Intersoft)[CLOAD + RUN].png
+241c7455a3e70372  media/screenshots/Spectra Break (1983)(SIL)[CLOAD + RUN].png
+0365ef734d2331b4  media/screenshots/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+f6312532b26890ec  media/screenshots/Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].png
+0365ef734d2331b4  media/screenshots/Spectron-01.png
+a153131665ed295b  media/screenshots/Swing Man (1983)(Softy)[CLOAD + RUN].png
+dfbe39aab8ac3ccd  media/screenshots/Super Cross Force (1983)(Spectravideo).png
+3532fb6bbf8f2880  media/screenshots/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+16a375d7e9c0486e  media/screenshots/Star Words (1984)(Spectravideo)[CLOAD + RUN].png
+331aff1cd7a3a25f  media/screenshots/Stockholm Adventure (1984)(J. Watte)(sv)[CLOAD + RUN].png
+3532fb6bbf8f2880  media/screenshots/Telebunny-01.png
+f52e702641383376  media/screenshots/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+f52e702641383376  media/screenshots/Tetra Horror-01.png
+4c8eae078a1f8d8b  media/screenshots/Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].png
+f88b843eeb6075b0  media/screenshots/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+10c0210a1a157faa  media/screenshots/Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+f88b843eeb6075b0  media/screenshots/Turboat-01.png
+6521b387dc84117a  media/screenshots/Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].png
+08393f7f6b1c1385  media/screenshots/Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].png
+15daf4334d7ee952  media/screenshots/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].png
+6035c7c48c470fa5  media/screenshots/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+9708870e78a886dd  media/screenshots/Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].png
+009743f57968da78  media/screenshots/War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].png
+95b72a07ae85865c  media/screenshots/Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].png
+7cea1fcbbfa9fb92  media/thumbnails/Flipper Slipper-01.jpg
+9b25a2351122cf95  media/thumbnails/Armoured Assault-01.jpg
+9b25a2351122cf95  media/thumbnails/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].jpg
+7cea1fcbbfa9fb92  media/thumbnails/Flipper Slipper (1983)(Spectravideo).jpg
+a3b851c44db3a516  media/thumbnails/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+671792c6763443f8  media/thumbnails/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+2ac4d27813c454fc  media/screenshots/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].png
+4db4225e505b964f  media/thumbnails/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+371cbfee52b5b1d1  media/thumbnails/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+4db4225e505b964f  media/thumbnails/Kung Fu Master-01.jpg
+c048ba6867085a26  media/thumbnails/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+ddfa7ef5a2eabf47  media/thumbnails/Mini Golf-01.jpg
+a13d774968575810  media/thumbnails/New York Bomb Blitz-01.jpg
+a13d774968575810  media/thumbnails/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].jpg
+43a1ca278a477d12  media/thumbnails/Frantic Freddy (1983)(Spectravideo).png
+cc0dc1b1cd7b7ef1  media/thumbnails/Nomis-01.jpg
+ddfa7ef5a2eabf47  media/thumbnails/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].jpg
+eb281e13c4536b09  media/thumbnails/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+16564a6fdf01779d  media/thumbnails/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+2bce8ef46c9922b5  media/thumbnails/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+cc0dc1b1cd7b7ef1  media/thumbnails/Nomis (1983)(Spectravideo)[CLOAD + RUN].jpg
+91a730707581fa0d  media/thumbnails/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+695b3bb84fc70ba3  media/thumbnails/Sasa-01.jpg
+695b3bb84fc70ba3  media/thumbnails/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+6b81d62e12d0ae8b  media/thumbnails/Spectron (1983)(Spectravideo)[CLOAD + RUN].jpg
+6b81d62e12d0ae8b  media/thumbnails/Spectron-01.jpg
+f4330ecf248236c7  media/thumbnails/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+fa0f9aba9eb032c8  media/thumbnails/Super Cross Force (1983)(Spectravideo).jpg
+df723e8d12287351  media/thumbnails/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+5a5d44d68c99ed5a  media/thumbnails/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+fa0f9aba9eb032c8  media/thumbnails/Super Cross Force-01.jpg
+8a83bc0fead16d67  media/thumbnails/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+7e2c02a54410291d  media/thumbnails/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+8a83bc0fead16d67  media/thumbnails/Tetra Horror-01.jpg
+ab049ac70be15a7d  media/thumbnails/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+2b8ad8735d51c4e8  media/thumbnails/Super Cross Force (1983)(Spectravideo).png
+5f8bb37d5f364572  media/thumbnails/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+b47557c0df018ef3  media/thumbnails/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+f4330ecf248236c7  media/thumbnails/Telebunny-01.jpg
+0ac76c693c55c829  media/thumbnails/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].jpg
+d5b96a368d23878e  media/thumbnails/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+2909bfc1f81727f5  media/titles/Armoured Assault (1983)(Spectravideo)[CLOAD + RUN].png
+69bce07720bcffac  media/titles/Arkanoid (1986)(Taito)[CLOAD + RUN].png
+2909bfc1f81727f5  media/titles/Armoured Assault-01.png
+0ac76c693c55c829  media/thumbnails/Turboat-01.jpg
+52d47471e84ce4c7  media/titles/Cabbage Patch Kids (1984)(Konami)[CLOAD + RUN].png
+64004225e095a860  media/titles/Candoo Ninja (1984)(Spectravideo)[BLOAD'CAS-',R].png
+7892cae56df08bfd  media/titles/Comic Bakery (1984)(Konami)[CLOAD + RUN].png
+24405347e917c58b  media/titles/Crunch (1984)(Spectravideo)[CLOAD + RUN].png
+19d025097fe0aa18  media/titles/Cosmic Avenger (1983)(Universal)[h Buggy Software][CLOAD + RUN].png
+a72950adb526ec3a  media/titles/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].png
+e6e68795478d72e6  media/titles/Assiduity (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+41fd9896ea53e300  media/titles/Decathlon (1984)(Activision)[h Buggy Software][CLOAD + RUN].png
+1d0e5f3291badf1f  media/titles/Crazy Teeth (1984)(Dan Haggren)[CLOAD + RUN].png
+db6ffe7e034830a9  media/titles/Circus Charlie (1984)(Konami)[CLOAD + RUN].png
+5a733b5be36f2742  media/titles/Diamond Luis I (1986)(Ikesoft)[cr Morgoth][CLOAD + RUN].png
+d9361c8806de205a  media/titles/Donkey Kong (1986)(Ocean Software)[h Buggy Software][CLOAD + RUN].png
+387609ae5c1d9558  media/titles/Diamond Luis Editor (1986)(Ikesoft)(sv)[CLOAD + RUN].png
+9ea34878c960ee1c  media/titles/Explorer III (1984)(Robert Lindh)(sv)[CLOAD + RUN].png
+3b4fac9bb75c51b6  media/titles/First Steps (1983)(Softy)[CLOAD + RUN].png
+e7a867d372dc677d  media/titles/Flipper Slipper-01.png
+28f1115e6b863acc  media/titles/Find It (1984)(Spectravideo Israel)[CLOAD + RUN].png
+e7a867d372dc677d  media/titles/Flipper Slipper (1983)(Spectravideo).png
+f44b315be4e0f9c8  media/titles/Flipper Man (1984)(Computerworld - Mikrodata)(no)[CLOAD + RUN].png
+3638cf0f620de203  media/titles/Emergency Landing (1984)(John McLachlan)[CLOAD + RUN].png
+97d94b9685e9bba9  media/titles/Fluffy (1987)(JTM Software)[BLOAD'CAS-',R].png
+47a9f94a2afc75d1  media/titles/Frantic Freddy (1983)(Spectravideo).png
+47a9f94a2afc75d1  media/titles/Frantic Freddy-01.png
+e5482acc87d1e797  media/titles/Ghost Trap (1983)(Yoga Computing)[CLOAD + RUN].png
+0e5dd99cbbc78362  media/titles/Goonies, The (1986)(Konami)[h Lord Wezzex][CLOAD + RUN].png
+61e94c12464fd060  media/titles/Gateway to Apshai (1983)(US Gold)[h Buggy Software][CLOAD + RUN].png
+67263c58cca47a48  media/titles/Graphic Chess (1986)(JTM Software)[BLOAD'CAS-',R].png
+7f7f478ac2d95ade  media/titles/Gunfright (1986)(Ultimate Play The Game)[CLOAD + RUN].png
+370d0c33d3bd917b  media/titles/Hollow (1984)(Lars Lewejohann)(de)[CLOAD + RUN].png
+77f66f8dd00f7fb0  media/titles/Grave Digger (1984)(J. Pullen)[CLOAD + RUN].png
+86e85a2f19a743e0  media/thumbnails/Thumbs.db
+aa7edec54634edb3  media/titles/H.E.R.O. (1984)(Activision)[BLOAD'CAS-',R].png
+7518099e7ef4ba71  media/titles/Horse Racing (1983)(SIL)[CLOAD + RUN].png
+76c7e7666d176ee6  media/titles/Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+8f92f05f8828a430  media/titles/Hyper Olympic 2 (1984)(Konami)[CLOAD + RUN].png
+f1f5d177b1bd7a18  media/titles/Hyper Sports 2 (1984)(Konami)[CLOAD + RUN].png
+17b61258e39a2bb6  media/titles/Hyper Sports 1 (1984)(Konami)[CLOAD + RUN].png
+000172db5fedcc4e  media/titles/Jet Alf (1984)(ELS)[CLOAD + RUN].png
+a0ddeefd6c688ba3  media/titles/Hobbit, The (1985)(Melbourne House)[CLOAD + RUN].png
+6c61f7f16c9edb84  media/titles/Hyper Rally (1985)(Konami)[CLOAD + RUN].png
+a94868d43ee48468  media/titles/International Karate (1986)(Endurance Games)[cr Darksloke][CLOAD + RUN].png
+75d1a648b44d91f7  media/titles/Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)[t][CLOAD + RUN].png
+70f88265a46158da  media/titles/Jumping Jack (1984)(Spectravideo)[CLOAD + RUN].png
+70f88265a46158da  media/titles/Jumping Jack-01.png
+edb9c082deea85ad  media/titles/Juno Lander-01.png
+a237cb6cfcfa543e  media/titles/Kiwi Country - South Island (1984)(Waitaki Software)[CLOAD + RUN].png
+edb9c082deea85ad  media/titles/Juno Lander (1983)(SIL)[CLOAD + RUN].png
+e5793dee1c05f455  media/titles/Jet Alf and the Manic Masters Revenge (1984)(ELS)[CLOAD + RUN].png
+69b463b6942e1de9  media/titles/Jungle Jim (1984)(T&M Software)[CLOAD + RUN].png
+5938c0462098e65f  media/titles/Knightmare. Majyo Densetsu (1986)(Konami)[CLOAD + RUN].png
+69b463b6942e1de9  media/titles/Jungle Jim-01.png
+338d1b76fbff9ecb  media/titles/Konami's Baseball (1984)(Konami)[CLOAD + RUN].png
+fcaf486da5e24cf0  media/titles/Konami's Boxing (1985)(Konami)[CLOAD + RUN].png
+81afb78086dd95cb  media/titles/Konami's Soccer (1985)(Konami)[CLOAD + RUN].png
+78d7e4acc5c97b3a  media/titles/Killer Car (1983)(U. Sandberg)[CLOAD + RUN].png
+ccbea7be79e062f2  media/titles/Konami's Tennis (1984)(Konami)[CLOAD + RUN].png
+49232ed0d9e9dded  media/titles/Kung Fu Master (1984)(Spectravideo)[BLOAD'CAS-',R].png
+49232ed0d9e9dded  media/titles/Kung Fu Master-01.png
+0d766b829daedbf9  media/titles/Log It (1984)(Spectravideo)[CLOAD + RUN].png
+e217bf0aa7133141  media/titles/LABYX (1985)(Hjemmedata Magazine)(no)[CLOAD + RUN].png
+8b9c3a9e014f288a  media/titles/Megalone (1986)(J&D Team)[CLOAD + RUN].png
+26b0d73e6fc76cd1  media/titles/Looping (1983)(Venture Line)[h Buggy Software][CLOAD + RUN].png
+867494d3db9e9a22  media/titles/Magical Tree (1984)(Konami)[CLOAD + RUN].png
+7defc2b6b5805d48  media/titles/Memory Trainer (1984)(Ian McLachlan)[CLOAD + RUN].png
+b1f260346bbba4c9  media/titles/Konami's Ping Pong (1985)(Konami)[CLOAD + RUN].png
+0410c2540bfd00b1  media/titles/Mini Golf (1984)(Spectravideo)[CLOAD + RUN].png
+0410c2540bfd00b1  media/titles/Mini Golf-01.png
+f86eea09aab437ea  media/titles/Moon Lander (1984)(Ian McLachlan)[CLOAD + RUN].png
+c79efb3d3535b145  media/titles/Mopi Ranger (1985)(Konami)[CLOAD + RUN].png
+814217f477284c2f  media/titles/Mr. Do! (1984)(Nippon Columbia)[CLOAD + RUN].png
+f7e0ad85d812ca40  media/titles/Mouse Trap (1983)(Exidy)[h Buggy Software][CLOAD + RUN].png
+cd8f48bc77b152eb  media/titles/Munch-A-Math (1984)(Spectravideo Israel)[CLOAD + RUN].png
+d55a817d4c9f42ce  media/titles/Music Composer (1984)(Ian McLachlan)[CLOAD + RUN].png
+b59589f14fe8b668  media/titles/O'Mac Farmer (1984)(Spectravideo)[BLOAD'CAS-',R].png
+1398759fe82aa5f7  media/titles/New York Bomb Blitz-01.png
+cc779a6954713d18  media/titles/Music Mentor (1983)(Spectravideo).png
+54588eff366fdb87  media/titles/Nomis (1983)(Spectravideo)[CLOAD + RUN].png
+4b89812f288acb11  media/titles/Parachute Jumping (1984)(Leo Soft)[CLOAD + RUN].png
+766b646d73998fcf  media/titles/Pengwyn (1983)(Postern)[CLOAD + RUN].png
+1398759fe82aa5f7  media/titles/New York Bomb Blitz (1984)(Spectravideo)[CLOAD + RUN].png
+254d035583f3ec6f  media/titles/Pepper 2 (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+8ce2b817cc696342  media/titles/Punchy (1984)(Mr. Micro)[BLOAD'CAS-',R].png
+3b1318251c36322d  media/titles/Pogo Stick (1985)(Choice Software)(de)[CLOAD + RUN].png
+ec6a67f61f7d0e26  media/titles/Perilous Journey (1984)(PM Programs)[CLOAD + RUN].png
+732cc7f73a9e3c3c  media/titles/Robocop (1988)(Ocean Software)[cr Mr. Haward][RUN'CAS-'].png
+51b387d95836fbf2  media/titles/Rescue (1984)(Spectravideo)[CLOAD + RUN].png
+059b1f0c3d9a6909  media/titles/Road Fighter (1985)(Konami)[CLOAD + RUN].png
+db7913d079e88bbd  media/titles/Sasa (1984)(Spectravideo)[BLOAD'CAS-',R].png
+c1300f4649e014f7  media/titles/Sector Alpha (1983)(Spectravideo).png
+6613d3be71682cbd  media/titles/Rambo III Intro (19xx)(Mr. Haward)[RUN'CAS-'].png
+e896d711f48328b0  media/titles/Roulette (1985)(Intersoft)[CLOAD + RUN].png
+db7913d079e88bbd  media/titles/Sasa-01.png
+72742bf461f05ec2  media/titles/Robot Ball (1983)(Mirage Software)(sv)[CLOAD + RUN].png
+fe28bc19c79b3637  media/titles/Smurf Rescue in Gargamel's Castle (1983)(Coleco)[h Buggy Software][CLOAD + RUN].png
+deb11e516ee7f370  media/titles/Sky Jaguar (1984)(Konami)[CLOAD + RUN].png
+14b351bd88a95ffe  media/titles/Spectra Cryptic Cube (1984)(Spectravideo)[CLOAD + RUN].png
+b696fa8aea8d9cf4  media/titles/Spectra Break (1983)(SIL)[CLOAD + RUN].png
+8fc87818f555377c  media/titles/Spectron (1983)(Spectravideo)[CLOAD + RUN].png
+baeedf4d76281ce2  media/titles/Star Words (1984)(Spectravideo)[CLOAD + RUN].png
+6f7df139190e92af  media/titles/Struggle for Livelihood (1985)(Choice Software)(de)[CLOAD + RUN].png
+a7300c16a93edd87  media/titles/Swing Man (1983)(Softy)[CLOAD + RUN].png
+2fbce4c491a58546  media/titles/Super Cross Force (1983)(Spectravideo).png
+01a3f9ae0b306a7e  media/titles/Telebunny-01.png
+22a897064318d162  media/titles/Tetra Horror (1984)(Spectravideo)[BLOAD'CAS-',R].png
+22a897064318d162  media/titles/Tetra Horror-01.png
+01a3f9ae0b306a7e  media/titles/Tele Bunnie (1984)(Spectravideo)[BLOAD'CAS-',R].png
+0091065ee4722e7c  media/titles/Spectramind (1984)(C.A.E.)[CLOAD + RUN].png
+2cabfd5afa868f92  media/titles/Time Trax (1986)(Bug-Byte Software)[CLOAD + RUN].png
+d20ed09f8ba30e11  media/titles/Planet Patrol (1983)(Spectravideo)[BLOAD'CAS-',R].png
+09975c1e6a65093e  media/titles/Track & Field 1. Hyper Olympic 1 (1984)(Konami)[CLOAD + RUN].png
+6b04ce2a078d9135  media/titles/Three Wall Smash (1984)(Ian McLachlan)[CLOAD + RUN].png
+21c8840a6ad77eda  media/titles/Treasure Chest (1984)(Ian McLachlan)[CLOAD + RUN].png
+60e06d9a4a7b8a06  media/titles/Turboat (1984)(Spectravideo)[BLOAD'CAS-',R].png
+c1eeec05656f4ed7  media/titles/Zakil Wood (1985)(Mr. Micro)[CLOAD + RUN].png
+8b25f01ad62f72c6  media/titles/Yie Ar Kung-Fu (1985)(Konami)[CLOAD + RUN].png
+07f734124fb125c5  media/titles/War Games (1984)(Coleco)[h Buggy Software][CLOAD + RUN].png
+da0bbb5d7ea74aa1  media/titles/Yie Ar Kung-Fu II - The Emperor Yie-Gah (1985)(Konami)[t][CLOAD + RUN].png
+c7fa027628e9dcae  media/titles/Zaxxon (1982)(Coleco)[h Buggy Software][CLOAD + RUN].png
+376db2e3d1f074eb  media/videos/Super Cross Force (1983)(Spectravideo).mp4
+fd495d84dc4327ff  media/videos/Sector Alpha (1983)(Spectravideo).mp4
+9cd6fee49d5bfbcd  media/titles/Uncle Albert (1984)(A.C. Hunt)[CLOAD + RUN].png
+9bab27e1e46ef8b0  media/videos/Flipper Slipper (1983)(Spectravideo).mp4
+d7b580f9a3e30f56  media/videos/Alien 8 (1985)(Ultimate Play The Game)[CLOAD + RUN].mp4
